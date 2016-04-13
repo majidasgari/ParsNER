@@ -3,12 +3,15 @@ package edu.stanford.nlp.sequences;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.optimization.StochasticCalculateMethods;
 import edu.stanford.nlp.process.WordShapeClassifier;
-import java.util.function.Function;
 import edu.stanford.nlp.util.ReflectionLoading;
 
 import java.io.Serializable;
 import java.lang.reflect.Field;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Properties;
+import java.util.StringTokenizer;
+import java.util.function.Function;
 
 /**
  * Flags for sequence classifiers. Documentation for general flags and
@@ -1058,6 +1061,14 @@ public class SeqClassifierFlags implements Serializable {
   public String combinationMode;
   public String nerModel;
 
+  public String personList;
+  public String wordList;
+  public String persianNames;
+  public String arabicNames;
+  public String foreignNames;
+  public String postfixes;
+  public String prefixes;
+  public String jobList;
   // "ADD VARIABLES ABOVE HERE"
 
   public transient List<String> phraseGazettes = null;
@@ -2595,6 +2606,22 @@ public class SeqClassifierFlags implements Serializable {
       } else if (key.equalsIgnoreCase("ner.model")) {
         nerModel = val;
         // ADD VALUE ABOVE HERE
+      } else if (key.equalsIgnoreCase("personList")) {
+        personList = val;
+      } else if (key.equalsIgnoreCase("wordList")) {
+        wordList = val;
+      } else if (key.equalsIgnoreCase("persianNames")) {
+        persianNames = val;
+      } else if (key.equalsIgnoreCase("arabicNames")) {
+        arabicNames = val;
+      } else if (key.equalsIgnoreCase("foreignNames")) {
+        foreignNames = val;
+      } else if (key.equalsIgnoreCase("postfixes")) {
+        postfixes = val;
+      } else if (key.equalsIgnoreCase("prefixes")) {
+        prefixes = val;
+      } else if (key.equalsIgnoreCase("jobList")) {
+        jobList = val;
       } else if ( ! key.isEmpty() && ! key.equals("prop")) {
         System.err.println("Unknown property: |" + key + '|');
       }

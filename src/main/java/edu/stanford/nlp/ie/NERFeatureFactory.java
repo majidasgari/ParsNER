@@ -28,18 +28,6 @@
 
 package edu.stanford.nlp.ie;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 import edu.stanford.nlp.io.IOUtils;
 import edu.stanford.nlp.io.RuntimeIOException;
 import edu.stanford.nlp.ling.CoreAnnotation;
@@ -56,6 +44,15 @@ import edu.stanford.nlp.trees.international.pennchinese.RadicalMap;
 import edu.stanford.nlp.util.Generics;
 import edu.stanford.nlp.util.PaddedList;
 import edu.stanford.nlp.util.Timing;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.Serializable;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 
 /**
@@ -1646,6 +1643,53 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
        featuresC.add(s+"-SPLITWORD");
       }
     }
+
+    if(!flags.persianNames.isEmpty()) {
+      featuresC.add(persianNames.contains(c.word()) +"-PERSIAN");
+    }
+
+    if(!flags.arabicNames.isEmpty()) {
+      featuresC.add(arabicNames.contains(c.word()) +"-ARABIC");
+    }
+
+    if(!flags.foreignNames.isEmpty()) {
+      featuresC.add(foreignNames.contains(c.word()) +"-FOREIGN");
+    }
+
+    if(!flags.personList.isEmpty()) {
+      featuresC.add(names.contains(c.word()) +"-NAME");
+      featuresC.add(families.contains(c.word()) +"-FAMILY");
+    }
+
+    if(!flags.personList.isEmpty()) {
+      featuresC.add(names.contains(c.word()) +"-NAME");
+      featuresC.add(families.contains(c.word()) +"-FAMILY");
+    }
+
+    if(!flags.personList.isEmpty()) {
+      featuresC.add(names.contains(c.word()) +"-NAME");
+      featuresC.add(families.contains(c.word()) +"-FAMILY");
+    }
+
+    if(!flags.wordList.isEmpty()) {
+      featuresC.add(words.contains(c.word()) +"-WORD");
+    }
+
+    if(!flags.prefixes.isEmpty() && loc > 0) {
+      featuresC.add(prefixes.contains(cInfo.get(loc - 1).word()) +"-PREFIX");
+    }
+
+    if(!flags.postfixes.isEmpty() && loc < cInfo.size() - 1) {
+      featuresC.add(prefixes.contains(cInfo.get(loc + 1).word()) +"-POSTFIX");
+    }
+
+    if(!flags.jobList.isEmpty()) {
+      if(loc > 0)
+        featuresC.add(prefixes.contains(cInfo.get(loc - 1).word()) +"-PRE-JOB");
+      if(loc < cInfo.size() - 1)
+        featuresC.add(prefixes.contains(cInfo.get(loc + 1).word()) +"-POST-JOB");
+    }
+
     return featuresC;
   } // end featuresC()
 
@@ -2260,7 +2304,110 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     }
   }
 
+  final Set<String> names = new HashSet<>();
+  final Set<String> families = new HashSet<>();
+  final Set<String> words = new HashSet<>();
+  final Set<String> persianNames = new HashSet<>();
+  final Set<String> arabicNames = new HashSet<>();
+  final Set<String> foreignNames = new HashSet<>();
+  final Set<String> prefixes = new HashSet<>();
+  final Set<String> postfixes = new HashSet<>();
+  final Set<String> jobList = new HashSet<>();
+
   public void initGazette() {
+    if(flags.personList != null) {
+      try {
+        final List<String> lines = Files.readAllLines(Paths.get(flags.personList));
+        for(String line : lines) {
+          String[] splits = line.split("\\s+");
+          boolean empty = false;
+          for (int i = 0; i < splits.length; i++) {
+            splits[i] = splits[i].trim();
+            if(splits[i].length() == 0) empty = true;
+          }
+          if(empty) continue;
+          if(splits.length == 1) names.add(splits[0]);
+          else if(splits.length == 2) {
+            names.add(splits[0]);
+            families.add(splits[1]);
+          }
+          else if(splits.length == 3) {
+            names.add(splits[0]);
+            families.add(splits[1] + " " + splits[2]);
+          }
+          else if(splits.length == 4) {
+            names.add(splits[0]);
+            families.add(splits[1] + " " + splits[2] + " " + splits[3]);
+          }
+        }
+      } catch (IOException e) {
+        throw new RuntimeIOException(e);
+      }
+    }
+
+    if(flags.wordList != null) {
+      try {
+        final List<String> lines = Files.readAllLines(Paths.get(flags.wordList));
+        for(String line : lines) words.add(line);
+      } catch (IOException e) {
+        throw new RuntimeIOException(e);
+      }
+    }
+
+    if(flags.persianNames != null) {
+      try {
+        final List<String> lines = Files.readAllLines(Paths.get(flags.persianNames));
+        for(String line : lines) persianNames.add(line);
+      } catch (IOException e) {
+        throw new RuntimeIOException(e);
+      }
+    }
+
+    if(flags.arabicNames != null) {
+      try {
+        final List<String> lines = Files.readAllLines(Paths.get(flags.arabicNames));
+        for(String line : lines) arabicNames.add(line);
+      } catch (IOException e) {
+        throw new RuntimeIOException(e);
+      }
+    }
+
+    if(flags.foreignNames != null) {
+      try {
+        final List<String> lines = Files.readAllLines(Paths.get(flags.foreignNames));
+        for(String line : lines) foreignNames.add(line);
+      } catch (IOException e) {
+        throw new RuntimeIOException(e);
+      }
+    }
+
+    if(flags.postfixes != null) {
+      try {
+        final List<String> lines = Files.readAllLines(Paths.get(flags.postfixes));
+        for(String line : lines) postfixes.add(line);
+      } catch (IOException e) {
+        throw new RuntimeIOException(e);
+      }
+    }
+
+    if(flags.prefixes != null) {
+      try {
+        final List<String> lines = Files.readAllLines(Paths.get(flags.prefixes));
+        for(String line : lines) prefixes.add(line);
+      } catch (IOException e) {
+        throw new RuntimeIOException(e);
+      }
+    }
+
+    if(flags.jobList != null) {
+      try {
+        final List<String> lines = Files.readAllLines(Paths.get(flags.jobList));
+        for(String line : lines) jobList.add(line);
+      } catch (IOException e) {
+        throw new RuntimeIOException(e);
+      }
+    }
+
     try {
       // read in gazettes
       if (flags.gazettes == null) { flags.gazettes = new ArrayList<>(); }

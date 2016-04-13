@@ -1,10 +1,10 @@
 package edu.stanford.nlp.ie.demo;
 
 import edu.stanford.nlp.ie.AbstractSequenceClassifier;
-import edu.stanford.nlp.ie.crf.*;
+import edu.stanford.nlp.ie.crf.CRFClassifier;
 import edu.stanford.nlp.io.IOUtils;
-import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.ling.CoreAnnotations;
+import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.sequences.DocumentReaderAndWriter;
 import edu.stanford.nlp.util.Triple;
 
@@ -40,7 +40,7 @@ public class NERDemo {
 
   public static void main(String[] args) throws Exception {
 
-    String serializedClassifier = "classifiers/english.all.3class.distsim.crf.ser.gz";
+    String serializedClassifier = "ner-model.ser.gz";
 
     if (args.length > 0) {
       serializedClassifier = args[0];
@@ -69,7 +69,7 @@ public class NERDemo {
       }
 
       System.out.println("---");
-      out = classifier.classifyFile(args[1]);
+      out = classifier.classifyTaggedFile(args[1]);
       for (List<CoreLabel> sentence : out) {
         for (CoreLabel word : sentence) {
           System.out.print(word.word() + '/' + word.get(CoreAnnotations.AnswerAnnotation.class) + ' ');

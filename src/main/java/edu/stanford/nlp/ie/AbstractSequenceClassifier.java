@@ -32,21 +32,18 @@ import edu.stanford.nlp.io.IOUtils;
 import edu.stanford.nlp.io.RegExFileFilter;
 import edu.stanford.nlp.io.RuntimeIOException;
 import edu.stanford.nlp.ling.CoreAnnotation;
+import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.ling.HasWord;
-import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.objectbank.ObjectBank;
 import edu.stanford.nlp.objectbank.ResettableReaderIteratorFactory;
 import edu.stanford.nlp.process.CoreLabelTokenFactory;
 import edu.stanford.nlp.process.CoreTokenFactory;
 import edu.stanford.nlp.sequences.*;
-import edu.stanford.nlp.stats.ClassicCounter;
-import edu.stanford.nlp.stats.Counter;
-import edu.stanford.nlp.stats.Counters;
-import edu.stanford.nlp.stats.Sampler;
-import edu.stanford.nlp.stats.TwoDimensionalCounter;
+import edu.stanford.nlp.stats.*;
 import edu.stanford.nlp.util.*;
-import edu.stanford.nlp.util.concurrent.*;
+import edu.stanford.nlp.util.concurrent.MulticoreWrapper;
+import edu.stanford.nlp.util.concurrent.ThreadsafeProcessor;
 
 import java.io.*;
 import java.text.DecimalFormat;
@@ -478,6 +475,25 @@ public abstract class AbstractSequenceClassifier<IN extends CoreMap> implements 
   public List<List<IN>> classifyFile(String filename) {
     ObjectBank<List<IN>> documents =
       makeObjectBankFromFile(filename, plainTextReaderAndWriter);
+    List<List<IN>> result = new ArrayList<>();
+
+    for (List<IN> document : documents) {
+      // System.err.println(document);
+      classify(document);
+
+      List<IN> sentence = new ArrayList<>();
+      for (IN wi : document) {
+        sentence.add(wi);
+        // System.err.println(wi);
+      }
+      result.add(sentence);
+    }
+    return result;
+  }
+
+  public List<List<IN>> classifyTaggedFile(String filename) {
+    ObjectBank<List<IN>> documents =
+      makeObjectBankFromFile(filename, new TaggedTextDocumentReaderAndWriter<>());
     List<List<IN>> result = new ArrayList<>();
 
     for (List<IN> document : documents) {
