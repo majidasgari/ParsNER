@@ -6,7 +6,7 @@
 
 
     <groupId>edu.stanford.nlp</groupId>
-    <artifactId>stanford-ner</artifactId>
+    <artifactId>stanford-persian-ner</artifactId>
     <packaging>jar</packaging>
     <version>3.6.0</version>
 
