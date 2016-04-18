@@ -1644,28 +1644,28 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       }
     }
 
-    if(!flags.persianNames.isEmpty()) {
+    if(!persianNames.isEmpty()) {
       featuresC.add(persianNames.contains(c.word()) +"-PERSIAN");
     }
 
-    if(!flags.arabicNames.isEmpty()) {
+    if(!arabicNames.isEmpty()) {
       featuresC.add(arabicNames.contains(c.word()) +"-ARABIC");
     }
 
-    if(!flags.foreignNames.isEmpty()) {
+    if(!foreignNames.isEmpty()) {
       featuresC.add(foreignNames.contains(c.word()) +"-FOREIGN");
     }
 
-    if(!flags.personList.isEmpty()) {
+    if(!names.isEmpty()) {
       featuresC.add(names.contains(c.word()) +"-NAME");
       featuresC.add(families.contains(c.word()) +"-FAMILY");
     }
 
-    if(!flags.wordList.isEmpty()) {
+    if(!words.isEmpty()) {
       featuresC.add(words.contains(c.word()) +"-WORD");
     }
 
-    if(!flags.prefixes.isEmpty() && loc > 0) {
+    if(!prefixes.isEmpty() && loc > 0) {
       String twoConWords = null;
       if(loc > 1) twoConWords = p2.word() + " " + p.word();
       if(twoConWords != null) {
@@ -1674,15 +1674,15 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       featuresC.add(prefixes.contains(p.word()) +"-PREFIX");
     }
 
-    if(!flags.locationPrefixes.isEmpty() && loc > 0) {
+    if(!locationPrefixes.isEmpty() && loc > 0) {
       featuresC.add(locationPrefixes.contains(p.word()) +"-LOC-PREFIX");
     }
 
-    if(!flags.organizationPrefixes.isEmpty() && loc > 0) {
+    if(!organizationPrefixes.isEmpty() && loc > 0) {
       featuresC.add(organizationPrefixes.contains(p.word()) +"-ORG-PREFIX");
     }
 
-    if(!flags.postfixes.isEmpty() && loc < cInfo.size() - 1) {
+    if(!postfixes.isEmpty() && loc < cInfo.size() - 1) {
       String twoConWords = null;
       if(loc < cInfo.size() - 2) twoConWords = n.word() + " " + n2.word();
       if(twoConWords != null)
@@ -1690,7 +1690,7 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       featuresC.add(prefixes.contains(n.word()) +"-POSTFIX");
     }
 
-    if(!flags.jobList.isEmpty()) {
+    if(!jobList.isEmpty()) {
       if(loc > 0) {
         featuresC.add(jobList.contains(cInfo.get(loc - 1).word()) + "-PRE-JOB");
         String twoConWords = null;
