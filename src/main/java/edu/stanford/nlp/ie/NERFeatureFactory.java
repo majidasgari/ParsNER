@@ -1661,40 +1661,87 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       featuresC.add(families.contains(c.word()) +"-FAMILY");
     }
 
-    if(!flags.personList.isEmpty()) {
-      featuresC.add(names.contains(c.word()) +"-NAME");
-      featuresC.add(families.contains(c.word()) +"-FAMILY");
-    }
-
-    if(!flags.personList.isEmpty()) {
-      featuresC.add(names.contains(c.word()) +"-NAME");
-      featuresC.add(families.contains(c.word()) +"-FAMILY");
-    }
-
     if(!flags.wordList.isEmpty()) {
       featuresC.add(words.contains(c.word()) +"-WORD");
     }
 
     if(!flags.prefixes.isEmpty() && loc > 0) {
-      featuresC.add(prefixes.contains(cInfo.get(loc - 1).word()) +"-PREFIX");
+      String twoConWords = null;
+      if(loc > 1) twoConWords = p2.word() + " " + p.word();
+      if(twoConWords != null) {
+        featuresC.add(prefixes.contains(twoConWords) +"-C-PREFIX");
+      }
+      featuresC.add(prefixes.contains(p.word()) +"-PREFIX");
+    }
+
+    if(!flags.locationPrefixes.isEmpty() && loc > 0) {
+      featuresC.add(locationPrefixes.contains(p.word()) +"-LOC-PREFIX");
+    }
+
+    if(!flags.organizationPrefixes.isEmpty() && loc > 0) {
+      featuresC.add(organizationPrefixes.contains(p.word()) +"-ORG-PREFIX");
     }
 
     if(!flags.postfixes.isEmpty() && loc < cInfo.size() - 1) {
-      featuresC.add(prefixes.contains(cInfo.get(loc + 1).word()) +"-POSTFIX");
+      String twoConWords = null;
+      if(loc < cInfo.size() - 2) twoConWords = n.word() + " " + n2.word();
+      if(twoConWords != null)
+        featuresC.add(prefixes.contains(twoConWords) +"-C-POSTFIX");
+      featuresC.add(prefixes.contains(n.word()) +"-POSTFIX");
     }
 
     if(!flags.jobList.isEmpty()) {
-      if(loc > 0)
-        featuresC.add(prefixes.contains(cInfo.get(loc - 1).word()) +"-PRE-JOB");
-      if(loc < cInfo.size() - 1)
-        featuresC.add(prefixes.contains(cInfo.get(loc + 1).word()) +"-POST-JOB");
+      if(loc > 0) {
+        featuresC.add(jobList.contains(cInfo.get(loc - 1).word()) + "-PRE-JOB");
+        String twoConWords = null;
+        if(loc > 1) twoConWords = p2.word() + " " + p.word();
+        if(twoConWords != null) {
+          featuresC.add(jobList.contains(p2.word()) + "-P2-PRE-JOB");
+          featuresC.add(jobList.contains(twoConWords) +"-C-PRE-JOB");
+        }
+      }
+      if(loc < cInfo.size() - 1) {
+        featuresC.add(jobList.contains(n.word()) + "-POST-JOB");
+        String twoConWords = null;
+        if(loc < cInfo.size() - 2) twoConWords = n.word() + " " + n2.word();
+        if(twoConWords != null)
+          featuresC.add(jobList.contains(n2.word()) + "-N2-POST-JOB");
+          featuresC.add(jobList.contains(twoConWords) +"-C-POST-JOB");
+      }
+    }
+
+    if(flags.useVerbDistance && flags.useTags) {
+      int verPosition = cInfo.size() - 1;
+      for(int i = loc, j = loc; i < cInfo.size() || j > 0; i++, j--) {
+        if (i < cInfo.size() &&
+                cInfo.get(i).getString(CoreAnnotations.PartOfSpeechAnnotation.class).equals("V")) {
+          verPosition = i;
+          break;
+        }
+        if (j > 0 &&
+                cInfo.get(j).getString(CoreAnnotations.PartOfSpeechAnnotation.class).equals("V")) {
+          verPosition = j;
+          break;
+        }
+      }
+      featuresC.add(verPosition +"-VERB-DIS");
+    }
+
+    if(flags.includesDigits) {
+      char[] chars = pWord.toCharArray();
+      boolean hasDigit = false;
+      for(char ch : chars)
+        if(Character.isDigit(ch)) {
+          hasDigit = true;
+          break;
+        }
+      featuresC.add(hasDigit +"-HAS-DIGIT");
     }
 
     return featuresC;
   } // end featuresC()
 
-  /**
-   * Binary feature annotations
+  /**;
    */
   private static class Bin1Annotation implements CoreAnnotation<String> {
     public Class<String> getType() {  return String.class; } }
@@ -2311,6 +2358,8 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
   final Set<String> arabicNames = new HashSet<>();
   final Set<String> foreignNames = new HashSet<>();
   final Set<String> prefixes = new HashSet<>();
+  final Set<String> organizationPrefixes = new HashSet<>();
+  final Set<String> locationPrefixes = new HashSet<>();
   final Set<String> postfixes = new HashSet<>();
   final Set<String> jobList = new HashSet<>();
 
@@ -2394,6 +2443,24 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       try {
         final List<String> lines = Files.readAllLines(Paths.get(flags.prefixes));
         for(String line : lines) prefixes.add(line);
+      } catch (IOException e) {
+        throw new RuntimeIOException(e);
+      }
+    }
+
+    if(flags.locationPrefixes != null) {
+      try {
+        final List<String> lines = Files.readAllLines(Paths.get(flags.locationPrefixes));
+        for(String line : lines) locationPrefixes.add(line);
+      } catch (IOException e) {
+        throw new RuntimeIOException(e);
+      }
+    }
+
+    if(flags.organizationPrefixes != null) {
+      try {
+        final List<String> lines = Files.readAllLines(Paths.get(flags.organizationPrefixes));
+        for(String line : lines) organizationPrefixes.add(line);
       } catch (IOException e) {
         throw new RuntimeIOException(e);
       }

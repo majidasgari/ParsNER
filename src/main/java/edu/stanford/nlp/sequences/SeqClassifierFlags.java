@@ -1068,7 +1068,11 @@ public class SeqClassifierFlags implements Serializable {
   public String foreignNames;
   public String postfixes;
   public String prefixes;
+  public String locationPrefixes;
+  public String organizationPrefixes;
   public String jobList;
+  public boolean useVerbDistance;
+  public boolean includesDigits;
   // "ADD VARIABLES ABOVE HERE"
 
   public transient List<String> phraseGazettes = null;
@@ -2620,8 +2624,16 @@ public class SeqClassifierFlags implements Serializable {
         postfixes = val;
       } else if (key.equalsIgnoreCase("prefixes")) {
         prefixes = val;
+      } else if (key.equalsIgnoreCase("locationPrefixes")) {
+        locationPrefixes = val;
+      } else if (key.equalsIgnoreCase("organizationPrefixes")) {
+        organizationPrefixes = val;
       } else if (key.equalsIgnoreCase("jobList")) {
         jobList = val;
+      } else if (key.equalsIgnoreCase("useVerbDistance")) {
+        useVerbDistance = Boolean.parseBoolean(val);
+      }else if (key.equalsIgnoreCase("includesDigits")) {
+        includesDigits = Boolean.parseBoolean(val);
       } else if ( ! key.isEmpty() && ! key.equals("prop")) {
         System.err.println("Unknown property: |" + key + '|');
       }
