@@ -1652,6 +1652,17 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       featuresC.add(arabicNames.contains(c.word()) +"-ARABIC");
     }
 
+    if(!infoBoxes.isEmpty()) {
+      String type = null;
+       if(loc < cInfo.size() - 3)
+           type = infoBoxes.get(c.word() + " " + n.word() + " " + n2.word());
+      if(type == null && loc < cInfo.size() - 2)
+          type = infoBoxes.get(c.word() + " " + n.word());
+      if (type == null)
+          type = infoBoxes.get(c.word());
+      if (type != null) featuresC.add("INFO-BOX");
+    }
+
     if(!foreignNames.isEmpty()) {
       featuresC.add(foreignNames.contains(c.word()) +"-FOREIGN");
     }
@@ -2362,6 +2373,7 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
   final Set<String> locationPrefixes = new HashSet<>();
   final Set<String> postfixes = new HashSet<>();
   final Set<String> jobList = new HashSet<>();
+  final Map<String, String> infoBoxes = new HashMap<>();
 
   public void initGazette() {
     if(flags.personList != null) {
@@ -2416,6 +2428,19 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       try {
         final List<String> lines = Files.readAllLines(Paths.get(flags.arabicNames));
         for(String line : lines) arabicNames.add(line);
+      } catch (IOException e) {
+        throw new RuntimeIOException(e);
+      }
+    }
+
+    if(flags.infoBoxes != null) {
+      try {
+        final List<String> lines = Files.readAllLines(Paths.get(flags.infoBoxes));
+        for(String line : lines) {
+            String[] splits = line.split("\t");
+            if(splits.length == 2)
+                infoBoxes.put(splits[0], splits[1]);
+        }
       } catch (IOException e) {
         throw new RuntimeIOException(e);
       }

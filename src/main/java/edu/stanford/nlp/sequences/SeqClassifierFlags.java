@@ -1071,6 +1071,7 @@ public class SeqClassifierFlags implements Serializable {
   public String locationPrefixes;
   public String organizationPrefixes;
   public String jobList;
+  public String infoBoxes;
   public boolean useVerbDistance;
   public boolean includesDigits;
   // "ADD VARIABLES ABOVE HERE"
@@ -2630,6 +2631,8 @@ public class SeqClassifierFlags implements Serializable {
         organizationPrefixes = val;
       } else if (key.equalsIgnoreCase("jobList")) {
         jobList = val;
+      } else if (key.equalsIgnoreCase("infoBoxes")) {
+        infoBoxes = val;
       } else if (key.equalsIgnoreCase("useVerbDistance")) {
         useVerbDistance = Boolean.parseBoolean(val);
       }else if (key.equalsIgnoreCase("includesDigits")) {
