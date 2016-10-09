@@ -1,1 +1,3 @@
 /target
+/persian/ner-model.ser.gz
+/persian/ner-model-ph2.ser.gz
