@@ -1,3 +1,5 @@
 /target
 /persian/ner-model.ser.gz
 /persian/ner-model-ph2.ser.gz
+/persian/train.col
+/persian/test.col
