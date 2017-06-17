@@ -1667,10 +1667,14 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       featuresC.add(foreignNames.contains(c.word()) +"-FOREIGN");
     }
 
-    if(!names.isEmpty()) {
-      featuresC.add(names.contains(c.word()) +"-NAME");
-      featuresC.add(families.contains(c.word()) +"-FAMILY");
-    }
+    if (!nameParts.isEmpty())
+      featuresC.add(nameParts.contains(c.word()) + "-PER-PART");
+
+    if (!organizationParts.isEmpty())
+      featuresC.add(organizationParts.contains(c.word()) + "-ORG-PART");
+
+    if (!locationParts.isEmpty())
+      featuresC.add(locationParts.contains(c.word()) + "-LOC-PART");
 
     if(!words.isEmpty()) {
       featuresC.add(words.contains(c.word()) +"-WORD");
@@ -2362,8 +2366,9 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     }
   }
 
-  final Set<String> names = new HashSet<>();
-  final Set<String> families = new HashSet<>();
+  final Set<String> nameParts = new HashSet<>();
+  final Set<String> locationParts = new HashSet<>();
+  final Set<String> organizationParts = new HashSet<>();
   final Set<String> words = new HashSet<>();
   final Set<String> persianNames = new HashSet<>();
   final Set<String> arabicNames = new HashSet<>();
@@ -2376,35 +2381,10 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
   final Map<String, String> infoBoxes = new HashMap<>();
 
   public void initGazette() {
-    if(flags.personList != null) {
-      try {
-        final List<String> lines = Files.readAllLines(Paths.get(flags.personList));
-        for(String line : lines) {
-          String[] splits = line.split("\\s+");
-          boolean empty = false;
-          for (int i = 0; i < splits.length; i++) {
-            splits[i] = splits[i].trim();
-            if(splits[i].length() == 0) empty = true;
-          }
-          if(empty) continue;
-          if(splits.length == 1) names.add(splits[0]);
-          else if(splits.length == 2) {
-            names.add(splits[0]);
-            families.add(splits[1]);
-          }
-          else if(splits.length == 3) {
-            names.add(splits[0]);
-            families.add(splits[1] + " " + splits[2]);
-          }
-          else if(splits.length == 4) {
-            names.add(splits[0]);
-            families.add(splits[1] + " " + splits[2] + " " + splits[3]);
-          }
-        }
-      } catch (IOException e) {
-        throw new RuntimeIOException(e);
-      }
-    }
+
+    if (flags.personList != null) loadGazetteer(flags.personList, nameParts);
+    if (flags.locationList != null) loadGazetteer(flags.locationList, locationParts);
+    if (flags.organizationList != null) loadGazetteer(flags.organizationList, organizationParts);
 
     if(flags.wordList != null) {
       try {
@@ -2508,6 +2488,24 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
         BufferedReader r = IOUtils.readerFromString(gazetteFile, flags.inputEncoding);
         readGazette(r);
         r.close();
+      }
+    } catch (IOException e) {
+      throw new RuntimeIOException(e);
+    }
+  }
+
+  private void loadGazetteer(String file, Set<String> list) {
+    try {
+      final List<String> lines = Files.readAllLines(Paths.get(file));
+      for (String line : lines) {
+        String[] splits = line.split("\\s+");
+        boolean empty = false;
+        for (int i = 0; i < splits.length; i++) {
+          splits[i] = splits[i].trim();
+          if (splits[i].length() == 0) empty = true;
+        }
+        if (empty) continue;
+        Collections.addAll(list, splits);
       }
     } catch (IOException e) {
       throw new RuntimeIOException(e);

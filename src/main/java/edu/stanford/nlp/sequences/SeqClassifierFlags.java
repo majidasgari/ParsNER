@@ -1062,6 +1062,8 @@ public class SeqClassifierFlags implements Serializable {
   public String nerModel;
 
   public String personList;
+  public String locationList;
+  public String organizationList;
   public String wordList;
   public String persianNames;
   public String arabicNames;
@@ -2613,6 +2615,10 @@ public class SeqClassifierFlags implements Serializable {
         // ADD VALUE ABOVE HERE
       } else if (key.equalsIgnoreCase("personList")) {
         personList = val;
+      } else if (key.equalsIgnoreCase("locationList")) {
+        locationList = val;
+      } else if (key.equalsIgnoreCase("organizationList")) {
+        organizationList = val;
       } else if (key.equalsIgnoreCase("wordList")) {
         wordList = val;
       } else if (key.equalsIgnoreCase("persianNames")) {
