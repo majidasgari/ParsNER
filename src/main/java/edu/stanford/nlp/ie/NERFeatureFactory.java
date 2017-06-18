@@ -2499,12 +2499,9 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       final List<String> lines = Files.readAllLines(Paths.get(file));
       for (String line : lines) {
         String[] splits = line.split("\\s+");
-        boolean empty = false;
         for (int i = 0; i < splits.length; i++) {
           splits[i] = splits[i].trim();
-          if (splits[i].length() == 0) empty = true;
         }
-        if (empty) continue;
         Collections.addAll(list, splits);
       }
     } catch (IOException e) {
