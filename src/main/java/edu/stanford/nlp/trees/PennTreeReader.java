@@ -1,14 +1,14 @@
 package edu.stanford.nlp.trees;
 
+import edu.stanford.nlp.ling.HasIndex;
+import edu.stanford.nlp.ling.HasTag;
+import edu.stanford.nlp.ling.HasWord;
+import edu.stanford.nlp.process.Tokenizer;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 import java.util.regex.Pattern;
-
-import edu.stanford.nlp.process.Tokenizer;
-import edu.stanford.nlp.ling.HasIndex;
-import edu.stanford.nlp.ling.HasTag;
-import edu.stanford.nlp.ling.HasWord;
 
 /**
  * This class implements the {@code TreeReader} interface to read Penn Treebank-style
@@ -223,7 +223,7 @@ public class PennTreeReader implements TreeReader {
           if (currentTree == null) {
             // A careful Reader should warn here, but it's kind of useful to
             // suppress this because then the TreeReader doesn't print a ton of
-            // messages if there is a README file in a directory of Trees.
+            // messages if there is a README.md file in a directory of Trees.
             // System.err.println("PennTreeReader: warning: file has extra token not in a s-expression tree: " + token + " [ignored]");
             break label;
           }
