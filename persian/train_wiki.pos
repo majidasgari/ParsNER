@@ -15998,7 +15998,7 @@ zi-zer-na-ka-bert	RES	O
 و	CONJ	O
 تحت	Pe	O
 سلطه	Ne	O
-  	N	O
+  	N	O
 رده	N	O
 :	PUNC	O
 راهنماهای	Ne	O
@@ -20793,7 +20793,7 @@ ballance۱	NUM	O
 
 jpg|بندانگشتی|	Ne	O
 ارمنی	N	O
-  شب	Ne	O
+شب	Ne	O
 پرستاره	AJe	O
 اثر	Ne	O
 ونسان	N	B-PERS
@@ -24204,7 +24204,7 @@ block	RES	O
 
 اشکان	Ne	B-PERS
 خطیبی	N	I-PERS
-  	N	I-PERS
+  	N	I-PERS
 (	PUNC	O
 زادهٔ	Ne	O
 ۱۹	NUMe	B-MISC
@@ -27242,7 +27242,7 @@ block	RES	O
 .	PUNC	O
 
 ماندالا	N	O
-                                                 	N	O
+                                                 	N	O
 (	PUNC	O
 मण्डल	N	O
 ؛	PUNC	O
@@ -31406,7 +31406,7 @@ PH	RES	O
 نعناع	N	O
 و	CONJ	O
 ه	N	O
- 	N	O
+ 	N	O
 و	CONJ	O
 برنج	N	O
 و	CONJ	O
@@ -31434,7 +31434,7 @@ PH	RES	O
 یا	CONJ	O
 نعناع	N	O
 داغ	AJe	O
-              	N	O
+              	N	O
 و	CONJ	O
 مصرف	N	O
 می‌شود	V	O
