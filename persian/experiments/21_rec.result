@@ -1,0 +1,26 @@
+Test News:
+CRFClassifier tagged 45479 words in 1396 documents at 13583.93 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0.9391	0.7722	0.8475	678	44	200
+           MISC	0.8317	0.6667	0.7401	84	17	42
+            ORG	0.9002	0.7528	0.8199	478	53	157
+           PERS	0.9171	0.8112	0.8609	653	59	152
+         Totals	0.9163	0.7745	0.8395	1893	173	551
+
+Test Wiki:
+CRFClassifier tagged 30541 words in 1394 documents at 13537.68 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0.7141	0.4718	0.5682	477	191	534
+           MISC	0.7459	0.6699	0.7059	138	47	68
+            ORG	0.5333	0.3150	0.3960	40	35	87
+           PERS	0.6595	0.6869	0.6729	215	111	98
+         Totals	0.6938	0.5250	0.5977	870	384	787
+
+Test All:
+CRFClassifier tagged 76020 words in 2790 documents at 13895.08 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0.8309	0.6114	0.7045	1155	235	734
+           MISC	0.7762	0.6687	0.7184	222	64	110
+            ORG	0.8548	0.6798	0.7573	518	88	244
+           PERS	0.8362	0.7764	0.8052	868	170	250
+         Totals	0.8322	0.6737	0.7446	2763	557	1338

@@ -5,6 +5,7 @@ Total time spent in optimization: 1407.81s
 CRFClassifier training done [1423.8 sec].
 Serializing classifier to ner-model.ser.gz...done.
 
+Test News:
 CRFClassifier tagged 45479 words in 1396 documents at 13865.55 words per second.
          Entity	P	R	F1	TP	FP	FN
             LOC	0.9381	0.7768	0.8498	682	45	196
@@ -13,6 +14,7 @@ CRFClassifier tagged 45479 words in 1396 documents at 13865.55 words per second.
            PERS	0.9131	0.7702	0.8356	620	59	185
          Totals	0.9152	0.7639	0.8327	1867	173	577
 
+Test Wiki:
 CRFClassifier tagged 30541 words in 1394 documents at 13389.30 words per second.
          Entity	P	R	F1	TP	FP	FN
             LOC	0.7061	0.4728	0.5664	478	199	533
@@ -21,6 +23,7 @@ CRFClassifier tagged 30541 words in 1394 documents at 13389.30 words per second.
            PERS	0.6512	0.6741	0.6625	211	113	102
          Totals	0.6899	0.5250	0.5963	870	391	787
 
+Test All:
 CRFClassifier tagged 76020 words in 2790 documents at 14041.37 words per second.
          Entity	P	R	F1	TP	FP	FN
             LOC	0.8262	0.6141	0.7045	1160	244	729
