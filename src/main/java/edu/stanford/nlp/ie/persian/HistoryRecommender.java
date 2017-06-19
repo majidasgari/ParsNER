@@ -12,9 +12,11 @@ import java.util.List;
  */
 public class HistoryRecommender {
     public static void main(String[] args) throws IOException {
-        final Path input = Paths.get(args[0]);
-        final Path output = Paths.get(args[0] + ".ph2");
-        addRecommendations(input, output);
+        for (String arg : args) {
+            final Path input = Paths.get(arg);
+            final Path output = Paths.get(arg + ".ph2");
+            addRecommendations(input, output);
+        }
     }
 
     public static void addRecommendations(Path input, Path output) throws IOException {
