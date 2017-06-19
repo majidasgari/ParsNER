@@ -1,0 +1,33 @@
+Iter 299 evals 383 <D> [M 1.000E0] 2.432E3 831.23s |3.846E1| {5.371E-5} 1.002E-4 -
+Iter 300 evals 384 <D> [M 1.000E0] 2.432E3 833.92s
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL
+Total time spent in optimization: 833.95s
+CRFClassifier training done [843.7 sec].
+Serializing classifier to ner-model.ser.gz...done.
+
+Test News
+CRFClassifier tagged 45479 words in 1396 documents at 12934.87 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0.9252	0.7893	0.8519	693	56	185
+           MISC	0.9906	0.8333	0.9052	105	1	21
+            ORG	0.8975	0.7449	0.8141	473	54	162
+           PERS	0.9089	0.6944	0.7873	559	56	246
+         Totals	0.9164	0.7488	0.8241	1830	167	614
+
+Test Wiki
+CRFClassifier tagged 30541 words in 1394 documents at 11819.27 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0.6437	0.3699	0.4698	374	207	637
+           MISC	0.6167	0.3592	0.4540	74	46	132
+            ORG	0.4314	0.1732	0.2472	22	29	105
+           PERS	0.6256	0.4537	0.5259	142	85	171
+         Totals	0.6251	0.3693	0.4643	612	367	1045
+
+Test All
+CRFClassifier tagged 76020 words in 2790 documents at 12706.00 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0.8023	0.5648	0.6629	1067	263	822
+           MISC	0.7920	0.5392	0.6416	179	47	153
+            ORG	0.8564	0.6496	0.7388	495	83	267
+           PERS	0.8325	0.6270	0.7153	701	141	417
+         Totals	0.8206	0.5955	0.6901	2442	534	1659
