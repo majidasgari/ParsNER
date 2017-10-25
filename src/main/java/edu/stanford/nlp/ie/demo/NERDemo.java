@@ -40,7 +40,7 @@ public class NERDemo {
 
   public static void main(String[] args) throws Exception {
 
-    String serializedClassifier = "ner-model.ser.gz";
+    String serializedClassifier = "persian/ner-model.ser.gz";
 
     if (args.length > 0) {
       serializedClassifier = args[0];

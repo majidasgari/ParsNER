@@ -47,12 +47,15 @@ import edu.stanford.nlp.util.Timing;
 
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.Serializable;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
+import java.util.function.Consumer;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Stream;
 
 
 /**
@@ -2366,119 +2369,82 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     }
   }
 
-  final Set<String> nameParts = new HashSet<>();
-  final Set<String> locationParts = new HashSet<>();
-  final Set<String> organizationParts = new HashSet<>();
-  final Set<String> words = new HashSet<>();
-  final Set<String> persianNames = new HashSet<>();
-  final Set<String> arabicNames = new HashSet<>();
-  final Set<String> foreignNames = new HashSet<>();
-  final Set<String> prefixes = new HashSet<>();
-  final Set<String> organizationPrefixes = new HashSet<>();
-  final Set<String> locationPrefixes = new HashSet<>();
-  final Set<String> postfixes = new HashSet<>();
-  final Set<String> jobList = new HashSet<>();
-  final Map<String, String> infoBoxes = new HashMap<>();
+  /**
+   * Part of each names. for example for David Robert Beckham we have
+   * these parts in set: David, Robert, Beckham
+   */
+  private final Set<String> nameParts = new HashSet<>();
+  /**
+   * Just like nameParts for locations
+   */
+  private final Set<String> locationParts = new HashSet<>();
+  /**Just like nameParts for organizations
+   *
+   */
+  private final Set<String> organizationParts = new HashSet<>();
+  /**
+   * all known words on a language
+   */
+  private final Set<String> words = new HashSet<>();
+  /**
+   * names with persian origins
+   */
+  private final Set<String> persianNames = new HashSet<>();
+  /**
+   * names with arabic origins
+   */
+  private final Set<String> arabicNames = new HashSet<>();
+  /**
+   * names with latin origins
+   */
+  private final Set<String> foreignNames = new HashSet<>();
+  /**
+   * common person name prefixes
+   */
+  private final Set<String> prefixes = new HashSet<>();
+  /**
+   * common person name postfixes
+   */
+  private final Set<String> postfixes = new HashSet<>();
+  /**
+   * common organization name prefixes
+   */
+  private final Set<String> organizationPrefixes = new HashSet<>();
+  /**
+   * common location name prefixes
+   */
+  private final Set<String> locationPrefixes = new HashSet<>();
+  /**
+   * list of jobs in a language
+   */
+  private final Set<String> jobList = new HashSet<>();
+  /**
+   * each entity in wikipedia and its infobox data
+   */
+  private final Map<String, String> infoBoxes = new HashMap<>();
 
-  public void initGazette() {
-
+  private void initGazette() {
     if (flags.personList != null) loadGazetteer(flags.personList, nameParts);
     if (flags.locationList != null) loadGazetteer(flags.locationList, locationParts);
     if (flags.organizationList != null) loadGazetteer(flags.organizationList, organizationParts);
+    if (flags.wordList != null) loadLineOfStream(flags.wordList, words::add);
+    if (flags.persianNames != null) loadLineOfStream(flags.persianNames, persianNames::add);
+    if (flags.arabicNames != null) loadLineOfStream(flags.arabicNames, arabicNames::add);
 
-    if(flags.wordList != null) {
-      try {
-        final List<String> lines = Files.readAllLines(Paths.get(flags.wordList));
-        for(String line : lines) words.add(line);
-      } catch (IOException e) {
-        throw new RuntimeIOException(e);
-      }
-    }
+    if (flags.infoBoxes != null)
+      loadLineOfStream(flags.infoBoxes, line -> {
+        String[] splits = line.split("\t");
+        if (splits.length == 2)
+          infoBoxes.put(splits[0], splits[1]);
+      });
 
-    if(flags.persianNames != null) {
-      try {
-        final List<String> lines = Files.readAllLines(Paths.get(flags.persianNames));
-        for(String line : lines) persianNames.add(line);
-      } catch (IOException e) {
-        throw new RuntimeIOException(e);
-      }
-    }
-
-    if(flags.arabicNames != null) {
-      try {
-        final List<String> lines = Files.readAllLines(Paths.get(flags.arabicNames));
-        for(String line : lines) arabicNames.add(line);
-      } catch (IOException e) {
-        throw new RuntimeIOException(e);
-      }
-    }
-
-    if(flags.infoBoxes != null) {
-      try {
-        final List<String> lines = Files.readAllLines(Paths.get(flags.infoBoxes));
-        for(String line : lines) {
-            String[] splits = line.split("\t");
-            if(splits.length == 2)
-                infoBoxes.put(splits[0], splits[1]);
-        }
-      } catch (IOException e) {
-        throw new RuntimeIOException(e);
-      }
-    }
-
-    if(flags.foreignNames != null) {
-      try {
-        final List<String> lines = Files.readAllLines(Paths.get(flags.foreignNames));
-        for(String line : lines) foreignNames.add(line);
-      } catch (IOException e) {
-        throw new RuntimeIOException(e);
-      }
-    }
-
-    if(flags.postfixes != null) {
-      try {
-        final List<String> lines = Files.readAllLines(Paths.get(flags.postfixes));
-        for(String line : lines) postfixes.add(line);
-      } catch (IOException e) {
-        throw new RuntimeIOException(e);
-      }
-    }
-
-    if(flags.prefixes != null) {
-      try {
-        final List<String> lines = Files.readAllLines(Paths.get(flags.prefixes));
-        for(String line : lines) prefixes.add(line);
-      } catch (IOException e) {
-        throw new RuntimeIOException(e);
-      }
-    }
-
-    if(flags.locationPrefixes != null) {
-      try {
-        final List<String> lines = Files.readAllLines(Paths.get(flags.locationPrefixes));
-        for(String line : lines) locationPrefixes.add(line);
-      } catch (IOException e) {
-        throw new RuntimeIOException(e);
-      }
-    }
-
-    if(flags.organizationPrefixes != null) {
-      try {
-        final List<String> lines = Files.readAllLines(Paths.get(flags.organizationPrefixes));
-        for(String line : lines) organizationPrefixes.add(line);
-      } catch (IOException e) {
-        throw new RuntimeIOException(e);
-      }
-    }
-
-    if(flags.jobList != null) {
-      try {
-        final List<String> lines = Files.readAllLines(Paths.get(flags.jobList));
-        for(String line : lines) jobList.add(line);
-      } catch (IOException e) {
-        throw new RuntimeIOException(e);
-      }
-    }
+    if(flags.foreignNames != null) loadLineOfStream(flags.foreignNames, foreignNames::add);
+    if(flags.postfixes != null) loadLineOfStream(flags.postfixes, postfixes::add);
+    if(flags.prefixes != null) loadLineOfStream(flags.prefixes, prefixes::add);
+    if(flags.locationPrefixes != null) loadLineOfStream(flags.locationPrefixes, locationPrefixes::add);
+    if(flags.organizationPrefixes != null)
+      loadLineOfStream(flags.organizationPrefixes, organizationPrefixes::add);
+    if(flags.jobList != null) loadLineOfStream(flags.jobList, jobList::add);
 
     try {
       // read in gazettes
@@ -2494,19 +2460,33 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     }
   }
 
-  private void loadGazetteer(String file, Set<String> list) {
+  private void loadLineOfStream(String streamAddress, Consumer<String> action) {
+    Stream<String> lines = null;
     try {
-      final List<String> lines = Files.readAllLines(Paths.get(file));
-      for (String line : lines) {
-        String[] splits = line.split("\\s+");
-        for (int i = 0; i < splits.length; i++) {
-          splits[i] = splits[i].trim();
-        }
-        Collections.addAll(list, splits);
-      }
+      if (streamAddress.trim().startsWith("classpath:"))
+        lines = new BufferedReader(new InputStreamReader(this.getClass().getClassLoader()
+            .getResourceAsStream(flags.arabicNames.trim().substring(10)), "UTF-8")).lines();
+      else
+        lines = Files.readAllLines(Paths.get(streamAddress)).stream();
+      lines.forEach(action);
     } catch (IOException e) {
       throw new RuntimeIOException(e);
+    } finally {
+      if (lines != null) try {
+        lines.close();
+      } catch (Throwable ignored) {
+      }
     }
+  }
+
+  private void loadGazetteer(String file, Set<String> list) {
+    loadLineOfStream(file, line -> {
+      String[] splits = line.split("\\s+");
+      for (int i = 0; i < splits.length; i++) {
+        splits[i] = splits[i].trim();
+      }
+      if(list != null) Collections.addAll(list, splits);
+    });
   }
 
 } // end class NERFeatureFactory
