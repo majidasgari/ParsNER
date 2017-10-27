@@ -1,5 +1,4 @@
 /target
-/persian/ner-model.ser.gz
-/persian/ner-model-ph2.ser.gz
+/persian/*.ser.gz
 #/persian/train.pos
 #/persian/test.pos
