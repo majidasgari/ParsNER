@@ -28,6 +28,8 @@
 
 package edu.stanford.nlp.ie;
 
+import edu.stanford.nlp.ie.persian.SentenceGram;
+import edu.stanford.nlp.ie.persian.WordsContext;
 import edu.stanford.nlp.io.IOUtils;
 import edu.stanford.nlp.io.RuntimeIOException;
 import edu.stanford.nlp.ling.CoreAnnotation;
@@ -2490,30 +2492,23 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     }
   }
 
-  private static class WordsContext {
-    private List<SentenceGram> sentences = new ArrayList<>();
-    private static class SentenceGram {
-      private List<String> previousWords = new ArrayList<>();
-      private List<String> nextWords = new ArrayList<>();
-    }
-  }
-
   private boolean isInGazetteer(int loc, PaddedList<IN> cInfo, Map<String, WordsContext> list) {
     final CoreLabel c = cInfo.get(loc);
     WordsContext context = list.get(c.word());
     if (context != null)
-      for (WordsContext.SentenceGram sg : context.sentences)
+      for (SentenceGram sg : context.getSentences())
         if (isInSG(loc, cInfo, sg)) return true;
     return false;
   }
 
-  private boolean isInSG(int loc, PaddedList<IN> cInfo, WordsContext.SentenceGram sg) {
-    if (loc <= sg.previousWords.size() || cInfo.size() - loc <= sg.nextWords.size()) return false;
-    for (int i = 0; i < sg.previousWords.size(); i++)
-      if (!sg.previousWords.get(i).equals(cInfo.get(loc - i - 1).word()))
+  private boolean isInSG(int loc, PaddedList<IN> cInfo, SentenceGram sg) {
+    if (loc <= sg.getPreviousWords().size()
+        || cInfo.size() - loc <= sg.getNextWords().size()) return false;
+    for (int i = 0; i < sg.getPreviousWords().size(); i++)
+      if (!sg.getPreviousWords().get(i).equals(cInfo.get(loc - i - 1).word()))
         return false;
-    for (int i = 0; i < sg.nextWords.size(); i++)
-      if (!sg.nextWords.get(i).equals(cInfo.get(loc + i + 1).word()))
+    for (int i = 0; i < sg.getNextWords().size(); i++)
+      if (!sg.getNextWords().get(i).equals(cInfo.get(loc + i + 1).word()))
         return false;
     return true;
   }
@@ -2538,13 +2533,13 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
           context = new WordsContext();
           list.put(word, context);
         } else context = list.get(word);
-        final WordsContext.SentenceGram sentenceGram = new WordsContext.SentenceGram();
-        context.sentences.add(sentenceGram);
+        final SentenceGram sentenceGram = new SentenceGram();
+        context.getSentences().add(sentenceGram);
         for(int j = i - 1; j >= 0; j--)
-          sentenceGram.previousWords.add(splits[j]);
+          sentenceGram.getPreviousWords().add(splits[j]);
         //noinspection ManualArrayToCollectionCopy
         for(int j = i + 1; j < splits.length; j++)
-          sentenceGram.nextWords.add(splits[j]);
+          sentenceGram.getNextWords().add(splits[j]);
       }
     });
   }
