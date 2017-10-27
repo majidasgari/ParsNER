@@ -1670,14 +1670,20 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       featuresC.add(foreignNames.contains(c.word()) +"-FOREIGN");
     }
 
-    if (!nameParts.isEmpty())
-      featuresC.add(nameParts.contains(c.word()) + "-PER-PART");
+    if (!personNames.isEmpty()) {
+      if (isInGazetteer(loc, cInfo, personNames))
+        featuresC.add("PER-NAME");
+      if(personParts.contains(cWord))
+        featuresC.add("PER-PART");
+    }
 
-    if (!organizationParts.isEmpty())
-      featuresC.add(organizationParts.contains(c.word()) + "-ORG-PART");
+    if (!organizationNames.isEmpty())
+      if(isInGazetteer(loc, cInfo, personNames))
+        featuresC.add("ORG-NAME");
 
-    if (!locationParts.isEmpty())
-      featuresC.add(locationParts.contains(c.word()) + "-LOC-PART");
+    if (!locationNames.isEmpty())
+      if(isInGazetteer(loc, cInfo, locationNames))
+        featuresC.add("LOC-NAME");
 
     if(!words.isEmpty()) {
       featuresC.add(words.contains(c.word()) +"-WORD");
@@ -2369,19 +2375,20 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     }
   }
 
+  private final Set<String> personParts = new HashSet<>();
   /**
    * Part of each names. for example for David Robert Beckham we have
    * these parts in set: David, Robert, Beckham
    */
-  private final Set<String> nameParts = new HashSet<>();
+  private final Map<String, WordsContext> personNames = new HashMap<>();
   /**
-   * Just like nameParts for locations
+   * Just like personNames for locations
    */
-  private final Set<String> locationParts = new HashSet<>();
-  /**Just like nameParts for organizations
-   *
+  private final Map<String, WordsContext> locationNames = new HashMap<>();
+  /**
+   * Just like personNames for organizations
    */
-  private final Set<String> organizationParts = new HashSet<>();
+  private final Map<String, WordsContext> organizationNames = new HashMap<>();
   /**
    * all known words on a language
    */
@@ -2424,9 +2431,12 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
   private final Map<String, String> infoBoxes = new HashMap<>();
 
   private void initGazette() {
-    if (flags.personList != null) loadGazetteer(flags.personList, nameParts);
-    if (flags.locationList != null) loadGazetteer(flags.locationList, locationParts);
-    if (flags.organizationList != null) loadGazetteer(flags.organizationList, organizationParts);
+    if (flags.personList != null) {
+      loadMultiWordGazetteer(flags.personList, personNames);
+      loadGazetteer(flags.personList, personParts);
+    }
+    if (flags.locationList != null) loadMultiWordGazetteer(flags.locationList, locationNames);
+    if (flags.organizationList != null) loadMultiWordGazetteer(flags.organizationList, organizationNames);
     if (flags.wordList != null) loadLineOfStream(flags.wordList, words::add);
     if (flags.persianNames != null) loadLineOfStream(flags.persianNames, persianNames::add);
     if (flags.arabicNames != null) loadLineOfStream(flags.arabicNames, arabicNames::add);
@@ -2462,10 +2472,11 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
 
   private void loadLineOfStream(String streamAddress, Consumer<String> action) {
     Stream<String> lines = null;
+    streamAddress = streamAddress.trim();
     try {
-      if (streamAddress.trim().startsWith("classpath:"))
+      if (streamAddress.startsWith("classpath:"))
         lines = new BufferedReader(new InputStreamReader(this.getClass().getClassLoader()
-            .getResourceAsStream(flags.arabicNames.trim().substring(10)), "UTF-8")).lines();
+            .getResourceAsStream(streamAddress.substring(10)), "UTF-8")).lines();
       else
         lines = Files.readAllLines(Paths.get(streamAddress)).stream();
       lines.forEach(action);
@@ -2479,6 +2490,34 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     }
   }
 
+  private static class WordsContext {
+    private List<SentenceGram> sentences = new ArrayList<>();
+    private static class SentenceGram {
+      private List<String> previousWords = new ArrayList<>();
+      private List<String> nextWords = new ArrayList<>();
+    }
+  }
+
+  private boolean isInGazetteer(int loc, PaddedList<IN> cInfo, Map<String, WordsContext> list) {
+    final CoreLabel c = cInfo.get(loc);
+    WordsContext context = list.get(c.word());
+    if (context != null)
+      for (WordsContext.SentenceGram sg : context.sentences)
+        if (isInSG(loc, cInfo, sg)) return true;
+    return false;
+  }
+
+  private boolean isInSG(int loc, PaddedList<IN> cInfo, WordsContext.SentenceGram sg) {
+    if (loc <= sg.previousWords.size() || cInfo.size() - loc <= sg.nextWords.size()) return false;
+    for (int i = 0; i < sg.previousWords.size(); i++)
+      if (!sg.previousWords.get(i).equals(cInfo.get(loc - i - 1).word()))
+        return false;
+    for (int i = 0; i < sg.nextWords.size(); i++)
+      if (!sg.nextWords.get(i).equals(cInfo.get(loc + i + 1).word()))
+        return false;
+    return true;
+  }
+
   private void loadGazetteer(String file, Set<String> list) {
     loadLineOfStream(file, line -> {
       String[] splits = line.split("\\s+");
@@ -2486,6 +2525,27 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
         splits[i] = splits[i].trim();
       }
       if(list != null) Collections.addAll(list, splits);
+    });
+  }
+
+  private void loadMultiWordGazetteer(String file, Map<String, WordsContext> list) {
+    loadLineOfStream(file, line -> {
+      String[] splits = line.trim().split("\\s+");
+      for (int i = 0; i < splits.length; i++) {
+        final String word = splits[i].trim();
+        final WordsContext context;
+        if(!list.containsKey(word)) {
+          context = new WordsContext();
+          list.put(word, context);
+        } else context = list.get(word);
+        final WordsContext.SentenceGram sentenceGram = new WordsContext.SentenceGram();
+        context.sentences.add(sentenceGram);
+        for(int j = i - 1; j >= 0; j--)
+          sentenceGram.previousWords.add(splits[j]);
+        //noinspection ManualArrayToCollectionCopy
+        for(int j = i + 1; j < splits.length; j++)
+          sentenceGram.nextWords.add(splits[j]);
+      }
     });
   }
 
