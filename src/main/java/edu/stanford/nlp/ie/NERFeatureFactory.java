@@ -1672,6 +1672,10 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       featuresC.add(foreignNames.contains(c.word()) +"-FOREIGN");
     }
 
+    if(!accurateNames.isEmpty())
+      if (isInGazetteer(loc, cInfo, accurateNames))
+        featuresC.add("ACC-NAME");
+
     if (!personNames.isEmpty()) {
       if (isInGazetteer(loc, cInfo, personNames))
         featuresC.add("PER-NAME");
@@ -2391,6 +2395,8 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
    * Just like personNames for organizations
    */
   private final Map<String, WordsContext> organizationNames = new HashMap<>();
+
+  private final Map<String, WordsContext> accurateNames = new HashMap<>();
   /**
    * all known words on a language
    */
@@ -2433,6 +2439,7 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
   private final Map<String, String> infoBoxes = new HashMap<>();
 
   private void initGazette() {
+    if(flags.accurateNames != null) loadMultiWordGazetteer(flags.accurateNames, accurateNames);
     if (flags.personList != null) {
       loadMultiWordGazetteer(flags.personList, personNames);
       loadGazetteer(flags.personList, personParts);

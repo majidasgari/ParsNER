@@ -1068,6 +1068,7 @@ public class SeqClassifierFlags implements Serializable {
   public String persianNames;
   public String arabicNames;
   public String foreignNames;
+  public String accurateNames;
   public String postfixes;
   public String prefixes;
   public String locationPrefixes;
@@ -2627,6 +2628,8 @@ public class SeqClassifierFlags implements Serializable {
         arabicNames = val;
       } else if (key.equalsIgnoreCase("foreignNames")) {
         foreignNames = val;
+      } else if (key.equalsIgnoreCase("accurateNames")) {
+        accurateNames = val;
       } else if (key.equalsIgnoreCase("postfixes")) {
         postfixes = val;
       } else if (key.equalsIgnoreCase("prefixes")) {
