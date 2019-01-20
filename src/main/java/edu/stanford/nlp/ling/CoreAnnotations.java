@@ -1349,6 +1349,26 @@ public class CoreAnnotations {
   }
 
   /**
+   * The key for storing a Head word as a string rather than a pointer (as in
+   * TreeCoreAnnotations.HeadWordAnnotation)
+   */
+  public static class HeadWordIndexAnnotation implements CoreAnnotation<Integer> {
+    public Class<Integer> getType() {
+      return Integer.class;
+    }
+  }
+
+  /**
+   * The key for storing a Head word as a string rather than a pointer (as in
+   * TreeCoreAnnotations.HeadWordAnnotation)
+   */
+  public static class HeadPosStringAnnotation implements CoreAnnotation<String> {
+    public Class<String> getType() {
+      return String.class;
+    }
+  }
+
+  /**
    * Used in nlp.coref
    */
   public static class MonthAnnotation implements CoreAnnotation<String> {

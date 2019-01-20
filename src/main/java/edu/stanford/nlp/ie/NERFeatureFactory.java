@@ -1769,8 +1769,10 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     }
 
     if(flags.useDependencyParsing) {
-      System.out.println(flags.useDependencyParsing);
-//      featuresC.add(hasDigit +"-HAS-DIGIT");
+      featuresC.add("DEP-REL-" + cInfo.get(loc).get(CoreAnnotations.CoNLLDepTypeAnnotation.class));
+      featuresC.add("DEP-HEAD-INDEX-" + cInfo.get(loc).get(CoreAnnotations.HeadWordIndexAnnotation.class));
+      featuresC.add("DEP-HEAD-WORD-" + cInfo.get(loc).get(CoreAnnotations.HeadWordStringAnnotation.class));
+      featuresC.add("DEP-HEAD-WORD-POS-" + cInfo.get(loc).get(CoreAnnotations.HeadPosStringAnnotation.class));
     }
 
     return featuresC;

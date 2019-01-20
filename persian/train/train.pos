@@ -176964,12 +176964,6 @@ zi-zer-na-ka-bert	RES	O
 و	CONJ	O
 تحت	Pe	O
 سلطه	Ne	O
-  	N	O
-رده	N	O
-:	PUNC	O
-راهنماهای	Ne	O
-ویرایشگر	Ne	O
-ویکی‌پدیا	N	O
 حاکمیتی	N	O
 قرار	N	O
 دارند	V	O
@@ -188196,22 +188190,6 @@ block	RES	O
 نکردند	V	O
 .	PUNC	O
 
-ماندالا	N	O
-                                                 	N	O
-(	PUNC	O
-मण्डल	N	O
-؛	PUNC	O
-به	P	O
-معنی	Ne	O
-دایره	N	O
-در	P	O
-شبکه	Ne	O
-نمایش	Ne	O
-خانگی	AJ	O
-توزیع	N	O
-شد	V	O
-.	PUNC	O
-
 این	DET	O
 سریال	N	O
 موفق‌ترین	AJ	O
@@ -192355,13 +192333,8 @@ PH	RES	O
 
 نعناع	N	O
 و	CONJ	O
-ه	N	O
- 	N	O
-و	CONJ	O
 برنج	N	O
 و	CONJ	O
-رایانهٔ	Ne	O
-کوچک	AJe	O
 آلوی	Ne	O
 تازه	AJ	O
 استفاده	N	O
@@ -192384,7 +192357,6 @@ PH	RES	O
 یا	CONJ	O
 نعناع	N	O
 داغ	AJe	O
-              	N	O
 و	CONJ	O
 مصرف	N	O
 می‌شود	V	O
@@ -192407,8 +192379,6 @@ PH	RES	O
 کامپیوترهای	Ne	O
 میانهmidRange	RES	O
 است	V	O
-.	PUNC	O
-
 .	PUNC	O
 
 نعناع	N	O

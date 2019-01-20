@@ -18,7 +18,7 @@ public class AnnotationLookup {
     LEMMA_KEY(CoreAnnotations.LemmaAnnotation.class, OldFeatureLabelKeys.LEMMA_KEY),
     CATEGORY_KEY(CoreAnnotations.CategoryAnnotation.class, OldFeatureLabelKeys.CATEGORY_KEY),
     //PROJ_CAT_KEY(CoreAnnotations.ProjectedCategoryAnnotation.class, OldFeatureLabelKeys.PROJ_CAT_KEY),
-    //HEAD_WORD_KEY("edu.stanford.nlp.ling.TreeCoreAnnotations.HeadWordAnnotation", OldFeatureLabelKeys.HEAD_WORD_KEY),
+    HEAD_WORD_KEY("edu.stanford.nlp.ling.TreeCoreAnnotations.HeadWordAnnotation", OldFeatureLabelKeys.HEAD_WORD_KEY),
     //HEAD_TAG_KEY("edu.stanford.nlp.ling.TreeCoreAnnotations.HeadTagAnnotation", OldFeatureLabelKeys.HEAD_TAG_KEY),
     INDEX_KEY(CoreAnnotations.IndexAnnotation.class, OldFeatureLabelKeys.INDEX_KEY),
     ARG_KEY(CoreAnnotations.ArgumentAnnotation.class, OldFeatureLabelKeys.ARG_KEY),
@@ -82,7 +82,11 @@ public class AnnotationLookup {
 
     // Also have "pos" for PartOfTag (POS is also the TAG_KEY - "tag", but "pos" makes more sense)
     // Still keep "tag" for POS tag so we don't break anything
-    POS_TAG_KEY(CoreAnnotations.PartOfSpeechAnnotation.class, "pos");
+    POS_TAG_KEY(CoreAnnotations.PartOfSpeechAnnotation.class, "pos"),
+
+    DEP_HEAD_POS_KEY(CoreAnnotations.HeadPosStringAnnotation.class, "headPos"),
+    DEP_HEAD_INDEX_KEY(CoreAnnotations.HeadWordIndexAnnotation.class, "headIndex"),
+    DEP_REL_KEY(CoreAnnotations.CoNLLDepTypeAnnotation.class, "depRel");
 
 
     public final Class coreKey;
