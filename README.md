@@ -44,3 +44,13 @@ train_news.pos test_news.pos train_wiki.pos test_wiki.pos train.pos test.pos
 ```
 java -cp stanford-ner.jar edu.stanford.nlp.ie.persian.HistoryRecommender train_news.pos test_news.pos ...
 ```
+
+# Run in background (Linux)
+```bash
+cd persian
+nohup java -Xmx20g -cp ../target/stanford-persian-ner-3.9.0.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop persian.properties &
+```
+
+then press `ctrl+z`.
+
+and run `disown` command.
