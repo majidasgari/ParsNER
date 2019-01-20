@@ -1,4 +1,4 @@
-#	N	O
+
 اولین	NUM	O
 سیاره	Ne	O
 خارج	N	O
@@ -9,14 +9,12 @@
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
-#	PUNC	O
 واشنگتن	N	B-LOC
 -	PUNC	O
 خبرگزاری	Ne	B-ORG
 جمهوری	Ne	I-ORG
 اسلامی	AJ	I-ORG
-#	PUNC	O
+
 ستاره‌شناسان	N	O
 می‌گویند	V	O
 که	CONJ	O
@@ -191,13 +189,12 @@
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 دمشق	N	B-LOC
 ،	PUNC	O
 واحد	Ne	B-ORG
 مرکزی	AJe	I-ORG
 خبر	Ne	I-ORG
-#	Ne	O
+
 مصرف	Ne	O
 مداوم	AJe	O
 موز	N	O
@@ -304,7 +301,6 @@
 کنند	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -434,11 +430,10 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 مسعود	Ne	B-PERS
 شجاعی	Ne	I-PERS
 طباطبایی	N	I-PERS
-#	PUNC	O
+
 دنیای	Ne	O
 آدولف	N	B-PERS
 بورن	N	I-PERS
@@ -1364,15 +1359,13 @@
 بگیرد	V	O
 .	PUNC	O
 
-#	PUNC	O
 فیلمنامه	Ne	O
 کوتاه	AJe	O
 وسوسه	Ne	O
-#	Ne	O
-#	Ne	O
+
 نسرین	Ne	B-PERS
 صالحی	N	I-PERS
-#	PUNC	O
+
 احمد	Ne	B-PERS
 زیر	Pe	O
 پتو	N	O
@@ -5420,7 +5413,6 @@
 می‌رسد	V	O
 .	PUNC	O
 
-#	PUNC	O
 میزگردی	N	O
 با	P	O
 دست‌اندرکاران	Ne	O
@@ -5430,7 +5422,7 @@
 و	CONJ	O
 جو	N	O
 »	PUNC	O
-#	PUNC	O
+
 چطور	ADV	O
 شد	V	O
 که	CONJ	O
@@ -11265,14 +11257,12 @@ RAP	RES	O
 کردند	V	O
 .	PUNC	O
 
-#	PUNC	O
 تجربه	Ne	O
 تلویزیون	Ne	O
 مذهبی	AJ	O
 در	P	O
 بریتانیا	N	B-LOC
-#	PUNC	O
-#	PUNC	O
+
 تعاریف	N	O
 ،	PUNC	O
 ضوابط	N	O
@@ -11292,7 +11282,7 @@ RAP	RES	O
 محمدرضا	N	B-PERS
 رضایی	N	I-PERS
 بایندر	N	I-PERS
-#	PUNC	O
+
 ویژگیهای	Ne	O
 مخاطبان	Ne	O
 برنامه‌های	Ne	O
@@ -13098,10 +13088,9 @@ Highway	RES	O
 داده‌اند	V	O
 .	PUNC	O
 
-#	PUNC	O
 ضمیمه	AJe	O
 یک	NUM	O
-#	Ne	O
+
 ضوابط	N	O
 آی	V	B-ORG
 تی	N	I-ORG
@@ -13944,12 +13933,10 @@ Highway	RES	O
 ببرند	V	O
 .	PUNC	O
 
-#	PUNC	O
 داستان	Ne	O
 یک	NUM	O
 شهر	Ne	O
-#	Ne	O
-#	N	O
+
 گفت	V	O
 و	CONJ	O
 گو	N	O
@@ -13967,7 +13954,7 @@ Highway	RES	O
 یک	NUM	O
 شهر	N	O
 »	PUNC	O
-#	Ne	O
+
 آقای	Ne	O
 فرهادی	N	B-PERS
 ،	PUNC	O
@@ -22012,13 +21999,13 @@ Highway	RES	O
 صحنه	Ne	O
 کار	N	O
 !	PUNC	O
-#	PUNC	O
+
 نقد	Ne	O
 خوانندگان	Ne	O
 عجیب	AJ	O
 ولی	CONJ	O
 واقعی	AJ	O
-#	PUNC	O
+
 دیری	ADV	O
 است	V	O
 که	CONJ	O
@@ -22243,13 +22230,11 @@ Highway	RES	O
 دنیا	N	O
 .	PUNC	O
 
-#	Ne	O
 مظفر	N	B-PERS
 جعفرپناه	N	I-PERS
 از	P	O
 تهران	N	B-LOC
-#	PUNC	O
-#	PUNC	O
+
 تلویزیون	Ne	O
 بازاری	AJ	O
 :	PUNC	O
@@ -22258,7 +22243,7 @@ Highway	RES	O
 ،	PUNC	O
 فرزانه	Ne	B-PERS
 همتی	N	I-PERS
-#	PUNC	O
+
 موضوعی	N	O
 که	CONJ	O
 مدتهاست	V	O
@@ -22686,7 +22671,6 @@ Highway	RES	O
 بود	V	O
 .	PUNC	O
 
-#	PUNC	O
 واقعیت	N	O
 یک	NUM	O
 شهر	N	O
@@ -22696,7 +22680,7 @@ Highway	RES	O
 ،	PUNC	O
 آتوسا	N	B-PERS
 محمد‌بیگی	N	I-PERS
-#	PUNC	O
+
 نخستین	AJ	O
 باری	N	O
 که	CONJ	O
@@ -24066,7 +24050,6 @@ Highway	RES	O
 گرفت	V	O
 .	PUNC	O
 
-#	PUNC	O
 توضیحات	Ne	O
 حزب	Ne	B-ORG
 مشارکت	Ne	I-ORG
@@ -24831,7 +24814,6 @@ Highway	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 رای	Ne	O
 یک	NUM	O
 کمیته	Ne	B-ORG
@@ -24844,7 +24826,7 @@ Highway	RES	O
 تحریم	N	O
 علیه	Pe	O
 ایران	N	B-LOC
-#	PUNC	O
+
 یک	NUM	O
 کمیته	Ne	B-ORG
 سنای	Ne	I-ORG
@@ -24968,12 +24950,11 @@ Highway	RES	O
 بود	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 اظهارنظرهای	Ne	O
 هر‌از‌چند‌گاه	Ne	O
 مقامات	Ne	O
@@ -26364,11 +26345,10 @@ CIA	RES	I-ORG
 بردارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 دو	NUM	O
 هفته	Ne	O
 تهاجم	Ne	O
-#	Ne	O
+
 روزنامه	Ne	B-ORG
 بهار	N	I-ORG
 تیتر	Ne	O
@@ -26978,12 +26958,10 @@ CIA	RES	I-ORG
 گرفت	V	O
 .	PUNC	O
 
-#	PUNC	O
 بلاتکلیف	AJ	O
 نگذارید	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 ابرار	N	I-ORG
 با	P	O
@@ -27411,13 +27389,12 @@ CIA	RES	I-ORG
 بگذارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 آخرین	NUM	O
 نخست‌وزیر	N	O
 و	CONJ	O
 مساال	N	O
 روز	Ne	O
-#	Ne	O
+
 روزنامه	Ne	B-ORG
 بیان	Ne	I-ORG
 مصاحبه‌ای	N	O
@@ -28687,13 +28664,12 @@ CIA	RES	I-ORG
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 دور	Ne	O
 آبدارخانه	N	O
 در	P	O
 هشتاد	NUM	O
 روز	Ne	O
-#	Ne	O
+
 متجاوز	AJ	O
 از	P	O
 هشتاد	NUM	O
@@ -29264,7 +29240,6 @@ CIA	RES	I-ORG
 شاغلام	N	B-PERS
 .	PUNC	O
 
-#	PUNC	O
 مصرف	Ne	O
 بنزین	N	O
 در	P	O
@@ -29273,7 +29248,6 @@ CIA	RES	I-ORG
 یافت	V	O
 .	PUNC	O
 
-#	N	O
 مدیرعامل	Ne	O
 شرکت	Ne	B-ORG
 ملی	AJe	I-ORG
@@ -32661,9 +32635,8 @@ CIA	RES	I-ORG
 رسید	V	O
 .	PUNC	O
 
-#	Ne	O
 یزد	N	B-LOC
-#	PUNC	O
+
 همزمان	AJ	O
 با	P	O
 دومین	NUM	O
@@ -32827,9 +32800,8 @@ CIA	RES	I-ORG
 دارند	V	O
 .	PUNC	O
 
-#	Ne	O
 رشت	N	B-LOC
-#	PUNC	O
+
 عملیات	Ne	O
 احداث	Ne	O
 موج‌شکن	N	O
@@ -33364,14 +33336,13 @@ CIA	RES	I-ORG
 نروند	V	O
 .	PUNC	O
 
-#	PUNC	O
 نمایش	Ne	O
 صنایع	Ne	O
 دستی	AJe	O
 ایران	N	B-LOC
 در	P	O
 هاوانا	N	B-LOC
-#	PUNC	O
+
 دومین	NUM	O
 نمایشگاه	Ne	O
 صنایع	Ne	O
@@ -33468,14 +33439,13 @@ CIA	RES	I-ORG
 گرفت	V	O
 .	PUNC	O
 
-#	PUNC	O
 استقبال	N	O
 از	P	O
 سینمای	Ne	O
 ایران	N	B-LOC
 در	P	O
 روسیه	N	B-LOC
-#	PUNC	O
+
 نمایش	Ne	O
 فیلم‌های	Ne	O
 سینمای	Ne	O
@@ -35174,16 +35144,14 @@ CIA	RES	I-ORG
 کنند	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
-#	Ne	O
+
 دوم	NUMe	O
 خرداد	N	O
-#	PUNC	O
+
 جلوتر	AJ	O
 از	P	O
 آقای	Ne	O
@@ -35836,7 +35804,6 @@ CIA	RES	I-ORG
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 حریق	N	O
 به	P	O
 انبار	Ne	O
@@ -35847,7 +35814,6 @@ CIA	RES	I-ORG
 شد	V	O
 .	PUNC	O
 
-#	Ne	O
 نیویورک	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -36034,7 +36000,6 @@ CIA	RES	I-ORG
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 یک	NUM	O
 زن	Ne	O
 الجزایری	AJ	O
@@ -36047,7 +36012,6 @@ CIA	RES	I-ORG
 کرد	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -36147,14 +36111,13 @@ CIA	RES	I-ORG
 داده‌اند	V	O
 .	PUNC	O
 
-#	N	O
 کشف	Ne	O
 سه	NUM	O
 تن	CL	O
 حشیش	N	O
 در	P	O
 اسپانیا	N	B-LOC
-#	Ne	O
+
 مادرید	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -36241,14 +36204,12 @@ CIA	RES	I-ORG
 شدند	V	O
 .	PUNC	O
 
-#	PUNC	O
 ۳۰	NUM	O
 زندانی	Ne	O
 ونزوالاای	N	O
 گریختند	V	O
 .	PUNC	O
 
-#	PUNC	O
 ۰۳	NUM	O
 تن	N	O
 از	P	O
@@ -36351,7 +36312,6 @@ CIA	RES	I-ORG
 گرفت	V	O
 .	PUNC	O
 
-#	PUNC	O
 تمبرهای	Ne	O
 شخصی	AJ	O
 در	P	O
@@ -36360,7 +36320,6 @@ CIA	RES	I-ORG
 می‌شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 اداره	Ne	B-ORG
 پست	Ne	I-ORG
 کشور	Ne	I-ORG
@@ -36883,12 +36842,11 @@ CIA	RES	I-ORG
 کنند	V	O
 .	PUNC	O
 
-#	PUNC	O
 تلسکوپی	N	O
 برای	Pe	O
 بررسی	Ne	O
 سیاه‌چاله‌ها	N	O
-#	Ne	O
+
 تهران	N	B-LOC
 ،	PUNC	O
 واحد	Ne	B-ORG
@@ -37833,7 +37791,6 @@ CIA	RES	I-ORG
 بود	V	O
 .	PUNC	O
 
-#	N	O
 از	P	O
 فرانسوا	N	B-PERS
 کوپه	N	I-PERS
@@ -37841,15 +37798,14 @@ CIA	RES	I-ORG
 قرن	Ne	O
 ۱۹	NUMe	O
 فرانسه	N	B-LOC
-#	PUNC	O
-#	PUNC	O
+
 باورهای	Ne	O
 غلط	AJ	O
 در	P	O
 مورد	Ne	O
 نوزادان	Ne	O
 نارس	AJ	O
-#	Ne	O
+
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -38059,7 +38015,6 @@ CIA	RES	I-ORG
 می‌شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 سردردهای	Ne	O
 ناشی	AJ	O
 از	P	O
@@ -38072,7 +38027,6 @@ CIA	RES	I-ORG
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 ،	PUNC	O
 واحد	Ne	B-ORG
@@ -39347,7 +39301,6 @@ CIA	RES	I-ORG
 می‌شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 پیرترین	AJ	O
 سیاستمدار	Ne	O
 جهان	N	O
@@ -39356,7 +39309,6 @@ CIA	RES	I-ORG
 دارد	V	O
 .	PUNC	O
 
-#	Ne	O
 توکیو	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -40502,7 +40454,7 @@ CIA	RES	I-ORG
 
 پایان	N	O
 !	PUNC	O
-#	PUNC	O
+
 سخنان	Ne	O
 بزرگان	Ne	O
 #	AJ	O
@@ -41182,10 +41134,9 @@ CIA	RES	I-ORG
 دهند	V	O
 .	PUNC	O
 
-#	PUNC	O
 مواد	Ne	O
 مغذی	AJe	O
-#	Ne	O
+
 مواد	Ne	O
 مغذی	AJe	O
 ۶	NUM	O
@@ -41305,11 +41256,10 @@ CIA	RES	I-ORG
 دارند	V	O
 .	PUNC	O
 
-#	PUNC	O
 موقعیت	Ne	O
 فیزیکی	AJe	O
 فرد	Ne	O
-#	Ne	O
+
 بارداری	N	O
 -	PUNC	O
 شیردهی	N	O
@@ -41382,9 +41332,8 @@ CIA	RES	I-ORG
 می‌کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 کربوهیدرات‌ها	N	O
-#	PUNC	O
+
 کربوهیدرات‌ها	N	O
 مواد	Ne	O
 مغذی	AJe	O
@@ -41590,12 +41539,11 @@ CIA	RES	I-ORG
 می‌شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 درآمدی	N	O
 بر	P	O
 جامعه‌شناسی	Ne	O
 پزشکی	N	O
-#	PUNC	O
+
 تؤثیر	Ne	O
 متقابل	AJe	O
 جامعه	N	O
@@ -43048,9 +42996,8 @@ CIA	RES	I-ORG
 کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 بروزن‌فوزی	N	O
-#	PUNC	O
+
 در	P	O
 این	DET	O
 مرحله	N	O
@@ -43239,9 +43186,8 @@ CIA	RES	I-ORG
 کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 گرزنون	N	O
-#	PUNC	O
+
 توقف	Ne	O
 عروس	N	O
 را	POSTP	O
@@ -43721,9 +43667,8 @@ CIA	RES	I-ORG
 می‌شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 درمان	Ne	O
-#	Ne	O
+
 تشخیص	Ne	O
 زودرس	AJ	O
 به	P	O
@@ -43805,9 +43750,8 @@ CIA	RES	I-ORG
 می‌شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 انگور	N	O
-#	PUNC	O
+
 انگور	N	O
 از	P	O
 مواد	Ne	O
@@ -43841,13 +43785,12 @@ PP	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 خواص	Ne	O
 غذایی	AJ	O
 -	PUNC	O
 درمانی	AJe	O
 انگور	N	O
-#	PUNC	O
+
 انگور	Ne	O
 پتاسیم	N	O
 دارد	V	O
@@ -44286,12 +44229,10 @@ PP	RES	O
 بود	V	O
 .	PUNC	O
 
-#	PUNC	O
 عباس	Ne	B-PERS
 عضدی	N	I-PERS
 سیف	N	I-PERS
-#	PUNC	O
-#	PUNC	O
+
 استاد	N	O
 علی	Ne	B-PERS
 حجتی	Ne	I-PERS
@@ -44299,7 +44240,6 @@ PP	RES	O
 درگذشت	V	O
 .	PUNC	O
 
-#	PUNC	O
 حجت‌الاسلام	N	O
 والمسلمین	N	O
 علی	Ne	B-PERS
@@ -45788,7 +45728,6 @@ PP	RES	O
 شد	V	O
 .	PUNC	O
 
-#	Ne	O
 راه‌آهن	Ne	O
 سرخس	N	B-LOC
 ۵۳	NUM	O
@@ -45799,7 +45738,6 @@ PP	RES	O
 گرفت	V	O
 .	PUNC	O
 
-#	Ne	O
 راه‌آهن	Ne	B-ORG
 جمهوری	Ne	I-ORG
 اسلامی	AJe	I-ORG
@@ -46078,12 +46016,11 @@ PP	RES	O
 شود	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 فرض	N	O
 می‌کنیم	V	O
 همه	DETe	O
@@ -46847,7 +46784,7 @@ PP	RES	O
 خواهد	V	O
 شد	V	O
 ؟	PUNC	O
-#	PUNC	O
+
 بهانه‌جویی	N	O
 و	CONJ	O
 زمینه‌سازی	Ne	O
@@ -47879,14 +47816,13 @@ PP	RES	O
 نیستند	V	O
 .	PUNC	O
 
-#	PUNC	O
 نقش	Ne	O
 رایس	N	O
 مجلس	N	B-ORG
 و	CONJ	O
 هیؤت	N	O
 رایسه	N	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 جام	Ne	I-ORG
 جم	N	I-ORG
@@ -47992,7 +47928,6 @@ PP	RES	O
 نبود	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 در	P	O
 صفحه	Ne	O
@@ -48145,7 +48080,6 @@ PP	RES	O
 کنید	V	O
 .	PUNC	O
 
-#	PUNC	O
 نشانی	Ne	O
 :	PUNC	O
 تهران	N	B-LOC
@@ -48161,8 +48095,7 @@ PP	RES	O
 فاکس	N	O
 :	PUNC	O
 ۲۳۱۷۰۷۸	NUM	O
-#	PUNC	O
-#	PUNC	O
+
 فهرست	Ne	O
 برخی	DET	O
 مطالب	Ne	O
@@ -48233,7 +48166,6 @@ PP	RES	O
 ۴۱۴۲۱۱۳	NUM	O
 .	PUNC	O
 
-#	PUNC	O
 فهرست	Ne	O
 برخی	DET	O
 مطالب	Ne	O
@@ -49081,7 +49013,6 @@ PP	RES	O
 گفت	V	O
 .	PUNC	O
 
-#	PUNC	O
 رنگ	Ne	O
 خدا	N	O
 در	P	O
@@ -49091,7 +49022,6 @@ PP	RES	O
 رفت	V	O
 .	PUNC	O
 
-#	PUNC	O
 نمایش	Ne	O
 فیلم	Ne	O
 رنگ	Ne	O
@@ -49486,7 +49416,6 @@ PP	RES	O
 گرفت	V	O
 .	PUNC	O
 
-#	PUNC	O
 بهترین‌های	Ne	O
 سینمای	Ne	O
 چین	N	B-LOC
@@ -49494,7 +49423,6 @@ PP	RES	O
 شدند	V	O
 .	PUNC	O
 
-#	PUNC	O
 فیلم	Ne	O
 جاده	Ne	O
 خانه	N	O
@@ -49792,20 +49720,18 @@ PP	RES	O
 درمی‌آیند	V	O
 .	PUNC	O
 
-#	Ne	O
 رژیم	Ne	B-ORG
 صهیونیستی	AJ	I-ORG
 و	CONJ	O
 ماجرای	Ne	O
 جدید	AJe	O
-#	Ne	O
-#	Ne	O
+
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUM	O
 ۳	NUM	O
-#	PUNC	O
+
 انتخاب	Ne	O
 رایس‌جمهور	Ne	O
 جدید	AJe	O
@@ -51903,12 +51829,10 @@ PP	RES	O
 فرستادند	V	O
 .	PUNC	O
 
-#	PUNC	O
 ادامه	N	O
 دارد	V	O
 .	PUNC	O
 
-#	N	O
 و	CONJ	O
 بخصوص	ADV	O
 گسترش	Ne	O
@@ -52362,10 +52286,9 @@ PP	RES	O
 بکشند	V	O
 .	PUNC	O
 
-#	PUNC	O
 حادثه‌ای	N	O
 مبارک	AJ	O
-#	PUNC	O
+
 بیانیه	N	O
 از	P	O
 حادثه	Ne	O
@@ -52685,7 +52608,6 @@ PP	RES	O
 نفرموده‌اند	V	O
 .	PUNC	O
 
-#	PUNC	O
 اگر	CONJ	O
 حرفی	N	O
 قابل	AJe	O
@@ -52693,7 +52615,6 @@ PP	RES	O
 دارند	V	O
 .	PUNC	O
 
-#	PUNC	O
 بیانیه	N	O
 آنگاه	CONJ	O
 خطاب	N	O
@@ -53594,7 +53515,6 @@ PP	RES	O
 شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 دعوت	Ne	O
 تیم	Ne	O
 ملی	AJe	O
@@ -53602,7 +53522,7 @@ PP	RES	O
 ترکمنستان	N	B-LOC
 به	P	O
 ایران	N	B-LOC
-#	PUNC	O
+
 رایس	N	O
 فدراسیون	Ne	B-ORG
 بدمینتون	Ne	I-ORG
@@ -53894,7 +53814,6 @@ PP	RES	O
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 کوهنوردان	Ne	O
 ایران	N	B-LOC
 قله	Ne	O
@@ -53906,7 +53825,6 @@ PP	RES	O
 کردند	V	O
 .	PUNC	O
 
-#	Ne	O
 تیم	Ne	O
 ملی	AJe	O
 کوهنوردی	Ne	O
@@ -55131,7 +55049,6 @@ PP	RES	O
 کرد	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
@@ -55287,11 +55204,10 @@ PP	RES	O
 کرد	V	O
 .	PUNC	O
 
-#	PUNC	O
 اشکال	N	O
 و	CONJ	O
 ایراد	Ne	O
-#	Ne	O
+
 روزنامه	Ne	B-ORG
 بیان	Ne	I-ORG
 در‌باره	Pe	O
@@ -55696,13 +55612,11 @@ PP	RES	O
 می‌دارند	V	O
 .	PUNC	O
 
-#	PUNC	O
 اگر	CONJ	O
 مجبور	AJ	O
 می‌شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 ایران	N	I-ORG
 نیز	CONJ	O
@@ -56295,7 +56209,6 @@ PP	RES	O
 بود	V	O
 .	PUNC	O
 
-#	PUNC	O
 دو	NUM	O
 کوهنورد	N	O
 در	P	O
@@ -56304,7 +56217,6 @@ PP	RES	O
 شدند	V	O
 .	PUNC	O
 
-#	Ne	O
 پکن	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -56499,7 +56411,6 @@ PP	RES	O
 داده‌اند	V	O
 .	PUNC	O
 
-#	PUNC	O
 تزریق	Ne	O
 جنتامایسین	N	O
 ،	PUNC	O
@@ -56511,7 +56422,6 @@ PP	RES	O
 گرفت	V	O
 .	PUNC	O
 
-#	Ne	O
 نیویورک	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -56785,7 +56695,6 @@ PP	RES	O
 می‌شدند	V	O
 .	PUNC	O
 
-#	PUNC	O
 بزرگترین	AJ	O
 باند	Ne	O
 اشرار	N	O
@@ -56795,7 +56704,6 @@ PP	RES	O
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 واشنگتن	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -57132,7 +57040,6 @@ PP	RES	O
 بود	V	O
 .	PUNC	O
 
-#	PUNC	O
 دو	NUM	O
 زمین‌لرزه	Ne	O
 غرب	Ne	O
@@ -57142,7 +57049,6 @@ PP	RES	O
 داد	V	O
 .	PUNC	O
 
-#	Ne	O
 آنکارا	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -57200,7 +57106,6 @@ PP	RES	O
 است	V	O
 .	PUNC	O
 
-#	N	O
 کشف	Ne	O
 بمب	N	O
 در	P	O
@@ -57208,7 +57113,7 @@ PP	RES	O
 موزه	Ne	B-LOC
 ملی	AJe	I-LOC
 فیلیپین	N	I-LOC
-#	PUNC	O
+
 کوالالامپور	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -57639,7 +57544,6 @@ PP	RES	O
 می‌شود	V	O
 .	PUNC	O
 
-#	N	O
 محافظت	N	O
 از	P	O
 قلب	N	O
@@ -57647,7 +57551,7 @@ PP	RES	O
 نوشیدن	Ne	O
 آب	Ne	O
 انار	N	O
-#	Ne	O
+
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -58838,7 +58742,6 @@ PP	RES	O
 دارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 بی‌تفاوتی	N	O
 و	CONJ	O
 خونسردی	N	O
@@ -58849,7 +58752,6 @@ PP	RES	O
 می‌دهد	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -61430,13 +61332,12 @@ E	RESe	O
 بازشماری	N	O
 کرد	V	O
 !	PUNC	O
-#	PUNC	O
+
 حکیم‌باشی	N	O
-#	PUNC	O
-#	PUNC	O
+
 حرفهای	Ne	O
 آسمانی	AJe	O
-#	Ne	O
+
 مإمن	N	O
 سخنش	N	O
 اندک	AJ	O
@@ -61572,10 +61473,9 @@ E	RESe	O
 باور	N	O
 کنم	V	O
 ؟	PUNC	O
-#	PUNC	O
+
 خواندنی	AJ	O
-#	PUNC	O
-#	PUNC	O
+
 ماجرای	Ne	O
 فلفل	Ne	O
 #	NUM	O
@@ -64144,15 +64044,13 @@ E	RESe	O
 فشرد	V	O
 .	PUNC	O
 
-#	PUNC	O
 تکه	Ne	O
 بلوری	AJ	O
 از	P	O
 شیشهٔ	Ne	O
 عمر	N	O
 دیو	N	O
-#	PUNC	O
-#	PUNC	O
+
 نشان	Ne	O
 شاعر	Ne	O
 #	AJ	O
@@ -64322,11 +64220,10 @@ E	RESe	O
 نیست	V	O
 .	PUNC	O
 
-#	PUNC	O
 محمدرضا	N	B-PERS
 شفیعی	Ne	I-PERS
 کدکنی	N	I-PERS
-#	PUNC	O
+
 کندو	N	B-LOC
 با	P	O
 محیطی	N	O
@@ -64755,12 +64652,12 @@ E	RESe	O
 هراس	N	O
 افکند	V	O
 !	PUNC	O
-#	PUNC	O
+
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 دفع‌الوقت	N	O
 و	CONJ	O
 دلیل	Ne	O
@@ -65321,14 +65218,12 @@ E	RESe	O
 کرد	V	O
 .	PUNC	O
 
-#	PUNC	O
 جریان	Ne	O
 سوم	NUM	O
 نگران	AJ	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 رسالت	N	I-ORG
 در	P	O
@@ -66379,11 +66274,10 @@ E	RESe	O
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 لزوم	Ne	O
 بازبینی	Ne	O
 مفاهیم	Ne	O
-#	Ne	O
+
 روزنامه	N	B-ORG
 انتخاب	N	I-ORG
 در	P	O
@@ -66897,11 +66791,10 @@ E	RESe	O
 ماند	V	O
 .	PUNC	O
 
-#	PUNC	O
 اگر	CONJ	O
 دیر	ADV	O
 بجنبند	V	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 کیهان	N	I-ORG
 با	P	O
@@ -69196,7 +69089,6 @@ E	RESe	O
 بود	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 در	P	O
 صفحه	Ne	O
@@ -69294,7 +69186,6 @@ E	RESe	O
 گردد	V	O
 .	PUNC	O
 
-#	PUNC	O
 مجالس	Ne	O
 سوگواری	N	O
 در	P	O
@@ -69620,7 +69511,6 @@ E	RESe	O
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 خاتمی	N	B-PERS
 :	PUNC	O
 دریای	Ne	B-LOC
@@ -69632,7 +69522,6 @@ E	RESe	O
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 نوشهر	N	B-LOC
 -	PUNC	O
 رایس‌جمهور	Ne	O
@@ -70178,12 +70067,10 @@ E	RESe	O
 می‌آید	V	O
 .	PUNC	O
 
-#	PUNC	O
 ضربه	N	O
 می‌زنند	V	O
 .	PUNC	O
 
-#	N	O
 وزیر	Ne	O
 کشور	N	O
 در	P	O
@@ -71816,10 +71703,10 @@ E	RESe	O
 بساطی	N	O
 است	V	O
 ؟	PUNC	O
-#	PUNC	O
+
 ادامه	N	O
 دارد	V	O
-#	PUNC	O
+
 با	P	O
 آغاز	Ne	O
 ثبت	Ne	O
@@ -72249,11 +72136,10 @@ E	RESe	O
 یافت	V	O
 .	PUNC	O
 
-#	PUNC	O
 قرعه‌کشی	N	O
 برای	Pe	O
 واگذاری	Ne	O
-#	N	O
+
 مدیرکل	Ne	O
 روابط	Ne	B-ORG
 عمومی	AJe	I-ORG
@@ -72959,7 +72845,6 @@ E	RESe	O
 بپردازد	V	O
 .	PUNC	O
 
-#	Ne	O
 سمیرا	N	B-PERS
 مخملباف	N	I-PERS
 نامزد	Ne	O
@@ -72971,7 +72856,6 @@ E	RESe	O
 شد	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -73465,14 +73349,13 @@ E	RESe	O
 می‌کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 برگزاری	Ne	O
 همایش	Ne	O
 بین‌المللی	AJe	O
 ملاصدرا	N	B-PERS
 در	P	O
 لندن	N	B-LOC
-#	Ne	O
+
 لندن	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -73728,7 +73611,6 @@ E	RESe	O
 شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 نمایشگاه	N	O
 نگاهی	N	O
 به	P	O
@@ -73743,7 +73625,6 @@ E	RESe	O
 می‌شود	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -80660,7 +80541,6 @@ E	RESe	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 آتش‌سوزی	N	O
 در	P	O
 لوس‌آلاموس	N	B-LOC
@@ -80668,7 +80548,6 @@ E	RESe	O
 می‌شود	V	O
 .	PUNC	O
 
-#	Ne	O
 نیویورک	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -80895,7 +80774,6 @@ E	RESe	O
 می‌شوند	V	O
 .	PUNC	O
 
-#	Ne	O
 زمین‌لرزه	N	O
 در	P	O
 عثمانیه	Ne	B-LOC
@@ -80906,7 +80784,6 @@ E	RESe	O
 آورد	V	O
 .	PUNC	O
 
-#	Ne	O
 آنکارا	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -82004,14 +81881,13 @@ E	RESe	O
 داشت	V	O
 .	PUNC	O
 
-#	Ne	O
 گل	Ne	O
 دوبله	N	O
 چگونه	ADV	O
 رشد	N	O
 می‌کند	V	O
 ؟	PUNC	O
-#	PUNC	O
+
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -82259,14 +82135,13 @@ E	RESe	O
 می‌شود	V	O
 .	PUNC	O
 
-#	N	O
 هم	CONJ	O
 میخانه	N	O
 و	CONJ	O
 هم	CONJ	O
 باده	N	O
 حافظا	N	O
-#	PUNC	O
+
 میخانه‌ای	N	O
 از	P	O
 حکمت	N	O
@@ -83205,7 +83080,6 @@ E	RESe	O
 شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 دادگاه	Ne	O
 یک	NUM	O
 روزنامه‌نگار	Ne	O
@@ -83946,7 +83820,6 @@ E	RESe	O
 ۹۰	NUM	O
 .	PUNC	O
 
-#	PUNC	O
 صعود	Ne	O
 برق	Ne	B-ORG
 شیراز	N	I-ORG
@@ -83956,7 +83829,7 @@ E	RESe	O
 به	P	O
 دسته	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 هفته	Ne	O
 پایانی	AJe	O
 رقابت‌های	Ne	O
@@ -84018,7 +83891,6 @@ E	RESe	O
 آوردند	V	O
 .	PUNC	O
 
-#	PUNC	O
 جشن	Ne	O
 قهرمانی	Ne	O
 تیم	Ne	O
@@ -84028,7 +83900,7 @@ E	RESe	O
 در	P	O
 ورزشگاه	Ne	B-LOC
 آزادی	Ne	I-LOC
-#	Ne	O
+
 اعضای	Ne	O
 تیم	Ne	O
 فوتبال	Ne	O
@@ -84457,7 +84329,6 @@ E	RESe	O
 درمی‌آورد	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
@@ -90580,19 +90451,18 @@ E	RESe	O
 سکوت	N	O
 کرده‌اید	V	O
 ؟	PUNC	O
-#	PUNC	O
+
 نگاهی	N	O
 از	P	O
 سطح	N	O
 به	P	O
 عمق	Ne	O
-#	Ne	O
-#	Ne	O
+
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 در	P	O
 همان	DET	O
 کتاب	N	O
@@ -90811,12 +90681,10 @@ E	RESe	O
 می‌دهم	V	O
 .	PUNC	O
 
-#	PUNC	O
 ادامه	N	O
 دارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 پی‌نویس	N	O
 :	PUNC	O
 #	RES	O
@@ -90826,7 +90694,7 @@ E	RESe	O
 سید	N	B-PERS
 محمد	Ne	I-PERS
 خاتمی	N	I-PERS
-#	PUNC	O
+
 پیک	Ne	O
 غزل	N	O
 می‌شکند	V	O
@@ -90968,7 +90836,6 @@ E	RESe	O
 را	POSTP	O
 .	PUNC	O
 
-#	PUNC	O
 بانک	Ne	B-ORG
 ملی	AJ	I-ORG
 ۲۸۰۰	NUM	O
@@ -90981,7 +90848,6 @@ E	RESe	O
 کرد	V	O
 .	PUNC	O
 
-#	PUNC	O
 رایس‌جمهور	N	O
 :	PUNC	O
 سازمان	Ne	B-ORG
@@ -91106,7 +90972,6 @@ E	RESe	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 پیشنهاد	Ne	O
 انتشار	Ne	O
 باقیمانده	AJe	O
@@ -91117,7 +90982,7 @@ E	RESe	O
 به	P	O
 دولت	Ne	B-ORG
 آمریکا	N	I-ORG
-#	Ne	O
+
 سیا	N	B-ORG
 از	P	O
 انتشار	Ne	O
@@ -91246,7 +91111,6 @@ E	RESe	O
 شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 انتقاد	Ne	O
 جبهه	Ne	B-ORG
 مشارکت	N	I-ORG
@@ -91255,7 +91119,7 @@ E	RESe	O
 عاملان	Ne	O
 ترور	Ne	O
 حجاریان	N	B-PERS
-#	PUNC	O
+
 دادگاه	Ne	O
 ساوالات	Ne	O
 بسیاری	AJ	O
@@ -91272,7 +91136,6 @@ E	RESe	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 نوشته‌ای	N	O
 از	P	O
 :	PUNC	O
@@ -91282,7 +91145,7 @@ E	RESe	O
 ابراهیم	Ne	I-PERS
 باستانی	Ne	I-PERS
 پاریزی	N	I-PERS
-#	PUNC	O
+
 مجلس	Ne	B-ORG
 ششم	NUM	I-ORG
 -	PUNC	O
@@ -91291,7 +91154,6 @@ E	RESe	O
 نمی‌کنند	V	O
 .	PUNC	O
 
-#	PUNC	O
 پیش‌خرید	Ne	O
 ۱۲۰	NUM	O
 خط	Ne	O
@@ -91301,7 +91163,7 @@ E	RESe	O
 یک	NUM	O
 خریدار	N	O
 !	PUNC	O
-#	PUNC	O
+
 دکتر	N	O
 عطاأالله	N	B-PERS
 مهاجرانی	N	I-PERS
@@ -91824,12 +91686,11 @@ E	RESe	O
 باشند	V	O
 .	PUNC	O
 
-#	N	O
 ترسیم	Ne	O
 یک	NUM	O
 دوره	Ne	O
 ده‌ساله	AJe	O
-#	N	O
+
 رهبر	Ne	O
 انقلاب	N	O
 هم‌چنین	CONJ	O
@@ -92323,11 +92184,10 @@ E	RESe	O
 می‌دهند	V	O
 .	PUNC	O
 
-#	PUNC	O
 احتمال	Ne	O
 بسیار	ADV	O
 ضعیف	AJ	O
-#	PUNC	O
+
 یک	NUM	O
 عضو	Ne	O
 حقوقدان	Ne	O
@@ -92618,7 +92478,6 @@ E	RESe	O
 شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 اطلاعیه	Ne	O
 دفتر	Ne	O
 ریاست‌جمهوری	N	O
@@ -92626,7 +92485,7 @@ E	RESe	O
 نتایج	Ne	O
 معاینات	Ne	O
 پزشکی	N	O
-#	PUNC	O
+
 رایس‌جمهور	Ne	O
 خاتمی	N	B-PERS
 سالم	AJ	O
@@ -93057,19 +92916,16 @@ E	RESe	O
 دارد	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
-#	PUNC	O
+
 چرا	ADV	O
 ساکت	AJ	O
 هستند	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 جمهوری	Ne	I-ORG
 اسلامی	AJ	I-ORG
@@ -93537,12 +93393,12 @@ E	RESe	O
 شده	V	O
 است	V	O
 …	PUNC	O
-#	PUNC	O
+
 راههای	Ne	O
 عملی	AJe	O
 وحدت	Ne	O
 واقعی	AJ	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 بیان	N	I-ORG
 با	P	O
@@ -94801,11 +94657,10 @@ E	RESe	O
 نمایند	V	O
 .	PUNC	O
 
-#	Ne	O
 خوابهای	Ne	O
 آشفته	AJe	O
 جایگزینی	Ne	O
-#	Ne	O
+
 روزنامه	Ne	B-ORG
 بهار	N	I-ORG
 در	P	O
@@ -95442,11 +95297,10 @@ E	RESe	O
 شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 پذیرش	Ne	O
 طرح	Ne	O
 سازش	N	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 کیهان	N	I-ORG
 در	P	O
@@ -96167,12 +96021,11 @@ E	RESe	O
 کنند	V	O
 .	PUNC	O
 
-#	PUNC	O
 رایزنی	N	O
 برای	Pe	O
 تعیین	Ne	O
 هیؤت‌رایسه	N	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 ایران	N	I-ORG
 در	P	O
@@ -96254,7 +96107,6 @@ E	RESe	O
 دهند	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 در	P	O
 صفحه	Ne	O
@@ -98269,12 +98121,10 @@ E	RESe	O
 کردن	N	O
 .	PUNC	O
 
-#	PUNC	O
 ادامه	N	O
 دارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 جبهه	Ne	B-ORG
 مشارکت	Ne	I-ORG
 ایران	Ne	I-ORG
@@ -98705,7 +98555,7 @@ E	RESe	O
 بی‌پاسخ	AJ	O
 گذاشت	V	O
 ؟	PUNC	O
-#	PUNC	O
+
 نمایشگاهی	N	O
 از	P	O
 شمایل‌های	Ne	O
@@ -98717,7 +98567,6 @@ E	RESe	O
 می‌شود	V	O
 .	PUNC	O
 
-#	N	O
 به	P	O
 مناسبت	Ne	O
 روز	Ne	O
@@ -98873,7 +98722,6 @@ E	RESe	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 فیلم	Ne	O
 رنگ	Ne	O
 خدا	N	O
@@ -98884,7 +98732,6 @@ E	RESe	O
 درآمد	V	O
 .	PUNC	O
 
-#	Ne	O
 توکیو	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -98997,12 +98844,11 @@ E	RESe	O
 بود	V	O
 .	PUNC	O
 
-#	PUNC	O
 لیبراسیون	N	B-ORG
 و	CONJ	O
 فیلم	Ne	O
 تخته‌سیاه	N	O
-#	Ne	O
+
 پاریس	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -99144,7 +98990,6 @@ E	RESe	O
 نور	N	O
 .	PUNC	O
 
-#	PUNC	O
 نمایشگاه	Ne	O
 هنرهای	Ne	O
 معاصر	AJe	O
@@ -99155,7 +99000,6 @@ E	RESe	O
 یافت	V	O
 .	PUNC	O
 
-#	Ne	O
 کویت	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -99441,7 +99285,6 @@ E	RESe	O
 داشتند	V	O
 .	PUNC	O
 
-#	PUNC	O
 فیلمساز	Ne	O
 جوان	AJe	O
 ایرانی	AJ	O
@@ -99452,7 +99295,6 @@ E	RESe	O
 کرد	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -99802,18 +99644,16 @@ E	RESe	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 یاد	Ne	O
 خیام	N	B-PERS
 در	P	O
 نیشابور	N	B-LOC
-#	PUNC	O
-#	Ne	O
+
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 هر	DET	O
 یک	NUM	O
 از	P	O
@@ -101162,15 +101002,12 @@ E	RESe	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 ادامه	N	O
 دارد	V	O
 .	PUNC	O
 
-#	PUNC	O
-#	PUNC	O
 یادداشتها	N	O
-#	PUNC	O
+
 ۱	NUM	O
 -	PUNC	O
 این	DET	O
@@ -101900,19 +101737,17 @@ E	RESe	O
 داشت	V	O
 .	PUNC	O
 
-#	PUNC	O
 نگاهی	N	O
 از	P	O
 سطح	N	O
 به	P	O
 عمق	Ne	O
-#	Ne	O
-#	Ne	O
+
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 فکر	N	O
 و	CONJ	O
 اندیشه	N	O
@@ -103130,7 +102965,6 @@ E	RESe	O
 هستند	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
@@ -103633,13 +103467,12 @@ E	RESe	O
 برسیم	V	O
 .	PUNC	O
 
-#	PUNC	O
 ترکیب	Ne	O
 متفاوت	AJ	O
 با	P	O
 دوره	Ne	O
 قبل	ADV	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 انتخاب	N	I-ORG
 در	P	O
@@ -104129,11 +103962,10 @@ E	RESe	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 شکایت	N	O
 از	P	O
 شایعه‌سازان	N	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 انتخاب	N	I-ORG
 در	P	O
@@ -104537,12 +104369,10 @@ E	RESe	O
 می‌کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 ااتلاف	N	O
 نمی‌کنند	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 هم‌میهن	N	I-ORG
 خبر	N	O
@@ -104764,7 +104594,6 @@ E	RESe	O
 کنند	V	O
 .	PUNC	O
 
-#	PUNC	O
 پیش‌خرید	Ne	O
 ۱۲۰	NUM	O
 خط	N	O
@@ -104775,7 +104604,7 @@ E	RESe	O
 متعدد	AJe	O
 نشریات	Ne	O
 دیروز	ADV	O
-#	PUNC	O
+
 یک	NUM	O
 خبر	Ne	O
 غیرسیاسی	AJ	O
@@ -105065,7 +104894,6 @@ E	RESe	O
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
@@ -106336,7 +106164,6 @@ E	RESe	O
 والسلام	RES	O
 .	PUNC	O
 
-#	PUNC	O
 آفتابه	Ne	O
 زرین	AJe	O
 فرشتگان	N	O
@@ -106819,11 +106646,10 @@ E	RESe	O
 شود	V	O
 …	PUNC	O
 
-#	N	O
 نقل	N	O
 از	P	O
 بیان	Ne	B-ORG
-#	Ne	O
+
 بنده	N	O
 خواستم	V	O
 عرض	N	O
@@ -107331,7 +107157,6 @@ E	RESe	O
 بود	V	O
 .	PUNC	O
 
-#	PUNC	O
 اخبار	Ne	O
 ایران	N	B-LOC
 از	P	O
@@ -107347,7 +107172,7 @@ E	RESe	O
 م	N	O
 ص	N	O
 ۳۱۲	NUM	O
-#	PUNC	O
+
 چه	DET	O
 تبلیغی	N	O
 از	P	O
@@ -107585,7 +107410,6 @@ E	RESe	O
 زیرک‌اند	V	O
 .	PUNC	O
 
-#	PUNC	O
 طرح	Ne	O
 جدید	AJe	O
 اتحادیه	Ne	B-ORG
@@ -107593,7 +107417,7 @@ E	RESe	O
 درباره	Pe	O
 مصرف	Ne	O
 ویتامین‌ها	N	O
-#	Ne	O
+
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -107729,7 +107553,6 @@ E	RESe	O
 شود	V	O
 .	PUNC	O
 
-#	Ne	O
 حشرات	N	O
 هم	CONJ	O
 درد	N	O
@@ -107738,7 +107561,6 @@ E	RESe	O
 می‌کنند	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -108066,14 +107888,13 @@ E	RESe	O
 بپردازند	V	O
 .	PUNC	O
 
-#	PUNC	O
 تحصن	Ne	O
 موسیقایی	AJe	O
 مخالفان	Ne	O
 دولت	Ne	B-ORG
 اتریش	N	I-ORG
 !	PUNC	O
-#	Ne	O
+
 وین	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -108507,7 +108328,6 @@ E	RESe	O
 شوند	V	O
 .	PUNC	O
 
-#	PUNC	O
 بیش	AJ	O
 از	P	O
 ۴۰۰	NUM	O
@@ -108520,7 +108340,6 @@ E	RESe	O
 هستند	V	O
 .	PUNC	O
 
-#	Ne	O
 پکن	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -110043,7 +109862,6 @@ E	RESe	O
 آمیخت	V	O
 .	PUNC	O
 
-#	N	O
 از	P	O
 سرگای	Ne	B-PERS
 الکساندرویچ	N	I-PERS
@@ -110059,7 +109877,7 @@ E	RESe	O
 شعر	Ne	O
 روسیه	N	B-LOC
 تهران	N	B-LOC
-#	Ne	O
+
 واحد	Ne	B-ORG
 مرکزی	AJe	I-ORG
 خبر	N	I-ORG
@@ -110980,14 +110798,12 @@ E	RESe	O
 امینی	N	I-PERS
 .	PUNC	O
 
-#	Ne	O
 ناسا	N	B-ORG
 مشکل	Ne	O
 مالی	AJ	O
 دارد	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -111085,7 +110901,6 @@ E	RESe	O
 کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 پروژه	Ne	O
 ساخت	Ne	O
 تله‌کابین	N	O
@@ -111094,7 +110909,7 @@ E	RESe	O
 از	P	O
 دیوار	Ne	O
 چین	N	B-LOC
-#	Ne	O
+
 پکن	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -111182,7 +110997,6 @@ E	RESe	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 خبر	Ne	O
 خودکشی	Ne	O
 نخست‌وزیر	Ne	O
@@ -111192,7 +111006,6 @@ E	RESe	O
 شد	V	O
 .	PUNC	O
 
-#	Ne	O
 دمشق	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -112223,7 +112036,6 @@ E	RESe	O
 بسپاریم	V	O
 .	PUNC	O
 
-#	N	O
 )	PUNC	O
 حماسه	Ne	O
 کویر	N	O
@@ -112232,7 +112044,6 @@ E	RESe	O
 (	PUNC	O
 .	PUNC	O
 
-#	PUNC	O
 سمینار	Ne	O
 قنات	N	O
 ،	PUNC	O
@@ -117545,12 +117356,10 @@ E	RESe	O
 نکرد	V	O
 .	PUNC	O
 
-#	Ne	O
 سید	N	B-PERS
 احمد	Ne	I-PERS
 صادق	N	I-PERS
-#	PUNC	O
-#	Ne	O
+
 بقیه	N	O
 در	P	O
 صفحه	Ne	O
@@ -119834,12 +119643,10 @@ E	RESe	O
 بکوبد	V	O
 .	PUNC	O
 
-#	PUNC	O
 ادامه	N	O
 دارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 رایس	N	O
 قوه	Ne	B-ORG
 قضاایه	N	I-ORG
@@ -120104,7 +119911,6 @@ E	RESe	O
 ماند	V	O
 .	PUNC	O
 
-#	PUNC	O
 آجرنوشته‌های	Ne	O
 ۳۰۰۰	NUM	O
 سال	N	O
@@ -120113,7 +119919,7 @@ E	RESe	O
 موزه	Ne	B-LOC
 ملی	AJe	I-LOC
 ایران	N	I-LOC
-#	PUNC	O
+
 مجموعه‌ای	N	O
 از	P	O
 آجرنوشته‌های	Ne	O
@@ -120939,12 +120745,11 @@ BBC	RES	O
 داشت	V	O
 .	PUNC	O
 
-#	PUNC	O
 نیک‌نولت	N	B-PERS
 در	P	O
 کن	Ne	B-LOC
 ۲۰۰۰	NUM	B-MISC
-#	PUNC	O
+
 نیک‌نولت	N	B-PERS
 هنرپیشهٔ	Ne	O
 محبوب	AJ	O
@@ -122109,19 +121914,17 @@ BBC	RES	O
 است	V	O
 .	PUNC	O
 
-#	N	O
 فراتر	AJ	O
 از	P	O
 گفتن	N	O
 و	CONJ	O
 نوشتن	Ne	O
-#	Ne	O
-#	Ne	O
+
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 ارگانهای	Ne	O
 غیردولتی	AJ	O
 و	CONJ	O
@@ -122681,7 +122484,6 @@ BBC	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 ۲	NUM	O
 تکواندوکار	Ne	O
 ایرانی	AJ	O
@@ -122693,7 +122495,6 @@ BBC	RES	O
 رفتند	V	O
 .	PUNC	O
 
-#	N	O
 در	P	O
 ادامه	Ne	O
 چهاردهمین	NUM	O
@@ -122920,7 +122721,6 @@ BBC	RES	O
 می‌پردازند	V	O
 .	PUNC	O
 
-#	PUNC	O
 دو	NUM	O
 مدال	N	O
 به	P	O
@@ -122931,7 +122731,6 @@ BBC	RES	O
 رسید	V	O
 .	PUNC	O
 
-#	Ne	O
 تیم	Ne	O
 شمشیربازی	Ne	O
 ایران	N	B-LOC
@@ -123583,7 +123382,6 @@ BBC	RES	O
 بود	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
@@ -123876,12 +123674,11 @@ BBC	RES	O
 کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 انتظار	N	O
 از	P	O
 گروههای	Ne	O
 سیاسی	AJ	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 کیهان	N	I-ORG
 در	P	O
@@ -124290,11 +124087,10 @@ BBC	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 نقش	Ne	O
 سکانداری	Ne	O
 خاتمی	N	B-PERS
-#	PUNC	O
+
 "	PUNC	O
 خاتمی	N	B-PERS
 ،	PUNC	O
@@ -125047,13 +124843,12 @@ BBC	RES	O
 می‌گردد	V	O
 .	PUNC	O
 
-#	PUNC	O
 رابطه	Ne	O
 جنجال	N	O
 با	P	O
 فسخ	Ne	O
 قراردادها	N	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 هم‌میهن	N	I-ORG
 از	P	O
@@ -125256,14 +125051,12 @@ BBC	RES	O
 …	PUNC	O
 .	PUNC	O
 
-#	PUNC	O
 استراتژی	N	O
 چه	ADV	O
 باید	V	O
 باشد	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 انتخاب	N	I-ORG
 با	P	O
@@ -125903,7 +125696,6 @@ BBC	RES	O
 بردارند	V	O
 .	PUNC	O
 
-#	Ne	O
 مرده‌ای	AJ	O
 که	CONJ	O
 طلاهای	Ne	O
@@ -125913,7 +125705,6 @@ BBC	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 زن	Ne	O
 جوانی	N	O
 به	P	O
@@ -126503,13 +126294,12 @@ BBC	RES	O
 فراخواند	V	O
 .	PUNC	O
 
-#	PUNC	O
 تلفات	Ne	O
 بارانهای	Ne	O
 سیل‌آسا	AJ	O
 در	P	O
 مکزیک	N	B-LOC
-#	Ne	O
+
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -126608,7 +126398,6 @@ BBC	RES	O
 شدند	V	O
 .	PUNC	O
 
-#	PUNC	O
 کارخانه	Ne	O
 ترقه‌سازی	N	O
 در	P	O
@@ -126618,7 +126407,6 @@ BBC	RES	O
 رفت	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -126768,12 +126556,11 @@ BBC	RES	O
 می‌دهد	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 خوارزمی	N	B-PERS
 و	CONJ	O
 دانشمندان	Ne	O
@@ -130511,7 +130298,6 @@ BBC	RES	O
 کنند	V	O
 .	PUNC	O
 
-#	PUNC	O
 دموکراتها	N	O
 در	P	O
 کمین	N	O
@@ -130520,7 +130306,6 @@ BBC	RES	O
 هستند	V	O
 .	PUNC	O
 
-#	PUNC	O
 واشنگتن	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -132322,7 +132107,6 @@ BBC	RES	O
 قاضیان	N	B-PERS
 .	PUNC	O
 
-#	PUNC	O
 پیشنهاد	N	O
 به	P	O
 منظور	Ne	O
@@ -132332,7 +132116,7 @@ BBC	RES	O
 انبوه	AJe	O
 پزشکان	N	O
 بیکار	AJ	O
-#	PUNC	O
+
 پیشنهاد	N	O
 می‌شود	V	O
 داوران	Ne	O
@@ -132937,14 +132721,13 @@ BBC	RES	O
 می‌شود	V	O
 .	PUNC	O
 
-#	N	O
 با	P	O
 احترام	N	O
 ،	PUNC	O
 سید	N	B-PERS
 باقر	Ne	I-PERS
 ابطحی	N	I-PERS
-#	PUNC	O
+
 احمد	Ne	B-PERS
 گلچین	Ne	I-PERS
 معانی	N	I-PERS
@@ -137467,7 +137250,6 @@ BBC	RES	O
 می‌رود	V	O
 .	PUNC	O
 
-#	N	O
 به	P	O
 مسجد	Ne	O
 ارباب	Ne	O
@@ -137475,7 +137257,6 @@ BBC	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 میخانهٔ	Ne	O
 ما	PRO	O
 مسجد	Ne	O
@@ -137708,7 +137489,6 @@ BBC	RES	O
 می‌کنم	V	O
 .	PUNC	O
 
-#	PUNC	O
 "	PUNC	O
 نرمش	N	O
 یا	CONJ	O
@@ -137724,7 +137504,7 @@ BBC	RES	O
 ایران	N	I-ORG
 -	PUNC	O
 واتیکان	N	B-LOC
-#	PUNC	O
+
 در	P	O
 زمان	Ne	O
 رسول	Ne	B-PERS
@@ -139574,7 +139354,6 @@ BBC	RES	O
 دارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 هشدار	Ne	O
 انجمن	Ne	B-ORG
 جراحان	Ne	I-ORG
@@ -139584,7 +139363,7 @@ BBC	RES	O
 بیماران	Ne	O
 قلبی	AJe	O
 ایران	N	B-LOC
-#	PUNC	O
+
 رایس	N	O
 انجمن	Ne	B-ORG
 جراحان	Ne	I-ORG
@@ -140395,12 +140174,11 @@ BBC	RES	O
 بپوشانند	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 از	P	O
 آن	DET	O
 طرف	N	O
@@ -140448,11 +140226,10 @@ BBC	RES	O
 آورند	V	O
 .	PUNC	O
 
-#	PUNC	O
 اقدامات	Ne	O
 خلاف	Ne	O
 انتظار	Ne	O
-#	Ne	O
+
 روزنامه	Ne	B-ORG
 بهار	N	I-ORG
 در	P	O
@@ -141569,12 +141346,11 @@ BBC	RES	O
 دارند	V	O
 .	PUNC	O
 
-#	PUNC	O
 عدم	Ne	O
 رعایت	Ne	O
 قواعد	Ne	O
 بازی	N	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 همشهری	N	I-ORG
 از	P	O
@@ -141949,11 +141725,10 @@ BBC	RES	O
 رفت	V	O
 .	PUNC	O
 
-#	PUNC	O
 ناامیدی	N	O
 یک	NUM	O
 جناح	Ne	O
-#	Ne	O
+
 روزنامه	Ne	B-ORG
 بیان	N	I-ORG
 تحت	Pe	O
@@ -142262,18 +142037,17 @@ BBC	RES	O
 کرد	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 در	P	O
 صفحه	Ne	O
 ۴	NUM	O
 #	RES	O
-#	PUNC	O
+
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 مازاد	Ne	O
 تراز	Ne	O
 حساب	Ne	O
@@ -145825,11 +145599,10 @@ BBC	RES	O
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 ترمیم	N	O
 و	CONJ	O
 ریاست	Ne	O
-#	Ne	O
+
 روزنامه	Ne	B-ORG
 ایران	N	I-ORG
 با	P	O
@@ -146626,7 +146399,6 @@ BBC	RES	O
 حدیث	N	O
 .	PUNC	O
 
-#	PUNC	O
 آشنایی	N	O
 با	P	O
 مجمع	Ne	B-ORG
@@ -146634,7 +146406,7 @@ BBC	RES	O
 فرهنگ	Ne	I-ORG
 اسلامی	AJe	I-ORG
 بندرعباس	N	I-ORG
-#	N	O
+
 مدیر	Ne	O
 میراث	Ne	B-ORG
 فرهنگی	AJe	I-ORG
@@ -147140,12 +146912,11 @@ BBC	RES	O
 می‌باشد	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 آنان	PRO	O
 که	CONJ	O
 به	P	O
@@ -148698,7 +148469,6 @@ BBC	RES	O
 داشت	V	O
 .	PUNC	O
 
-#	PUNC	O
 تونل	Ne	B-LOC
 کندوان	N	I-LOC
 امسال	ADV	O
@@ -148706,7 +148476,6 @@ BBC	RES	O
 می‌شود	V	O
 .	PUNC	O
 
-#	N	O
 فرماندار	Ne	O
 شهرستان	Ne	O
 چالوس	N	B-LOC
@@ -149221,7 +148990,6 @@ BBC	RES	O
 رسید	V	O
 .	PUNC	O
 
-#	PUNC	O
 فیلم‌های	Ne	O
 ایرانی	AJ	O
 در	P	O
@@ -149232,7 +149000,6 @@ BBC	RES	O
 بردند	V	O
 .	PUNC	O
 
-#	Ne	O
 پاریس	N	B-LOC
 ،	PUNC	O
 ایرنا	N	B-ORG
@@ -149592,11 +149359,10 @@ BBC	RES	O
 "	PUNC	O
 .	PUNC	O
 
-#	PUNC	O
 گزارش	Ne	O
 خبرگزاری	Ne	B-ORG
 فرانسه	N	I-ORG
-#	PUNC	O
+
 خبرگزاری	Ne	B-ORG
 فرانسه	N	I-ORG
 در	P	O
@@ -151338,7 +151104,6 @@ BBC	RES	O
 می‌کرد	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
@@ -151351,7 +151116,6 @@ BBC	RES	O
 می‌مانند	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 انتخاب	N	I-ORG
 در	P	O
@@ -151679,14 +151443,12 @@ BBC	RES	O
 شد	V	O
 .	PUNC	O
 
-#	N	O
 چرا	ADV	O
 از	P	O
 یاد	N	O
 نمی‌رود	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 بهار	N	I-ORG
 سرمقاله	Ne	O
@@ -152276,10 +152038,10 @@ BBC	RES	O
 درک	N	O
 نکرده‌اند	V	O
 …	PUNC	O
-#	PUNC	O
+
 خبر	Ne	O
 ایذایی	AJ	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 ابرار	N	I-ORG
 در	P	O
@@ -152949,7 +152711,7 @@ BBC	RES	O
 ۷۹	NUM	O
 -	PUNC	O
 ۷۸	NUM	O
-#	PUNC	O
+
 با	P	O
 یک	NUM	O
 بررسی	Ne	O
@@ -153237,7 +152999,6 @@ BBC	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 بهترین	AJ	O
 مربیان	Ne	O
 #	AJ	O
@@ -153376,13 +153137,12 @@ BBC	RES	O
 بود	V	O
 .	PUNC	O
 
-#	PUNC	O
 سهمیه	Ne	O
 شهرها	N	O
 در	P	O
 لیگ	Ne	O
 آینده	Ne	O
-#	N	O
+
 در	P	O
 لیگ	Ne	O
 آینده	N	O
@@ -153529,7 +153289,6 @@ BBC	RES	O
 داشت	V	O
 .	PUNC	O
 
-#	PUNC	O
 هواپیمای	Ne	O
 آمریکایی	AJ	O
 با	P	O
@@ -153539,7 +153298,6 @@ BBC	RES	O
 کرد	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -153833,7 +153591,6 @@ BBC	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 فروریختن	Ne	O
 یک	NUM	O
 پل	N	O
@@ -153849,7 +153606,6 @@ BBC	RES	O
 گذاشت	V	O
 .	PUNC	O
 
-#	Ne	O
 نیویورک	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -154028,12 +153784,11 @@ BBC	RES	O
 هستند	V	O
 .	PUNC	O
 
-#	PUNC	O
 انفجار	Ne	O
 مهیب	AJ	O
 در	P	O
 لس‌آنجلس	N	B-LOC
-#	Ne	O
+
 نیویورک	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -154184,7 +153939,6 @@ BBC	RES	O
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
@@ -154721,12 +154475,11 @@ BBC	RES	O
 خون	Ne	O
 خویش	PRO	O
 !	PUNC	O
-#	PUNC	O
+
 ادامه	N	O
 دارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 پی‌نوشت	N	O
 :	PUNC	O
 ۱	NUM	O
@@ -154832,7 +154585,6 @@ BBC	RES	O
 ۹۴۱	NUM	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
@@ -156697,14 +156449,12 @@ BBC	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 کهنسال‌ترین	AJ	O
 رمان‌نویس	Ne	O
 انگلیس	N	B-LOC
 درگذشت	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -157095,14 +156845,13 @@ BBC	RES	O
 می‌کنند	V	O
 .	PUNC	O
 
-#	PUNC	O
 ساخت	Ne	O
 یک	NUM	O
 داروی	Ne	O
 جدید	AJ	O
 برای	Pe	O
 ایدز	N	O
-#	PUNC	O
+
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -157216,7 +156965,6 @@ BBC	RES	O
 می‌شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 مقبره	Ne	O
 حاکم	Ne	O
 واحه‌ها	N	O
@@ -157224,7 +156972,6 @@ BBC	RES	O
 شد	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -157803,7 +157550,6 @@ BBC	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 گزارش	Ne	O
 آبزرور	N	B-ORG
 از	P	O
@@ -157812,7 +157558,7 @@ BBC	RES	O
 عراق	N	B-LOC
 و	CONJ	O
 اسراییل	N	B-LOC
-#	Ne	O
+
 لندن	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -159102,7 +158848,6 @@ BBC	RES	O
 آمریکایی	AJ	O
 .	PUNC	O
 
-#	PUNC	O
 بزرگترین	AJ	O
 معدن	Ne	O
 الماس	Ne	O
@@ -159115,7 +158860,6 @@ BBC	RES	O
 کرد	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -159362,7 +159106,6 @@ BBC	RES	O
 دهد	V	O
 .	PUNC	O
 
-#	PUNC	O
 درون‌زایی	N	O
 و	CONJ	O
 تکثیر	Ne	O
@@ -159371,7 +159114,7 @@ BBC	RES	O
 مورچه	N	O
 در	P	O
 آمریکا	N	B-LOC
-#	Ne	O
+
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -160503,13 +160246,12 @@ BBC	RES	O
 فرو‌رود	V	O
 .	PUNC	O
 
-#	Ne	O
 درمانی	AJe	O
 جدید	AJ	O
 برای	Pe	O
 وزوز	Ne	O
 گوش	Ne	O
-#	Ne	O
+
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -161904,7 +161646,6 @@ Portugal	RES	O
 پاپها	N	B-ORG
 »	PUNC	O
 
-
 	PUNC	O
 پیوند	N	O
 به	P	O
@@ -162018,7 +161759,6 @@ Portugal	RES	O
 پخش	N	O
 شد	V	O
 .	PUNC	O
-
 
 برخی	DET	O
 از	P	O
@@ -171074,7 +170814,6 @@ Stealth	RES	O
 باختند	V	O
 .	PUNC	O
 
-
 محمد	Ne	B-PERS
 بن	Ne	I-PERS
 حسن	Ne	I-PERS
@@ -171768,7 +171507,6 @@ Stealth	RES	O
 جمله‌است	V	O
 :	PUNC	O
 
-
 رویه	ADV	O
 قطب	Ne	O
 جنوب	N	O
@@ -171895,7 +171633,6 @@ Stealth	RES	O
 تشکیل	N	O
 می‌شود	V	O
 .	PUNC	O
-
 
 جَمشید	N	B-PERS
 مَشایخی	N	I-PERS
@@ -172297,7 +172034,6 @@ Stealth	RES	O
 شد	V	O
 .	PUNC	O
 
-
 داوود	Ne	B-PERS
 رشیدی	N	I-PERS
 (	PUNC	O
@@ -172601,7 +172337,6 @@ Stealth	RES	O
 روی	N	O
 آورد	V	O
 .	PUNC	O
-
 
 پرویز	Ne	B-PERS
 پرستویی	N	I-PERS
@@ -173639,7 +173374,6 @@ Stealth	RES	O
 شده	است	O
 .	PUNC	O
 
-
 لیلی	Ne	B-PERS
 رشیدی	N	I-PERS
 (	PUNC	O
@@ -173863,7 +173597,6 @@ Santana	RES	O
 جلو	ADV	O
 بوده	است	O
 .	PUNC	O
-
 
 سنبلاوین	N	O
 لیلا	N	B-PERS
@@ -175469,7 +175202,6 @@ Santana	RES	O
 سال	Ne	B-MISC
 ۲۰۱۳	NUM	I-MISC
 
-
 کریستین	N	B-PERS
 مونجیو	N	I-PERS
 (	PUNC	O
@@ -175712,7 +175444,6 @@ Santana	RES	O
 ۱۳۹۱	NUMe	O
 )	PUNC	O
 
-
 مهران	Ne	B-PERS
 غفوریان	N	I-PERS
 (	PUNC	O
@@ -175947,7 +175678,6 @@ Santana	RES	O
 خود	PRO	O
 نماید	V	O
 .	PUNC	O
-
 
 سید	N	B-PERS
 مجید	Ne	I-PERS
@@ -176275,7 +176005,6 @@ Santana	RES	O
 سال	Ne	B-MISC
 ۱۳۹۴	NUM	I-MISC
 
-
 زیبا	AJ	B-PERS
 بروفه	N	I-PERS
 (	PUNC	O
@@ -176343,7 +176072,6 @@ Santana	RES	O
 بازیگر	N	O
 است	V	O
 .	PUNC	O
-
 
 محمد	Ne	B-PERS
 خزاعی	N	I-PERS
@@ -176789,7 +176517,6 @@ Santana	RES	O
 کرد	V	O
 .	PUNC	O
 
-
 ترموستات	N	O
 یک	NUM	O
 خودرو	N	O
@@ -177119,7 +176846,6 @@ zi-zer-na-ka-bert	RES	O
 شده	V	O
 .	PUNC	O
 
-
 پترولوژی	N	O
 (	PUNC	O
 از	P	O
@@ -177205,7 +176931,6 @@ zi-zer-na-ka-bert	RES	O
 اطلاق	N	O
 می‌گردد	V	O
 .	PUNC	O
-
 
 دولت	N	O
 در	P	O
@@ -181938,7 +181663,6 @@ state	RES	O
 می‌دادند	V	O
 .	PUNC	O
 
-
 رده	N	O
 :	PUNC	O
 زبان‌های	Ne	O
@@ -182507,7 +182231,6 @@ jpg|بندانگشتی|	Ne	O
 هم	CONJ	O
 دارد	V	O
 .	PUNC	O
-
 
 فعالیتی	N	O
 که	CONJ	O
@@ -184128,7 +183851,6 @@ block	RES	O
 است	V	O
 .	PUNC	O
 
-
 مهندسیِ	N	O
 هوافضا	N	O
 در	P	O
@@ -184501,7 +184223,6 @@ block	RES	O
 صنعت	N	O
 دیده	می‌شود	O
 .	PUNC	O
-
 
 ارمنیان	N	O
 جشن‌های	Ne	O
@@ -185211,7 +184932,6 @@ block	RES	O
 می‌شد	V	O
 .	PUNC	O
 
-
 به	P	O
 فرایند	Ne	O
 کاهش	N	O
@@ -185318,7 +185038,6 @@ block	RES	O
 اشاره	N	O
 داشته	باشد	O
 :	PUNC	O
-
 
 طراحی	Ne	O
 حرکات	Ne	O
@@ -185437,7 +185156,6 @@ block	RES	O
 عنوان	Ne	O
 مثال	N	O
 :	PUNC	O
-
 
 	PUNC	O
 اجازه‌نامه	N	O
@@ -185608,7 +185326,6 @@ block	RES	O
 "	PUNC	O
 
 .	PUNC	O
-
 
 رامبد	Ne	B-PERS
 جوان	Ne	I-PERS
@@ -185901,7 +185618,6 @@ block	RES	O
 دریافت	N	O
 کرد	V	O
 .	PUNC	O
-
 
 عادل	N	B-PERS
 فردوسی‌پور	N	I-PERS
@@ -188069,7 +187785,6 @@ block	RES	O
 داشت	V	O
 .	PUNC	O
 
-
 ،	PUNC	O
 به‌طور	Pe	O
 سنتی	AJ	O
@@ -188442,7 +188157,6 @@ block	RES	O
 خانه	N	O
 کند	V	O
 »	PUNC	O
-
 
 قهوه	Ne	O
 تلخ	AJ	O
@@ -189709,7 +189423,6 @@ University	RES	O
 شود	V	O
 .	PUNC	O
 
-
 مِنا	N	B-LOC
 (	PUNC	O
 مِنیٰ	N	O
@@ -190055,7 +189768,6 @@ University	RES	O
 قربان‌گاه	N	O
 برد	V	O
 .	PUNC	O
-
 
 ۲۰	NUMe	B-MISC
 نوامبر	Ne	I-MISC
@@ -191501,7 +191213,6 @@ University	RES	O
 هوشنگ	Ne	B-PERS
 اسماعیلیان	N	I-PERS
 
-
 آناناس	N	O
 ،	PUNC	O
 گوجه	N	O
@@ -191674,7 +191385,6 @@ c	RES	O
 نیز	CONJ	O
 گردد	V	O
 .	PUNC	O
-
 
 کالباس	N	O
 برش	N	O
@@ -192642,7 +192352,6 @@ PH	RES	O
 نامنطبق	AJ	O
 بودند	V	O
 .	PUNC	O
-
 
 نعناع	N	O
 و	CONJ	O
@@ -194442,7 +194151,6 @@ PH	RES	O
 می‌شود	V	O
 .	PUNC	O
 
-
 محدود	AJ	O
 شده	V	O
 و	CONJ	O
@@ -194568,7 +194276,6 @@ PH	RES	O
 روبیده	AJ	O
 شد	V	O
 .	PUNC	O
-
 
 رود	Ne	B-LOC
 آغ	N	I-LOC
@@ -194746,7 +194453,6 @@ PH	RES	O
 گردیده	V	O
 است	V	O
 .	PUNC	O
-
 
 ژاویر	N	B-PERS
 هرناندز	N	I-PERS
@@ -195671,7 +195377,6 @@ IFFHS	RES	O
 برد	V	O
 .	PUNC	O
 
-
 سالنامه	Ne	O
 دفتر	N	O
 یا	CONJ	O
@@ -195857,7 +195562,6 @@ IFFHS	RES	O
 جیبی	AJ	O
 .	PUNC	O
 
-
 ۲۸	NUMe	B-MISC
 بهمن	N	I-MISC
 -	PUNC	O
@@ -195893,7 +195597,6 @@ IFFHS	RES	O
 مانده	است	O
 .	PUNC	O
 
-
 ۱۴	NUMe	B-MISC
 اسفند	N	I-MISC
 -	PUNC	O
@@ -195927,7 +195630,6 @@ IFFHS	RES	O
 )	PUNC	O
 مانده	است	O
 .	PUNC	O
-
 
 سِر	N	B-PERS
 ایزاک	N	I-PERS
@@ -199246,7 +198948,6 @@ Principia	RES	O
 هوک	REC	B-PERS
 بوده	است	O
 .	PUNC	O
-
 
 اسکندر	Ne	B-PERS
 سوم	NUM	I-PERS
@@ -211250,7 +210951,6 @@ gloriae	RES	O
 می‌گیرد	V	O
 .	PUNC	O
 
-
 نورالدّین	N	B-PERS
 عبد	Ne	I-PERS
 الرّحمن	N	I-PERS
@@ -212632,7 +212332,6 @@ ISBN	RES	O
 ISBN	RES	O
 ۹۷۸-۹۶۴-۷۲۸۳-۶۰-۱	NUM	O
 .	PUNC	O
-
 
 پزشکی	Ne	O
 یک	NUM	O
@@ -217795,7 +217494,6 @@ PHD	RES	O
 می‌شود	V	O
 .	PUNC	O
 
-
 ترابری	N	O
 و	CONJ	O
 یا	CONJ	O
@@ -218943,7 +218641,6 @@ Transparent	RES	O
 رفته‌است	V	O
 .	PUNC	O
 
-
 ئاشتی	N	O
 (	PUNC	O
 Aştî	RES	O
@@ -219019,7 +218716,6 @@ Aştî	RES	O
 ممنوع	AJ	O
 شد	V	O
 .	PUNC	O
-
 
 left|۳۰۰px|alt=آشنایی	N	O
 با	P	O
@@ -220168,7 +219864,6 @@ NUMBEROFARTICLES	N	O
 کنید	V	O
 .	PUNC	O
 
-
 آشپزی	N	O
 یا	CONJ	O
 در	P	O
@@ -220273,7 +219968,6 @@ NUMBEROFARTICLES	N	O
 آمریکایی	AJ	O
 .	PUNC	O
 
-
 موسیقی	Ne	O
 سازی	AJ	O
 یا	CONJ	O
@@ -220311,7 +220005,6 @@ NUMBEROFARTICLES	N	O
 تقسیم	N	O
 می‌شود	V	O
 .	PUNC	O
-
 
 اریک	N	B-PERS
 پاتریک	N	I-PERS
@@ -221533,7 +221226,6 @@ yours	RES	O
 دوم	NUM	O
 قرار	N	O
 داد	V	O
-
 
 زبان	Ne	O
 یک	NUM	O
@@ -222915,7 +222607,6 @@ Klingon	RES	O
 توصیه	N	O
 کرد	V	O
 .	PUNC	O
-
 
 نرم‌افزار	Ne	O
 آزاد	Ne	O
@@ -224859,7 +224550,6 @@ Free	RES	O
 کند	V	O
 .	PUNC	O
 
-
 ابوالحسن	Ne	B-PERS
 نصر	N	I-PERS
 بن	Ne	I-PERS
@@ -225936,7 +225626,6 @@ Free	RES	O
 دریافت	N	O
 کرد	V	O
 .	PUNC	O
-
 
 جلال‌الدین	N	B-PERS
 محمد	Ne	I-PERS
@@ -229611,7 +229300,6 @@ page=۲|نسخه‌ای	N	O
 گردید	V	O
 .	PUNC	O
 
-
 ابوشکور	Ne	B-PERS
 بلخی	N	I-PERS
 (	PUNC	O
@@ -230039,7 +229727,6 @@ page=۲|نسخه‌ای	N	O
 خبر	N	O
 می‌دهد	V	O
 :	PUNC	O
-
 
 توزیع	Ne	O
 نرمال	AJ	O
@@ -233342,7 +233029,6 @@ ANVها	RES	O
 صفت	Ne	O
 متغیر	AJ	O
 
-
 ابوالفضل	Ne	B-PERS
 محمد	Ne	I-PERS
 بن	Ne	I-PERS
@@ -233665,7 +233351,6 @@ ANVها	RES	O
 بانویه	N	I-PERS
 گوید	V	O
 :	PUNC	O
-
 
 کیومرث	Ne	B-PERS
 صابری	Ne	I-PERS
@@ -234679,7 +234364,6 @@ ANVها	RES	O
 مؤسسه	Ne	B-ORG
 گل‌آقا	N	I-ORG
 
-
 زندیق	AJ	O
 معرب	Ne	O
 واژه‌های	Ne	O
@@ -235119,7 +234803,6 @@ ANVها	RES	O
 تنور	Ne	O
 سوزانیده‌شد	AJ	O
 .	PUNC	O
-
 
 سرود	Ne	O
 ملّی	AJ	O
@@ -236477,7 +236160,6 @@ gif	RES	O
 شده‌است	V	O
 .	PUNC	O
 
-
 یک	NUM	O
 الگو	N	O
 یک	NUM	O
@@ -236741,7 +236423,6 @@ gif	RES	O
 میان	N	O
 آید	V	O
 .	PUNC	O
-
 
 ابوعلی	N	B-PERS
 حسین	N	I-PERS
@@ -241367,7 +241048,6 @@ V	RES	O
 دارد	V	O
 .	PUNC	O
 
-
 نورخان	N	O
 یا	CONJ	O
 پاسیو	N	O
@@ -241436,7 +241116,6 @@ V	RES	O
 زیبایی	N	O
 است	V	O
 .	PUNC	O
-
 
 چندکارگی	N	O
 یا	CONJ	O
@@ -241561,7 +241240,6 @@ V	RES	O
 .	PUNC	O
 
 ۵-	N	O
-
 
 تولی	N	B-PERS
 خان	Ne	I-PERS
@@ -241887,7 +241565,6 @@ V	RES	O
 اداره	N	O
 می‌شد	V	O
 .	PUNC	O
-
 
 تاووش	N	B-LOC
 (	PUNC	O
@@ -242474,7 +242151,6 @@ rural	RES	O
 خوک	N	O
 است	V	O
 .	PUNC	O
-
 
 ازبکستان	N	B-LOC
 (	PUNC	O
@@ -243135,7 +242811,6 @@ Uzbekistan	RES	O
 برآورد	N	O
 شده‌اند	V	O
 .	PUNC	O
-
 
 مَزار	N	B-LOC
 شَریف	N	I-LOC
@@ -243802,7 +243477,6 @@ Uzbekistan	RES	O
 )	PUNC	O
 هستند	V	O
 .	PUNC	O
-
 
 کانادا	N	B-LOC
 کشوری	N	O
@@ -246409,7 +246083,6 @@ CF	RES	O
 زیاد	AJ	O
 می‌باشد	V	O
 .	PUNC	O
-
 
 آل	Ne	B-ORG
 بویه	N	I-ORG
@@ -251803,7 +251476,6 @@ CF	RES	O
 اوست	V	O
 .	PUNC	O
 
-
 تاجیکستان	N	B-LOC
 یا	CONJ	O
 جمهوری	Ne	B-LOC
@@ -254150,7 +253822,6 @@ XV	RES	O
 ملاقات	N	O
 نمود	V	O
 .	PUNC	O
-
 
 کشوری	N	O
 در	P	O
@@ -258259,7 +257930,6 @@ XV	RES	O
 مجار	AJ	O
 است	V	O
 .	PUNC	O
-
 
 بازی‌های	Ne	O
 المپیک	N	O
@@ -265734,7 +265404,6 @@ sano	RES	O
 شده‌است	V	O
 .	PUNC	O
 
-
 کلید	NUM	O
 سُل	N	O
 به‌همراه	ADV	O
@@ -266756,7 +266425,6 @@ C۴	N	O
 زیر	N	O
 آورده	می‌شود	O
 :	PUNC	O
-
 
 کروم	N	O
 یکی	NUM	O
@@ -268052,7 +267720,6 @@ VI	N	O
 شده	V	O
 تغییر	N	O
 نکرد	V	O
-
 
 استان	Ne	O
 سمنان	N	B-LOC
@@ -271130,7 +270797,6 @@ VI	N	O
 علی	REC	B-PERS
 احمد	Ne	I-PERS
 پناهی	N	I-PERS
-
 
 صَفّاریان	N	B-ORG
 دودمانی	N	O
@@ -275055,7 +274721,6 @@ VI	N	O
 می‌دهند	V	O
 .	PUNC	O
 
-
 شیمی	Ne	O
 آلی	AJe	O
 زیر	Pe	O
@@ -276450,7 +276115,6 @@ C۷H۱۶	N	O
 شیمی	Ne	O
 آلی	AJ	O
 
-
 استان	Ne	O
 تهران	N	B-LOC
 به	P	O
@@ -277708,7 +277372,6 @@ C۷H۱۶	N	O
 بودند	V	O
 .	PUNC	O
 
-
 فلوئور	N	O
 (	PUNC	O
 )	PUNC	O
@@ -278396,7 +278059,6 @@ PPM	N	O
 می‌کند	V	O
 .	PUNC	O
 
-
 سیما	N	B-PERS
 بینا	N	I-PERS
 ،	PUNC	O
@@ -278823,7 +278485,6 @@ PPM	N	O
 عزیزوم	Ne	O
 بهلولی	N	O
 ام	N	O
-
 
 تصویر	N	O
 یک	NUM	O
@@ -280606,7 +280267,6 @@ CNET	N	O
 می‌شوند	V	O
 .	PUNC	O
 
-
 مدل	Ne	O
 کارخواه-کارساز	N	O
 یا	CONJ	O
@@ -281015,7 +280675,6 @@ n-لایه	N	O
 دارند	V	O
 .	PUNC	O
 
-
 ورقه‌های	Ne	O
 زمین‌ساختیِ	N	O
 کُرهٔ	Ne	O
@@ -281188,7 +280847,6 @@ n-لایه	N	O
 دست	N	O
 می‌پردازد	V	O
 .	PUNC	O
-
 
 ارنست	N	B-PERS
 رادرفورد	N	I-PERS
@@ -282227,7 +281885,6 @@ n-لایه	N	O
 نامیده‌اند	V	O
 .	PUNC	O
 
-
 ۳۰۰px|left|thumb|	NUM	O
 هواگرد	N	O
 به	P	O
@@ -282489,7 +282146,6 @@ n-لایه	N	O
 وجود	N	O
 دارد	V	O
 .	PUNC	O
-
 
 سیدارتا	N	B-PERS
 گَوتاما	N	I-PERS
@@ -282962,7 +282618,6 @@ n-لایه	N	O
 بوده	است	O
 .	PUNC	O
 
-
 جغتای	N	B-PERS
 پسر	Ne	O
 دوم	NUM	O
@@ -283143,7 +282798,6 @@ n-لایه	N	O
 اتفاق	N	O
 افتاد	V	O
 .	PUNC	O
-
 
 عراق	N	B-LOC
 با	P	O

@@ -1768,6 +1768,11 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       featuresC.add(hasDigit +"-HAS-DIGIT");
     }
 
+    if(flags.useDependencyParsing) {
+      System.out.println(flags.useDependencyParsing);
+//      featuresC.add(hasDigit +"-HAS-DIGIT");
+    }
+
     return featuresC;
   } // end featuresC()
 

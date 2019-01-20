@@ -4286,7 +4286,7 @@
 بسیار	ADV	O
 قدرتمندند	V	O
 !	PUNC	O
-#	PUNC	O
+
 سرهنگ	Ne	O
 عراقی	AJ	O
 ،	PUNC	O
@@ -4296,7 +4296,7 @@
 :	PUNC	O
 رسول	Ne	B-PERS
 رضاگاه	N	I-PERS
-#	PUNC	O
+
 نامه‌ای	N	O
 به	P	O
 شاعر	Ne	O
@@ -5499,12 +5499,11 @@
 خدا	N	O
 عزوجل	AJ	O
 !	PUNC	O
-#	PUNC	O
+
 ادامه	N	O
 دارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 پی‌نوشتها	N	O
 :	PUNC	O
 ۱	NUM	O
@@ -6593,14 +6592,12 @@
 آمد	V	O
 .	PUNC	O
 
-#	PUNC	O
 رایس‌جمهور	N	O
 وارد	Pe	O
 خرمشهر	N	B-LOC
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 رایس‌جمهوری	N	O
 برای	Pe	O
 شرکت	N	O
@@ -6825,11 +6822,10 @@
 گرفت	V	O
 .	PUNC	O
 
-#	PUNC	O
 نرمش	N	O
 یا	CONJ	O
 خشونت	N	O
-#	PUNC	O
+
 دکتر	N	O
 محمدهادی	Ne	B-PERS
 عبد‌خداای	N	I-PERS
@@ -7955,7 +7951,7 @@
 بنی‌اسراایل	N	B-ORG
 تفرقه	N	O
 افکندی	V	O
-#	PUNC	O
+
 بقیه	N	O
 در	P	O
 صفحه	Ne	O
@@ -8470,7 +8466,6 @@
 کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 مذاکرات	Ne	O
 وزرای	Ne	O
 امور	Ne	O
@@ -8478,7 +8473,7 @@
 ایران	N	B-LOC
 و	CONJ	O
 هند	N	B-LOC
-#	PUNC	O
+
 دکتر	N	O
 سید	N	B-PERS
 کمال	Ne	I-PERS
@@ -8684,12 +8679,11 @@
 شود	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 فرماندهی	Ne	O
 کل	Ne	O
 قوا	N	O
@@ -11719,10 +11713,9 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 مرگ	Ne	O
 معاویه	N	B-PERS
-#	Ne	O
+
 معاویه	N	B-PERS
 در	P	O
 ماه	Ne	O
@@ -12480,7 +12473,6 @@
 باشد	V	O
 .	PUNC	O
 
-#	PUNC	O
 احضار	Ne	O
 سفیر	Ne	O
 ترکیه	N	B-LOC
@@ -12489,7 +12481,7 @@
 امور	Ne	I-ORG
 خارجه	AJe	I-ORG
 ایران	N	I-ORG
-#	PUNC	O
+
 در	P	O
 اعتراض	N	O
 به	P	O
@@ -12658,12 +12650,11 @@
 کرد	V	O
 .	PUNC	O
 
-#	PUNC	O
 اظهارات	Ne	O
 سخنگوی	Ne	O
 وزارت	Ne	B-ORG
 خارجه	AJe	I-ORG
-#	N	O
+
 سخنگوی	Ne	O
 وزارت	Ne	B-ORG
 امور	Ne	I-ORG
@@ -12778,11 +12769,10 @@
 می‌شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 اطلاعیه	Ne	O
 شهربانی	Ne	O
 استانبول	N	B-LOC
-#	N	O
+
 در	P	O
 همین	DET	O
 حال	N	O
@@ -13352,7 +13342,6 @@
 می‌کرد	V	O
 .	PUNC	O
 
-#	PUNC	O
 نخستین	AJ	O
 جلسهٔ	Ne	O
 شورای	Ne	B-ORG
@@ -13363,7 +13352,6 @@
 شد	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -13599,7 +13587,6 @@
 می‌دهند	V	O
 .	PUNC	O
 
-#	PUNC	O
 پیام	Ne	O
 تبریک	Ne	O
 دکتر	N	O
@@ -13608,7 +13595,7 @@
 برگزیدگان	Ne	O
 ایرانی	AJ	O
 کن	V	B-LOC
-#	PUNC	O
+
 وزیر	Ne	O
 فرهنگ	N	O
 و	CONJ	O
@@ -13734,7 +13721,6 @@
 باشد	V	O
 .	PUNC	O
 
-#	PUNC	O
 نمایشگاه	Ne	O
 آثار	Ne	O
 نقاشان	Ne	O
@@ -13746,7 +13732,6 @@
 یافت	V	O
 .	PUNC	O
 
-#	PUNC	O
 نمایشگاه	Ne	O
 آثار	Ne	O
 نقاشان	Ne	O
@@ -14294,7 +14279,6 @@
 نوبری	N	I-PERS
 .	PUNC	O
 
-#	Ne	O
 دانشگاه	Ne	B-ORG
 پیام	Ne	I-ORG
 نور	Ne	I-ORG
@@ -14306,7 +14290,6 @@
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 مسابقه‌های	Ne	O
 پینگ‌پنگ	Ne	O
 قهرمانی	Ne	O
@@ -14457,7 +14440,6 @@
 شد	V	O
 .	PUNC	O
 
-#	Ne	O
 تیم	Ne	O
 ملی	AJe	O
 جودو	Ne	O
@@ -14467,7 +14449,6 @@
 شد	V	O
 .	PUNC	O
 
-#	Ne	O
 تیم	Ne	O
 ملی	AJe	O
 جودو	Ne	O
@@ -14595,7 +14576,6 @@
 کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 تلفن	N	O
 همراه	N	O
 به	P	O
@@ -14607,7 +14587,6 @@
 کرد	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -14720,7 +14699,6 @@
 بودند	V	O
 .	PUNC	O
 
-#	PUNC	O
 ۱۷۸	NUM	O
 کیلو	CL	O
 هرواین	N	O
@@ -14737,7 +14715,6 @@
 آمد	V	O
 .	PUNC	O
 
-#	Ne	O
 آنکارا	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -14805,7 +14782,6 @@
 کنند	V	O
 .	PUNC	O
 
-#	N	O
 از	P	O
 دو	NUM	O
 اتومبیل	Ne	O
@@ -14816,7 +14792,6 @@
 شد	V	O
 .	PUNC	O
 
-#	Ne	O
 آلماتی	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -14930,7 +14905,6 @@
 شده‌اند	V	O
 .	PUNC	O
 
-#	Ne	O
 ماهیگیری	N	O
 که	CONJ	O
 الیان	N	B-PERS
@@ -14943,7 +14917,7 @@
 غرامت	N	O
 می‌خواهد	V	O
 !	PUNC	O
-#	PUNC	O
+
 واشنگتن	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -15289,12 +15263,11 @@
 می‌بردند	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 فراکسیون	Ne	O
 اصلاح‌طلبان	Ne	O
 مجلس	Ne	B-ORG
@@ -15496,13 +15469,12 @@
 نخورد	V	O
 .	PUNC	O
 
-#	PUNC	O
 …	PUNC	O
 اجلاس	Ne	O
 فراکسیون	Ne	O
 جناح	Ne	O
 راست	AJ	O
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 بهار	N	I-ORG
 همچنین	CONJ	O
@@ -15766,11 +15738,10 @@
 کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 کاندیدای	Ne	O
 جبهه	Ne	B-ORG
 مشارکت	N	I-ORG
-#	Ne	O
+
 همین	DET	O
 روزنامه	N	O
 در	P	O
@@ -16269,10 +16240,9 @@
 …	PUNC	O
 .	PUNC	O
 
-#	PUNC	O
 اظهارات	Ne	O
 دبیرکل	Ne	O
-#	Ne	O
+
 روزنامه	Ne	B-ORG
 رسالت	N	I-ORG
 نیز	CONJ	O
@@ -17739,12 +17709,11 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 مرگ	N	O
 هنرپیشه	Ne	O
 سرشناس	AJe	O
 انگلیس	N	B-LOC
-#	Ne	O
+
 سیدنی	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -22797,11 +22766,10 @@
 کردند	V	O
 .	PUNC	O
 
-#	PUNC	O
 سخنان	Ne	O
 وزیر	Ne	O
 کشور	N	O
-#	PUNC	O
+
 پیش	ADV	O
 از	P	O
 سخنان	Ne	O
@@ -23287,12 +23255,11 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 نامه‌ای	N	O
 به	P	O
 شاعر	Ne	O
 شوریده	AJ	O
-#	PUNC	O
+
 بیت‌الغزل	Ne	O
 نوشته‌ات	N	O
 این	PRO	O
@@ -24340,12 +24307,10 @@
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 ادامه	N	O
 دارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 پی‌نوشت	N	O
 :	PUNC	O
 ۱	NUM	O
@@ -24355,7 +24320,6 @@
 ۱۳۷۹/۲/۲۶	NUM	B-MISC
 .	PUNC	O
 
-#	PUNC	O
 رایس‌جمهور	Ne	O
 خاتمی	N	B-PERS
 گفت	V	O
@@ -25224,7 +25188,6 @@
 کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 اعتبار‌نامه	Ne	O
 ۲۸۶	NUM	O
 نفر	N	O
@@ -25237,7 +25200,6 @@
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 اعتبارنامه‌های	Ne	O
 ۲۴۸	NUM	O
 نفر	N	O
@@ -25927,10 +25889,9 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 سیاست	Ne	O
 خارجی	AJ	O
-#	PUNC	O
+
 محسن	Ne	B-PERS
 امین‌زاده	N	I-PERS
 معاون	Ne	O
@@ -26340,12 +26301,11 @@
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 آنان	PRO	O
 در	P	O
 موارد	Ne	O
@@ -26589,18 +26549,15 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 مجلس	Ne	B-ORG
 شورای	Ne	I-ORG
 اسلامی	AJ	I-ORG
-#	PUNC	O
-#	PUNC	O
+
 فهرست	Ne	O
 مشترک	AJ	O
 می‌دهد	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 همشهری	N	I-ORG
 خبر	N	O
@@ -26952,13 +26909,11 @@
 کنیم	V	O
 .	PUNC	O
 
-#	PUNC	O
 گروکشی	Ne	O
 سیاسی	AJ	O
 نمی‌کنند	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 انتخاب	N	I-ORG
 نیز	CONJ	O
@@ -27288,14 +27243,12 @@
 می‌کنند	V	O
 .	PUNC	O
 
-#	PUNC	O
 زبان	N	O
 به	P	O
 طلبکاری	N	O
 گشوده‌اند	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 جمهوری	Ne	I-ORG
 اسلامی	AJ	I-ORG
@@ -27759,7 +27712,7 @@
 آن‌ها	PRO	O
 نیست	V	O
 ؟	PUNC	O
-#	PUNC	O
+
 رایس	N	O
 قوه	Ne	B-ORG
 قضاایه	N	I-ORG
@@ -27771,7 +27724,6 @@
 یابد	V	O
 .	PUNC	O
 
-#	PUNC	O
 رایس	N	O
 قوه	Ne	B-ORG
 قضاایه	N	I-ORG
@@ -28216,11 +28168,10 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 شاکی	Ne	O
 اصلی	AJe	O
 انتخابات	Ne	O
-#	N	O
+
 در	P	O
 عین	Ne	O
 حال	N	O
@@ -30848,9 +30799,8 @@
 بدارند	V	O
 .	PUNC	O
 
-#	Ne	O
 مراغه	N	B-LOC
-#	PUNC	O
+
 رایس	N	O
 اداره	Ne	B-ORG
 استاندارد	N	I-ORG
@@ -30921,9 +30871,8 @@
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 بجنورد	N	B-LOC
-#	PUNC	O
+
 همزمان	AJ	O
 با	P	O
 گرامیداشت	Ne	O
@@ -31024,9 +30973,8 @@
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 رشت	N	B-LOC
-#	PUNC	O
+
 ۲۰	NUM	O
 دفتر	Ne	B-ORG
 مخابرات	Ne	I-ORG
@@ -31136,9 +31084,8 @@
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 خرمشهر	N	B-LOC
-#	N	O
+
 با	P	O
 حضور	Ne	O
 رایس‌جمهوری	N	O
@@ -31212,9 +31159,8 @@
 می‌شود	V	O
 .	PUNC	O
 
-#	Ne	O
 اهواز	N	B-LOC
-#	PUNC	O
+
 همزمان	AJ	O
 با	P	O
 سالروز	Ne	O
@@ -31329,7 +31275,6 @@
 داشت	V	O
 .	PUNC	O
 
-#	Ne	O
 ۵۹	NUM	B-MISC
 درصد	Ne	I-MISC
 ماشین‌آلات	Ne	O
@@ -31341,10 +31286,8 @@
 می‌شود	V	O
 .	PUNC	O
 
-#	PUNC	O
-#	Ne	O
 خرم‌آباد	N	B-LOC
-#	N	O
+
 مدیرعامل	Ne	O
 بنگاه	Ne	B-ORG
 ماشین‌آلات	Ne	I-ORG
@@ -31460,19 +31403,17 @@
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 استقلال	Ne	O
 لبنان	N	B-LOC
 و	CONJ	O
 هشدار	Ne	O
 جدی	AJe	O
-#	Ne	O
-#	Ne	O
+
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
 اول	NUMe	O
-#	PUNC	O
+
 یک	NUMe	O
 خاورمیانه	Ne	B-LOC
 جدید	AJ	O
@@ -31876,7 +31817,6 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 احمد	Ne	B-PERS
 شاملو	N	I-PERS
 در	P	O
@@ -31885,7 +31825,6 @@
 شد	V	O
 .	PUNC	O
 
-#	PUNC	O
 احمد	Ne	B-PERS
 شاملو	N	I-PERS
 شاعر	Ne	O
@@ -31941,7 +31880,6 @@
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 سمیرا	N	B-PERS
 مخملباف	N	I-PERS
 :	PUNC	O
@@ -31954,7 +31892,6 @@
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 سمیرا	N	B-PERS
 مخملباف	N	I-PERS
 کارگردان	Ne	O
@@ -32026,7 +31963,6 @@
 می‌دانم	V	O
 .	PUNC	O
 
-#	PUNC	O
 یک	NUM	O
 روزنامه	Ne	O
 ژاپنی	AJ	O
@@ -32038,7 +31974,6 @@
 دارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 یک	NUM	O
 روزنامه	Ne	O
 ژاپنی	AJ	O
@@ -32161,7 +32096,6 @@
 بود	V	O
 .	PUNC	O
 
-#	PUNC	O
 فیلم‌های	Ne	O
 کوتاه	AJe	O
 حرفه‌ای	AJe	O
@@ -32173,7 +32107,6 @@
 می‌گیرد	V	O
 .	PUNC	O
 
-#	N	O
 مدیرعامل	Ne	O
 انجمن	Ne	B-ORG
 سینمای	Ne	I-ORG
@@ -32463,7 +32396,6 @@
 باشد	V	O
 .	PUNC	O
 
-#	PUNC	O
 تجلیل	N	O
 از	P	O
 دو	NUM	O
@@ -32471,7 +32403,7 @@
 ایرانی	AJ	O
 و	CONJ	O
 اتریشی	AJ	O
-#	PUNC	O
+
 هشتمین	NUM	O
 برنامه	Ne	O
 همبستگی	Ne	O
@@ -32551,7 +32483,6 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 نمایشگاه	Ne	O
 داامی	Ne	O
 آثار	Ne	O
@@ -32559,7 +32490,7 @@
 دالی	N	I-PERS
 در	P	O
 لندن	N	B-LOC
-#	Ne	O
+
 لندن	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -32649,7 +32580,6 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 رابرت	N	B-PERS
 رد‌فورد	N	I-PERS
 در	P	O
@@ -32659,7 +32589,6 @@
 می‌کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 بازی	Ne	O
 جاسوسی	N	O
 نام	Ne	O
@@ -33388,7 +33317,6 @@
 کرد	V	O
 .	PUNC	O
 
-#	PUNC	O
 بازی	Ne	O
 ایران	N	B-LOC
 -	PUNC	O
@@ -33551,11 +33479,10 @@
 آمد	V	O
 .	PUNC	O
 
-#	PUNC	O
 یک	NUM	O
 بازی	Ne	O
 سرعتی	AJ	O
-#	PUNC	O
+
 مهران‌پور	N	B-PERS
 سرمربی	Ne	O
 همیشه‌آرام	AJe	O
@@ -34507,7 +34434,6 @@
 می‌باشند	V	O
 .	PUNC	O
 
-#	PUNC	O
 مسابقات	Ne	O
 فوتسال	Ne	O
 جام	Ne	O
@@ -34517,7 +34443,6 @@
 یافت	V	O
 .	PUNC	O
 
-#	PUNC	O
 مسابقات	Ne	O
 فوتسال	Ne	O
 جام	Ne	O
@@ -34622,7 +34547,6 @@
 گرفت	V	O
 .	PUNC	O
 
-#	Ne	O
 تیم	Ne	O
 کشتی	Ne	O
 فرنگی	AJe	O
@@ -34632,7 +34556,6 @@
 شد	V	O
 .	PUNC	O
 
-#	Ne	O
 تیم	Ne	O
 کشتی	Ne	O
 فرنگی	AJe	O
@@ -34763,7 +34686,6 @@
 دارند	V	O
 .	PUNC	O
 
-#	Ne	O
 سانحه	Ne	O
 رانندگی	N	O
 در	P	O
@@ -34781,7 +34703,6 @@
 گذاشت	V	O
 .	PUNC	O
 
-#	PUNC	O
 تصادف	N	O
 در	P	O
 محور	Ne	O
@@ -34843,7 +34764,6 @@
 شدند	V	O
 .	PUNC	O
 
-#	Ne	O
 دزدان	Ne	O
 قوی‌هیکل	AJ	O
 ،	PUNC	O
@@ -34857,7 +34777,6 @@
 دزدیدند	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -35015,7 +34934,6 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 جنگنده	Ne	O
 میگ	N	O
 -	PUNC	O
@@ -35027,7 +34945,6 @@
 کرد	V	O
 .	PUNC	O
 
-#	Ne	O
 دهلی‌نو	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -35123,13 +35040,11 @@
 کردند	V	O
 .	PUNC	O
 
-#	PUNC	O
 زیرکوه	Ne	B-LOC
 قاان	N	I-LOC
 لرزید	V	O
 .	PUNC	O
 
-#	Ne	O
 مشهد	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -35189,7 +35104,6 @@
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 یک	NUM	O
 شبکه	Ne	O
 چاپ	N	O
@@ -35203,7 +35117,6 @@
 شد	V	O
 .	PUNC	O
 
-#	Ne	O
 آنکارا	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -35848,7 +35761,6 @@
 کرد	V	O
 .	PUNC	O
 
-#	PUNC	O
 دادگاه	Ne	O
 فرانسوی	AJ	O
 دستور	Ne	O
@@ -35861,7 +35773,6 @@
 کرد	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -36061,7 +35972,6 @@
 کرده‌اند	V	O
 .	PUNC	O
 
-#	Ne	O
 بقیه	N	O
 از	P	O
 صفحه	Ne	O
@@ -36188,12 +36098,11 @@
 مباد	V	O
 .	PUNC	O
 
-#	PUNC	O
 ساوالاتی	N	O
 از	P	O
 شورای	Ne	B-ORG
 نگهبان	N	I-ORG
-#	PUNC	O
+
 روزنامه	Ne	B-ORG
 بهار	N	I-ORG
 در	P	O
@@ -36699,14 +36608,12 @@
 داد	V	O
 .	PUNC	O
 
-#	Ne	O
 دولت	N	O
 را	POSTP	O
 مجبور	AJ	O
 نمی‌کند	V	O
 .	PUNC	O
 
-#	PUNC	O
 روزنامه	Ne	B-ORG
 کار	N	I-ORG
 و	CONJ	I-ORG
@@ -37106,10 +37013,9 @@
 باشد	V	O
 .	PUNC	O
 
-#	Ne	O
 مخالف	AJe	O
 استعفا	N	O
-#	Ne	O
+
 همین	DET	O
 روزنامه	N	O
 خبر	N	O
@@ -37869,13 +37775,12 @@
 می‌شود	V	O
 .	PUNC	O
 
-#	PUNC	O
 درخواست	Ne	O
 لغو	Ne	O
 پروانه	Ne	O
 وکالت	Ne	O
 کلینتون	N	B-PERS
-#	Ne	O
+
 تهران	N	B-LOC
 -	PUNC	O
 واحد	Ne	B-ORG
@@ -38195,7 +38100,7 @@
 کوتاه‌نظری	AJ	O
 نیست	V	O
 ؟	PUNC	O
-#	PUNC	O
+
 از	P	O
 نامه	Ne	O
 ۸/۲/۶۱	NUM	O
@@ -38206,7 +38111,7 @@
 سید	N	B-PERS
 احمد	N	I-PERS
 خمینی	N	I-PERS
-#	PUNC	O
+
 واشنگتن	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -38504,7 +38409,6 @@
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 اتیوپی	N	B-LOC
 قصد	Ne	O
 اشغال	Ne	O
@@ -38513,7 +38417,6 @@
 ندارد	V	O
 .	PUNC	O
 
-#	Ne	O
 رم	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -38630,7 +38533,6 @@
 است	V	O
 .	PUNC	O
 
-#	Ne	O
 روسیه	N	B-LOC
 ،	PUNC	O
 صادرات	Ne	O
@@ -38641,7 +38543,6 @@
 می‌کند	V	O
 .	PUNC	O
 
-#	Ne	O
 تهران	N	B-LOC
 -	PUNC	O
 ایرنا	N	B-ORG
@@ -39466,12 +39367,11 @@
 هستند	V	O
 .	PUNC	O
 
-#	PUNC	O
 پایان	Ne	O
 فاجعه	Ne	O
 ۱۸	NUM	O
 ساله	RESe	O
-#	PUNC	O
+
 باراک	N	B-PERS
 روز	Ne	O
 سه‌شنبه	N	O
@@ -40198,10 +40098,9 @@
 کرده‌اند	V	O
 .	PUNC	O
 
-#	PUNC	O
 افاضات	Ne	O
 فدوی	N	B-PERS
-#	PUNC	O
+
 فدوی	N	B-PERS
 وقتی	CONJ	O
 صفحات	Ne	O
@@ -41599,12 +41498,11 @@ C	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 شیعیان	N	O
 و	CONJ	O
 روز	Ne	O
 عاشورا	N	O
-#	PUNC	O
+
 راستی	ADV	O
 چرا	ADV	O
 شیعیان	N	O
@@ -43815,10 +43713,9 @@ C	RES	O
 بس	ADV	O
 .	PUNC	O
 
-#	PUNC	O
 قیامت	Ne	O
 عاشورا	N	O
-#	PUNC	O
+
 روز	Ne	O
 عاشورا	N	O
 و	CONJ	O
@@ -44960,10 +44857,10 @@ C	RES	O
 او	PRO	O
 رسان	V	O
 ،	PUNC	O
-#	Ne	O
+
 اقبال	Ne	B-PERS
 لاهوری	Ne	I-PERS
-#	Ne	O
+
 شفق	N	O
 با	P	O
 مهتاب	Ne	O
@@ -45080,14 +44977,13 @@ C	RES	O
 ،	PUNC	O
 اصغر	N	B-PERS
 ،	PUNC	O
-#	Ne	O
+
 محمدحسین	Ne	B-PERS
 شهریار	N	I-PERS
-#	PUNC	O
-#	Ne	O
+
 جام	Ne	O
 شفق	N	O
-#	PUNC	O
+
 روزی	N	O
 که	CONJ	O
 در	P	O
@@ -45372,7 +45268,6 @@ C	RES	O
 دارد	V	O
 .	PUNC	O
 
-#	PUNC	O
 ایام	Ne	O
 اربعین	Ne	O
 حضرت	Ne	O
@@ -45380,7 +45275,7 @@ C	RES	O
 )	PUNC	O
 ع	N	O
 (	PUNC	O
-#	PUNC	O
+
 ای	INT	O
 چرخ	Ne	O
 غافلی	N	O
@@ -45430,11 +45325,10 @@ C	RES	O
 که	CONJ	O
 دلشاد	N	O
 کرده‌ای	V	O
-#	PUNC	O
+
 محتشم	Ne	B-PERS
 کاشانی	N	I-PERS
-#	PUNC	O
-#	Ne	O
+
 ثروت	Ne	O
 سرانه	AJe	O
 ایران	N	B-LOC
@@ -45444,7 +45338,6 @@ C	RES	O
 است	V	O
 .	PUNC	O
 
-#	PUNC	O
 عضو	Ne	O
 کمیته	Ne	O
 صنعت	N	O
@@ -46921,7 +46814,6 @@ C	RES	O
 عمده‌است	V	O
 :	PUNC	O
 
-
 مسجد	Pe	O
 کبود	N	O
 در	P	O
@@ -47080,7 +46972,6 @@ C	RES	O
 
 ولایت‌های	Ne	O
 افغانستان	N	B-LOC
-
 
 ولایت	N	O
 (	PUNC	O
@@ -50239,7 +50130,6 @@ NPS	RES	O
 ولایت‌های	Ne	O
 افغانستان	N	B-LOC
 
-
 آراگاتسوتْن	N	B-LOC
 نام	Ne	O
 یکی	NUM	O
@@ -50378,7 +50268,6 @@ considered	RES	O
 مارینه	N	B-LOC
 هستند	V	O
 .	PUNC	O
-
 
 اِچمیادزین	N	B-LOC
 (	PUNC	O
@@ -50809,7 +50698,6 @@ considered	RES	O
 می‌برند	V	O
 .	PUNC	O
 
-
 نقشه	NUMe	O
 منطقه	Ne	B-LOC
 ۱۲	NUMe	I-LOC
@@ -50995,7 +50883,6 @@ considered	RES	O
 می‌باشد	V	O
 .	PUNC	O
 
-
 بدلکاری	N	O
 به	P	O
 کارهای	Ne	O
@@ -51093,7 +50980,6 @@ considered	RES	O
 مستقیم	AJ	O
 دارد	V	O
 .	PUNC	O
-
 
 رانش	N	O
 یا	CONJ	O
@@ -51415,7 +51301,6 @@ a	RES	O
 وارد	N	O
 می‌شود	V	O
 :	PUNC	O
-
 
 Map	Ne	O
 of	RESe	O
@@ -52030,7 +51915,6 @@ I	RES	O
 است	V	O
 .	PUNC	O
 
-
 شاه	N	B-PERS
 صادق	AJ	I-PERS
 قلندر	N	I-PERS
@@ -52148,7 +52032,6 @@ I	RES	O
 ۱۱۰۰	NUM	I-MISC
 بود	V	O
 .	PUNC	O
-
 
 آرماویر	N	B-LOC
 (	PUNC	O
@@ -52314,7 +52197,6 @@ I	RES	O
 شد	V	O
 .	PUNC	O
 
-
 کیهان‌زایی	N	O
 ،	PUNC	O
 شاخه‌ای	N	O
@@ -52353,7 +52235,6 @@ I	RES	O
 معرفت‌شناسی	N	O
 است	V	O
 .	PUNC	O
-
 
 مردمان	Ne	O
 کُرد	N	O
@@ -57604,7 +57485,6 @@ U۷	N	O
 دارند	V	O
 .	PUNC	O
 
-
 شاهزاده	N	O
 ابوالحسن	N	B-PERS
 میرزا	N	I-PERS
@@ -57904,7 +57784,6 @@ U۷	N	O
 سپرده	V	O
 شد	V	O
 .	PUNC	O
-
 
 وام‌واژه	N	O
 یا	CONJ	O
@@ -58481,7 +58360,6 @@ skyscraper	RES	O
 می‌کنید	V	O
 :	PUNC	O
 
-
 حوزهٔ	Ne	O
 علمیه	AJe	O
 نهادی	AJe	O
@@ -58679,7 +58557,6 @@ skyscraper	RES	O
 صورت	N	O
 می‌گیرد	V	O
 .	PUNC	O
-
 
 لوری	N	B-PERS
 از	P	O
@@ -59170,7 +59047,6 @@ skyscraper	RES	O
 موارد	Ne	O
 زیر	AJ	O
 است	V	O
-
 
 پدیدهٔ	Ne	O
 کِشَند	N	O
@@ -59899,7 +59775,6 @@ tide	RES	O
 است	V	O
 .	PUNC	O
 
-
 مدهب	N	O
 در	P	O
 اصطلاح	Ne	O
@@ -60113,7 +59988,6 @@ Religion	RES	O
 :	PUNC	O
 مولانا	N	B-PERS
 :	PUNC	O
-
 
 وب	N	O
 میل	N	O
@@ -60801,7 +60675,6 @@ RoundCube	RES	O
 کرد	V	O
 :	PUNC	O
 
-
 دل	Ne	B-LOC
 ایرانشهر	N	I-LOC
 یا	CONJ	O
@@ -61159,7 +61032,6 @@ RoundCube	RES	O
 روذمستان	N	B-LOC
 تسوگ	N	O
 هرمزجرد	N	B-LOC
-
 
 	PUNC	O
 ساختار	N	O
@@ -61646,7 +61518,6 @@ XX	RES	O
 همانند	ADVe	O
 اند	N	O
 .	PUNC	O
-
 
 سیونیک	N	B-LOC
 (	PUNC	O
@@ -62156,7 +62027,6 @@ are	RES	O
 considered	RES	O
 rural	RES	O
 .	PUNC	O
-
 
 شهر	Ne	O
 ایرَوان	N	B-LOC
@@ -63500,7 +63370,6 @@ rural	RES	O
 
 *	PUNC	O
 
-
 فرهنگسرا	N	O
 ساختمانی	AJ	O
 است	V	O
@@ -63738,7 +63607,6 @@ rural	RES	O
 شهر	N	O
 .	PUNC	O
 
-
 کاپان	N	B-LOC
 یک	NUM	O
 شهرک	N	O
@@ -63940,7 +63808,6 @@ rural	RES	O
 است	V	O
 .	PUNC	O
 
-
 چپ|۳۰۰px|thumb|	NUM	O
 تانک‌های	Ne	O
 آلمانی	N	O
@@ -64119,7 +63986,6 @@ rural	RES	O
 داشتند	V	O
 .	PUNC	O
 
-
 دریاچهٔ	N	B-LOC
 سِوان	N	I-LOC
 دریاچه‌ای	N	O
@@ -64287,7 +64153,6 @@ rural	RES	O
 این	DET	O
 دریاچه‌است	V	O
 .	PUNC	O
-
 
 آگاراک	N	O
 (	PUNC	O
@@ -64490,7 +64355,6 @@ rural	RES	O
 سرسبز	AJ	O
 .	PUNC	O
 
-
 توحید	N	O
 به	P	O
 معنای	Ne	O
@@ -64593,7 +64457,6 @@ rural	RES	O
 است	V	O
 :	PUNC	O
 
-
 سَروان	N	O
 فرماندهِ	N	O
 یک	NUM	O
@@ -64681,7 +64544,6 @@ rural	RES	O
 درجه‌های	Ne	O
 نظامی	AJe	B-ORG
 ایران	N	I-ORG
-
 
 نماد	Ne	O
 استاندارد	Ne	O
@@ -64851,7 +64713,6 @@ X	RES	O
 تشکیل	N	O
 شده	است	O
 .	PUNC	O
-
 
 تک	Ne	O
 خدایی	AJ	O
@@ -65931,7 +65792,6 @@ X	RES	O
 بوده	است	O
 .	PUNC	O
 
-
 گُردان	N	O
 یا	CONJ	O
 به	P	O
@@ -65988,7 +65848,6 @@ X	RES	O
 قهرمان	N	O
 است	V	O
 .	PUNC	O
-
 
 چپ|۲۵۰px	NUM	O
 چپ|۲۵۰pxنوعی	N	O
@@ -68136,7 +67995,6 @@ Vy	RES	O
 می‌کنم	V	O
 .	PUNC	O
 
-
 کالبدشناسی	N	O
 یک	NUM	O
 زن	Ne	O
@@ -68635,7 +68493,6 @@ sound	RES	O
 می‌باشند	V	O
 .	PUNC	O
 
-
 سَرگَرمی	N	O
 یک	NUM	O
 فعالیت	Ne	O
@@ -68729,7 +68586,6 @@ sound	RES	O
 
 فهرست	Ne	O
 سرگرمی‌ها	N	O
-
 
 شیببر	Ne	O
 جانوری	AJ	O
@@ -69016,7 +68872,6 @@ Liger	RES	O
 پیشنهاد	Ne	O
 شده‌است	V	O
 .	PUNC	O
-
 
 تصویر	N	O
 یک	NUM	O
@@ -69901,7 +69756,6 @@ FTIR	RES	O
 است	V	O
 .	PUNC	O
 
-
 جانورشناسی	Ne	O
 رشته‌ای	N	O
 از	P	O
@@ -70100,7 +69954,6 @@ FTIR	RES	O
 اشاره	N	O
 کرد	V	O
 .	PUNC	O
-
 
 دولت	Ne	B-ORG
 غَزنَوی	AJ	I-ORG
@@ -71427,7 +71280,6 @@ FTIR	RES	O
 بردند	V	O
 .	PUNC	O
 
-
 ونکوور	Ne	B-LOC
 شهری	AJ	O
 واقع	AJ	O
@@ -71731,7 +71583,6 @@ FTIR	RES	O
 اشاره	N	O
 کرد	V	O
 .	PUNC	O
-
 
 فقه	Ne	O
 دانش	N	O
@@ -72718,7 +72569,6 @@ FTIR	RES	O
 اند	N	O
 :	PUNC	O
 
-
 جمال	N	B-PERS
 عبدالناصر	N	I-PERS
 ،	PUNC	O
@@ -73438,7 +73288,6 @@ Sykes-Picot	RES	O
 دوم	ADV	O
 خواند	V	O
 .	PUNC	O
-
 
 نشان	Pe	O
 زبان	Ne	O
@@ -74269,7 +74118,6 @@ su	RES	O
 tal	RES	O
 .	PUNC	O
 
-
 منگوقاآن	N	B-ORG
 چهارمین	NUM	O
 خاقان	Ne	O
@@ -74346,7 +74194,6 @@ tal	RES	O
 رده	N	O
 :	PUNC	O
 مغول‌ها	N	O
-
 
 ماداگاسکار	N	B-LOC
 کشوری	N	O
@@ -75832,7 +75679,6 @@ tal	RES	O
 هستند	V	O
 .	PUNC	O
 
-
 روستای	Ne	O
 کوخِرد	N	B-LOC
 ،	PUNC	O
@@ -76928,7 +76774,6 @@ tal	RES	O
 کوخرد	N	B-LOC
 :	PUNC	O
 
-
 واژه	Ne	O
 نَسْک	N	O
 ،	PUNC	O
@@ -77136,7 +76981,6 @@ tal	RES	O
 است	V	O
 .	PUNC	O
 
-
 شرجی	AJ	O
 بودن	N	O
 ،	PUNC	O
@@ -77280,7 +77124,6 @@ tal	RES	O
 »	PUNC	O
 می‌گویند	V	O
 .	PUNC	O
-
 
 یا	CONJ	O
 کتابی‌	AJ	O
@@ -77923,7 +77766,6 @@ tal	RES	O
 ماند	V	O
 .	PUNC	O
 
-
 حسین	Ne	B-PERS
 علیزاده	N	I-PERS
 (	PUNC	O
@@ -78436,7 +78278,6 @@ tal	RES	O
 کرد	V	O
 .	PUNC	O
 
-
 نقشه	NUMe	O
 منطقه	Ne	B-LOC
 ۱۱	NUMe	I-LOC
@@ -78565,7 +78406,6 @@ tal	RES	O
 شهری	AJe	O
 تهران	N	B-LOC
 
-
 نقشه	NUMe	O
 منطقه	Ne	B-LOC
 ۱۰	NUMe	I-LOC
@@ -78635,7 +78475,6 @@ tal	RES	O
 زن	N	O
 می‌باشد	V	O
 .	PUNC	O
-
 
 چشمه	N	B-LOC
 علی	Ne	I-LOC
