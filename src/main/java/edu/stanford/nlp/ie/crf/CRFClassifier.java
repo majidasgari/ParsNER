@@ -28,6 +28,8 @@ package edu.stanford.nlp.ie.crf;
 
 import edu.stanford.nlp.ie.*;
 import java.io.ObjectOutputStream;
+
+import edu.stanford.nlp.ie.persian.HistoryRecommender;
 import edu.stanford.nlp.io.IOUtils;
 import edu.stanford.nlp.io.RuntimeIOException;
 import edu.stanford.nlp.ling.CoreAnnotations;
@@ -1124,31 +1126,46 @@ public class CRFClassifier<IN extends CoreMap> extends AbstractSequenceClassifie
 
   @Override
   public List<IN> classify(List<IN> document) {
+    List<IN> result;
     if (flags.doGibbs) {
       try {
-        return classifyGibbs(document);
+        result = classifyGibbs(document);
       } catch (Exception e) {
         throw new RuntimeException("Error running testGibbs inference!", e);
       }
     } else if (flags.crfType.equalsIgnoreCase("maxent")) {
-      return classifyMaxEnt(document);
+      result = classifyMaxEnt(document);
     } else {
       throw new RuntimeException("Unsupported inference type: " + flags.crfType);
     }
+
+    if(flags.usePrecedent) {
+      HistoryRecommender.manipulateNEARBasedOnPrecedence(result, flags.precedentSize);
+    }
+
+    return result;
   }
 
   private List<IN> classify(List<IN> document, Triple<int[][][], int[], double[][][]> documentDataAndLabels) {
+    List<IN> result;
     if (flags.doGibbs) {
       try {
-        return classifyGibbs(document, documentDataAndLabels);
+        result = classifyGibbs(document, documentDataAndLabels);
       } catch (Exception e) {
         throw new RuntimeException("Error running testGibbs inference!", e);
       }
     } else if (flags.crfType.equalsIgnoreCase("maxent")) {
-      return classifyMaxEnt(document, documentDataAndLabels);
+      result = classifyMaxEnt(document, documentDataAndLabels);
     } else {
       throw new RuntimeException("Unsupported inference type: " + flags.crfType);
     }
+
+    if(flags.usePrecedent) {
+      HistoryRecommender.manipulateNEARBasedOnPrecedence(result, flags.precedentSize);
+    }
+
+    return result;
+
   }
 
   /**

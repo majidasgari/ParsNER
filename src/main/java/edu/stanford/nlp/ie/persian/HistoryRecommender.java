@@ -44,19 +44,52 @@ public class HistoryRecommender {
     Files.write(output, builder);
   }
 
+  private final static List<String> detectedNames = new ArrayList<>();
+
   public static void addRecommendations(List<List<CoreLabel>> input) throws IOException {
-    final List<String> detectedNames = new ArrayList<>();
+    detectedNames.clear();
     for (List<CoreLabel> sentence : input) {
-      for (CoreLabel token : sentence) {
-        final String word = token.word();
-        final String ner = token.get(CoreAnnotations.AnswerAnnotation.class);
-        if (detectedNames.contains(word))
-          token.set(CoreAnnotations.PartOfSpeechAnnotation.class, "REC");
-        if (ner.contains("PERS")) {
-          detectedNames.add(word);
-          if (detectedNames.size() > 10) detectedNames.remove(0);
-        }
+      addRecommendationsToDoc(sentence);
+    }
+  }
+
+  private static void addRecommendationsToDoc(List<CoreLabel> sentence) {
+    for (CoreLabel token : sentence) {
+      final String word = token.word();
+      final String ner = token.get(CoreAnnotations.AnswerAnnotation.class);
+      if (detectedNames.contains(word))
+        token.set(CoreAnnotations.PartOfSpeechAnnotation.class, "REC");
+      if (ner.contains("PERS")) {
+        detectedNames.add(word);
+        if (detectedNames.size() > 10) detectedNames.remove(0);
+      }
+      token.remove(CoreAnnotations.AnswerAnnotation.class);
+    }
+  }
+
+  public static void manipulateNEARBasedOnPrecedence(List sentence) {
+    manipulateNEARBasedOnPrecedence(sentence, 10);
+  }
+
+  public static void manipulateNEARBasedOnPrecedence(List sentence, int precedentSize) {
+    final String recommendedTag = "PERS";
+    for (int i = 0; i < sentence.size(); i++) {
+      Object t = sentence.get(i);
+      if (!(t instanceof CoreLabel)) continue;
+      CoreLabel token = (CoreLabel) t;
+      final String word = token.word();
+      final String ner = token.get(CoreAnnotations.AnswerAnnotation.class);
+      if (detectedNames.contains(word) && ner.equals("O")) {
         token.remove(CoreAnnotations.AnswerAnnotation.class);
+        String iob = "B-";
+        if (i > 0 && (sentence.get(i - 1) instanceof CoreLabel) &&
+                ((CoreLabel) sentence.get(i - 1)).get(CoreAnnotations.AnswerAnnotation.class).contains(recommendedTag))
+          iob = "I-";
+        token.set(CoreAnnotations.AnswerAnnotation.class, iob + recommendedTag);
+      }
+      if (ner.contains(recommendedTag)) {
+        detectedNames.add(word);
+        if (detectedNames.size() > precedentSize) detectedNames.remove(0);
       }
     }
   }

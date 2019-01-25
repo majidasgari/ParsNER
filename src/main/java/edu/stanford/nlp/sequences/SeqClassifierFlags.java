@@ -1078,6 +1078,8 @@ public class SeqClassifierFlags implements Serializable {
   public boolean useVerbDistance;
   public boolean includesDigits;
   public boolean useDependencyParsing;
+  public boolean usePrecedent;
+  public int precedentSize;
   // "ADD VARIABLES ABOVE HERE"
 
   public transient List<String> phraseGazettes = null;
@@ -2649,6 +2651,10 @@ public class SeqClassifierFlags implements Serializable {
         includesDigits = Boolean.parseBoolean(val);
       } else if (key.equalsIgnoreCase("useDependencyParsing")) {
         useDependencyParsing = Boolean.parseBoolean(val);
+      } else if (key.equalsIgnoreCase("usePrecedent")) {
+        usePrecedent = Boolean.parseBoolean(val);
+      } else if (key.equalsIgnoreCase("precedentSize")) {
+        precedentSize = Integer.parseInt(val);
       } else if ( ! key.isEmpty() && ! key.equals("prop")) {
         System.err.println("Unknown property: |" + key + '|');
       }
