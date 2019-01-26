@@ -72,24 +72,26 @@ public class HistoryRecommender {
   }
 
   public static void manipulateNEARBasedOnPrecedence(List sentence, int precedentSize) {
-    final String recommendedTag = "PERS";
-    for (int i = 0; i < sentence.size(); i++) {
-      Object t = sentence.get(i);
-      if (!(t instanceof CoreLabel)) continue;
-      CoreLabel token = (CoreLabel) t;
-      final String word = token.word();
-      final String ner = token.get(CoreAnnotations.AnswerAnnotation.class);
-      if (detectedNames.contains(word) && ner.equals("O")) {
-        token.remove(CoreAnnotations.AnswerAnnotation.class);
-        String iob = "B-";
-        if (i > 0 && (sentence.get(i - 1) instanceof CoreLabel) &&
-                ((CoreLabel) sentence.get(i - 1)).get(CoreAnnotations.AnswerAnnotation.class).contains(recommendedTag))
-          iob = "I-";
-        token.set(CoreAnnotations.AnswerAnnotation.class, iob + recommendedTag);
-      }
-      if (ner.contains(recommendedTag)) {
-        detectedNames.add(word);
-        if (detectedNames.size() > precedentSize) detectedNames.remove(0);
+    final String[] recommendedTags = new String[] {"PERS", "PRO", "FAC"};
+    for(String recommendedTag: recommendedTags) {
+      for (int i = 0; i < sentence.size(); i++) {
+        Object t = sentence.get(i);
+        if (!(t instanceof CoreLabel)) continue;
+        CoreLabel token = (CoreLabel) t;
+        final String word = token.word();
+        final String ner = token.get(CoreAnnotations.AnswerAnnotation.class);
+        if (detectedNames.contains(word) && ner.equals("O")) {
+          token.remove(CoreAnnotations.AnswerAnnotation.class);
+          String iob = "B-";
+          if (i > 0 && (sentence.get(i - 1) instanceof CoreLabel) &&
+                  ((CoreLabel) sentence.get(i - 1)).get(CoreAnnotations.AnswerAnnotation.class).contains(recommendedTag))
+            iob = "I-";
+          token.set(CoreAnnotations.AnswerAnnotation.class, iob + recommendedTag);
+        }
+        if (ner.contains(recommendedTag)) {
+          detectedNames.add(word);
+          if (detectedNames.size() > precedentSize) detectedNames.remove(0);
+        }
       }
     }
   }

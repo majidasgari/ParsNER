@@ -1080,6 +1080,16 @@ public class SeqClassifierFlags implements Serializable {
   public boolean useDependencyParsing;
   public boolean usePrecedent;
   public int precedentSize;
+  public String currencies;
+  public String eventKeywords;
+  public String productKeywords;
+  public String facilityLocNames;
+  public String facilityOrgNames;
+  public String facilityPrefixes;
+  public String foods;
+  public String sports;
+  public String ordinals;
+  public String timeRanges;
   // "ADD VARIABLES ABOVE HERE"
 
   public transient List<String> phraseGazettes = null;
@@ -2655,6 +2665,26 @@ public class SeqClassifierFlags implements Serializable {
         usePrecedent = Boolean.parseBoolean(val);
       } else if (key.equalsIgnoreCase("precedentSize")) {
         precedentSize = Integer.parseInt(val);
+      } else if (key.equalsIgnoreCase("currencies")) {
+        currencies = val;
+      } else if (key.equalsIgnoreCase("eventKeywords")) {
+        eventKeywords = val;
+      } else if (key.equalsIgnoreCase("productKeywords")) {
+        productKeywords = val;
+      } else if (key.equalsIgnoreCase("facilityLocNames")) {
+        facilityLocNames = val;
+      } else if (key.equalsIgnoreCase("facilityOrgNames")) {
+        facilityOrgNames = val;
+      } else if (key.equalsIgnoreCase("facilityPrefixes")) {
+        facilityPrefixes = val;
+      } else if (key.equalsIgnoreCase("foods")) {
+        foods = val;
+      } else if (key.equalsIgnoreCase("sports")) {
+        sports = val;
+      } else if (key.equalsIgnoreCase("ordinals")) {
+        ordinals = val;
+      } else if (key.equalsIgnoreCase("timeRanges")) {
+        timeRanges = val;
       } else if ( ! key.isEmpty() && ! key.equals("prop")) {
         System.err.println("Unknown property: |" + key + '|');
       }
