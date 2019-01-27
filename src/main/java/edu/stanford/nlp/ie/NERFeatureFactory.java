@@ -2626,12 +2626,17 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       for (int i = 0; i < splits.length; i++) {
         splits[i] = splits[i].trim();
       }
-      if (list != null) Collections.addAll(list, splits);
+      if (list != null){
+        for(String s: splits)
+          if(s.length() > 0)
+            list.add(s);
+      }
     });
   }
 
   private void loadMultiWordGazetteer(String file, Map<String, WordsContext> list) {
     loadLineOfStream(file, line -> {
+      if(line.trim().length() == 0) return;
       String[] splits = line.trim().split("\\s+");
       for (int i = 0; i < splits.length; i++) {
         final String word = splits[i].trim();
