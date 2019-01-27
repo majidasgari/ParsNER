@@ -1,0 +1,2 @@
+Download this file from here:
+https://github.com/HaniehP/PersianNER

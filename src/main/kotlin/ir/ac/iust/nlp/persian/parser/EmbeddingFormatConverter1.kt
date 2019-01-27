@@ -5,9 +5,6 @@ import java.nio.file.Files
 import java.nio.file.Paths
 import kotlin.text.Charsets.UTF_8
 
-class EmbeddingFormatConverter {
-}
-
 fun main(args: Array<String>) {
 
   if (args.size != 1) {
@@ -27,13 +24,11 @@ fun main(args: Array<String>) {
       val splits = line.split(Regex("\\s+"))
       if(size == -1) {
         size = splits.size
-        builder.append(size).append('\n')
-      } else {
-        if(splits.size != size) System.exit(1)
-        splits.forEach { builder.append(it).append(' ') }
-        builder.setLength(builder.length - 1)
-        builder.append('\n')
       }
+      if(splits.size != size) System.exit(1)
+      splits.forEach { builder.append(it).append(' ') }
+      builder.setLength(builder.length - 1)
+      builder.append('\n')
     }
   }
 

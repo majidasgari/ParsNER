@@ -16,3 +16,7 @@
 /persian/word-embeddings/GloVe.vec
 /persian/word-embeddings/GloWP.vec
 /persian/word-embeddings/idx2word.txt
+/persian/word-embeddings/wor2vec_skipgram300d.txt.zip
+/persian/word-embeddings/wor2vec_skipgram300d.txt.vector
+/persian/word-embeddings/wor2vec_skipgram300d.txt.index
+/persian/word-embeddings/wor2vec_skipgram300d.txt
