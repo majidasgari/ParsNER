@@ -98,7 +98,7 @@ public class HistoryRecommender {
             token.set(CoreAnnotations.AnswerAnnotation.class, iob + recommendedTag);
             token.set(CoreAnnotations.UnknownAnnotation.class, "X");
           }
-        } else if (ner.contains(recommendedTag) && (!tag.equals("CONJ") && !tag.equals("PUNC"))) {
+        } else if (ner.toUpperCase().contains(recommendedTag) && (!tag.equals("CONJ") && !tag.equals("PUNC"))) {
           detectedNames.get(recommendedTag).add(word);
           while (detectedNames.get(recommendedTag).size() > precedentSize)
             detectedNames.get(recommendedTag).remove(0);
