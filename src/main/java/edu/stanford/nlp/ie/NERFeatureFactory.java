@@ -1729,6 +1729,11 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       featuresC.add(productKeywords.contains(p.word()) + "-PRODUCT-KEYWORDS");
     }
 
+    if (!appliances.isEmpty() && loc > 0) {
+      if (isInGazetteer(loc, cInfo, appliances))
+        featuresC.add("APPLIANCE-LOC-NAMES");
+    }
+
     if (!facilityLocNames.isEmpty() && loc > 0) {
       if (isInGazetteer(loc, cInfo, facilityLocNames))
         featuresC.add("FACILITY-LOC-NAMES");
@@ -2508,6 +2513,7 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
   private final Set<String> currencies = new HashSet<>();
   private final Set<String> eventKeywords = new HashSet<>();
   private final Set<String> productKeywords = new HashSet<>();
+  private final Map<String, WordsContext> appliances = new HashMap<>();
   private final Map<String, WordsContext> facilityLocNames = new HashMap<>();
   private final Map<String, WordsContext> facilityOrgNames = new HashMap<>();
   private final Set<String> facilityPrefixes = new HashSet<>();
@@ -2551,6 +2557,7 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     if (flags.currencies != null) loadLineOfStream(flags.currencies, currencies::add);
     if (flags.eventKeywords != null) loadLineOfStream(flags.eventKeywords, eventKeywords::add);
     if (flags.productKeywords != null) loadLineOfStream(flags.productKeywords, productKeywords::add);
+    if (flags.appliances != null) loadMultiWordGazetteer(flags.appliances, appliances);
     if (flags.facilityLocNames != null) loadMultiWordGazetteer(flags.facilityLocNames, facilityLocNames);
     if (flags.facilityOrgNames != null) loadMultiWordGazetteer(flags.facilityOrgNames, facilityOrgNames);
     if (flags.facilityPrefixes != null) loadLineOfStream(flags.facilityPrefixes, facilityPrefixes::add);
@@ -2588,7 +2595,7 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
                 .getResourceAsStream(streamAddress.substring(10)), "UTF-8")).lines();
       else
         lines = Files.readAllLines(Paths.get(streamAddress)).stream();
-      lines.forEach(action);
+      lines.filter(s -> s.trim().length() > 0).forEach(action);
     } catch (IOException e) {
       throw new RuntimeIOException(e);
     } finally {

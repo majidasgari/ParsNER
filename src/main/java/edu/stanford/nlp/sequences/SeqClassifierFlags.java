@@ -1083,6 +1083,7 @@ public class SeqClassifierFlags implements Serializable {
   public String currencies;
   public String eventKeywords;
   public String productKeywords;
+  public String appliances;
   public String facilityLocNames;
   public String facilityOrgNames;
   public String facilityPrefixes;
@@ -2671,6 +2672,8 @@ public class SeqClassifierFlags implements Serializable {
         eventKeywords = val;
       } else if (key.equalsIgnoreCase("productKeywords")) {
         productKeywords = val;
+      } else if (key.equalsIgnoreCase("appliances")) {
+        appliances = val;
       } else if (key.equalsIgnoreCase("facilityLocNames")) {
         facilityLocNames = val;
       } else if (key.equalsIgnoreCase("facilityOrgNames")) {
