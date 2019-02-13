@@ -77,6 +77,7 @@ public class HistoryRecommender {
 
   public static void manipulateNEARBasedOnPrecedence(List sentence, int precedentSize) {
     final String[] recommendedTags = new String[]{"PERS"};
+    final Map<String, String> map = new HashMap<>();
     for (String recommendedTag : recommendedTags) {
       detectedNames.putIfAbsent(recommendedTag, new ArrayList<>());
       for (int i = 0; i < sentence.size(); i++) {
@@ -95,10 +96,11 @@ public class HistoryRecommender {
               iob = "I-";
 
             token.remove(CoreAnnotations.AnswerAnnotation.class);
-            token.set(CoreAnnotations.AnswerAnnotation.class, iob + recommendedTag);
+            token.set(CoreAnnotations.AnswerAnnotation.class, iob + map.get(ner.toUpperCase()));
             token.set(CoreAnnotations.UnknownAnnotation.class, "X");
           }
         } else if (ner.toUpperCase().contains(recommendedTag) && (!tag.equals("CONJ") && !tag.equals("PUNC"))) {
+          map.put(ner.toUpperCase(), ner);
           detectedNames.get(recommendedTag).add(word);
           while (detectedNames.get(recommendedTag).size() > precedentSize)
             detectedNames.get(recommendedTag).remove(0);
