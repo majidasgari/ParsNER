@@ -76,8 +76,7 @@ public class HistoryRecommender {
   }
 
   public static void manipulateNEARBasedOnPrecedence(List sentence, int precedentSize) {
-    final String[] recommendedTags = new String[]{"PERS"};
-    final Map<String, String> map = new HashMap<>();
+    final String[] recommendedTags = new String[]{"PERS", "pers"};
     for (String recommendedTag : recommendedTags) {
       detectedNames.putIfAbsent(recommendedTag, new ArrayList<>());
       for (int i = 0; i < sentence.size(); i++) {
@@ -92,16 +91,14 @@ public class HistoryRecommender {
                   detectedNames.get(recommendedTag).contains(word)) {
             String iob = "B-";
             if (i > 0 && (sentence.get(i - 1) instanceof CoreLabel) &&
-                    ((CoreLabel) sentence.get(i - 1)).get(CoreAnnotations.AnswerAnnotation.class)
-                            .contains(map.get(recommendedTag)))
+                    ((CoreLabel) sentence.get(i - 1)).get(CoreAnnotations.AnswerAnnotation.class).contains(recommendedTag))
               iob = "I-";
 
             token.remove(CoreAnnotations.AnswerAnnotation.class);
-            token.set(CoreAnnotations.AnswerAnnotation.class, iob + map.get(ner.toUpperCase()));
+            token.set(CoreAnnotations.AnswerAnnotation.class, iob + recommendedTag);
             token.set(CoreAnnotations.UnknownAnnotation.class, "X");
           }
-        } else if (ner.toUpperCase().contains(recommendedTag) && (!tag.equals("CONJ") && !tag.equals("PUNC"))) {
-          map.put(ner.toUpperCase(), ner);
+        } else if (ner.contains(recommendedTag) && (!tag.equals("CONJ") && !tag.equals("PUNC"))) {
           detectedNames.get(recommendedTag).add(word);
           while (detectedNames.get(recommendedTag).size() > precedentSize)
             detectedNames.get(recommendedTag).remove(0);
