@@ -93,7 +93,7 @@ public class HistoryRecommender {
             String iob = "B-";
             if (i > 0 && (sentence.get(i - 1) instanceof CoreLabel) &&
                     ((CoreLabel) sentence.get(i - 1)).get(CoreAnnotations.AnswerAnnotation.class)
-                            .contains(recommendedTag.toUpperCase()))
+                            .contains(map.get(recommendedTag)))
               iob = "I-";
 
             token.remove(CoreAnnotations.AnswerAnnotation.class);
