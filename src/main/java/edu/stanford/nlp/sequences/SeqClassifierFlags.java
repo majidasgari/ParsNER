@@ -1078,6 +1078,7 @@ public class SeqClassifierFlags implements Serializable {
   public boolean useVerbDistance;
   public boolean includesDigits;
   public boolean useDependencyParsing;
+  public boolean cleanSocialData;
   public boolean usePrecedent;
   public int precedentSize;
   public String currencies;
@@ -2662,6 +2663,8 @@ public class SeqClassifierFlags implements Serializable {
         includesDigits = Boolean.parseBoolean(val);
       } else if (key.equalsIgnoreCase("useDependencyParsing")) {
         useDependencyParsing = Boolean.parseBoolean(val);
+      } else if (key.equalsIgnoreCase("cleanSocialData")) {
+        cleanSocialData = Boolean.parseBoolean(val);
       } else if (key.equalsIgnoreCase("usePrecedent")) {
         usePrecedent = Boolean.parseBoolean(val);
       } else if (key.equalsIgnoreCase("precedentSize")) {

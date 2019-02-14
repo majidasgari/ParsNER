@@ -46,6 +46,7 @@ import edu.stanford.nlp.trees.international.pennchinese.RadicalMap;
 import edu.stanford.nlp.util.Generics;
 import edu.stanford.nlp.util.PaddedList;
 import edu.stanford.nlp.util.Timing;
+import ir.ac.iust.nlp.persian.parser.SocialDataCleaner;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -783,6 +784,13 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     String cWord = getWord(c);
     String pWord = getWord(p);
     String nWord = getWord(n);
+
+    if(flags.cleanSocialData) {
+      cWord = SocialDataCleaner.INSTANCE.cleanWord(cWord);
+      pWord = SocialDataCleaner.INSTANCE.cleanWord(pWord);
+      nWord = SocialDataCleaner.INSTANCE.cleanWord(nWord);
+    }
+
     String cShape = c.getString(CoreAnnotations.ShapeAnnotation.class);
     String pShape = p.getString(CoreAnnotations.ShapeAnnotation.class);
     String nShape = n.getString(CoreAnnotations.ShapeAnnotation.class);
