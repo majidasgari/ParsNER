@@ -1,0 +1,14321 @@
+رسما	ADV	O
+تایید	N	O
+شد	V	O
+|	PUNC	O
+Devil	RES	O
+May	RES	O
+Cry	RES	O
+۵	NUM	O
+دنباله‌ای	N	O
+مستقیم	AJ	O
+برای	Pe	O
+نسخه	Ne	O
+دوم	NUM	O
+است	V	O
+
+
+
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۴۹۶۳۰۰	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+تصویری	N	O
+لو	N	O
+رفته	V	O
+از	P	O
+بخش	Ne	O
+تنظیمات	Ne	O
+گرافیکی	AJe	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+گیمفا	N	O
+:	PUNC	O
+
+Sekiro	RES	O
+:	PUNC	O
+
+Shadows	RES	O
+Die	RES	O
+Twice	RES	O
+|	RES	O
+“هیچ	RES	O
+برنامه‌ای”	RES	O
+برای	Pe	O
+خرید	Ne	O
+درون	Ne	O
+برنامه‌ای	N	O
+وجود	N	O
+ندارد	V	O
+
+
+
+ندایی	N	O
+که	CONJ	O
+کمتر	AJ	O
+به	P	O
+گوش	N	O
+می‌رسد	V	O
+!!!	RES	O
+
+|	RES	O
+بررسی	Ne	O
+علل	Ne	O
+افت	Ne	O
+سری	AJe	O
+call	RES	O
+of	RES	O
+duty	RES	O
+در	P	O
+چند	DET	O
+سال	Ne	O
+اخیر	AJ	O
+
+
+
+ماجراجویی	Ne	O
+اسرارآمیز…|	N	O
+نقدها	N	O
+و	CONJ	O
+نمرات	Ne	O
+بازی	Ne	O
+Strange	RES	O
+Brigade	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+نزدیک	AJ	O
+به	P	O
+نیم‌	NUM	B-MISC
+میلیون	NUM	I-MISC
+نفر	N	O
+از	P	O
+طریق	Ne	O
+پلتفرم	N	O
+توییچ	N	O
+به	P	O
+تماشای	Ne	O
+گیم‌پلی	N	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+پرداخته‌اند	V	O
+
+
+
+ویدئویی	AJe	O
+جدید	AJ	O
+از	P	O
+گیم‌پلی	N	O
+بازی	Ne	O
+Rage	RES	O
+۲	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+بازگشت	N	O
+به	P	O
+اوج	N	O
+؟	PUNC	O
+
+|	RES	O
+بررسی	Ne	O
+بازی	Ne	O
+The	RES	O
+Walking	RES	O
+Dead	RES	O
+Final	RES	O
+Season	RES	O
+:	PUNC	O
+
+Episode	RES	O
+۱	NUM	O
+
+
+
+سازندگان	Ne	O
+Rainbow	RES	O
+Six	RES	O
+Siege	RES	O
+:	PUNC	O
+
+به	P	O
+شخصیت‌پردازی	N	O
+و	CONJ	O
+تنوع	Ne	O
+اپراتورهای	Ne	O
+جدید	AJ	O
+اهمیت	N	O
+می‌دهیم	V	O
+
+
+
+تحلیل	Ne	O
+فنی	AJe	O
+۱۸#	NUM	O
+|	PUNC	O
+تحلیل	Ne	O
+فنی	AJe	O
+نمایش	Ne	O
+گیم‌پلی	N	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+اپارات	Ne	B-LOC
+گیمفا	N	B-LOC
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+یوتیوب	N	B-LOC
+گیمفا	N	I-LOC
+
+
+
+جدیدترین	AJ	O
+به‌روزرسانی	Ne	O
+بازی	Ne	O
+Gran	RES	O
+Turismo	RES	O
+Sport	RES	O
+منتشر	AJ	O
+شد	V	O
++	PUNC	O
+تریلر	N	O
+
+
+
+توسعه	Ne	O
+دهندگان	Ne	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	O
+خواهان	Ne	O
+محیط	Ne	O
+کاملا	ADV	O
+تخریب	Ne	O
+پذیر	AJ	O
+هستند	V	O
+
+
+
+شایعه	Ne	O
+|	Ne	O
+کنسول	Ne	O
+پلی‌استیشن	Ne	O
+۵	NUM	O
+با	P	O
+نام	Ne	O
+رمزی	AJe	O
+اربوس	N	B-PERS
+در	P	O
+دست	Ne	O
+توسعه	N	O
+است	V	O
+
+
+
+انتشار	Ne	O
+تریلر	N	O
+هنگام	Ne	O
+عرضه	Ne	O
+بسته	Ne	O
+الحاقی	AJe	O
+Forsaken	RES	O
+بازی	Ne	O
+Destiny	RES	O
+۲	NUM	O
+
+
+
+جزئیات	Ne	O
+جدیدی	AJ	O
+از	P	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	O
+لو	N	O
+رفت	V	O
+
+
+
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۴۹۶۸۹۲	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+لیست	Ne	O
+عناوین	Ne	O
+رایگان	AJe	O
+ماه	Ne	B-MISC
+سپتامبر	N	I-MISC
+پلی‌استیشن	Ne	O
+پلاس	N	O
+اعلام	N	O
+شد	V	O
+
+
+
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۴۹۶۸۳۷	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۴۹۶۷۱۵	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+Battlefield	RES	O
+V	RES	O
+تاخیر	N	O
+خورد	V	O
+|	PUNC	O
+تاریخ	Ne	O
+انتشار	Ne	O
+جدید	AJ	O
+اعلام	N	O
+شد	V	O
+
+
+
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۴۹۶۹۰۰	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۴۹۶۸۶۶	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+بازی	Ne	O
+Warhammer	RES	O
+:	PUNC	O
+
+Vermintide	RES	O
+۲	NUM	B-MISC
+برای	Pe	O
+چند	DET	O
+روز	Ne	O
+آینده	AJ	O
+رایگان	AJ	O
+است	V	O
+
+
+
+مناسب‌ترین	AJ	O
+قیمت	Ne	O
+گیفت	N	O
+کارت‌های	Ne	O
+استیم	N	O
+,	PUNC	O
+آیتونز	N	O
+،	PUNC	O
+گوگل	N	O
+،	PUNC	O
+پلی	N	O
+استیشن	N	O
+و	CONJ	O
+ایکس	N	O
+باکس	Ne	O
+و	CONJ	O
+اورجین	N	O
+در	P	O
+سایت	Ne	O
+www	RES	O
+.	PUNC	O
+
+mygift	RES	O
+.	PUNC	O
+
+ir	RES	O
+با	P	O
+نماد	Ne	O
+اعتماد	N	O
+برای	Pe	O
+اطلاعات	Ne	O
+بیشتر	AJ	O
+و	CONJ	O
+کد	Ne	O
+تخفیف	N	O
+به	P	O
+کانال	Ne	O
+تلگرام	Ne	O
+@giftday	Ne	O
+بپیوندید	V	O
+
+
+
+بازی	Ne	O
+PES	N	O
+۲۰۱۹	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+🎉	N	O
+آماده	AJ	O
+برای	Pe	O
+تحویل	Ne	O
+🎉	N	O
+
+
+
+تاریخ	N	O
+شروع	Ne	O
+بتا	N	O
+عمومی	AJ	O
+For	RES	O
+Honor	RES	O
+Marching	RES	O
+Fire	RES	O
+اعلام	N	O
+شد	V	O
+
+
+
+تریلر	N	O
+گیم‌پلی	Ne	O
+جدید	AJe	O
+Resident	RES	O
+Evil	RES	O
+۲	NUM	O
+خارج	N	O
+از	P	O
+ایستگاه	Ne	B-LOC
+مرکزی	AJe	I-LOC
+پلیس	N	I-LOC
+را	POSTP	O
+به	P	O
+تصویر	N	O
+می‌کشد	V	O
+
+
+
+سیستم	Ne	O
+مورد	Ne	O
+نیاز	N	O
+برای	Pe	O
+بتای	Ne	O
+بازی	Ne	O
+Battlefield	RES	O
+۵	NUM	O
+اعلام	N	O
+شد	V	O
+
+
+
+تریلر	Ne	O
+جدیدی	AJ	O
+از	P	O
+عنوان	Ne	O
+Shadows	RES	O
+:	PUNC	O
+
+Awakening	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+تریلرهای	Ne	O
+جدیدی	AJ	O
+از	P	O
+گیم‌پلی	N	O
+بازی	Ne	O
+Devil	RES	O
+May	RES	O
+Cry	RES	O
+۵	NUM	O
+منتشر	AJ	O
+شد	V	O
+Part	RES	O
+۱	NUM	O
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۴۹۷۳۴۷	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+تریلرهای	Ne	O
+جدیدی	AJ	O
+از	P	O
+گیم‌پلی	N	O
+بازی	Ne	O
+Devil	RES	O
+May	RES	O
+Cry	RES	O
+۵	NUM	O
+منتشر	AJ	O
+شد	V	O
+Part	RES	O
+۲	NUM	O
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۴۹۷۳۴۷	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+مدیر	Ne	O
+عامل	Ne	O
+سونی	N	B-ORG
+درباره‌ی	Pe	O
+بازی	Ne	O
+میان‌پلتفرمی	N	O
+:	PUNC	O
+
+پلی‌استیشن	Ne	O
+بهترین	AJ	O
+مکان	N	O
+برای	Pe	O
+بازی	N	O
+کردن	N	O
+است	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+Hitman	RES	O
+۲	NUM	O
+محیط	Ne	O
+جنگلی	AJ	O
+بازی	N	O
+را	POSTP	O
+نمایش	N	O
+می‌دهد	V	O
+
+
+
+زمان	Ne	O
+عرضه	Ne	O
+Rainbow	RES	O
+Six	RES	O
+Siege	RES	O
+:	PUNC	O
+
+Operation	RES	O
+Grim	RES	O
+Sky	RES	O
+اعلام	N	O
+شد	V	O
+
+
+
+به	P	O
+نظر	N	O
+می‌رسد	V	O
+که	CONJ	O
+بلیزارد	N	B-ORG
+در	P	O
+حال	Ne	O
+توسعه	N	O
+عنوانی	N	O
+AAA	RES	O
+است	V	O
+
+
+
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۴۹۷۴۵۳	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+اختصاصی	AJe	O
+گیمفا	N	B-ORG
+:	PUNC	O
+
+راهنمای	Ne	O
+قدم	N	O
+به	P	O
+قدم	N	O
+و	CONJ	O
+جامع	AJe	O
+Dark	RES	O
+Souls	RES	O
+III	NUM	O
+–	PUNC	O
+بخش	Ne	O
+بیست	NUM	B-MISC
+و	CONJ	B-MISC
+نهم	NUM	B-MISC
+
+
+
+بازی	Ne	O
+PES	N	O
+۲۰۱۹	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+📚	N	O
+بهترین	AJ	O
+قیمت	N	O
+به	P	O
+همراه	Ne	O
+گارانتی	Ne	O
+
+
+
+گیمفا	N	B-ORG
+آماده	AJ	O
+قرار	N	O
+دادن	Ne	O
+تبلیغات	Ne	O
+ویدئویی	AJe	O
+شما	PRO	O
+در	P	O
+آیتم‌های	Ne	O
+ویدئویی	AJe	O
+اختصاصی	AJ	O
+و	CONJ	O
+جذاب	AJe	O
+متعددش	AJ	O
+است	V	O
+.	PUNC	O
+
+برای	Pe	O
+کسب	Ne	O
+اطلاعات	Ne	O
+بیشتر	AJ	O
+در	P	O
+این	DET	O
+زمینه	N	O
+با	P	O
+ما	PRO	O
+تماس	N	O
+بگیرید	V	O
+•	PUNC	O
+پست	Ne	O
+الکترونیک	AJ	O
+:	PUNC	O
+
+kasra۱۹۸۶@gmail	N	O
+.	PUNC	O
+
+com	RES	O
+•	RES	O
+تلگرام	N	O
+:	PUNC	O
+
+@kasra۱۹۸۶	NUM	O
+
+
+
+پیش	ADV	O
+دانلود	V	O
+FIFA	RES	O
+۱۹	NUM	O
+در	P	O
+دسترس	Ne	O
+کاربران	Ne	O
+ایکس‌باکس	N	O
+وان	N	O
+قرار	N	O
+گرفت	V	O
+
+
+
+تریلرهای	Ne	O
+جدیدی	AJ	O
+از	P	O
+گیم‌پلی	N	O
+و	CONJ	O
+بخش	Ne	O
+داستانی	AJe	O
+بازی	Ne	O
+Anthem	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+روح	Ne	O
+فوتبال	Ne	O
+|	Ne	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+PES	N	O
+۲۰۱۹	NUM	B-MISC
+
+
+
+شوخی	Ne	O
+شرکت	Ne	B-ORG
+BioWare	RES	I-ORG
+با	P	O
+بازی	Ne	O
+Marvel’s	RES	O
+Spider-Man	RES	O
+
+
+
+ویدئوی	Ne	O
+جدیدی	AJ	O
+از	P	O
+گیم‌پلی	N	O
+بازی	Ne	O
+Tom	RES	O
+Clancy’s	RES	O
+The	RES	O
+Division	RES	O
+۲	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+تصاویر	Ne	O
+زیبایی	AJ	O
+از	P	O
+عنوان	Ne	O
+مستقل	AJ	O
+Dark	RES	O
+Vale	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+بازخوردها	N	O
+نسبت	N	O
+به	P	O
+نمایش	Ne	O
+خصوصی	AJ	O
+گیم‌پلی	N	O
+Red	RES	O
+Dead	RES	O
+Redempton	RES	O
+۲	NUM	O
+بسیار	ADV	O
+متضاد	AJ	O
+هستند	V	O
+
+
+
+ماد	Ne	O
+جدید	AJ	O
+بازی	Ne	O
+GTA	RES	O
+V	RES	O
+به	P	O
+شما	PRO	O
+اجازه‌ی	Ne	O
+کنترل	Ne	O
+شخصیت	Ne	O
+Magneto	RES	O
+را	POSTP	O
+می‌دهد	V	O
+
+
+
+ویدئو	N	O
+گیمفا	N	O
+:	PUNC	O
+
+اساسینی	N	O
+که	CONJ	O
+دل	N	O
+به	P	O
+دریا	N	O
+زد…	N	O
+|	PUNC	O
+بررسی	Ne	O
+ویدئویی	AJe	O
+بازی	Ne	O
+Assassin’s	RES	O
+Creed	RES	O
+IV	NUM	O
+:	PUNC	O
+
+Black	RES	O
+Flag	RES	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+اپارات	Ne	O
+گیمفا	N	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+یوتیوب	N	O
+گیمفا	N	O
+
+
+
+🤓مادربردهای	Ne	O
+MSI	RES	O
+B۴۵۰	RES	O
+با	P	O
+استفاده	N	O
+از	P	O
+مدار	Ne	O
+رگولاتور	Ne	O
+ولتاژ	Ne	O
+قدرتمند	AJ	O
+و	CONJ	O
+قابلیت	Ne	O
+اختصاصی	AJe	O
+Core	RES	O
+Boost	RES	O
+به	RES	O
+راحتی	Ne	O
+میزبان	Ne	O
+پردازنده‌های	Ne	O
+قدرتمند	AJe	O
+💥AMD	RES	O
+RYZEN	RES	O
+۷	NUM	O
+۲۷۰۰X💥	RES	O
+خواهند‌بود	V	O
+@msifarsi	N	O
+
+
+
+مجله‌ی	Ne	B-ORG
+امپایر	N	I-ORG
+،	PUNC	O
+کاورهای	Ne	O
+جدید	AJe	O
+فیلم	Ne	O
+Bad	RES	O
+Times	N	O
+at	RES	O
+the	RES	O
+El	RES	O
+Royale	RES	O
+را	POSTP	O
+منتشر	AJ	O
+کرد	V	O
+
+
+
+تاریخ	Ne	O
+انتشار	Ne	O
+نسخه	Ne	O
+نینتندو	N	O
+سوییچ	Ne	O
+بازی	Ne	O
+Undertale	RES	O
+مشخص	AJ	O
+شد	V	O
+
+
+
+بازی	Ne	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	O
+دارای	AJe	O
+Photo	RES	O
+Mode	RES	O
+خواهد‌بود	V	O
+
+
+
+بازی	Ne	O
+Death	RES	O
+Stranding	RES	O
+احتمالا	ADV	O
+در	P	O
+TGS	RES	O
+۲۰۱۸حضور	N	O
+خواهد‌داشت	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJ	O
+از	P	O
+بسته‌الحاقی	N	O
+بازی	Ne	O
+Kingdom	RES	O
+Come	RES	O
+:	PUNC	O
+
+Deliverance	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+ولو	CONJ	O
+بالاخره	ADV	O
+در	P	O
+جایگاهی	N	O
+است	V	O
+که	CONJ	O
+بتواند	V	O
+بر	P	O
+روی	Ne	O
+بازی‌ها	N	O
+تمرکز	N	O
+و	CONJ	O
+سرمایه‌گذاری	N	O
+کند	V	O
+
+
+
+Resident	RES	O
+Evil	RES	O
+۲	NUM	O
+–	PUNC	O
+تصویر	Ne	O
+لو	N	O
+رفته	V	O
+احتمالی	AJ	O
+از	P	O
+شخصیت	N	O
+ادا	N	B-PERS
+وانگ	N	I-PERS
+را	POSTP	O
+تماشا	N	O
+کنید	V	O
+
+
+
+جزییات	Ne	O
+جدیدی	AJ	O
+از	P	O
+عنوان	Ne	O
+Fallout	RES	O
+۷۶	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+تریلری	Ne	O
+جدید	AJ	O
+از	P	O
+بازی	Ne	O
+Lucius	RES	O
+III	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+با	P	O
+مشخص	AJ	O
+شدن	Ne	O
+رده‌بندی	Ne	O
+سنی	AJe	O
+Black	RES	O
+Ops	RES	O
+۴	NUM	O
+،	PUNC	O
+جزییات	Ne	O
+جدیدی	AJ	O
+از	P	O
+این	DET	O
+عنوان	N	O
+مشخص	AJ	O
+شده‌است	V	O
+
+
+
+فراخوان	Ne	O
+دریافت	Ne	O
+ویدئوهای	Ne	O
+گیمینگ	Ne	O
+شما	PRO	O
+
+
+
+🤓مادربرد	N	O
+🔥MSI	RES	O
+B۴۵۰	RES	O
+Tomahawk	RES	O
+🔥	N	O
+در	P	O
+بررسی	Ne	O
+سایت	Ne	O
+GURU۳D	N	O
+موفق	AJ	O
+به	P	O
+کسب	N	O
+نشان	Ne	O
+تاییدیه	N	O
+شده‌است	V	O
+.	PUNC	O
+
+
+
+شروع	Ne	O
+ثبت	N	O
+نام	N	O
+برای	Pe	O
+شرکت	N	O
+در	P	O
+افتتاحیه	Ne	O
+مرکز	Ne	O
+بازی‌های	Ne	O
+رایانه‌ای	AJe	O
+تکاف	N	O
+https	RES	O
+:	PUNC	O
+
+//bit	V	O
+.	PUNC	O
+
+ly/۲C۵HOS۴	N	O
+
+
+
+هر	DET	O
+ماجراجویی	N	O
+یک	NUM	O
+پایان	N	O
+دارد	V	O
+|	PUNC	O
+پیش	ADV	O
+نمایش	Ne	O
+Shadow	RES	O
+of	RES	O
+the	RES	O
+Tomb	RES	O
+Raider	RES	O
+
+
+
+جنگنده‌ی	Ne	O
+خسته…	AJ	O
+|	PUNC	O
+نقدها	N	O
+و	CONJ	O
+نمرات	Ne	O
+بازی	Ne	O
+GOD	RES	O
+WARS	RES	O
+:	PUNC	O
+
+THE	RES	O
+COMPLETE	RES	O
+LEGEND	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+گیمفا	N	O
+:	PUNC	O
+
+Destiny	RES	O
+۲	NUM	O
+:	PUNC	O
+
+Forsaken	RES	O
+|	PUNC	O
+دو	NUM	O
+تغییر	Ne	O
+مثبت	AJ	O
+برای	Pe	O
+حالت	Ne	O
+Gambit	RES	O
+در	P	O
+زمان	Ne	O
+عرضه	N	O
+اعلام	N	O
+شد	V	O
+
+
+
+جدول	Ne	O
+فروش	Ne	O
+هفتگی	AJe	O
+بریتانیا	N	B-LOC
+|	PUNC	O
+پیروزی	Ne	O
+بی‌دردسر	AJ	O
+برای	Pe	O
+فرمول	Ne	O
+یک	NUM	O
+
+
+
+جدول	Ne	O
+فروش	Ne	O
+هفتگی	AJe	O
+بریتانیا	N	B-LOC
+|	PUNC	O
+پیروزی	Ne	O
+بی‌دردسر	AJ	O
+برای	Pe	O
+فرمول	Ne	O
+یک	NUM	O
+
+
+
+سیستم	Ne	O
+گفتگو‌ها	N	O
+در	P	O
+Anthem	RES	O
+فقط	ADV	O
+دو	NUM	O
+گزینه	Ne	O
+پیش	Pe	O
+روی	Ne	O
+بازی‌بازان	N	O
+قرار	N	O
+می‌دهد	V	O
+
+
+
+تصاویر	Ne	O
+لو	N	O
+رفته	V	O
+از	P	O
+Shadow	RES	O
+of	RES	O
+the	RES	O
+Tomb	RES	O
+Raider	RES	O
+به	RES	O
+نمایش	Ne	O
+لارا	N	B-PERS
+کرافت	N	I-PERS
+جوان	AJ	O
+می‌پردازد	V	O
+
+
+
+تصاویر	Ne	O
+لو	N	O
+رفته	V	O
+از	P	O
+Shadow	RES	O
+of	RES	O
+the	RES	O
+Tomb	RES	O
+Raider	RES	O
+به	RES	O
+نمایش	Ne	O
+لارا	N	B-PERS
+کرافت	N	I-PERS
+جوان	AJ	O
+می‌پردازد	V	O
+
+
+
+بازی	Ne	O
+Devil	RES	O
+May	RES	O
+Cry	RES	O
+۵	NUM	O
+دارای	AJe	O
+حالت	Ne	O
+تمرینی	AJ	O
+و	CONJ	O
+Photo	RES	O
+Mode	RES	O
+است	V	O
+
+
+
+بازی	Ne	O
+Devil	RES	O
+May	RES	O
+Cry	RES	O
+۵	NUM	O
+دارای	AJe	O
+حالت	Ne	O
+تمرینی	AJ	O
+و	CONJ	O
+Photo	RES	O
+Mode	RES	O
+است	V	O
+
+
+
+پایان	Ne	O
+یک	NUM	O
+افسانه	N	O
+|	PUNC	O
+پلی‌استیشن	Ne	O
+۲	NUM	O
+به	P	O
+پایان	Ne	O
+راه	N	O
+رسیده‌است	V	O
+
+
+
+گیمفا	N	O
+:	PUNC	O
+
+Grappling	RES	O
+Hook	RES	O
+برای	Pe	O
+بازی	Ne	O
+Fortnite	RES	O
+معرفی	N	O
+شد	V	O
+
+
+
+انتشار	Ne	O
+God	RES	O
+of	RES	O
+War	RES	O
+یک	NUM	O
+اتفاق	Ne	O
+خوب	AJ	O
+برای	Pe	O
+صنعت	Ne	O
+بازی‌های	Ne	O
+رایانه‌ای	AJ	O
+بود	V	O
+
+
+
+هشت	NUM	B-MISC
+سال	N	I-MISC
+در	P	O
+خدمت	Ne	O
+گیمرها	N	O
+|	PUNC	O
+تولد	Ne	O
+۸	NUM	O
+سالگیت	RESe	O
+مبارک	AJ	O
+،	PUNC	O
+گیمفا…	N	O
+
+
+
+نسخه	Ne	O
+رایانه‌های	Ne	O
+شخصی	AJ	O
+Control	RES	O
+از	P	O
+کیفیت	Ne	O
+بالایی	AJ	O
+برخوردار	AJ	O
+خواهد‌بود	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+بازی	Ne	O
+Battlefield	RES	O
+V	RES	O
+با	P	O
+محوریت	Ne	O
+حالت	Ne	O
+بتل	RES	O
+رویال	N	O
+
+
+
+نگاهی	N	O
+بر	P	O
+سلاح	Ne	O
+احتمالی	AJe	O
+دانته	N	O
+در	P	O
+Devil	RES	O
+May	RES	O
+Cry	RES	O
+۵	NUM	O
+
+
+
+تصویر	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+خرید	Ne	O
+Vbuck	RES	O
+و	CONJ	O
+R۶	RES	O
+credit	RES	O
+ارزان‌تر	RES	O
+از	P	O
+همه	DETe	O
+جا😜😝	N	O
+
+
+
+روی	Pe	O
+لینک	Ne	O
+زیر	Pe	O
+بزن	V	O
+و	CONJ	O
+به	P	O
+دنیای	Ne	O
+گیم	N	O
+وارد	N	O
+شو	V	O
+…😋🙈	N	O
+
+
+
+مصاحبه	N	O
+با	P	O
+طراح	Ne	O
+مراحل	Ne	O
+بازی	Ne	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+|	PUNC	O
+صحبت	N	O
+درباره	Pe	O
+جنسیت	N	O
+،	PUNC	O
+تنوع	N	O
+و	CONJ	O
+گستردگی	Ne	O
+نایت	Ne	O
+سیتی	N	O
+و…	N	O
+
+
+
+باگ	N	O
+پیش	ADV	O
+آمده	V	O
+در	P	O
+بازی	Ne	O
+WOW	RES	O
+،	PUNC	O
+آیتم‌هایی	N	O
+با	P	O
+سطح	Ne	O
+بالا	AJ	O
+را	POSTP	O
+در	P	O
+اختیار	Ne	O
+بازی‌بازان	N	O
+قرار	N	O
+داده‌است	V	O
+
+
+
+تریلری	Ne	O
+جدید	AJ	O
+از	P	O
+بازی	Ne	O
+Stormdivers	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+تصاویر	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+Forza	RES	O
+Horizon	RES	O
+۴	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+🏆از	N	O
+فینال	Ne	O
+چهارمین	NUM	O
+لیگ	Ne	O
+بازی‌های	Ne	O
+رایانه‌ای	AJe	O
+ایران	N	B-LOC
+بازدید	N	O
+کنید	V	O
+
+
+
+🎁	N	O
+همراه	N	O
+با	P	O
+قرعه‌کشی	N	O
+میان	Pe	O
+حاضران	N	O
+
+
+
+جمعه	N	B-MISC
+۱۶	NUMe	B-MISC
+شهریور	N	I-MISC
+ساعت	Ne	B-MISC
+۲۰	NUM	I-MISC
+تا	P	I-MISC
+۲۲	NUM	I-MISC
+سایت	Ne	O
+نمایشگاهی	AJe	O
+برج	Ne	B-LOC
+میلاد	N	I-LOC
+،	PUNC	O
+رستوران	Ne	O
+روباز	AJe	O
+@cgame	Ne	O
+|	Ne	O
+#igl۲۰۱۸	NUM	O
+
+
+
+لیگ	Ne	O
+جهانی	AJe	O
+نینجاها	N	O
+!	PUNC	O
+
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+NARUTO	RES	O
+TO	RES	O
+BORUTO	RES	O
+:	PUNC	O
+
+Shinobi	RES	O
+Striker	RES	O
+
+
+
+اولین	NUM	O
+گوشی	Ne	O
+سامسونگ	N	O
+با	P	O
+اسکنر	Ne	O
+اثر	Ne	O
+انگشت	Ne	O
+درون	Pe	O
+نمایشگر	N	O
+ممکن	AJ	O
+است	V	O
+ماه	Ne	O
+دیگر	PRO	O
+معرفی	N	O
+شود	V	O
+
+
+
+جدیدترین	AJ	O
+پوستر	Ne	O
+فیلم	Ne	O
+جدید	AJe	O
+مجموعه	Ne	O
+Halloween	RES	O
+
+
+
+🤓عملکرد	N	O
+بسیار	ADV	O
+مطلوب	AJ	O
+مادربرد	V	O
+MSI	RES	O
+B۴۵۰💥	RES	O
+GAMING	RES	O
+PRO	RES	O
+CARBON	RES	O
+AC	RES	O
+در	P	O
+گیم‌های	Ne	O
+مختلف	AJ	O
+.	PUNC	O
+
+همانطور	N	O
+که	CONJ	O
+مشاهده	N	O
+می‌کنید	V	O
+در	P	O
+چارت	Ne	O
+بهترین	AJ	O
+عملکرد	N	O
+را	POSTP	O
+در	P	O
+بین	Ne	O
+بردهای	Ne	O
+AM۴😈	RES	O
+دیگر	PRO	O
+داشته‌است	V	O
+.	PUNC	O
+
+@msifarsi	N	O
+
+
+
+پوسته‌ای	Ne	O
+رایگان	AJ	O
+از	P	O
+عنوان	Ne	O
+Marvel’s	RES	O
+Spider-Man	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+بازی	Ne	O
+FIFA	RES	O
+۱۸	NUM	O
+بیش	AJ	O
+از	P	O
+۲۴	NUM	O
+میلیون	NUM	O
+نسخه	Ne	O
+فروش	N	O
+داشته‌است	V	O
+
+
+
+تریلر	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+Hitman	RES	O
+۲	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	O
+|	PUNC	O
+حالت	Ne	O
+بتل	RES	O
+رویال	N	O
+ممکن	AJ	O
+است	V	O
+برروی	Pe	O
+نرخ	Ne	O
+فریم	Ne	O
+۶۰	NUM	O
+اجرا	N	O
+نشود	V	O
+
+
+
+تصاویر	Ne	O
+زیبایی	AJ	O
+از	P	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+ترجمه	Ne	O
+بازی	Ne	O
+ویچر	N	O
+۳	NUM	O
+شروع	N	O
+شده	V	O
+و	CONJ	O
+بزودی	ADV	O
+فارسی	N	O
+ساز	Ne	O
+آن	PRO	O
+در	P	O
+اختیار	Ne	O
+علاقه	Ne	O
+مندان	N	O
+قرار	N	O
+خواهد‌گرفت	V	O
+!	PUNC	O
+
+با	P	O
+اشتراک	Ne	O
+گذاری	N	O
+این	DET	O
+خبر	N	O
+و	CONJ	O
+عضویت	N	O
+در	P	O
+کانال	N	O
+از	P	O
+ما	PRO	O
+حمایت	N	O
+کنید	V	O
+:	PUNC	O
+
+
+
+دروازه	Ne	O
+اهریمن‌ها	N	O
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+City	RES	O
+of	RES	O
+the	RES	O
+Shroud	RES	O
+
+
+
+سازنده	AJe	O
+حالت	Ne	O
+بتل	RES	O
+رویال	N	O
+بازی	Ne	O
+Battlefield	RES	O
+۵	NUM	O
+معرفی	N	O
+شد	V	O
+
+
+
+💥فروش	N	O
+کریدیت	N	O
+وتمامی	N	O
+ایتم‌های	Ne	O
+Rainbow	RES	O
+Six	RES	O
+و	RES	O
+For	RES	O
+honor	RES	O
+و	RES	O
+…	PUNC	O
+با	P	O
+قیمت‌ها	N	O
+و	CONJ	O
+تخفیف‌های	Ne	O
+باورنکردنی	AJ	O
+برای	Pe	O
+پلت	N	O
+فرم	Ne	O
+PC	N	O
+⭕️سایت	Ne	O
+فروشگاه	N	O
+:	PUNC	O
+
+www	RES	O
+.	PUNC	O
+
+kingstore۹۸	NUM	O
+.	PUNC	O
+
+com	RES	O
+⭕️پشتیبانی	N	O
+:	PUNC	O
+
+@kingstore_۹۸	NUM	O
+⭕️کانال	N	O
+:	PUNC	O
+
+@kingstore۹۸	NUM	O
+
+
+
+🤓با	N	O
+کارت‌های	Ne	O
+گرافیک	Ne	O
+MSI💥	RES	O
+بدون	Pe	O
+لگ	N	O
+و	CONJ	O
+با	P	O
+بیشترین	AJ	O
+فریم	N	O
+در	P	O
+سکوت	Ne	O
+کامل	AJe	O
+بازی	N	O
+کنید	V	O
+.	PUNC	O
+
+
+
+گزارش	Ne	O
+افتتاحیه	Ne	O
+باشگاه	Ne	O
+ورزشهای	Ne	O
+الکترونیکی	AJ	O
+TEC	RES	O
+CAF	RES	O
+
+
+
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۴۹۹۱۱۵	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+ویدئویی	AJ	O
+از	P	O
+گیم‌پلی	N	O
+بخش	Ne	O
+بتل	RES	O
+رویال	N	O
+بازی	N	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+تریلر	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+Overload	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+سیستم	Ne	O
+مورد	Ne	O
+نیاز	N	O
+عنوان	Ne	O
+Assassin’s	RES	O
+Creed	RES	O
+Odyssey	RES	O
+مشخص	AJ	O
+شد	V	O
+
+
+
+تاریخ	Ne	O
+انتشار	Ne	O
+نسخه‌ی	Ne	O
+دمو	N	O
+بازی	Ne	O
+FIFA	RES	O
+۱۹	NUM	O
+اعلام	N	O
+شد	V	O
+
+
+
+یوبی‌سافت	N	B-ORG
+:	PUNC	O
+
+ما	PRO	O
+از	P	O
+مسدود	AJ	O
+کردن	Ne	O
+حساب	Ne	O
+افرادی	N	O
+که	CONJ	O
+فضای	Ne	O
+بازی	N	O
+را	POSTP	O
+خراب	AJ	O
+می‌کنند	V	O
+پشیمان	AJ	O
+نیستیم	V	O
+
+
+
+در	P	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	O
+شاهد	Ne	O
+فروپاشی	Ne	O
+گروه	Ne	O
+داچ	N	O
+خواهیم‌بود	V	O
+
+
+
+هایلایت	N	O
+:	PUNC	O
+
+نکاتی	N	O
+که	CONJ	O
+پیش	ADV	O
+از	P	O
+خرید	Ne	O
+بازی	Ne	O
+Spider-Man	RES	O
+باید	V	O
+بدانید	V	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+اپارات	Ne	O
+گیمفا	N	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+یوتیوب	N	O
+گیمفا	N	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+بازی	Ne	O
+Marvel’s	RES	O
+Spider-Man	RES	O
+سیستم	Ne	O
+مبارزات	Ne	O
+آن	PRO	O
+را	POSTP	O
+توضیح	N	O
+می‌دهد	V	O
+
+
+
+🕯	N	O
+متنوع‌ترین	AJ	O
+،	PUNC	O
+قوی‌ترین	AJ	O
+و	CONJ	O
+فعال‌ترین	AJ	O
+کانال	Ne	O
+سریال	Ne	O
+محبوب	AJe	O
+The	RES	O
+Walking	RES	O
+Dead	RES	O
+
+
+
+💯	N	O
+به	P	O
+اشتراک	N	O
+گذاشتن	Ne	O
+#تئوری	N	O
+و	CONJ	O
+#توییت	Ne	O
+اعضا	N	O
+💯	N	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+اپارات	Ne	O
+گیمفا	N	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+یوتیوب	N	O
+گیمفا	N	O
+
+
+
+پرش	Ne	O
+کوتاه	AJ	O
+برای	Pe	O
+رسیدن	N	O
+به	P	O
+سبد	Ne	O
+|	Ne	O
+نقدها	N	O
+و	CONJ	O
+نمرات	Ne	O
+NBA	RES	O
+Live	RES	O
+۱۹	NUM	B-MISC
+
+
+
+امکان	Ne	O
+جابجایی	Ne	O
+میان	Pe	O
+شخصیت‌ها	N	O
+در	P	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	O
+وجود	N	O
+ندارد	V	O
+
+
+
+موفقیت	N	O
+در	P	O
+دستان	Ne	O
+سرنوشت	Ne	O
+|	Ne	O
+نقدها	N	O
+و	CONJ	O
+نمرات	Ne	O
+DESTINY	RES	O
+۲	NUM	O
+:	PUNC	O
+
+FORSAKEN	RES	O
+
+
+
+بتا	N	O
+محدود	AJ	O
+بازی	Ne	O
+Overkill’s	RES	O
+The	RES	O
+Walking	RES	O
+Dead	RES	O
+در	P	O
+ماه	Ne	B-MISC
+اکتبر	N	I-MISC
+برگزار	AJ	O
+می‌شود	V	O
+
+
+
+قهرمانان	Ne	O
+چهارمین	NUM	B-MISC
+دوره	Ne	O
+لیگ	Ne	O
+بازی‌های	Ne	O
+رایانه‌ای	AJe	O
+ایران	N	B-LOC
+مشخص	AJ	O
+شدند	V	O
+
+
+
+مردگان	N	O
+نامتحرک	AJe	O
+|	PUNC	O
+نقدها	N	O
+و	CONJ	O
+نمرات	Ne	O
+Far	RES	O
+Cry	RES	O
+۵	NUM	O
+:	PUNC	O
+
+Dead	RES	O
+Living	RES	O
+Zombies	RES	O
+
+
+
+جهان	N	O
+بازی	N	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	O
+فراتر	AJ	O
+از	P	O
+تمامی	DETe	O
+عناوین	Ne	O
+راک‌استار	N	O
+خواهد‌بود	V	O
+
+
+
+جهان	N	O
+بازی	N	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	O
+فراتر	AJ	O
+از	P	O
+تمامی	DETe	O
+عناوین	Ne	O
+راک‌استار	N	O
+خواهد‌بود	V	O
+
+
+
+فاتحان	Ne	O
+صفحه	Ne	O
+کوچک	AJe	O
+|	N	O
+بهترین	AJ	O
+بازی‌هایی	N	O
+که	CONJ	O
+با	P	O
+موبایل	N	O
+می‌توانید	V	O
+آن‌ها	PRO	O
+را	POSTP	O
+تجربه	N	O
+کنید	V	O
+
+
+
+فراخوان	Ne	O
+دریافت	Ne	O
+ویدئوهای	Ne	O
+گیمینگ	Ne	O
+شما	PRO	O
+
+
+
+تلگرام	N	O
+:	PUNC	O
+
+@VICTORLyNCHER	N	O
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۴۹۸۰۵۹	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+🤓توجه	N	O
+کنید	V	O
+،	PUNC	O
+🔥	N	O
+MEG	RES	O
+X۳۹۹	RES	O
+CREATION🔥	RES	O
+عملکرد	Ne	O
+فوق	AJ	O
+العاده	N	O
+در	P	O
+اورکلاکینگ	N	O
+برای	Pe	O
+کسب	Ne	O
+حداکثر	DETe	O
+عملکرد	N	O
+داشته‌است	V	O
+با	P	O
+رکوردهای	Ne	O
+خیره	AJe	O
+کننده	AJe	O
+مقام	Ne	O
+اول	NUM	O
+در	P	O
+۹	NUM	O
+بنچمارک	N	O
+سایت	Ne	O
+Hwbot	RES	O
+،	PUNC	O
+بدست	P	O
+آورده‌است	V	O
+@MSIFARSI	RES	O
+
+
+
+🤓توجه	N	O
+کنید	V	O
+،	PUNC	O
+🔥	N	O
+MEG	RES	O
+X۳۹۹	RES	O
+CREATION🔥	RES	O
+عملکرد	Ne	O
+فوق	AJ	O
+العاده	N	O
+در	P	O
+اورکلاکینگ	N	O
+برای	Pe	O
+کسب	Ne	O
+حداکثر	DETe	O
+عملکرد	N	O
+داشته‌است	V	O
+با	P	O
+رکوردهای	Ne	O
+خیره	AJe	O
+کننده	AJe	O
+مقام	Ne	O
+اول	NUM	O
+در	P	O
+۹	NUM	O
+بنچمارک	N	O
+سایت	Ne	O
+Hwbot	RES	O
+،	PUNC	O
+بدست	P	O
+آورده‌است	V	O
+@MSIFARSI	RES	O
+
+
+
+گیمفا	N	O
+:	PUNC	O
+
+Destiny	RES	O
+۲	NUM	O
+|	PUNC	O
+آماری	N	O
+تحسین‌برانگیز	AJ	O
+از	P	O
+تعداد	Ne	O
+بازی‌بازان	N	O
+در	P	O
+دو	NUM	O
+حالت	Ne	O
+PvE	RES	O
+و	CONJ	O
+PvP	RES	O
+
+
+
+گیمفا	N	O
+:	PUNC	O
+
+Destiny	RES	O
+۲	NUM	O
+|	PUNC	O
+آماری	N	O
+تحسین‌برانگیز	AJ	O
+از	P	O
+تعداد	Ne	O
+بازی‌بازان	N	O
+در	P	O
+دو	NUM	O
+حالت	Ne	O
+PvE	RES	O
+و	CONJ	O
+PvP	RES	O
+
+
+
+یوبی‌سافت	N	O
+از	P	O
+احتمال	Ne	O
+ساخت	Ne	O
+عنوانی	N	O
+بر	P	O
+اساس	Ne	O
+قوانین	Ne	O
+بتل	RES	O
+رویال	N	O
+می‌گوید	V	O
+
+
+
+۲۰	NUM	O
+گوشی	Ne	O
+هوشمند	AJe	O
+برتر	AJe	O
+دنیا	N	O
+
+
+
+۲۰	NUM	O
+گوشی	Ne	O
+هوشمند	AJe	O
+برتر	AJe	O
+دنیا	N	O
+
+
+
+مراحل	Ne	O
+جانبی	AJe	O
+بازی	Ne	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	O
+را	POSTP	O
+بازی‌بازان	N	O
+در	P	O
+گذشته	N	O
+ندیده‌اند	V	O
+
+
+
+مراحل	Ne	O
+جانبی	AJe	O
+بازی	Ne	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	O
+را	POSTP	O
+بازی‌بازان	N	O
+در	P	O
+گذشته	N	O
+ندیده‌اند	V	O
+
+
+
+بازی	Ne	O
+Overkill’s	RES	O
+The	RES	O
+Walking	RES	O
+Dead	RES	O
+هیچ‌گونه	RES	O
+پرداخت	Ne	O
+درون	Ne	O
+برنامه‌ای	N	O
+نخواهد‌داشت	V	O
+
+
+
+بازی	Ne	O
+Overkill’s	RES	O
+The	RES	O
+Walking	RES	O
+Dead	RES	O
+هیچ‌گونه	RES	O
+پرداخت	Ne	O
+درون	Ne	O
+برنامه‌ای	N	O
+نخواهد‌داشت	V	O
+
+
+
+توییت	N	O
+مرموز	AJe	O
+کوجیما	N	O
+احتملا	N	O
+به	P	O
+تریلر	Ne	O
+جدیدی	AJ	O
+از	P	O
+Death	RES	O
+Stranding	RES	O
+اشاره	N	O
+می‌کند	V	O
+
+
+
+گیمفا	N	O
+آماده	AJ	O
+قرار	N	O
+دادن	Ne	O
+تبلیغات	Ne	O
+ویدئویی	AJe	O
+شما	PRO	O
+در	P	O
+آیتم‌های	Ne	O
+ویدئویی	AJe	O
+اختصاصی	AJ	O
+و	CONJ	O
+جذاب	AJe	O
+متعددش	AJ	O
+است	V	O
+.	PUNC	O
+
+برای	Pe	O
+کسب	Ne	O
+اطلاعات	Ne	O
+بیشتر	AJ	O
+در	P	O
+این	DET	O
+زمینه	N	O
+با	P	O
+ما	PRO	O
+تماس	N	O
+بگیرید	V	O
+•	PUNC	O
+پست	Ne	O
+الکترونیک	AJ	O
+:	PUNC	O
+
+kasra۱۹۸۶@gmail	N	O
+.	PUNC	O
+
+com	RES	O
+•	RES	O
+تلگرام	N	O
+:	PUNC	O
+
+@kasra۱۹۸۶	NUM	O
+
+
+
+به	P	O
+جهنم	N	O
+خوش	AJ	O
+آمدید	V	O
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+Slain	RES	O
+back	RES	O
+from	RES	O
+hell	RES	O
+
+
+
+🤓نظر	Ne	O
+شما	PRO	O
+درباره	Pe	O
+این	DET	O
+سیستم	N	O
+که	CONJ	O
+از	P	O
+ترکیپ	N	O
+پردازنده	N	O
+🔥۲۹۹۰WX	N	O
+🔥و	N	O
+مادربرد	V	O
+MSI	RES	O
+MEG	RES	O
+X۳۹۹	RES	O
+CREATION	RES	O
+قدرتمند	AJ	O
+و	CONJ	O
+هماهنگ	AJ	O
+شده	V	O
+با	P	O
+کیس	N	O
+شرکت	Ne	O
+کرسیر	N	O
+Obsidian	RES	O
+۱۰۰۰D	N	O
+چیست	V	O
+؟	PUNC	O
+
+😈	N	B-PERS
+@msifarsi	N	O
+
+
+
+تریلر	Ne	O
+زمان	N	O
+عرضه	Ne	O
+Shadow	RES	O
+of	RES	O
+the	RES	O
+Tomb	RES	O
+Raider	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+Battlefield	RES	O
+۵	NUM	O
+|	RES	O
+گزارشی	N	O
+از	P	O
+نرخ	Ne	O
+فریم	N	O
+و	CONJ	O
+رزولوشن	N	O
+نسخه	Ne	O
+بتا	N	O
+در	P	O
+ایکس‌باکس	N	O
+وان	N	O
+ایکس	N	O
+و	CONJ	O
+پلی‌استیشن	Ne	O
+۴	NUM	O
+پرو	N	O
+
+
+
+هفته‌ی	Ne	O
+آینده	N	O
+منتظر	AJe	O
+عرضه‌ی	Ne	O
+چه	DET	O
+بازی‌هایی	N	O
+باشیم	V	O
+؟	PUNC	O
+
+
+
+تاریخ	Ne	O
+انتشار	Ne	O
+بازی	Ne	O
+Left	RES	O
+Alive	RES	O
+با	P	O
+انتشار	Ne	O
+تریلری	Ne	O
+جدید	AJ	O
+از	P	O
+آن	PRO	O
+مشخص	AJ	O
+شد	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+Sekiro	RES	O
+:	PUNC	O
+
+Shadows	RES	O
+Die	RES	O
+Twice	RES	O
+،	PUNC	O
+دشمنان	Ne	O
+شرور	AJe	O
+این	DET	O
+بازی	N	O
+را	POSTP	O
+نشان	N	O
+می‌دهد	V	O
+
+
+
+بازی	Ne	O
+جدید	AJe	O
+توسعه	Ne	O
+دهندگان	Ne	O
+سری	AJe	O
+یاکوزا	N	O
+معرفی	N	O
+شد	V	O
+|	PUNC	O
+Judge	RES	O
+Eyes	RES	O
+
+
+
+جزئیاتی	N	O
+از	P	O
+تغییرات	Ne	O
+اعمال	N	O
+شده	V	O
+در	P	O
+نسخه	Ne	O
+بتای	Ne	O
+نامحدود	AJ	O
+Battlefield	RES	O
+V	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+فروش	Ne	O
+اکانت	N	O
+هکی	N	O
+تمامی	DETe	O
+بازی‌ها	N	O
+🤩	N	O
+
+
+
+با	P	O
+کمترین	AJ	O
+قیمت	Ne	O
+🎖	N	O
+تضمین	Ne	O
+مادام	N	O
+العمر	RES	O
+🙈	RES	O
+درگاه	N	O
+پرداخت	Ne	O
+⚜	N	O
+تحویل	Ne	O
+آنی	AJe	O
+⏱	PUNC	O
+
+
+
+🤓مادربرد	N	O
+⚡️MSI	RES	O
+B۴۵۰i	RES	O
+Gaming	RES	O
+AC⚡️	RES	O
+در	P	O
+سایت	Ne	B-ORG
+Think	RES	I-ORG
+computers	RES	I-ORG
+به	P	O
+دلیل	Ne	O
+کارایی	Ne	O
+مطلوب	AJ	O
+موفق	AJ	O
+به	P	O
+کسب	N	O
+نشان	Ne	O
+منتخب	AJe	O
+نویسنده	N	O
+شده‌است	V	O
+.	PUNC	O
+
+😈	N	O
+@msifarsi	N	O
+
+
+
+تاریخ	Ne	O
+انتشار	Ne	O
+نسخه‌ی	Ne	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+بازی	Ne	O
+God	RES	O
+Eater	RES	O
+۳	NUM	B-MISC
+مشخص	AJ	O
+شد	V	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+اپارات	Ne	B-ORG
+گیمفا	N	B-ORG
+
+
+
+🤓کارت	N	O
+گرافیک	Ne	O
+🔥	N	O
+MSI	RES	O
+RX	RES	O
+۵۸۰	NUM	B-MISC
+MECH	RES	O
+۲	NUM	O
+🔥	N	O
+به	P	O
+دلیل	Ne	O
+طراحی	N	O
+و	CONJ	O
+عملکرد	Ne	O
+بسیار	ADV	O
+مطلوب	AJ	O
+موفق	AJ	O
+به	P	O
+کسب	N	O
+نشان	Ne	O
+منتخب	AJe	O
+نویسنده	N	O
+از	P	O
+سایت	Ne	B-ORG
+سخت	AJe	I-ORG
+افزار	Ne	I-ORG
+مگ	N	I-ORG
+شده‌است	V	O
+.	PUNC	O
+
+@msifarsi	N	O
+
+
+
+تعداد	Ne	O
+بازی‌بازان	Ne	O
+هم‌زمان	AJe	O
+PUBG	RES	O
+برای	Pe	O
+اولین	NUM	B-MISC
+بار	N	O
+در	P	O
+یک	NUM	O
+سال	N	O
+،	PUNC	O
+کمتر	AJ	O
+از	P	O
+یک	NUM	B-MISC
+میلیون	NUM	I-MISC
+شده‌است	V	O
+
+
+
+گیمفا	N	O
+:	PUNC	O
+
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+|	PUNC	O
+تعداد	Ne	O
+بازی‌بازان	N	O
+حالت	Ne	O
+Blackout	RES	O
+به	P	O
+۸۸	NUM	B-MISC
+نفر	N	O
+افزایش	N	O
+یافت	V	O
+
+
+
+تاریخ	Ne	O
+انتشار	Ne	O
+سرویس	Ne	O
+آنلاین	N	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+مشخص	AJ	O
+شد	V	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+بزودی	ADV	O
+دومین	NUM	B-MISC
+تریلر	N	O
+از	P	O
+گیم‌پلی	N	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	O
+منتشر	AJ	O
+خواهد‌شد	V	O
+
+
+
+بازی	Ne	O
+Spider-Man	RES	O
+دو	NUM	B-MISC
+برابر	Ne	O
+بیشتر	AJ	O
+از	P	O
+God	RES	O
+of	RES	O
+War	RES	O
+در	P	O
+ژاپن	N	B-LOC
+به	P	O
+فروش	N	O
+رفته‌است	V	O
+
+
+
+هم‌اکنون	ADV	O
+پریمیوم	N	O
+پس	P	O
+بازی	Ne	O
+Battlefield	RES	O
+۱	NUM	B-MISC
+به	P	O
+طور	Ne	O
+رایگان	AJ	O
+در	P	O
+دسترس	N	O
+است	V	O
+
+
+
+تصویر	N	O
+روی	Pe	O
+جلد	Ne	O
+جدیدترین	AJ	O
+شماره	N	O
+از	P	O
+مجله	Ne	B-ORG
+EDGE	RES	I-ORG
+به	P	O
+بازی	Ne	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+اختصاص	N	O
+دارد	V	O
+
+
+
+عملکرد	Ne	O
+فوق‌العاده‌ی	AJe	O
+نسخه‌ی	Ne	O
+آزمایشی	AJ	O
+Blackout	RES	O
+،	PUNC	O
+ارزش	Ne	O
+سهام	Ne	O
+اکتیویژن	N	B-ORG
+را	POSTP	O
+افزایش	N	O
+داده‌است	V	O
+
+
+
+تریلری	Ne	O
+جدید	AJ	O
+از	P	O
+گیم‌پلی	N	O
+WWE	RES	O
+۲K۱۹	RES	O
+منتشر	AJ	O
+شد	V	O
+|	PUNC	O
+تریپل‌اچ	N	O
+زامبی	N	O
+،	PUNC	O
+کله‌های	N	O
+بزرگ	AJ	O
+و	CONJ	O
+…	PUNC	O
+
+
+
+قدرت	N	O
+نمایی	N	O
+به	P	O
+سبک	Ne	O
+CD	Ne	O
+Project	RES	O
+|	PUNC	O
+نگاهی	N	O
+به	P	O
+گیم	Ne	O
+پلی	N	O
+بازی	Ne	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+
+
+
+کنترلرهای	Ne	O
+جدید	AJe	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+از	P	O
+نسخه‌ی	Ne	O
+کلاسیک	AJ	O
+الهام	Ne	O
+گرفته‌	AJ	O
+شده‌اند	V	O
+
+
+
+۶۰$	NUM	B-MISC
+۷۸۰	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	N	O
+
+
+
+نسخه‌ی	Ne	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+بازی	Ne	O
+Assassin’s	RES	O
+Creed	RES	O
+:	PUNC	O
+
+Odyssey	RES	O
+معرفی	N	O
+شد	V	O
+|	PUNC	O
+انحصاری	AJe	O
+ژاپن	N	B-LOC
+
+
+
+حرکتی	N	O
+رو	N	O
+به	P	O
+جلو	ADV	O
+|	PUNC	O
+نقد‌ها	N	O
+و	CONJ	O
+نمرات	Ne	O
+NHL	RES	O
+۱۹	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+حرکتی	N	O
+رو	N	O
+به	P	O
+جلو	ADV	O
+|	PUNC	O
+نقد‌ها	N	O
+و	CONJ	O
+نمرات	Ne	O
+NHL	RES	O
+۱۹	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+تماشا	N	O
+کنید	V	O
+دو	NUM	O
+اپارات	Ne	B-ORG
+گیمفا	N	B-ORG
+
+
+
+تحلیل	Ne	O
+فنی	AJe	O
+۱۹#	NUM	O
+|	PUNC	O
+بازی‌های	Ne	O
+انحصاری	AJ	O
+،	PUNC	O
+فرمول	Ne	O
+موفق	AJe	O
+سونی	N	B-ORG
+در	P	O
+نسل	Ne	O
+هشتم	NUM	B-MISC
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+یوتیوب	N	B-ORG
+گیمفا	N	I-ORG
+
+
+
+تقریبا	ADV	O
+تمام	DETe	O
+موجودی	Ne	O
+Spider-Man	RES	O
+در	P	O
+ژاپن	N	B-LOC
+به	P	O
+فروش	N	O
+رفته‌است	V	O
+
+
+
+تقریبا	ADV	O
+تمام	DETe	O
+موجودی	Ne	O
+Spider-Man	RES	O
+در	P	O
+ژاپن	N	B-LOC
+به	P	O
+فروش	N	O
+رفته‌است	V	O
+
+
+
+تخته‌گاز	N	O
+.	PUNC	O
+
+با	P	O
+دنده	Ne	O
+یک	NUM	O
+|	Ne	O
+نقدها	N	O
+و	CONJ	O
+نمرات	Ne	O
+بازی	Ne	O
+Nascar	RES	O
+heat	RES	O
+۳	NUM	B-MISC
+
+
+
+تخته‌گاز	N	O
+.	PUNC	O
+
+با	P	O
+دنده	Ne	O
+یک	NUM	O
+|	Ne	O
+نقدها	N	O
+و	CONJ	O
+نمرات	Ne	O
+بازی	Ne	O
+Nascar	RES	O
+heat	RES	O
+۳	NUM	B-MISC
+
+
+
+برای	Pe	O
+تجربه‌ی	Ne	O
+Fortnite	RES	O
+برروی	Pe	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+نیازی	N	O
+به	P	O
+اشتراک	Ne	O
+سرویس	Ne	O
+آنلاین	N	O
+ندارید	V	O
+
+
+
+برای	Pe	O
+تجربه‌ی	Ne	O
+Fortnite	RES	O
+برروی	Pe	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+نیازی	N	O
+به	P	O
+اشتراک	Ne	O
+سرویس	Ne	O
+آنلاین	N	O
+ندارید	V	O
+
+
+
+حضور	Ne	O
+الکترونیک	AJe	B-ORG
+آرتس	N	I-ORG
+در	P	O
+دادگاه	Ne	O
+کشور	Ne	O
+بلژیک	N	B-LOC
+به	P	O
+علت	Ne	O
+استفاده	N	O
+از	P	O
+لوت‌باکس‌های	Ne	O
+بازی	Ne	O
+FIFA	RES	B-ORG
+۱۸	NUM	B-MISC
+
+
+
+تابستانی	AJ	O
+به	P	O
+رنگ	Ne	O
+گیمفا…	N	B-ORG
+|	PUNC	O
+رونمایی	N	O
+از	P	O
+کاور	N	O
+و	CONJ	O
+مطالب	Ne	O
+مجله	Ne	O
+شماره	Ne	O
+نوزدهم	NUM	B-MISC
+،	PUNC	O
+ویژه	AJe	O
+نامه	Ne	O
+هشت	NUM	B-MISC
+سالگی	RES	O
+گیمفا	N	B-ORG
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+در	P	O
+پلی‌استیشن	Ne	O
+۵	NUM	B-MISC
+،	PUNC	O
+شاهد	Ne	O
+PSN	RES	O
+دگرگون‌شده‌ای	AJ	O
+خواهیم‌بود	V	O
+
+
+
+😊انتخاب	Ne	O
+شما	PRO	O
+کدام	DET	O
+از	P	O
+این	DET	O
+کارت	N	O
+گرافیک‌های	Ne	O
+MSI	RES	O
+است	V	O
+اگر	CONJ	O
+انتخاب	Ne	O
+شما	PRO	O
+RTX	N	O
+۲۰۸۰	NUM	B-MISC
+Ti	RES	O
+Gaming	RES	O
+X	RES	O
+Trio	RES	O
+است	V	O
+لایک	N	O
+کنید	V	O
+و	CONJ	O
+اگر	CONJ	O
+انتخاب	Ne	O
+شما	PRO	O
+MSI	RES	O
+RTX	RES	O
+۲۰۸۰	NUM	B-MISC
+Ti	RES	O
+DUKE	RES	O
+در	P	O
+اینستاگرام	N	O
+msifarsi	RES	O
+کامنت	N	O
+بگذارید	V	O
+@msifarsi	N	O
+
+
+
+با	P	O
+انتشار	Ne	O
+پیش	Pe	O
+دانلود	N	O
+Assassin’s	RES	O
+Creed	RES	O
+Odyssey	RES	O
+برای	Pe	O
+ایکس‌باکس	Ne	O
+وان	N	B-MISC
+،	PUNC	O
+حجم	Ne	O
+بازی	N	O
+مشخص	AJ	O
+شد	V	O
+
+
+
+بتسدا	N	B-ORG
+:	PUNC	O
+
+ماهیت	Ne	O
+آنلاین	N	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+باعث	AJe	O
+تغییر	Ne	O
+رویکرد	Ne	O
+صحبت‌های	Ne	O
+پیرامون	Pe	O
+آن	PRO	O
+شده‌است	V	O
+
+
+
+پیت	N	B-PERS
+هاینز	N	I-PERS
+:	PUNC	O
+
+به	P	O
+اطلاعات	Ne	O
+محرمانه‌ای	AJ	O
+از	P	O
+کنسول‌های	Ne	O
+نسل	Ne	O
+بعدی	AJ	O
+دسترسی	N	O
+دارم	V	O
+
+
+
+لذت	Ne	O
+نبرد	N	O
+در	P	O
+کنار	ADVe	O
+دوستان	Ne	O
+|	AJ	O
+پیش	ADV	O
+نمایش	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+
+
+
+تصاویر	N	O
+و	CONJ	O
+اطلاعات	Ne	O
+جدید	AJe	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+به	P	O
+معرفی	Ne	O
+شهرهای	Ne	O
+بازی	N	O
+پرداخته‌است	V	O
+
+
+
+🤓سیستم	N	O
+گیمینگ	Ne	O
+خود	PRO	O
+را	POSTP	O
+مونتاژ	N	O
+کنید	V	O
+و	CONJ	O
+با	P	O
+انتخاب	Ne	O
+قطعات	Ne	O
+MSI	RES	O
+بی	P	O
+وقفه	N	O
+بازی	N	O
+کنید	V	O
+و	CONJ	O
+استریم	Ne	O
+کنید	V	O
+.	PUNC	O
+
+😈	N	O
+@msifarsi	N	O
+
+
+
+سازندگان	N	O
+:	PUNC	O
+
+مراحل	Ne	O
+فرعی	AJe	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+حسی	N	O
+به	P	O
+مانند	ADVe	O
+داستانی	N	O
+کاملا	ADV	O
+جدید	AJ	O
+را	POSTP	O
+منتقل	AJ	O
+می‌کنند	V	O
+
+
+
+پیش‌بارگزاری	N	O
+Forza	RES	O
+Horizon	RES	O
+۴	NUM	B-MISC
+آغاز	N	O
+شد	V	O
+|	PUNC	O
+حدودا	ADV	O
+۶۳	NUM	B-MISC
+گیگابایت	N	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+|	PUNC	O
+تعداد	Ne	O
+بازی‌بازان	N	O
+حالت	Ne	O
+Blackout	RES	O
+به	P	O
+۱۰۰	NUM	B-MISC
+نفر	N	O
+افزایش	N	O
+یافت	V	O
+
+
+
+نسخه‌ی	Ne	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+بازی	Ne	O
+PlayerUnknown’s	RES	O
+Battlegrounds	RES	O
+در	P	O
+کره	Ne	B-LOC
+رتبه‌بندی	N	O
+شد	V	O
+
+
+
+قیمت	Ne	O
+هر	DET	O
+بیت	N	O
+کوین	N	O
+۶۴۰۰	NUM	B-MISC
+دلار	N	I-MISC
+💰که	N	O
+به	P	O
+پول	Ne	O
+ما	PRO	O
+میشه	V	O
+۹۳	NUM	B-MISC
+میلیون	NUM	I-MISC
+تومان😍	N	O
+
+
+
+📣فروش	N	O
+انواع	Ne	O
+اکانت‌های	Ne	O
+هکی	N	O
+PC🎮	RES	O
+Origin,uplay,Epic	RES	O
+game	RES	O
+باتضمین	RES	O
+مادام	CONJ	O
+العمر	RES	O
+و	CONJ	O
+تغییراطلاعات🔔	N	O
+همراه	N	O
+با	P	O
+درگاه	N	O
+پرداخت	Ne	O
+وتحویل	N	O
+آنی✅	N	O
+پشتیبانی	Ne	O
+کامل❇️	AJ	O
+لینک	Ne	O
+عضویت👇	N	O
+
+
+
+بلیزارد	N	B-ORG
+با	P	O
+استفاده	Ne	O
+کنندگان	N	O
+از	P	O
+نرم‌افزارهای	Ne	O
+جانبی	AJe	O
+Overwatch	RES	O
+به	P	O
+شدت	Ne	O
+برخورد	N	O
+می‌کند	V	O
+
+
+
+بررسی	Ne	O
+اولیه‌ی	AJe	O
+گوشی	Ne	O
+آیفون	Ne	O
+ایکس	N	O
+اس	N	O
+مکس	N	O
+
+
+
+گروه	Ne	O
+گیم	Ne	B-ORG
+ایرانیان	N	I-ORG
+(	PUNC	O
+G	RES	O
+.	PUNC	O
+
+G	RES	O
+)	PUNC	O
+مشاوره	N	O
+و	CONJ	O
+راهنمایی	Ne	O
+ویدیو	N	O
+و	CONJ	O
+تصاویر	N	O
+
+
+
+سیستم	Ne	O
+مورد	Ne	O
+نیاز	Ne	O
+بازی	Ne	O
+World	RES	O
+War	RES	O
+۳	NUM	B-MISC
+مشخص	AJ	O
+شد	V	O
+
+
+
+سیستم	Ne	O
+تیراندازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+شبیه	AJ	O
+به	P	O
+عنوان	Ne	O
+Max	RES	O
+Payne	RES	O
+۳	NUM	B-MISC
+خواهد‌بود	V	O
+
+
+
+کمپین	N	O
+چندنفره	AJ	O
+به	P	O
+بازی	Ne	O
+Rising	RES	O
+Storm	RES	O
+۲	NUM	B-MISC
+:	PUNC	O
+
+Vietnam	RES	O
+اضافه	AJ	O
+شد	V	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+PlayStation	RES	O
+Classic	RES	O
+از	P	O
+شبکه‌ی	Ne	O
+PSN	RES	O
+پشتیبانی	N	O
+نخواهد‌کرد	V	O
+
+
+
+رابط	Ne	O
+HUD	RES	O
+به‌طور	Pe	O
+کامل	AJ	O
+در	P	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+قابل	AJe	O
+خاموش	AJ	O
+شدن	N	O
+است	V	O
+
+
+
+حالت	Ne	O
+جدید	AJe	O
+Breakthrough	RES	O
+برای	Pe	O
+بازی	Ne	O
+Destiny	RES	O
+۲	NUM	B-MISC
+معرفی	N	O
+شد	V	O
+
+
+
+کوجیما	N	B-PERS
+تاریخ	Ne	O
+انتشار	Ne	O
+بازی	Ne	O
+Death	RES	O
+Stranding	RES	O
+را	POSTP	O
+فاش	AJ	O
+کرد	V	O
+
+
+
+کوجیما	N	B-ORG
+تاریخ	Ne	O
+انتشار	Ne	O
+بازی	Ne	O
+Death	RES	O
+Stranding	RES	O
+را	POSTP	O
+فاش	AJ	O
+کرد	V	O
+
+
+
+کاهش	Ne	O
+سرعت	Ne	O
+بازی	Ne	O
+FIFA	RES	O
+۱۹	NUM	B-MISC
+بسیاری	DET	O
+از	P	O
+بازی‌بازان	N	O
+را	POSTP	O
+نا‌امید	N	O
+کرده‌است	V	O
+
+
+
+کاهش	Ne	O
+سرعت	Ne	O
+بازی	Ne	O
+FIFA	RES	O
+۱۹	NUM	B-MISC
+بسیاری	DET	O
+از	P	O
+بازی‌بازان	N	O
+را	POSTP	O
+نا‌امید	N	O
+کرده‌است	V	O
+
+
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+در	P	O
+هنگام	Ne	O
+انتشار	N	O
+تنها	ADV	O
+دارای	AJe	O
+یازده	NUM	B-MISC
+نقشه	N	O
+خواهد‌بود	V	O
+
+
+
+باندل	Ne	O
+جدید	AJe	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+معرفی	N	O
+شد	V	O
+
+
+
+باندل	Ne	O
+جدید	AJe	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+معرفی	N	O
+شد	V	O
+
+
+
+تریلری	N	O
+از	P	O
+گیم‌پلی	Ne	O
+ماد	N	O
+Fallout	RES	O
+New	RES	O
+Vegas	RES	O
+بازی	Ne	O
+Fallout	RES	O
+۴	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+تریلر	N	O
+هنگام	Ne	O
+عرضه‌ی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+فضای	Ne	O
+مورد	Ne	O
+نیاز	Ne	O
+بازی	Ne	O
+Life	RES	O
+is	RES	O
+Strange	RES	O
+۲	NUM	B-MISC
+بر‌روی	Ne	O
+کنسول	Ne	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+مشخص	AJ	O
+شد	V	O
+
+
+
+سازندگان	N	O
+:	PUNC	O
+
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+تغییرات	Ne	O
+بنیادی	AJ	O
+در	P	O
+صنعت	Ne	O
+بازی‌‌سازی	N	O
+ایجاد	N	O
+می‌کند	V	O
+
+
+
+😈کسب	N	O
+نشان	Ne	O
+premium	RES	O
+در	P	O
+مجله	Ne	B-ORG
+CUSTOM	RES	I-ORG
+PC	N	I-ORG
+توسط	Pe	O
+مادربرد	N	O
+MSI	RES	O
+B۴۵۰M	RES	O
+MORTAR	RES	O
+💥💥💥	RES	O
+@msifarsi	RES	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+۱۰	NUM	B-MISC
+کیبورد	N	O
+گیمینگ	Ne	O
+برتر	AJe	O
+۲۰۱۸	NUM	B-MISC
+
+
+
+👈🏻	N	O
+جدیدترین	AJ	O
+اخبار	Ne	O
+دنیای	Ne	O
+DC	RES	B-ORG
+و	CONJ	O
+Marvel	RES	B-ORG
+👈🏻	N	O
+آرشیو	Ne	O
+کامل	AJe	O
+کامیک	N	O
+بوک	N	O
+و	CONJ	O
+فیلم	Ne	O
+👈🏻	Ne	O
+دانلود	AJe	O
+آرت	N	O
+بوک	N	O
+بازیهای	Ne	O
+ویدیویی	AJ	O
+با	P	O
+بهترین	AJ	O
+کیفیت	N	O
+
+
+
+بازی‌های	Ne	O
+رایگان	AJe	O
+ماه	Ne	B-MISC
+اکتبر	N	I-MISC
+کاربران	Ne	O
+گلد	N	O
+اکس	N	O
+باکس	Ne	O
+لایو	N	O
+مشخص	AJ	O
+شد	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+بازی	Ne	O
+Hitman	RES	O
+۲	NUM	B-MISC
+کلمبیا	N	B-LOC
+را	POSTP	O
+نشان	N	O
+می‌دهد	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+Just	RES	O
+Cause	RES	O
+۴	NUM	B-MISC
+به	P	O
+معرفی	Ne	O
+شخصیت	Ne	O
+منفی	AJe	O
+اصلی	AJe	O
+بازی	N	O
+می‌پردازد	V	O
+
+
+
+تریلر	Ne	O
+زمان	N	O
+عرضه	Ne	O
+Forza	RES	O
+Horizon	RES	O
+۴	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+حجم	Ne	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+برروی	Pe	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+پرو	N	O
+فاش	AJ	O
+شد	V	O
+
+
+
+سونی	N	B-ORG
+دست	N	O
+از	P	O
+لج‌بازی	N	O
+برداشت	V	O
+|	PUNC	O
+بازی	Ne	O
+میان‌پلتفرمی	N	O
+در	P	O
+Fortnite	RES	O
+ممکن	AJ	O
+شد	V	O
+
+
+
+تصاویر	Ne	O
+زیبایی	AJ	O
+از	P	O
+حیات	Ne	O
+وحش	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+محتوای	Ne	O
+بازی	Ne	O
+Far	RES	O
+Cry	RES	O
+۳	NUM	B-MISC
+:	PUNC	O
+
+Blood	RES	O
+Dragon	RES	O
+به	P	O
+حالت	Ne	O
+آرکید	N	O
+عنوان	Ne	O
+Far	RES	O
+cry	RES	O
+۵	NUM	B-MISC
+اضافه	AJ	O
+شد	V	O
+
+
+
+آرون	N	B-PERS
+گرین‌برگ	N	I-PERS
+از	P	O
+اکس‌باکس	N	O
+گیم‌پس	N	O
+و	CONJ	O
+بازخوردهای	Ne	O
+مثبت	AJe	O
+آن	PRO	O
+می‌گوید	V	O
+
+
+
+اواخر	Ne	O
+امشب	ADV	O
+Forza	RES	O
+Horizon	RES	O
+۴	NUM	B-MISC
+Ultimate	RES	O
+Edition	RES	O
+در	P	O
+تمام	DETe	O
+نقاط	Ne	O
+جهان	N	O
+در	P	O
+دسترس	N	O
+قرار	N	O
+می‌گیرد	V	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+برروی	Pe	O
+دو	NUM	O
+دیسک	Ne	O
+بلوری	AJ	O
+عرضه	N	O
+خواهد‌شد	V	O
+
+
+
+تصاویر	Ne	O
+جدید	AJ	O
+و	CONJ	O
+زیبایی	AJ	O
+از	P	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+سال	Ne	B-MISC
+۲۰۱۹	NUM	I-MISC
+میلادی	AJ	I-MISC
+عرضه	N	O
+خواهد‌شد	V	O
+
+
+
+ویدئو	N	O
+گیمفا	N	B-ORG
+:	PUNC	O
+
+طعنه‌ای	N	O
+تلخ	AJ	O
+،	PUNC	O
+یک	NUM	O
+بلمونت	N	O
+در	P	O
+قامت	Ne	O
+دراکولا…	N	O
+|	PUNC	O
+بررسی	Ne	O
+ویدئویی	AJe	O
+بازی	Ne	O
+Castlevania	RES	O
+:	PUNC	O
+
+Lords	RES	O
+of	RES	O
+Shadow	RES	O
+۲	NUM	B-MISC
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+اپارات	N	B-ORG
+
+
+
+پرتاب	Ne	O
+سه	NUM	B-MISC
+امتیازی	N	O
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+NBA	RES	O
+۲K۱۹	RES	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+اپارات	Ne	B-ORG
+گیمفا	N	B-ORG
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+یوتیوب	N	B-ORG
+گیمفا	N	B-ORG
+
+
+
+تحلیل	Ne	O
+فنی	AJe	O
+۲۱#	NUM	O
+|	PUNC	O
+بررسی	Ne	O
+عملکرد	Ne	O
+بازی	Ne	O
+Spider-Man	RES	O
+بر‌روی	Ne	O
+کنسول	Ne	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+یوتیوب	N	B-ORG
+گیمفا	N	I-ORG
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+Valkyria	RES	O
+Chronicles	RES	O
+۴	NUM	B-MISC
+،	PUNC	O
+برروی	Pe	O
+محتوای	Ne	O
+تاریخی	AJe	O
+این	DET	O
+بازی	N	O
+تمرکز	N	O
+دارد	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+Valkyria	RES	O
+Chronicles	RES	O
+۴	NUM	B-MISC
+،	PUNC	O
+برروی	Pe	O
+محتوای	Ne	O
+تاریخی	AJe	O
+این	DET	O
+بازی	N	O
+تمرکز	N	O
+دارد	V	O
+
+
+
+عنوان	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+سرعت	Ne	O
+“کمتری”	N	O
+نسبت	N	O
+به	P	O
+GTA	RES	O
+V	RES	O
+دارد	V	O
+
+
+
+دومین	NUM	B-MISC
+تریلر	N	O
+از	P	O
+گیم‌‌پلی	N	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+امروز	ADV	O
+منتشر	AJ	O
+خواهد‌شد	V	O
+
+
+
+زامبی‌ها	N	O
+به	P	O
+دنیای	Ne	O
+فارکرای	N	O
+هم	CONJ	O
+رسیدند	V	O
+!	PUNC	O
+
+|	PUNC	O
+نگاهی	N	O
+به	P	O
+بسته	Ne	O
+الحاقی	AJe	O
+Dead	RES	O
+Living	RES	O
+Zombies	RES	O
+از	P	O
+بازی	Ne	O
+Far	RES	O
+Cry	RES	O
+۵	NUM	B-MISC
+
+
+
+زامبی‌ها	N	O
+به	P	O
+دنیای	Ne	O
+فارکرای	N	O
+هم	CONJ	O
+رسیدند	V	O
+!	PUNC	O
+
+|	PUNC	O
+نگاهی	N	O
+به	P	O
+بسته	Ne	O
+الحاقی	AJe	O
+Dead	RES	O
+Living	RES	O
+Zombies	RES	O
+از	P	O
+بازی	Ne	O
+Far	RES	O
+Cry	RES	O
+۵	NUM	B-MISC
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+گلد	N	O
+شد	V	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+گلد	N	O
+شد	V	O
+
+
+
+انتظارها	N	O
+به	P	O
+پایان	N	O
+رسید	V	O
+:	PUNC	O
+
+دومین	NUM	B-MISC
+ویدئو	N	O
+از	P	O
+گیم‌پلی	N	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+جدول	Ne	O
+فروش	Ne	O
+هفتگی	AJe	O
+بریتانیا	N	B-LOC
+|	PUNC	O
+فوتبالیست‌های	Ne	O
+صدرنشین	AJ	O
+
+
+
+چگونه	ADV	O
+بازی	Ne	O
+مخفی	AJ	O
+در	P	O
+جستجوگر	Ne	O
+گوگل	N	B-ORG
+را	POSTP	O
+پیدا	AJ	O
+کنیم	V	O
+؟	PUNC	O
+
+
+
+سال	Ne	O
+آینده	AJ	O
+شاهد	Ne	O
+عرضه‌ی	Ne	O
+بازی	Ne	O
+Life	RES	O
+is	RES	O
+Strange	RES	O
+۲	NUM	B-MISC
+برروی	Pe	O
+مک	N	O
+و	CONJ	O
+لینوکس	N	O
+خواهیم‌بود	V	O
+
+
+
+🤓با	N	O
+مادربردهای	Ne	O
+MSI	RES	B-ORG
+B۴۵۰	RES	O
+که	CONJ	O
+از	P	O
+مدار	Ne	O
+رگولاتور	Ne	O
+ولتاژ	Ne	O
+قدرتمند	AJ	O
+و	CONJ	O
+قابلیت	Ne	O
+اختصاصی	AJe	O
+Core	RES	O
+Boost	RES	O
+بهره	Ne	O
+میبرند	V	O
+به	P	O
+را	POSTP	O
+حتی	ADV	O
+پردازنده‌های	Ne	O
+AMD	RES	B-ORG
+RYZEN	RES	O
+خود	PRO	O
+را	POSTP	O
+اورکلاک	N	O
+کنید	V	O
+.	PUNC	O
+
+@msifarsi	N	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+RPG	RES	O
++	PUNC	O
+Assassin’s	RES	O
+Creed	RES	O
+،	PUNC	O
+یک	NUM	O
+ترکیب	Ne	O
+جادویی	AJe	O
+|	Ne	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+Assassin’s	RES	O
+Creed	RES	O
+:	PUNC	O
+
+Odyssey	RES	O
+
+
+
+🔉بهترین	AJ	O
+قیمت	N	O
+به	P	O
+همراه	Ne	O
+۶	NUM	B-MISC
+ماه	Ne	I-MISC
+گارانتی	Ne	O
+
+
+
+اضافه	AJ	O
+شدن	Ne	O
+محتوایی	N	O
+از	P	O
+دیگر	PRO	O
+عناوین	Ne	O
+شرکت	Ne	B-ORG
+یوبی‌سافت	N	I-ORG
+به	P	O
+Far	RES	O
+Cry	RES	O
+۵	NUM	B-MISC
+در	P	O
+به‌روزرسان	Ne	O
+۱٫۱۱	NUM	B-MISC
+
+
+
+تریلری	N	O
+از	P	O
+بازی	Ne	O
+مستقل	AJ	O
+Russia	RES	O
+۲۰۵۵	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+ویدئویی	AJ	O
+منتشر	AJ	O
+شده	V	O
+از	P	O
+بازی	Ne	O
+جدید	AJe	O
+هری	N	B-PERS
+پاتر	N	I-PERS
+زیبا	AJ	O
+به	P	O
+نظر	N	O
+می‌رسد	V	O
+
+
+
+لیست	Ne	O
+خودروها	N	O
+،	PUNC	O
+سلاح‌ها	N	O
+و	CONJ	O
+گجت‌های	Ne	O
+موجود	AJ	O
+در	P	O
+زمان	Ne	O
+عرضه	Ne	O
+Battlefield	RES	O
+۵	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+ویدئوی	Ne	O
+جدید	AJe	O
+انواع	Ne	O
+حرکات	N	O
+و	CONJ	O
+سبک	Ne	O
+مبارزه	Ne	O
+نرو	V	O
+در	P	O
+Devil	RES	O
+May	RES	O
+Cry	RES	O
+۵	NUM	B-MISC
+را	POSTP	O
+به	P	O
+نمایش	N	O
+در	P	O
+می‌آورد	V	O
+
+
+
+برنامه‌ی	Ne	O
+زمانی	AJe	O
+مراسم	Ne	O
+بلیزکان	N	B-ORG
+مشخص	AJ	O
+شد	V	O
+
+
+
+آنچه	PRO	O
+ماکیاولی	AJ	B-PERS
+به	P	O
+من	PRO	O
+نیاموخت	V	O
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+۴	NUM	B-MISC
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۵۰۵۵۹۹	NUM	O
+
+
+
+کونامی	N	B-ORG
+وب‌سایت	Ne	O
+مخصوص	AJe	O
+مجموعه‌ی	Ne	O
+Castlevania	RES	O
+را	POSTP	O
+راه‌اندازی	N	O
+کرد	V	O
+
+
+
+بازی	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+هفته	N	O
+به	P	O
+هفته	Ne	O
+به‌روزرسانی	Ne	O
+خواهد‌شد	V	O
+
+
+
+آنچه	PRO	O
+ماکیاولی	AJ	B-PERS
+به	P	O
+من	PRO	O
+نیاموخت	V	O
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+۴	NUM	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+اپارات	Ne	B-ORG
+گیمفا	N	B-ORG
+
+
+
+فروشگاه	Ne	O
+گیفت	AJe	O
+کارت‌های	Ne	O
+استیم	N	O
+,	PUNC	O
+آیتونز	N	O
+،	PUNC	O
+گوگل	N	B-ORG
+،	PUNC	O
+پلی	N	O
+استیشن	N	O
+و	CONJ	O
+ایکس	N	O
+باکس	Ne	O
+و	CONJ	O
+اورجین	N	B-ORG
+و	CONJ	O
+بتل	RES	B-ORG
+نت	Ne	I-ORG
+بلیزارد	N	B-ORG
+در	P	O
+سایت	Ne	O
+www	RES	O
+.	PUNC	O
+
+mygift	RES	O
+.	PUNC	O
+
+ir	RES	O
+با	P	O
+نماد	Ne	O
+اعتماد	N	O
+برای	Pe	O
+اطلاعات	Ne	O
+بیشتر	AJ	O
+و	CONJ	O
+کد	Ne	O
+تخفیف	N	O
+به	P	O
+کانال	Ne	O
+تلگرام	Ne	O
+@giftday	Ne	O
+بپیوندید	V	O
+
+
+
+عناوین	Ne	O
+رایگان	AJe	O
+پلی‌استیشن	Ne	O
+پلاس	N	O
+برای	Pe	O
+ماه	Ne	B-MISC
+نوامبر	N	I-MISC
+معرفی	N	O
+شدند	V	O
+
+
+
+گزارش	N	O
+:	PUNC	O
+
+امکان	Ne	O
+تغییر	Ne	O
+نام	Ne	O
+کاربری	N	O
+در	P	O
+پلی‌استیشن	Ne	O
+نتورک	N	O
+محقق	AJ	O
+خواهد‌شد	V	O
+
+
+
+انباکسینگ	Ne	O
+دو	NUM	O
+قطعه	CL	O
+گیمینگ	N	O
+اونم	PRO	O
+از	P	O
+برند	N	O
+خوش	AJ	O
+نام	Ne	O
+MSI	RES	B-ORG
+همراه	N	O
+با	P	O
+ژنرال	N	O
+.	PUNC	O
+
+✅	PUNC	O
+مشاهده	Ne	O
+ویدئو	Ne	O
+کامل	AJ	O
+در	P	O
+لینک	Ne	O
+زیر	AJ	O
+:	PUNC	O
+
+🌐	N	O
+http	RES	O
+:	PUNC	O
+
+//pcmod	RES	O
+.	PUNC	O
+
+ir/۷۱۶۶	NUM	O
+
+
+
+📣	N	O
+تلگرام	N	O
+:	PUNC	O
+
+🆔	N	O
+@PCMODTV	N	O
+
+
+
+از	P	O
+محتویات	Ne	O
+دسترسی	Ne	O
+زودهنگام	AJe	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+برای	Pe	O
+Red	RES	O
+Dead	RES	O
+Online	RES	O
+رونمایی	N	O
+شد	V	O
+
+
+
+لیستی	N	O
+غیر	Ne	O
+رسمی	AJ	O
+از	P	O
+نقشه‌های	Ne	O
+بخش	Ne	O
+چندنفره	AJe	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+عناوین	Ne	O
+ماه	Ne	B-MISC
+اکتبر	N	I-MISC
+سرویس	Ne	O
+PSN	N	O
+مشخص	AJ	O
+شدند	V	O
+
+
+
+ویدئویی	AJ	O
+نیم	NUM	O
+ساعته	RES	O
+از	P	O
+گیم‌پلی	N	O
+Claire	RES	O
+در	P	O
+Resident	RES	O
+Evil	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+اسکای‌باند	N	B-ORG
+مسئولیت	Ne	O
+ساخت	Ne	O
+The	RES	O
+Walking	RES	O
+Dead	RES	O
+:	PUNC	O
+
+The	RES	O
+Final	RES	O
+Season	RES	O
+را	POSTP	O
+بر	P	O
+عهده	N	O
+گرفت	V	O
+
+
+
+قدرت	Ne	O
+برتر	AJe	O
+|	AJ	O
+معرفی	N	O
+و	CONJ	O
+بررسی	Ne	O
+ده	NUM	B-MISC
+کارت	Ne	O
+گرافیک	Ne	O
+برتر	AJe	O
+Gigabyte	RES	B-ORG
+
+
+
+قدرت	Ne	O
+برتر	AJe	O
+|	AJ	O
+معرفی	N	O
+و	CONJ	O
+بررسی	Ne	O
+ده	NUM	B-MISC
+کارت	Ne	O
+گرافیک	Ne	O
+برتر	AJe	O
+Gigabyte	RES	O
+
+
+
+ویدئوهای	Ne	O
+جدید	AJe	O
+گیم‌پلی	N	O
+بازی	Ne	O
+Devil	RES	O
+May	RES	O
+Cry	RES	O
+۵	NUM	B-MISC
+به	P	O
+نمایش	Ne	O
+مبارزات	Ne	O
+آن	PRO	O
+می‌پردازد	V	O
+
+
+
+ویدئوهای	Ne	O
+جدید	AJe	O
+گیم‌پلی	N	O
+بازی	Ne	O
+Devil	RES	O
+May	RES	O
+Cry	RES	O
+۵	NUM	B-MISC
+به	P	O
+نمایش	Ne	O
+مبارزات	Ne	O
+آن	PRO	O
+می‌پردازد	V	O
+
+
+
+برای	Pe	O
+اجرای	Ne	O
+Battlefield	RES	O
+V	RES	O
+به	RES	O
+حداقل	ADV	O
+۵۰	NUM	B-MISC
+گیگابایت	N	O
+فضای	Ne	O
+خالی	AJ	O
+نیاز	N	O
+است	V	O
+
+
+
+رده‌	Ne	O
+سنی	AJe	O
+بازی	Ne	O
+Just	RES	O
+Cause	RES	O
+۴	NUM	B-MISC
+مشخص	AJ	O
+شد	V	O
+
+
+
+رده‌	Ne	O
+سنی	AJe	O
+بازی	Ne	O
+Just	RES	O
+Cause	RES	O
+۴	NUM	B-MISC
+مشخص	AJ	O
+شد	V	O
+
+
+
+عنوان	Ne	O
+Friday	RES	O
+the	RES	O
+۱۳th	RES	O
+:	PUNC	O
+
+Killer	RES	O
+Puzzle	RES	O
+برای	Pe	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+نیز	CONJ	O
+منتشر	AJ	O
+خواهد‌شد	V	O
+
+
+
+جزییات	Ne	O
+تازه‌ای	AJ	O
+از	P	O
+نحوه‌ی	Ne	O
+روایت	Ne	O
+داستان	N	O
+در	P	O
+عنوان	Ne	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+هایلایت	N	O
+:	PUNC	O
+
+نکاتی	N	O
+که	CONJ	O
+پیش	ADV	O
+از	P	O
+خرید	Ne	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+باید	V	O
+بدانید	V	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+یوتیوب	N	B-ORG
+گیمفا	N	I-ORG
+
+
+
+تصاویر	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+Forza	RES	O
+Horizon	RES	O
+۴	NUM	B-MISC
+سریع‌ترین	AJ	O
+فروش	N	O
+را	POSTP	O
+در	P	O
+بین	Ne	O
+عناوین	Ne	O
+این	DET	O
+سری	N	O
+داشته‌است	V	O
+
+
+
+جدول	Ne	O
+فروش	Ne	O
+هفتگی	AJe	O
+بریتانیا	N	B-LOC
+|	PUNC	O
+دومین	NUM	B-MISC
+قهرمانی	Ne	O
+فوتبالیست‌ها	N	O
+
+
+
+اپل	N	O
+و	CONJ	O
+درماندگی	N	O
+برای	Pe	O
+قیمت‌گذاری	Ne	O
+آیفون‌های	Ne	O
+سال	Ne	B-MISC
+۲۰۱۹	NUM	I-MISC
+
+
+
+کاربر	N	O
+پلی‌استیشن	N	O
+۴	NUM	B-MISC
+با	P	O
+دریافت	Ne	O
+۱٫۶۹۱	NUM	B-MISC
+تروفی	N	O
+پلاتینیوم	N	O
+،	PUNC	O
+نام	Ne	O
+خود	PRO	O
+را	POSTP	O
+در	P	O
+کتاب	Ne	O
+گینس	N	B-ORG
+ثبت	N	O
+کرد	V	O
+
+
+
+از	P	O
+نقشه‌ی	Ne	O
+بازی	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+رونمایی	N	O
+شد	V	O
+
+
+
+مدیر	Ne	O
+عامل	Ne	O
+سونی	N	B-ORG
+:	PUNC	O
+
+داشتن	Ne	O
+سخت‌افزار	N	O
+برای	Pe	O
+نسل	Ne	O
+بعدی	AJ	O
+ضروری	AJ	O
+است	V	O
+
+
+
+جزئیات	Ne	O
+نسخه	Ne	O
+لوکس	AJ	O
+Resident	RES	O
+Evil	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+🤓یک	N	O
+سیستم	Ne	O
+قدرتمند	AJ	O
+به	P	O
+همراه	Ne	O
+مادربرد	N	O
+MSI	RES	B-ORG
+MEG	RES	O
+X۳۹۹	RES	O
+CREATION	RES	O
+و	RES	O
+کارت	Ne	O
+گرافیک	Ne	O
+قدرتمند	AJe	O
+MSI	RES	B-ORG
+RTX	RES	O
+۲۰۸۰Ti	RES	O
+Gaming	RES	O
+X	RES	O
+☺️💥💥💥	RES	O
+@msifarsi	RES	O
+
+
+
+از	P	O
+این	DET	O
+دوشنبه	N	B-MISC
+تا	P	O
+دوشنبه	Ne	B-MISC
+بعدی	AJ	O
+با	P	O
+هیولا	N	O
+باشین	V	O
+و	CONJ	O
+از	P	O
+تخفیف	N	O
+روی	Pe	O
+بازی‌ها	N	O
+لذت	Ne	O
+ببرین	V	O
+.	PUNC	O
+
+Hayoola	RES	O
+.	PUNC	O
+
+com	RES	O
+#گیمرباش	N	O
+
+
+
+اتم‌ها	N	O
+در	P	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+با	P	O
+پول	Ne	O
+واقعی	AJ	O
+قابل	AJe	O
+خریداری	N	O
+خواهند‌بود	V	O
+
+
+
+نگاهی	N	O
+به	P	O
+۳۰	NUM	B-MISC
+دقیقه‌ی	Ne	O
+ابتدایی	AJ	O
+گیم‌پلی	N	O
+بازی	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+
+
+
+انجمن	Ne	B-ORG
+گیمفا	N	B-ORG
+بزرگترین	AJ	O
+انجمن	Ne	B-ORG
+گیم	Ne	I-ORG
+ایران	N	I-ORG
+از	P	O
+شما	PRO	O
+عزیزان	N	O
+دعوت	N	O
+می‌کند	V	O
+که	CONJ	O
+در	P	O
+آن	PRO	O
+عضو	N	O
+شوید	V	O
+و	CONJ	O
+با	P	O
+۷۰	NUM	B-MISC
+هزار	NUM	I-MISC
+کاربر	N	O
+عضو	N	O
+شده	V	O
+دیگر	ADV	O
+به	P	O
+بحث	N	O
+و	CONJ	O
+گفتگو	N	O
+بپردازید	V	O
+.	PUNC	O
+
+http	RES	O
+:	PUNC	O
+
+//forum	RES	O
+.	PUNC	O
+
+gamefa	RES	O
+.	PUNC	O
+
+com/	RES	O
+🆔	RES	O
+@Gamefa_official	RES	O
+
+
+
+نسخه‌ی	Ne	O
+فیزیکی	AJ	O
+بازی	Ne	O
+Hellblade	RES	O
+:	PUNC	O
+
+Senua’s	RES	O
+Sacrifice	RES	O
+معرفی	N	O
+شد	V	O
+
+
+
+حجم	Ne	O
+به‌روزرسانی	Ne	O
+روز	Ne	O
+اول	NUMe	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+مشخص	AJ	O
+شد	V	O
+
+
+
+اجرای	Ne	O
+تمام	DETe	O
+بازی‌های	Ne	O
+پلی‌استیشن	N	O
+۴	NUM	O
+سونی	N	B-ORG
+در	P	O
+پلی‌استیشن	Ne	O
+۵	NUM	B-MISC
+
+
+
+علت	Ne	O
+عرضه	N	O
+نشدن	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+در	P	O
+استیم	N	O
+از	P	O
+زبان	Ne	O
+بتسدا	N	B-ORG
+
+
+
+موسیقی	Ne	O
+متن	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+وجود	Ne	O
+نسخه‌ای	N	O
+ویژه	AJ	O
+از	P	O
+بازی	Ne	O
+The	RES	O
+Legend	RES	O
+of	RES	O
+Zelda	RES	O
+در	P	O
+میان	Ne	O
+عناوین	Ne	O
+ماه	Ne	O
+جاری	AJ	O
+سرویس	Ne	O
+آنلاین	N	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+
+
+
+غیرفعال	AJ	O
+کردن	Ne	O
+نقشه	Ne	O
+کوچک	AJ	O
+در	P	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+واکنش	Ne	O
+جالبی	AJ	O
+خواهد‌داشت	V	O
+
+
+
+و	CONJ	O
+هر	DET	O
+سرزمینی	N	O
+امپراطوری	N	O
+دارد	V	O
+…	PUNC	O
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+Forza	RES	O
+Horizon	RES	O
+۴	NUM	B-MISC
+
+
+
+جزئیات	Ne	O
+فراوانی	AJ	O
+از	P	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+لیست	Ne	O
+تروفی‌های	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+لو	N	O
+رفت	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+بازی	Ne	O
+Resident	RES	O
+Evil	RES	O
+۲	NUM	B-MISC
+موجودات	Ne	O
+Licker	RES	O
+را	POSTP	O
+نمایش	N	O
+می‌دهد	V	O
+
+
+
+ظاهرا	ADV	O
+راک‌استار	N	B-ORG
+گیمز	N	I-ORG
+فرایند	Ne	O
+انتخاب	Ne	O
+بازیگر	N	O
+برای	Pe	O
+Bully	N	O
+۲	NUM	B-MISC
+را	POSTP	O
+آغاز	N	O
+کرده‌است	V	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+حجم	Ne	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+مشخص	AJ	O
+شد	V	O
+
+
+
+به‌روزرسانی	Ne	O
+ماه	Ne	B-MISC
+اکتبر	N	I-MISC
+کنسول	Ne	O
+ایکس‌باکس	N	O
+وان	N	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+نقدها	N	O
+و	CONJ	O
+نمرات	Ne	O
+بازی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+نقدها	N	O
+و	CONJ	O
+نمرات	Ne	O
+بازی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+زمان	Ne	O
+عرضه	Ne	O
+دومین	NUM	B-MISC
+محتوای	Ne	O
+قابل	AJe	O
+دانلود	V	O
+Kingdom	RES	O
+Come	RES	O
+Deliverance	RES	O
+اعلام	N	O
+شد	V	O
+
+
+
+زمان	Ne	O
+عرضه	Ne	O
+دومین	NUM	B-MISC
+محتوای	Ne	O
+قابل	AJe	O
+دانلود	V	O
+Kingdom	RES	O
+Come	RES	O
+Deliverance	RES	O
+اعلام	N	O
+شد	V	O
+
+
+
+ماد	N	O
+گرافیکی	AJe	O
+جدید	AJ	O
+بازی	Ne	O
+GTA	N	O
+۵	NUM	B-MISC
+لحظه‌هایی	N	O
+نفس‌گیر	AJ	O
+ایجاد	N	O
+می‌کند	V	O
+
+
+
+ماد	N	O
+گرافیکی	AJe	O
+جدید	AJ	O
+بازی	Ne	O
+GTA	N	O
+۵	NUM	B-MISC
+لحظه‌هایی	N	O
+نفس‌گیر	AJ	O
+ایجاد	N	O
+می‌کند	V	O
+
+
+
+توسعه	Ne	O
+دهندگان	N	O
+عنوان	Ne	O
+Diablo	RES	O
+۳	NUM	B-MISC
+در	P	O
+حال	Ne	O
+کار	N	O
+برروی	Pe	O
+پشتیبانی	N	O
+از	P	O
+بازی	N	O
+میان	Pe	O
+پلتفرمی	N	O
+هستند	V	O
+
+
+
+🤓کارت	N	O
+گرافیک	Ne	O
+قدرتمند	AJe	O
+MSI	RES	O
+RTX	RES	O
+۲۰۸۰	NUM	B-MISC
+Ti	RES	O
+GAMING	RES	O
+X	RES	O
+TRIO	RES	O
+در	P	O
+سایت	Ne	O
+معتبر	AJe	O
+Overclock۳d	RES	O
+به	P	O
+دلیل	Ne	O
+عملکرد	N	O
+و	CONJ	O
+قابلیت‌های	Ne	O
+منحصر	AJ	O
+به	P	O
+فرد	N	O
+موفق	AJ	O
+به	P	O
+کسب	N	O
+نشان	Ne	O
+ENTHUSIAST	RES	O
+GRADE	RES	O
+شده‌است	V	O
+.	PUNC	O
+
+💥💥💥💥💥	N	O
+@msifarsi	N	O
+
+
+
+برگزاری	Ne	O
+مسابقات	Ne	O
+جهانی	AJe	O
+بازی	N	O
+۱۹	NUM	O
+FIFA	RES	O
+با	P	O
+همکاری	Ne	O
+شرکت	Ne	B-ORG
+الکترونیک	AJe	I-ORG
+آرتس	N	I-ORG
+و	CONJ	O
+لیگ	Ne	O
+برتر	AJe	O
+انگلستان	N	B-LOC
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+با	P	O
+تصاحب	Ne	O
+جایگاه	Ne	O
+Fortnite	RES	O
+در	P	O
+صدر	Ne	O
+عناوین	Ne	O
+پربیننده	AJe	O
+توییچ	N	O
+قرار	N	O
+گرفت	V	O
+
+
+
+تحلیل	Ne	O
+فنی	AJe	O
+۲۲#	NUM	B-MISC
+|	PUNC	O
+بررسی	Ne	O
+عملکرد	Ne	O
+بازی	Ne	O
+Shadow	RES	O
+of	RES	O
+The	RES	O
+Tomb	RES	O
+Raider	RES	O
+بر‌روی	N	O
+کنسول‌‌ها	N	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+یوتیوب	N	B-ORG
+
+
+
+ویدئو	N	O
+گیمفا	N	B-ORG
+:	PUNC	O
+
+یونان	N	B-LOC
+،	PUNC	O
+بهشت	N	O
+نقش	Ne	O
+آفرینی	N	O
+بازها…	Ne	O
+|	Ne	O
+بررسی	Ne	O
+ویدئویی	AJe	O
+بازی	Ne	O
+Assassin’s	RES	O
+Creed	RES	O
+:	PUNC	O
+
+Odyssey	RES	O
+
+
+
+تماشا	N	O
+کنید	V	O
+در	P	O
+یوتیوب	N	B-ORG
+گیمفا	N	B-ORG
+
+
+
+هشدار	N	O
+به	P	O
+کاربران	Ne	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+
+
+
+کارگردان	Ne	O
+هنری	AJe	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+:	PUNC	O
+
+ما	PRO	O
+از	P	O
+عناوین	Ne	O
+جهان‌	AJ	O
+باز	ADV	O
+رایج	AJ	O
+فاصله	N	O
+گرفته‌ایم	V	O
+
+
+
+توضیحات	N	O
+و	CONJ	O
+تصاویر	Ne	O
+جدید	AJ	O
+از	P	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+به	P	O
+اسلحه‌های	Ne	O
+این	DET	O
+عنوان	N	O
+می‌پردازد	V	O
+
+
+
+حجم	Ne	O
+نسخه	Ne	O
+اکس‌باکس	N	O
+وان	N	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+تایید	N	O
+شد	V	O
+
+
+
+🤓در	N	O
+مادربرد	N	O
+MSI	RES	O
+MEG	RES	O
+Z۳۹۰	RES	O
+ACE	RES	O
+زیبایی	Ne	O
+نور	Ne	O
+پردازی	N	O
+RGB	N	O
+به	P	O
+حد	Ne	O
+کمال	N	O
+رسیده‌است	V	O
+.	PUNC	O
+
+💥💥💥💥💥	N	O
+@msifarsi	N	O
+
+
+
+آگهی	Ne	O
+استخدامی	AJe	O
+سونی	N	B-ORG
+برای	Pe	O
+کمپین	N	O
+کنسول	Ne	O
+نسل	Ne	O
+بعدی	AJ	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+جدول	Ne	O
+فروش	Ne	O
+هفتگی	AJe	O
+بریتانیا	N	B-LOC
+|	PUNC	O
+ندایی	N	O
+که	CONJ	O
+برای	Pe	O
+قهرمانی	N	O
+نواخته	V	O
+شد	V	O
+
+
+
+توضیحات	Ne	O
+راک‌استار	N	B-ORG
+درباره‌ی	Pe	O
+نقش	Ne	O
+بانوان	N	O
+در	P	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+
+
+
+بازی	Ne	O
+Shadow	RES	O
+of	RES	O
+the	RES	O
+Tomb	RES	O
+Raider	RES	O
+با	P	O
+۳۴	NUM	B-MISC
+درصد	N	I-MISC
+تخفیف	N	O
+برروی	Pe	O
+استیم	N	O
+در	P	O
+دسترس	N	O
+است	V	O
+
+
+
+😉جدیدترین	AJ	O
+و	CONJ	O
+ارزان‌ترین	AJ	O
+اکانت‌های	Ne	O
+قانونی	AJe	O
+PS۴	N	O
+در	P	O
+سایت	Ne	O
+دیجی	N	B-ORG
+اکانت	N	I-ORG
+
+
+
+کارمند	Ne	O
+سابق	AJe	O
+راک‌استار	N	B-ORG
+:	PUNC	O
+
+انگار	ADV	O
+اسلحه	N	O
+روی	Pe	O
+سرمان	N	O
+گذاشته‌بودند	V	O
+
+
+
+فدریک	Ne	B-PERS
+دوگت	N	I-PERS
+به	P	O
+عنوان	Ne	O
+مدیر	Ne	O
+ارشد	AJe	O
+مالی	AJe	O
+جدید	AJ	O
+یوبی‌سافت	N	B-ORG
+منتصب	AJe	O
+شد	V	O
+
+
+
+🤓با	RES	O
+هدست	RES	O
+گیمینگ	RES	O
+MSI	RES	B-ORG
+Immerse	RES	O
+GH۷۰	RES	O
+وارد	Pe	O
+میدان	Ne	O
+نبرد	N	O
+شوید	V	O
+و	CONJ	O
+پیروزی	N	O
+از	P	O
+آن	PRO	O
+شماست	V	O
+.	PUNC	O
+
+⚡️⚡️⚡️⚡️⚡️	N	O
+@msifarsi	N	O
+
+
+
+🤓مادربرد	N	O
+MSI	RES	B-ORG
+MEG	RES	O
+Z۳۹۰	RES	O
+GODLIKE	RES	O
+GAMING	RES	O
+دارای	AJe	O
+یک	NUM	O
+نمایشگر	Ne	O
+OLED	RES	O
+به	P	O
+نام	Ne	O
+Dynamic	RES	O
+Dashboard	RES	O
+است	V	O
+که	CONJ	O
+افزون	AJ	O
+بر	P	O
+امکان	Ne	O
+نمایش	Ne	O
+پارامترهای	Ne	O
+مختلف	AJ	O
+و	CONJ	O
+همچنین	CONJ	O
+کاربر	N	O
+قادر	AJ	O
+به	P	O
+شخصی	N	O
+سازی	N	O
+آن	PRO	O
+نیز	CONJ	O
+هست	V	O
+.	PUNC	O
+
+😈✌️💥💥💥💥💥	N	O
+@msifarsi	N	O
+
+
+
+اطلاعات	Ne	O
+جدید	AJ	O
+از	P	O
+اولین	NUM	B-MISC
+بسته	Ne	O
+الحاقی	AJe	O
+Spider-Man	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+رویداد	Ne	O
+هالووین	N	O
+Destiny	RES	O
+۲	NUM	B-MISC
+در	P	O
+دسترس	N	O
+قرار	N	O
+گرفت	V	O
+
+
+
+کهکشان‌گردی	N	O
+با	P	O
+سفینه‌ی	Ne	O
+یوبیسافت	N	B-ORG
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+Starlink	RES	O
+:	PUNC	O
+
+Battle	RES	O
+for	RES	O
+Atlas	RES	O
+
+
+
+ندای	Ne	O
+وظیفه	Ne	O
+تیمی	AJe	O
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+
+
+
+به‌روزرسانی	Ne	O
+جدید	AJe	O
+۶٫۰۲	NUM	B-MISC
+کنسول	Ne	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+تاریخ	Ne	O
+دقیق	AJe	O
+پیش	Pe	O
+دانلود	N	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+اعلام	N	O
+شد	V	O
+
+
+
+تریلر	N	O
+هنگام	Ne	O
+عرضه‌ی	Ne	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+راک‌استار	N	O
+فضای	Ne	O
+مورد	Ne	O
+نیاز	N	O
+برای	Pe	O
+نصب	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+را	POSTP	O
+اعلام	N	O
+کرد	V	O
+
+
+
+😌مادربرد	N	O
+گیمینگ	N	O
+MSI	RES	B-ORG
+MPG	RES	O
+Z۳۹۰	RES	O
+GAMING	RES	O
+EDGE	RES	O
+یک	NUM	B-MISC
+انتخاب	Ne	O
+مطلوب	AJ	O
+برای	Pe	O
+گیمرهای	Ne	O
+واقعی	AJe	O
+🤓✌️💥💥💥💥💥	N	O
+@msifarsi	N	O
+
+
+
+سازندگان	N	O
+:	PUNC	O
+
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+در	P	O
+مقایسه	N	O
+با	P	O
+GTA	RES	O
+عنوانی	N	O
+متفاوت	AJ	O
+خواهد‌بود	V	O
+
+
+
+فروشگاه	Ne	O
+گیفت	AJe	O
+کارت‌های	Ne	O
+استیم	N	O
+,	PUNC	O
+آیتونز	N	O
+،	PUNC	O
+گوگل	N	B-ORG
+،	PUNC	O
+پلی	N	O
+استیشن	N	O
+و	CONJ	O
+ایکس	N	O
+باکس	Ne	O
+و	CONJ	O
+اورجین	N	O
+و	CONJ	O
+بتل	RES	O
+نت	Ne	O
+بلیزارد	N	O
+در	P	O
+سایت	Ne	O
+www	RES	O
+.	PUNC	O
+
+mygift	RES	O
+.	PUNC	O
+
+ir	RES	O
+با	P	O
+نماد	Ne	O
+اعتماد	N	O
+برای	Pe	O
+اطلاعات	Ne	O
+بیشتر	AJ	O
+و	CONJ	O
+کد	Ne	O
+تخفیف	N	O
+به	P	O
+کانال	Ne	O
+تلگرام	Ne	O
+@giftday	Ne	O
+بپیوندید	V	O
+
+
+
+لذت	Ne	O
+ناب	AJe	O
+نبرد	N	O
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+Warriors	RES	O
+Orochi	RES	O
+۴	NUM	B-MISC
+
+
+
+لذت	Ne	O
+ناب	AJe	O
+نبرد	N	O
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+Warriors	RES	O
+Orochi	RES	O
+۴	NUM	B-MISC
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+در	P	O
+سه	NUM	B-MISC
+ماه	Ne	I-MISC
+پایانی	AJe	I-MISC
+۲۰۱۹	NUM	I-MISC
+برای	Pe	O
+رایانه‌های	Ne	O
+شخصی	AJ	O
+منتشر	AJ	O
+می‌شود	V	O
+
+
+
+اولین	NUM	B-MISC
+مرجع	Ne	O
+بازی‌های	Ne	O
+استراتژیک🛡	Ne	O
+✅دانلود	AJ	O
+بازی	N	O
+و	CONJ	O
+مد	N	O
+با	P	O
+لینک	Ne	O
+مستقیم	AJe	O
+✅دانلود	AJ	O
+مدهای	Ne	O
+ورکشاپ	Ne	O
+استیم	N	O
+با	P	O
+لینک	Ne	O
+مستقیم	AJe	O
+✅اخبار	AJ	O
+و	CONJ	O
+نقد	AJ	O
+و	CONJ	O
+بررسی	N	O
+و	CONJ	O
+…	PUNC	O
+به	P	O
+جمع	Ne	O
+ما	PRO	O
+بپیوندید	V	O
+:	PUNC	O
+
+https	RES	O
+:	PUNC	O
+
+//t	RES	O
+.	PUNC	O
+
+me/joinchat/AAAAAEHVWfsDU۹bYRu۰TOQ	N	O
+
+
+
+تصاویر	Ne	O
+جدید	AJe	O
+بازی	Ne	O
+Kingdom	RES	O
+Hearts	RES	O
+III	NUM	O
+شخصیت‌های	Ne	O
+کوه	Ne	B-LOC
+المپیوس	N	I-LOC
+را	POSTP	O
+نشان	N	O
+می‌دهد	V	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+Mario	RES	O
+در	P	O
+هالووین	N	O
+تبدیل	N	O
+به	P	O
+زامبی	N	O
+خواهد‌شد	V	O
+!	PUNC	O
+
+
+
+حالت	Ne	O
+Platoon	RES	O
+بازی	Ne	O
+PUBG	RES	O
+این	DET	B-MISC
+هفته	N	I-MISC
+منتشر	AJ	O
+نمی‌شود	V	O
+
+
+
+ویدئوهای	Ne	O
+جدید	AJ	O
+منتشر	AJ	O
+شده	V	O
+از	P	O
+Ace	RES	O
+Combat	RES	O
+۷	NUM	B-MISC
+ماموریت‌های	Ne	O
+بازی	N	O
+را	POSTP	O
+نمایش	N	O
+می‌دهند	V	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+Dark	RES	O
+Souls	RES	O
+:	PUNC	O
+
+Remastered	RES	O
+|	PUNC	O
+تریلر	N	O
+هنگام	Ne	O
+عرضه‌ی	Ne	O
+نسخه‌ی	Ne	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+جنبه‌های	Ne	O
+مختلفی	AJ	O
+از	P	O
+ژانر	Ne	O
+علمی-تخیلی	AJ	O
+را	POSTP	O
+به	P	O
+نمایش	N	O
+می‌گذارد	V	O
+
+
+
+نبرد	N	O
+با	P	O
+۷	NUM	B-MISC
+گناه	Ne	O
+اصلی	AJ	O
+در	P	O
+مسیر	Ne	O
+رستگاری…|	Ne	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+Sinner	RES	O
+:	PUNC	O
+
+Sacrifice	RES	O
+for	RES	O
+Redemption	RES	O
+
+
+
+🤓با	N	O
+کارت‌های	Ne	O
+گرافیک	Ne	O
+MSI	RES	B-ORG
+GeForce	RES	O
+RTX	RES	O
+۲۰۷۰	NUM	B-MISC
+بدون	Pe	O
+محدودیت	N	O
+و	CONJ	O
+در	P	O
+سکوت	Ne	O
+بازی	N	O
+کنید	V	O
+.	PUNC	O
+
+💥💥💥💥	N	O
+@msifarsi	N	O
+
+
+
+هایلایت	N	O
+:	PUNC	O
+
+نکاتی	N	O
+که	CONJ	O
+پیش	ADV	O
+از	P	O
+خرید	Ne	O
+بازی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+باید	V	O
+بدانید	V	O
+
+
+
+اطلاعات	Ne	O
+غیر	Ne	O
+رسمی	AJ	O
+به	P	O
+معرفی	Ne	O
+برخی	DET	O
+از	P	O
+ویژگی‌های	Ne	O
+کلیدی	AJe	O
+کنسول	Ne	O
+پلی‌استیشن	Ne	O
+۵	NUM	B-MISC
+می‌پردازند	V	O
+
+
+
+ممکن	AJ	O
+است	V	O
+عنوان	Ne	O
+رایگان	AJe	O
+Path	RES	O
+of	RES	O
+Exile	RES	O
+برای	Pe	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+عرضه	N	O
+شود	V	O
+
+
+
+🎥	N	O
+بررسی	Ne	O
+سه	NUM	B-MISC
+گانه	RESe	O
+کارت	Ne	O
+گرافیک	Ne	O
+RTX	N	O
+۲۰۷۰	NUM	B-MISC
+RTX	RES	O
+۲۰۸۰TI	RES	O
+
+
+
+✅	PUNC	O
+بررسی	Ne	O
+ویدیوی	Ne	O
+سری	AJe	O
+جدید	AJ	O
+کارت‌های	Ne	O
+گرافیک	Ne	O
+#NVIDIA	RES	B-ORG
+.	PUNC	O
+
+
+
+نقدها	N	O
+و	CONJ	O
+نمرات	Ne	O
+بازی	Ne	O
+Dark	RES	O
+Souls	RES	O
+Remastered	RES	O
+برای	Pe	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+سونی	N	B-ORG
+به	P	O
+سختی	N	O
+در	P	O
+حال	Ne	O
+بهبودسازی	N	O
+عناوین	Ne	O
+انحصاری	AJe	O
+بزرگ	AJe	O
+آینده	AJ	O
+است	V	O
+
+
+
+کاهش	Ne	O
+قیمت	N	O
+به	P	O
+دلاری	RES	O
+١٣٥٠٠	NUM	B-MISC
+psn	RES	O
+us	RES	O
+۶۰$	NUM	B-MISC
+۸۱۰	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	CL	O
+۵۰$	N	B-MISC
+۶۷۵	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	CL	O
+۲۰$	NUM	B-MISC
+۲۷۰	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان❌	RES	O
+
+
+
+🎈	N	O
+اکانتی‌ها	N	O
+یک	NUM	B-MISC
+منبع	Ne	O
+خوب	AJ	O
+واسه	P	O
+خرید	Ne	O
+بازی	N	O
+،	PUNC	O
+مخصوص	AJe	O
+اونایی	PRO	O
+که	CONJ	O
+زیاد	AJe	O
+اهل	Ne	O
+تهیه	N	O
+کردن	Ne	O
+نسخه	Ne	O
+فیزیکی	AJ	O
+و	CONJ	O
+…	PUNC	O
+بازی‌ها	N	O
+نیستن	V	O
+!	PUNC	O
+
+ضمانت	Ne	O
+مادام	N	O
+العمر	RES	O
+،	PUNC	O
+پشتیبانی	Ne	O
+قوی	AJ	O
+،	PUNC	O
+داشتن	Ne	O
+یک	NUM	O
+تیم	Ne	O
+حرفه‌ای	AJ	O
+و	CONJ	O
+هدف	Ne	O
+دار	N	O
+برای	Pe	O
+ارائه	Ne	O
+بهترین	AJ	O
+خدمات	N	O
+از	P	O
+جمله	N	O
+توانایی	Ne	O
+هایی	N	O
+هست	V	O
+که	CONJ	O
+از	P	O
+دست	Ne	O
+ما	PRO	O
+ساخته‌است	V	O
+…	PUNC	O
+💯	N	O
+تا	P	O
+به	P	O
+این	DET	O
+لحظه	N	O
+۱۰۰	NUM	B-MISC
+درصد	N	I-MISC
+رضایت	Ne	O
+کاربران	Ne	O
+ما	PRO	O
+جلب	N	O
+شده	V	O
+!	PUNC	O
+
+چرا	ADV	O
+شما	PRO	O
+به	P	O
+این	DET	O
+جمع	N	O
+نمی‌پیوندید	V	O
+؟	PUNC	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+Crackdown	RES	O
+۳	NUM	B-MISC
+در	P	O
+رویداد	Ne	O
+XO۱۸	N	O
+قابل	AJe	O
+بازی	N	O
+خواهد‌بود	V	O
+
+
+
+استودیوی	Ne	O
+تری‌ارک	N	B-ORG
+نسبت	N	O
+به	P	O
+مشکل	Ne	O
+سروهای	Ne	O
+بازی	N	O
+واکنش	N	O
+نشان	N	O
+داده‌است	V	O
+
+
+
+جدول	Ne	O
+فروش	Ne	O
+هفتگی	AJe	O
+بریتانیا	N	B-LOC
+|	PUNC	O
+ندای	Ne	O
+وظیفه	N	O
+در	P	O
+انتظار	Ne	O
+رستگاری	N	O
+
+
+
+تلاش	N	O
+برای	Pe	O
+پیروزی	Ne	O
+|	Ne	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+World	RES	O
+War	RES	O
+۳	NUM	B-MISC
+
+
+
+چهار	NUM	B-MISC
+بازی	Ne	O
+جدید	AJ	O
+به	P	O
+سرویس	Ne	O
+اکس	N	O
+باکس	Ne	O
+گیم	N	O
+پس	P	O
+اضافه	AJ	O
+شد	V	O
+
+
+
+تصویری	N	O
+از	P	O
+نقشه‌ی	Ne	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+لو	N	O
+رفت	V	O
+
+
+
+زمان	N	O
+شروع	Ne	O
+نسخه‌ی	Ne	O
+آزمایشی	AJ	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+برروی	Pe	O
+ایکس‌باکس	N	O
+مشخص	AJ	O
+شد	V	O
+
+
+
+تعطیل	AJ	O
+شدن	Ne	O
+دو	NUM	B-MISC
+مجله	Ne	O
+GamesMaster	RES	B-ORG
+و	CONJ	O
+GamesTM	RES	B-ORG
+
+
+
+پروژه‌ی	Ne	O
+بعدی	AJ	O
+سازندگان	Ne	O
+Dishonored	RES	O
+احتمالا	ADV	O
+یک	NUM	B-MISC
+بازی	N	O
+چند	DET	O
+نفره	RESe	O
+یا	CONJ	O
+واقعیت	Ne	O
+مجازی	AJ	O
+خواهد‌بود	V	O
+
+
+
+نسخه‌ی	Ne	O
+بسیار	ADV	O
+ویژه‌ی	AJe	O
+عنوان	Ne	O
+Devil	RES	O
+May	RES	O
+Cry	RES	O
+۵	NUM	B-MISC
+معرفی	N	O
+شد	V	O
+
+
+
+FIFA	RES	O
+۱۹	NUM	B-MISC
+–	PUNC	O
+Region	RES	O
+۲	NUM	B-MISC
+
+
+
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+دارای	AJe	O
+به‌روزرسان	Ne	O
+روز	Ne	O
+اول	NUM	B-MISC
+خواهد‌بود	V	O
+
+
+
+وجود	Ne	O
+مشکلات	Ne	O
+مختلف	AJ	O
+در	P	O
+نسخه‌ی	Ne	O
+دسترسی	Ne	O
+زودهنگام	AJe	O
+بازی	Ne	O
+World	RES	O
+War	RES	O
+۳	NUM	B-MISC
+
+
+
+یه	NUM	O
+کانال	Ne	O
+پر	AJ	O
+از	P	O
+اکانت‌های	Ne	O
+ناب	AJ	O
+برای	Pe	O
+PC	N	B-ORG
+#یوپلی	N	I-ORG
+#اوریجن	N	I-ORG
+#استیم	V	I-ORG
+#فورتنایت	Ne	I-ORG
+🎮بهترین	AJ	O
+اکانت‌ها	N	O
+با	P	O
+نازل‌ترین	AJ	O
+قیمت	Ne	O
++کلی	N	O
+اکانت	N	O
+رایگان	AJ	O
+…	PUNC	O
+تمامی	DETe	O
+بازی‌های	Ne	O
+جدید	AJe	O
+🎮AC	RES	O
+:	PUNC	O
+
+Odyssey🎮ANTHEM🎮	N	O
+Battlefield	RES	O
+V	RES	O
+و	RES	O
+…	PUNC	O
+➖➖➖➖➖➖	RES	O
+https	RES	O
+:	PUNC	O
+
+//t	RES	O
+.	PUNC	O
+
+me/joinchat/AAAAAE۷SXkM_H۴aljXChPw	N	O
+➖➖➖➖➖➖	N	O
+
+
+
+توسعه‌دهندگان	N	O
+استودیو‌ی	Ne	B-ORG
+دایس	N	I-ORG
+در	P	O
+رابطه	N	O
+با	P	O
+بخش	Ne	O
+تک‌نفره‌ی	AJe	O
+Battlefield	RES	O
+۵	NUM	B-MISC
+توضیح	N	O
+می‌دهند	V	O
+
+
+
+بیش	AJ	O
+از	P	O
+۳	NUM	B-MISC
+هزار	NUM	I-MISC
+نفر	N	O
+در	P	O
+توسعه‌ی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+نقش	N	O
+داشته‌اند	V	O
+
+
+
+بهره‌گیری	N	O
+از	P	O
+تاریخچه‌ای	N	O
+غنی	AJ	O
+|	PUNC	O
+تاثیرات	Ne	O
+دیگر	PRO	O
+بازی‌های	Ne	O
+راک‌استار	N	B-ORG
+بر	P	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+
+
+
+تریلرهای	Ne	O
+جدیدی	AJ	O
+از	P	O
+گیم‌پلی	N	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+لو	N	O
+رفت	V	O
+
+
+
+🎈	N	O
+اکانتی‌ها	N	O
+یک	NUM	B-MISC
+منبع	Ne	O
+خوب	AJ	O
+واسه	P	O
+خرید	Ne	O
+بازی	N	O
+،	PUNC	O
+مخصوص	AJe	O
+اونایی	PRO	O
+که	CONJ	O
+زیاد	AJe	O
+اهل	Ne	O
+تهیه	N	O
+کردن	Ne	O
+نسخه	Ne	O
+فیزیکی	AJ	O
+و	CONJ	O
+…	PUNC	O
+بازی‌ها	N	O
+نیستن	V	O
+!	PUNC	O
+
+ضمانت	Ne	O
+مادام	N	O
+العمر	RES	O
+،	PUNC	O
+پشتیبانی	Ne	O
+قوی	AJ	O
+،	PUNC	O
+داشتن	Ne	O
+یک	NUM	O
+تیم	Ne	O
+حرفه‌ای	AJ	O
+و	CONJ	O
+هدف	Ne	O
+دار	N	O
+برای	Pe	O
+ارائه	Ne	O
+بهترین	AJ	O
+خدمات	N	O
+از	P	O
+جمله	N	O
+توانایی	Ne	O
+هایی	N	O
+هست	V	O
+که	CONJ	O
+از	P	O
+دست	Ne	O
+ما	PRO	O
+ساخته‌است	V	O
+…	PUNC	O
+💯	N	O
+تا	P	O
+به	P	O
+این	DET	O
+لحظه	N	O
+۱۰۰	NUM	B-MISC
+درصد	N	I-MISC
+رضایت	Ne	O
+کاربران	Ne	O
+ما	PRO	O
+جلب	N	O
+شده	V	O
+!	PUNC	O
+
+چرا	ADV	O
+شما	PRO	O
+به	P	O
+این	DET	O
+جمع	N	O
+نمی‌پیوندید	V	O
+؟	PUNC	O
+
+
+
+سگا	N	B-ORG
+قصد	N	O
+آوردن	Ne	O
+بازی‌های	Ne	O
+دریم‌کست	N	O
+به	P	O
+سوییچ	Ne	O
+را	POSTP	O
+دارد	V	O
+
+
+
+در	P	O
+ویدئوی	Ne	O
+جدید	AJe	O
+Hitman	RES	O
+۲	NUM	B-MISC
+با	P	O
+کلیه	DETe	O
+اماکن	Ne	O
+قابل	AJe	O
+بازی	N	O
+آشنا	AJ	O
+شوید	V	O
+
+
+
+جزییات	Ne	O
+کامل	AJe	O
+به‌روزرسان	Ne	O
+۱٫۰۳	NUM	B-MISC
+عنوان	Ne	O
+FIFA	RES	O
+۱۹	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+نرم‌افزار	N	O
+همراه	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+همزمان	AJ	O
+با	P	O
+بازی	Ne	O
+اصلی	AJ	O
+عرضه	N	O
+خواهد‌شد	V	O
+
+
+
+😈⚡️کارتهای	Ne	O
+گرافیک	Ne	O
+VENTUS	RES	O
+سری	Ne	O
+۲۰۸۰	NUM	B-MISC
+طراحی	Ne	O
+کلاسیک	AJ	O
+مینیمالیستی	N	O
+زیبا	AJ	O
+به	P	O
+همراه	Ne	O
+عملکرد	Ne	O
+بسیار	ADV	O
+مطلوب	AJe	O
+✌️🤓⚡️⚡️⚡️💪	Ne	O
+@msifarsi	N	O
+
+
+
+انتشار	Ne	O
+نسخه‌ی	Ne	O
+بتا	N	O
+بازی	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+برای	Pe	O
+ایکس‌باکس	Ne	O
+وان	N	B-MISC
+
+
+
+پلتفرم	N	O
+استیم	V	B-ORG
+ماهیانه	ADV	O
+۹۰	NUM	B-MISC
+میلیون	NUM	I-MISC
+بازی‌باز	Ne	O
+فعال	AJ	O
+دارد	V	O
+
+
+
+توضیحات	Ne	O
+راک‌استار	N	B-ORG
+پیرامون	Pe	O
+بهبود‌های	Ne	O
+فیزیک	N	O
+و	CONJ	O
+انیمیشن	N	O
+در	P	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+
+
+
+رستگاری	Ne	O
+سرخ‌پوست	AJ	O
+مرده	V	O
+|	PUNC	O
+نقدها	N	O
+و	CONJ	O
+نمرات	Ne	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+حجم	Ne	O
+به‌روزرسانی	Ne	O
+روز	Ne	O
+اول	NUMe	B-MISC
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+مشخص	AJ	O
+شد	V	O
+
+
+
+تصاویری	N	O
+از	P	O
+کنترلر	Ne	O
+جدید	AJe	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+با	P	O
+طرح	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+رونمایی	N	O
+شد	V	O
+
+
+
+استودیوی	Ne	O
+رمدی	N	O
+:	PUNC	O
+
+Control	RES	O
+یک	NUM	B-MISC
+گیم‌پلی	N	O
+سریع‌	AJ	O
+و	CONJ	O
+باس‌هایی	N	O
+حماسی	AJ	O
+خواهد‌داشت	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+Just	RES	O
+Cause	RES	O
+۴	NUM	B-MISC
+قدرت	Ne	O
+Apex	RES	O
+Engine	RES	O
+را	POSTP	O
+به	P	O
+نمایش	N	O
+گذاشته‌است	V	O
+
+
+
+سازندگان	Ne	O
+Assassin’s	RES	O
+Creed	RES	O
+در	P	O
+پیامی	N	O
+عرضه‌ی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+را	POSTP	O
+تبریک	N	O
+گفتند	V	O
+
+
+
+تحلیل	Ne	O
+فنی	AJe	O
+۲۳#	NUM	B-MISC
+|	PUNC	O
+بررسی	Ne	O
+عملکرد	Ne	O
+بازی	Ne	O
+Forza	RES	O
+Horizon	RES	O
+۴	NUM	B-MISC
+بر‌روی	Ne	O
+کنسول‌‌	AJ	O
+اکس	N	O
+باکس	Ne	O
+وان	N	B-MISC
+
+
+
+تحلیل	Ne	O
+فنی	AJe	O
+۲۳#	NUM	B-MISC
+|	PUNC	O
+بررسی	Ne	O
+عملکرد	Ne	O
+بازی	Ne	O
+Forza	RES	O
+Horizon	RES	O
+۴	NUM	B-MISC
+بر‌روی	Ne	O
+کنسول‌‌	AJ	O
+اکس	N	O
+باکس	Ne	O
+وان	N	B-MISC
+
+
+
+روزی	N	O
+روزگاری	N	O
+:	PUNC	O
+
+خشم	N	O
+در	P	O
+آخرالزمان	N	B-MISC
+!	PUNC	O
+
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+RAGE	RES	O
+
+
+
+نینتندو	N	B-ORG
+یک	NUM	B-MISC
+ساله	RES	I-MISC
+شدن	Ne	O
+Super	RES	O
+Mario	RES	O
+Odyssey	RES	O
+را	POSTP	O
+جشن	N	O
+می‌گیرد	V	O
+
+
+
+وجود	Ne	O
+ایستراگ	N	O
+بازی	Ne	O
+Bully	RES	O
+در	P	O
+عنوان	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+
+
+
+🤓✌️بعد	N	O
+از	P	O
+تولید	Ne	O
+قطعات	Ne	O
+گیمینگ	Ne	O
+فرایند	N	O
+و	CONJ	O
+مرحله	Ne	O
+مهم	AJe	O
+کنترل	Ne	O
+کیفیت	N	O
+و	CONJ	O
+تست	Ne	O
+قطعات	Ne	O
+بسیار	ADV	O
+مهم	AJ	O
+است	V	O
+MSI	RES	B-ORG
+با	P	O
+استفاده	N	O
+از	P	O
+تجهیزات	Ne	O
+پیشرفته	AJ	O
+و	CONJ	O
+منحصر	AJ	O
+به	P	O
+فرد	Ne	O
+قطعات	Ne	O
+گیمینگ	Ne	O
+خود	PRO	O
+را	POSTP	O
+به	P	O
+طور	Ne	O
+کامل	AJ	O
+تست	N	O
+میکند	V	O
+.	PUNC	O
+
+😋💥⚡️⚡️⚡️	N	O
+@msifarsi	N	O
+
+
+
+جزئیاتی	N	O
+از	P	O
+جناح	Ne	O
+The	RES	O
+True	RES	O
+Sons	RES	O
+بازی	Ne	O
+The	RES	O
+Division	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+هر	DET	O
+آنچه	PRO	O
+از	P	O
+سامسونگ	Ne	O
+گلکسی	N	O
+اس	N	O
+۱۰	NUM	B-MISC
+می‌دانیم	V	O
+
+
+
+آفر	N	O
+ویژه	AJe	O
+فیفا	N	O
+۱۹	NUM	B-MISC
+😍😍😍	N	O
+تعداد	Ne	O
+بسیار	ADV	O
+محدود	AJ	O
+اولویت	N	O
+با	P	O
+کساییه	N	O
+که	CONJ	O
+زودتر	ADV	O
+سفارش	Ne	O
+بدن	N	O
+.	PUNC	O
+
+
+
+ساعت	Ne	B-MISC
+۱۱	NUM	I-MISC
+تو	P	O
+کانال	Ne	O
+بازی	Ne	O
+رنتر	N	O
+منتظر	AJe	O
+آفر	N	O
+فیفا	N	O
+باشید😎😎😎	N	O
+
+
+
+🏆💰💵	Ne	O
+مسابقات	Ne	O
+آنلاین	Ne	O
+رایگان	AJe	O
+آریوکاپ	N	O
+با	P	O
+۱۳۵	NUM	B-MISC
+میلیون	NUM	I-MISC
+ریال	N	I-MISC
+جایزه‌ی	Ne	O
+نقدی	AJe	O
+منتظر	AJe	O
+خفن‌ترین	AJ	O
+هاست	V	O
+!	PUNC	O
+
+
+
+بتسدا	N	B-ORG
+:	PUNC	O
+
+اجرای	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+برروی	Pe	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+شدنی	AJ	O
+نیست	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+بازی	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+شباهت	Ne	O
+چندانی	AJ	O
+به	P	O
+یک	NUM	B-MISC
+نسخه	N	O
+از	P	O
+Fallout	RES	O
+ندارد	V	O
+
+
+
+Destiny	RES	O
+۲	NUM	B-MISC
+پرفروش‌ترین	AJ	O
+بازی	Ne	O
+دیجیتالی	AJe	O
+ماه	Ne	B-MISC
+سپتامبر	N	I-MISC
+شد	V	O
+
+
+
+همچنین	CONJ	O
+در	P	O
+۴K	N	O
+شدن	Ne	O
+Red	RES	O
+Dead	RES	O
+۲	NUM	B-MISC
+رایگان	AJe	O
+میذاره	N	O
+
+
+
+اپل	N	B-ORG
+نسخه	Ne	O
+جدید	AJe	O
+مک	N	O
+مینی	N	O
+با	P	O
+امکانات	Ne	O
+بیشتر	AJ	O
+معرفی	N	O
+کرد	V	O
+
+
+
+اپل	N	B-ORG
+نسخه	Ne	O
+جدید	AJe	O
+مک	N	O
+مینی	N	O
+با	P	O
+امکانات	Ne	O
+بیشتر	AJ	O
+معرفی	N	O
+کرد	V	O
+
+
+
+اپل	N	B-ORG
+آیپد	N	O
+پروهای	Ne	O
+جدید	AJ	O
+را	POSTP	O
+با	P	O
+سریعترین	AJ	O
+تراشه‌های	Ne	O
+موبایلی	AJe	O
+دنیا	N	O
+معرفی	N	O
+کرد	V	O
+
+
+
+اپل	N	B-ORG
+آیپد	N	O
+پروهای	Ne	O
+جدید	AJ	O
+را	POSTP	O
+با	P	O
+سریعترین	AJ	O
+تراشه‌های	Ne	O
+موبایلی	AJe	O
+دنیا	N	O
+معرفی	N	O
+کرد	V	O
+
+
+
+بازی‌های	Ne	O
+رایگان	AJe	O
+سرویس	Ne	O
+گلد	N	O
+ایکس‌باکس	N	O
+در	P	O
+ماه	Ne	B-MISC
+نوامبر	N	I-MISC
+مشخص	AJ	O
+شدند	V	O
+
+
+
+ساخت	Ne	O
+بازی	Ne	O
+Just	RES	O
+Cause	RES	O
+۴	NUM	B-MISC
+به	P	O
+اتمام	N	O
+رسید	V	O
+
+
+
+🤠آموزش	N	O
+نصب	Ne	O
+پردازنده‌های	Ne	O
+نسل	Ne	O
+دوم	NUMe	B-MISC
+رایزن	N	O
+بر	P	O
+روی	Ne	O
+مادربردهای	Ne	O
+MSI	RES	B-ORG
+🤓💥⚡️⚡️⚡️	RES	O
+@msifarsi	RES	O
+
+
+
+بازی‌های	Ne	O
+رایگان	AJe	O
+سرویس	Ne	O
+پلی‌استیشن	Ne	O
+پلاس	N	O
+در	P	O
+ماه	Ne	B-MISC
+نوامبر	N	I-MISC
+مشخص	AJ	O
+شدند	V	O
+
+
+
+می‌توانید	V	O
+در	P	O
+قسمت	Ne	O
+زیر	AJ	O
+به	P	O
+مشاهده	Ne	O
+بازی‌های	Ne	O
+رایگان	AJe	O
+این	DET	O
+سرویس	N	O
+برای	Pe	O
+ماه	Ne	B-MISC
+نوامبر	N	I-MISC
+بپردازید	V	O
+.	PUNC	O
+
+
+
+یکی	NUM	O
+از	P	O
+بهترین	AJ	O
+اسب‌های	Ne	O
+Red	RES	O
+Dead	RES	O
+۲	NUM	B-MISC
+رایگان	AJ	O
+بگیرید	V	O
+
+
+
+هفته	N	O
+«	PUNC	O
+#راز	N	O
+ثریت	N	O
+»	PUNC	O
+امسال	ADV	O
+تولد	Ne	O
+هشت	NUM	B-MISC
+سالگی	RES	O
+گرشاسپ	N	O
+رو	POSTP	O
+جشن	N	O
+می‌گیریم	V	O
+.	PUNC	O
+
+به	P	O
+همین	DET	O
+مناسبت	N	O
+فن‌افزار	Ne	O
+بازی‌های	Ne	O
+خودش	PRO	O
+در	P	O
+هیولا	N	O
+رو	N	O
+با	P	O
+تخفیف	N	O
+عرضه	N	O
+می‌کنه	V	O
+.	PUNC	O
+
+سری‌های	Ne	O
+گرشاسپ	N	O
+و	CONJ	O
+شمشیر	Ne	O
+تاریکی	N	O
+در	P	O
+هیولا	N	O
+رو	N	O
+از	P	O
+دست	Ne	O
+ندین	V	O
+.	PUNC	O
+
+hayoola	RES	O
+.	PUNC	O
+
+com	RES	O
+#گیمرباش	N	O
+
+
+
+🔥کارت	N	O
+گرافیک	Ne	O
+MSI	RES	B-ORG
+RTX	RES	O
+۲۰۷۰	NUM	B-MISC
+GAMING	RES	O
+Zبه	RES	O
+دلیل	RES	O
+طراحی	N	O
+و	CONJ	O
+عملکرد	Ne	O
+بسیار	ADV	O
+مطلوب	AJ	O
+موفق	AJ	O
+به	P	O
+کسب	N	O
+نشان	Ne	O
+طلایی	AJe	O
+منتخب	Ne	O
+نویسنده	N	O
+از	P	O
+Hardocp	RES	O
+شده‌است	V	O
+.	PUNC	O
+
+🤓👌💥	N	O
+@msifarsi	N	O
+
+
+
+ممکن	AJ	O
+است	V	O
+بازی	Ne	O
+Titanfall	RES	O
+۳	NUM	B-MISC
+در	P	O
+سال	Ne	B-MISC
+۲۰۱۹	NUM	I-MISC
+عرضه	N	O
+شود	V	O
+
+
+
+به‌روزرسانی	Ne	O
+۱٫۰۶	NUM	B-MISC
+بازی	Ne	O
+Assassin’s	RES	O
+Creed	RES	O
+Odyssey	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+اختصاصی	AJe	O
+گیمفا	N	B-ORG
+:	PUNC	O
+
+راهنمای	Ne	O
+قدم	N	O
+به	P	O
+قدم	N	O
+و	CONJ	O
+جامع	AJe	O
+Dark	RES	O
+Souls	RES	O
+III	NUM	O
+–	PUNC	O
+بخش	Ne	O
+سی	NUM	B-MISC
+و	CONJ	I-MISC
+پنجم	NUM	I-MISC
+
+
+
+نتیجه	Ne	O
+بازی	Ne	O
+فردا	ADV	O
+پرسپولیس	N	B-ORG
+رو	POSTP	O
+پیش	ADV	O
+بینی	N	O
+کنید	V	O
+و	CONJ	O
+یه	NUM	O
+Ghost	RES	O
+Recon	RES	O
+جایزه	Ne	O
+بگیرید❤️❤️	N	O
+
+
+
+در	P	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+شما	PRO	O
+دنیا	N	O
+را	POSTP	O
+نجات	N	O
+نمی‌دهید	V	O
+
+
+
+به	P	O
+گفته‌ی	Ne	O
+آقای	Ne	O
+Swiecicki	N	B-PERS
+،	PUNC	O
+شما	PRO	O
+در	P	O
+این	DET	O
+بازی	N	O
+برخلاف	CONJe	O
+دیگر	PRO	O
+عناوین	N	O
+که	CONJ	O
+قهرمان	Ne	O
+داستان	Ne	O
+تلاش	N	O
+دارد	V	O
+دنیا	N	O
+را	POSTP	O
+نجات	N	O
+دهد	V	O
+،	PUNC	O
+بیشتر	ADV	O
+به	P	O
+دنبال	Ne	O
+نجات	N	O
+و	CONJ	O
+بقای	Ne	O
+خود	PRO	O
+هستید	V	O
+.	PUNC	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+Rainbow	RES	O
+Six	RES	O
+Siege	RES	O
+به	RES	O
+مقابله	N	O
+با	P	O
+محتوای	Ne	O
+مربوط	AJ	O
+به	P	O
+خشونت	N	O
+،	PUNC	O
+قمار	N	O
+و	CONJ	O
+مسائل	Ne	O
+جنسی	AJ	O
+خواهد‌پرداخت	V	O
+
+
+
+🌚با	N	O
+کارت	Ne	O
+گرافیک	Ne	O
+MSI	RES	O
+RTX	RES	O
+۲۰۷۰	NUM	B-MISC
+GAMING	RES	O
+Z	RES	O
+در	P	O
+سکوت	Ne	O
+کامل	AJ	O
+و	CONJ	O
+بدون	Pe	O
+محدیت	N	O
+بازی	N	O
+کنید	V	O
+.	PUNC	O
+
+🔥🔥🔥🔥🔥	N	O
+@msifarsi	N	O
+
+
+
+⚠️⚠️⚠️⚠️⚠️⚠️	N	O
+@eafut۲۰۱۹	NUM	O
+⚽️بروزترین	AJ	O
+کانال	Ne	O
+فیفا	N	O
+التیمیت	N	O
+در	P	O
+ایران	N	B-LOC
+با	P	O
+عضویت	N	O
+در	P	O
+این	DET	O
+کانال	N	O
+به	P	O
+تمام	DETe	O
+خبرها	N	O
+و	CONJ	O
+آموزش‌های	Ne	O
+فیفا	N	O
+التیمیت	N	O
+دسترسی	N	O
+داشته‌باشید	V	O
+و	CONJ	O
+به	P	O
+یک	NUM	O
+پلیر	Ne	O
+حرفه‌ای	AJ	O
+در	P	O
+فیفا	N	O
+تبدیل	N	O
+شوید	V	O
+با	P	O
+عضویت	N	O
+در	P	O
+این	DET	O
+کانال	N	O
+هیچ	DET	O
+نیازی	N	O
+به	P	O
+کانال	Ne	O
+دیگر	PRO	O
+در	P	O
+زمینه‌ی	Ne	O
+فیفا	N	O
+نخواهید‌داشت	V	O
+.	PUNC	O
+
+تاریخ	N	O
+ایجاد	Ne	O
+کانال	N	O
+:	PUNC	O
+
+۹۷/۰۸/۱۱	N	B-MISC
+امیدواریم	V	O
+ما	PRO	O
+را	POSTP	O
+در	P	O
+توسعه‌ی	Ne	O
+هر	DET	O
+چه	N	O
+بیشتر	AJ	O
+این	DET	O
+کانال	N	O
+همراهی	N	O
+بفرمایید	V	O
+.	PUNC	O
+
+آدرس	Ne	O
+کانال	N	O
+:	PUNC	O
+
+@eafut۲۰۱۹	NUM	O
+☑کانال	N	O
+را	POSTP	O
+به	P	O
+دوستانتان	N	O
+هم	CONJ	O
+معرفی	N	O
+کنید	V	O
+@eafut۲۰۱۹	NUM	O
+❤❤❤	N	O
+
+
+
+ظاهرا	ADV	O
+برنامه‌ی	Ne	O
+Youtube	RES	O
+هفته‌ی	Ne	O
+آینده	AJ	O
+برروی	Pe	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+منتشر	AJ	O
+خواهد‌شد	V	O
+
+
+
+ویدئو	N	O
+گیمفا	N	B-ORG
+:	PUNC	O
+
+تارهای	Ne	O
+چسبنده	AJ	O
+اسپایدی	N	O
+و	CONJ	O
+اینسامنیاک	N	O
+به	P	O
+قلب	Ne	O
+گیمرها	N	O
+!	PUNC	O
+
+|	RES	O
+بررسی	Ne	O
+ویدئویی	AJe	O
+بازی	Ne	O
+Spider-Man	RES	O
+
+
+
+تریلر	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+Hitman	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+➖➖➖➖➖➖	N	O
+شروع	Ne	O
+قیمتها	N	O
+از	P	O
+۱۰	NUM	B-MISC
+هزار	NUM	I-MISC
+تومان	CL	I-MISC
+💰	N	O
+➖➖➖➖➖➖	N	O
+
+
+
+مقایسه	Ne	O
+دوربین	Ne	O
+Huawei	RES	O
+Mate	RES	O
+۲۰	NUM	B-MISC
+Pro	RES	O
+با	P	O
+پرچم‌داران	Ne	O
+iPhone	RES	O
+XS	RES	O
+Max	RES	O
+و	RES	O
+Galaxy	RES	O
+Note	RES	O
+۹	NUM	B-MISC
+
+
+
+احتمال	Ne	O
+حذف	Ne	O
+یکی	NUM	O
+از	P	O
+ویژگی‌های	Ne	O
+قدیمی	AJe	O
+ویندوز	Ne	O
+۱۰	NUM	B-MISC
+در	P	O
+نسخه‌های	Ne	O
+آتی	AJ	O
+
+
+
+🎵	N	O
+Music	RES	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+Chapter	RES	O
+۳	NUM	B-MISC
+Finale	RES	O
+
+
+
+کاپلن	N	B-PERS
+:	PUNC	O
+
+در	P	O
+حال	Ne	O
+توسعه‌ی	Ne	O
+۶	NUM	B-MISC
+قهرمان	Ne	O
+جدید	AJ	O
+برای	Pe	O
+Overwatch	N	O
+هستیم	V	O
+
+
+
+کایل	N	B-PERS
+ربل	N	I-PERS
+:	PUNC	O
+
+موتور	Ne	O
+بازی‌سازی	N	O
+شرکت	Ne	B-ORG
+بتسدا	N	I-ORG
+بسیار	ADV	O
+قدیمی	AJ	O
+شده‌است	V	O
+
+
+
+تمام	DETe	O
+نسخه‌ها	N	O
+:	PUNC	O
+
+چهارشنبه	N	B-MISC
+۱۶	NUMe	I-MISC
+آبان	N	I-MISC
+ماه	Ne	I-MISC
+۱۳۹۷	NUM	I-MISC
+(	PUNC	O
+۷	NUMe	B-MISC
+نوامبر	Ne	I-MISC
+۲۰۱۸	NUM	I-MISC
+میلاد	N	I-MISC
+
+
+
+حادثه‌ی	Ne	O
+تخریب	Ne	O
+انبار	Ne	O
+شرکت	Ne	B-ORG
+Amazon	RES	I-ORG
+در	P	O
+بالتیمور	N	B-LOC
+،	PUNC	O
+دو	NUM	B-MISC
+کشته	N	O
+بر	P	O
+جای	N	O
+گذاشت	V	O
+
+
+
+🤓نویسنده	Ne	O
+سایت	Ne	B-ORG
+معتبر	AJe	I-ORG
+OVERCLOCK۳D	NUMe	I-ORG
+بعد	P	O
+از	P	O
+بررسی	Ne	O
+کارت	Ne	O
+گرافیک	Ne	O
+MSI	RES	O
+RTX	RES	O
+۲۰۷۰	NUM	B-MISC
+GAMING	RES	O
+Z	RES	O
+را	POSTP	O
+به	P	O
+دلیل	Ne	O
+خنک	AJ	O
+کننده	Ne	O
+قدرتمند	AJe	O
+نسل	Ne	O
+هفتم	NUM	B-MISC
+TWIN	RES	O
+FROZR	RES	O
+و	RES	O
+پتانسیل	Ne	O
+اورکلاک	N	O
+پذیری	Ne	O
+بالا	AJ	O
+و	CONJ	O
+نور	Ne	O
+پردازی	AJ	O
+رویایی	N	O
+RGB	N	O
+برای	Pe	O
+خرید	N	O
+توصیه	N	O
+کرده‌است	V	O
+.	PUNC	O
+
+⚡️⚡️⚡️⚡️⚡️	N	O
+@msifarsi	N	O
+
+
+
+گزارش	N	O
+:	PUNC	O
+
+احتمال	Ne	O
+عرضه‌ی	Ne	O
+اولین	NUM	B-MISC
+گوشی	Ne	O
+۵G	RES	O
+آیفون	Ne	O
+در	P	O
+سال	Ne	B-MISC
+۲۰۲۰	NUM	I-MISC
+
+
+
+بازی	Ne	O
+Gears	RES	O
+۵	NUM	B-MISC
+ممکن	AJ	O
+است	V	O
+در	P	O
+اردیبهشت	Ne	B-MISC
+سال	Ne	I-MISC
+۹۸	NUM	I-MISC
+عرضه	N	O
+شود	V	O
+
+
+
+فروش	Ne	O
+اکانت‌های	Ne	O
+دیجیتالی	AJ	O
+بازی	N	O
+برای	Pe	O
+کنسول	Ne	O
+محبوب	AJe	O
+PlayStation	RES	O
+۴	NUM	B-MISC
+
+
+
+دارای	AJe	O
+نماد	Ne	O
+اعتماد	Ne	O
+الکترونیک	AJ	O
+۲	NUM	B-MISC
+ستاره	N	O
+دارای	AJe	O
+نماد	Ne	O
+ساماندهی	Ne	O
+دارای	AJe	O
+درگاه	N	O
+از	P	O
+بانک‌های	Ne	O
+ملی	AJ	O
+،	PUNC	O
+سامان	N	O
+،	PUNC	O
+صادرات	N	O
+
+
+
+به‌روزرسانی	Ne	O
+جدیدی	AJ	O
+برای	Pe	O
+بازی	Ne	O
+The	RES	O
+Witcher	RES	O
+۳	NUM	B-MISC
+:	PUNC	O
+
+Wild	RES	O
+Hunt	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+تروی	Ne	B-PERS
+بیکر	N	I-PERS
+:	PUNC	O
+
+Death	RES	O
+Stranding	RES	O
+یک	NUM	B-MISC
+بازی	Ne	O
+پیچیده	AJ	O
+و	CONJ	O
+بزرگ	AJ	O
+است	V	O
+
+
+
+نسخه‌ی	Ne	O
+رایانه‌های	Ne	O
+شخصی	AJ	O
+بتای	Ne	O
+بازی	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+بر‌روی	Ne	O
+۶۰	NUM	B-MISC
+فریم	N	O
+قفل	N	O
+است	V	O
+
+
+
+بازی‌های	Ne	O
+PUBG	RES	O
+و	CONJ	O
+PES	RES	O
+۲۰۱۹	NUM	B-MISC
+به	P	O
+صورت	Ne	O
+رایگان	AJ	O
+برروی	Pe	O
+ایکس‌باکس	N	O
+وان	N	B-MISC
+در	P	O
+دسترس	N	O
+هستند	V	O
+
+
+
+شایعه	Ne	O
+|	Ne	O
+PlayerUnknown’s	RES	O
+Battlegrounds	RES	O
+ماه	Ne	B-MISC
+آینده	N	I-MISC
+برای	Pe	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+عرضه	N	O
+خواهد‌شد	V	O
+
+
+
+🎈	N	O
+اکانتی‌ها	N	O
+یک	NUM	B-MISC
+منبع	Ne	O
+خوب	AJ	O
+واسه	P	O
+خرید	Ne	O
+بازی	N	O
+،	PUNC	O
+مخصوص	AJe	O
+اونایی	PRO	O
+که	CONJ	O
+زیاد	AJe	O
+اهل	Ne	O
+تهیه	N	O
+کردن	Ne	O
+نسخه	Ne	O
+فیزیکی	AJ	O
+و	CONJ	O
+…	PUNC	O
+بازی‌ها	N	O
+نیستن	V	O
+!	PUNC	O
+
+ضمانت	Ne	O
+مادام	N	O
+العمر	RES	O
+،	PUNC	O
+پشتیبانی	Ne	O
+قوی	AJ	O
+،	PUNC	O
+داشتن	Ne	O
+یک	NUM	O
+تیم	Ne	O
+حرفه‌ای	AJ	O
+و	CONJ	O
+هدف	Ne	O
+دار	N	O
+برای	Pe	O
+ارائه	Ne	O
+بهترین	AJ	O
+خدمات	N	O
+از	P	O
+جمله	N	O
+توانایی	Ne	O
+هایی	N	O
+هست	V	O
+که	CONJ	O
+از	P	O
+دست	Ne	O
+ما	PRO	O
+ساخته‌است	V	O
+…	PUNC	O
+💯	N	O
+تا	P	O
+به	P	O
+این	DET	O
+لحظه	N	O
+۱۰۰	NUM	B-MISC
+درصد	N	I-MISC
+رضایت	Ne	O
+کاربران	Ne	O
+ما	PRO	O
+جلب	N	O
+شده	V	O
+!	PUNC	O
+
+چرا	ADV	O
+شما	PRO	O
+به	P	O
+این	DET	O
+جمع	N	O
+نمی‌پیوندید	V	O
+؟	PUNC	O
+
+
+
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+تنها	ADV	O
+در	P	O
+هشت	NUM	B-MISC
+روز	N	I-MISC
+بیش	AJ	O
+از	P	O
+۱۷	NUM	B-MISC
+میلیون	NUM	I-MISC
+نسخه	Ne	O
+فروش	N	O
+داشته‌است	V	O
+
+
+
+اختصاصی	AJe	O
+گیمفا	N	B-ORG
+:	PUNC	O
+
+قسمت	Ne	O
+آخر	NUMe	O
+راهنمای	Ne	O
+قدم	N	O
+به	P	O
+قدم	N	O
+و	CONJ	O
+جامع	AJe	O
+Dark	RES	O
+Souls	RES	O
+III	NUM	O
+
+
+
+پلاس	Ne	O
+نیم	NUM	B-MISC
+ماهه	RESe	I-MISC
+➕	PUNC	O
+قیمت	N	O
+:	PUNC	O
+
+۱۰,۰۰۰	NUM	B-MISC
+تومان	CL	I-MISC
+🌹	N	O
+
+
+
+Red	RES	O
+Dead	RES	O
+Online	RES	O
+تا	P	O
+پایان	Ne	O
+نوامبر	Ne	B-MISC
+امسال	ADV	O
+عرضه	N	O
+خواهد‌شد	V	O
+
+
+
+بررسی	Ne	O
+۱۰	NUM	B-MISC
+فیلم	Ne	O
+ژانر	Ne	O
+گانگستری	AJ	O
+
+
+
+حدود	DETe	O
+۱۰۰	NUM	B-MISC
+میلیون	NUM	I-MISC
+نسخه	N	O
+از	P	O
+Grand	RES	O
+Theft	RES	O
+Auto	RES	O
+۵	NUM	B-MISC
+به	P	O
+فروشگاه‌ها	N	O
+ارسال	N	O
+شده‌است	V	O
+
+
+
+سیستم	Ne	O
+مورد	Ne	O
+نیاز	Ne	O
+Crackdown	RES	O
+۳	NUM	B-MISC
+مشخص	AJ	O
+شد	V	O
+
+
+
+نامزد‌های	Ne	O
+مراسم	Ne	O
+The	RES	O
+Game	RES	O
+Awards	RES	O
+۲۰۱۸	NUM	B-MISC
+هفته‌ی	Ne	B-MISC
+آینده	AJ	I-MISC
+معرفی	N	O
+خواهند‌شد	V	O
+
+
+
+پیشنهاد	Ne	O
+ویژه	AJe	O
+مایکروسافت	N	B-ORG
+:	PUNC	O
+
+اشتراک	Ne	O
+ماهانه	AJe	O
+سرویس	Ne	O
+Xbox	RES	O
+Game	RES	O
+Pass	RES	O
+تنها	ADV	O
+با	P	O
+پرداخت	Ne	O
+یک	NUM	B-MISC
+دلار	N	I-MISC
+
+
+
+شرکت	Ne	B-ORG
+نینتندو	N	B-ORG
+:	PUNC	O
+
+توقع	Ne	O
+عرضه‌ی	Ne	O
+تمامی	DETe	O
+بازی‌های	Ne	O
+بزرگ	AJ	O
+برای	Pe	O
+سوییچ	Ne	O
+غیرمنطقی	AJ	O
+است	V	O
+
+
+
+😈🔥ماوس‌	Ne	O
+MSI	RES	B-ORG
+CLUTCH	RES	O
+GM۵۰	RES	O
+یک	NUM	O
+انتخاب	Ne	O
+مناسب	AJ	O
+برای	Pe	O
+گیمرهای	Ne	O
+بازیهای	Ne	O
+FPS	RES	O
+.	PUNC	O
+
+🔥🔥🔥🔥🔥🔥	N	O
+@msifarsi	N	O
+
+
+
+🤓✌️کمترین	AJ	O
+نویز	Ne	O
+صوتی	AJ	O
+در	P	O
+میان	Ne	O
+رقبا	N	O
+کارت	Ne	O
+گرافیک	Ne	O
+MSI	RES	B-ORG
+RTX	RES	O
+۲۰۸۰	NUM	B-MISC
+DUKE	RES	O
+در	P	O
+بررسی	Ne	O
+سایت	Ne	O
+شهر	Ne	O
+سخت	AJ	O
+افزار	N	O
+.	PUNC	O
+
+💥💥💥💥💥	N	O
+@msifarsi	N	O
+
+
+
+تاریخ	Ne	O
+انتشار	Ne	O
+بازی	Ne	O
+Crackdown	RES	O
+۳	NUM	B-MISC
+مشخص	AJ	O
+شد	V	O
+
+
+
+حالت	Ne	O
+چندنفره	AJ	O
+The	RES	O
+Wrecking	RES	O
+Zone	RES	O
+برای	Pe	O
+بازی	Ne	O
+Crackdown	RES	O
+۳	NUM	B-MISC
+معرفی	N	O
+شد	V	O
+
+
+
+بسته‌ی	Ne	O
+الحاقی	AJe	O
+رایگانی	ADV	O
+برای	Pe	O
+بازی	Ne	O
+State	RES	O
+Of	RES	O
+Decay	RES	O
+۲	NUM	B-MISC
+معرفی	N	O
+شد	V	O
+
+
+
+اولین	NUM	O
+بسته‌ی	Ne	O
+الحاقی	AJe	O
+بازی	Ne	O
+Forza	RES	O
+Horizon	RES	O
+۴	NUM	B-MISC
+معرفی	N	O
+شد	V	O
+
+
+
+نقد	Ne	O
+فصل	Ne	O
+چهارم	NUMe	B-MISC
+سریال	Ne	O
+خانه	Ne	O
+پوشالی	AJ	O
+
+
+
+شیائومی	N	B-ORG
+بلک	N	O
+شارک	N	O
+در	P	O
+۱۶	NUMe	B-MISC
+نوامبر	N	I-MISC
+به	P	O
+اروپا	N	B-LOC
+می‌رسد	V	O
+
+
+
+جدول	Ne	O
+فروش	Ne	O
+هفتگی	AJe	O
+بریتانیا	N	B-LOC
+|	PUNC	O
+سرخ‌پوست	AJ	O
+مرده	V	O
+،	PUNC	O
+اکنون	ADV	O
+زنده‌تر	AJ	O
+از	P	O
+همیشه	ADV	O
+
+
+
+۱۰	NUM	B-MISC
+کاری	N	O
+که	CONJ	O
+نباید	V	O
+با	P	O
+گوشی	Ne	O
+اندرویدی	AJe	O
+خود	PRO	O
+انجام	N	O
+دهید	V	O
+
+
+
+کنترلر	Ne	O
+جدیدی	AJ	O
+توسط	Pe	O
+شرکت	Ne	B-ORG
+سونی	N	B-ORG
+به	P	O
+ثبت	N	O
+رسید	V	O
+
+
+
+🕹	N	O
+یکی	NUM	O
+از	P	O
+بهترین	AJ	O
+کانال‌های	Ne	O
+گیمینگ	N	O
+در	P	O
+ایران	N	B-LOC
+رو	POSTP	O
+معرفی	Ne	O
+میکنم	V	O
+.	PUNC	O
+
+💥	N	O
+اخبار	Ne	O
+جدید	AJe	O
+گیم	Ne	O
+💥	N	O
+ویدیوها	N	O
+و	CONJ	O
+عکس‌های	Ne	O
+باحال	AJ	O
+و	CONJ	O
+نوستالژی	N	O
+گیمینگ	N	O
+💥	N	O
+تحلیل	N	O
+و	CONJ	O
+بررسی	Ne	O
+انواع	Ne	O
+بازی‌ها	N	O
+👈	N	O
+بهتون	P	O
+پیشنهاد	Ne	O
+میکنم	N	O
+کانال	N	O
+پی	Ne	O
+اس	N	O
+پی	Ne	O
+پرشین	N	O
+رو	POSTP	O
+دنبال	Ne	O
+کنید‌	V	O
+.	PUNC	O
+
+https	RES	O
+:	PUNC	O
+
+//t	RES	O
+.	PUNC	O
+
+me/joinchat/AAAAAEq-lWOFE۸KLZUAKAQ	N	O
+
+
+
+استن	N	B-PERS
+لی	N	I-PERS
+در	P	O
+۹۵	NUM	B-MISC
+سالگی	RES	O
+درگذشت	V	O
+
+
+
+😈⚡️مادربرد	N	O
+گیمینگ	N	O
+پرچمدار	Ne	O
+MSI	RES	B-ORG
+MEG	RES	O
+Z۳۹۰	RES	O
+GODLIKE	RES	O
+GAMING	RES	O
+به	P	O
+دلیل	Ne	O
+قابلیت‌های	Ne	O
+منحصر	AJ	O
+به	P	O
+فرد	N	O
+و	CONJ	O
+عملکرد	Ne	O
+فوق	AJ	O
+العاده	N	O
+در	P	O
+تست‌ها	N	O
+موفق	AJ	O
+به	P	O
+کسب	N	O
+نشان	Ne	O
+منتخب	AJe	O
+نویسنده	N	O
+از	P	O
+سایت	Ne	O
+Techpowerup	N	O
+شده‌است	V	O
+.	PUNC	O
+
+💥💥💥💥💥😜	N	O
+@msifarsi	N	O
+
+
+
+ابر	Ne	O
+قهرمانان	N	O
+در	P	O
+سوگ	Ne	O
+استن	N	B-PERS
+لی	N	I-PERS
+یادش	N	O
+گرامی	AJ	O
+
+
+
+نقشه‌ی	Ne	O
+Nuketown	RES	O
+بازی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
++	PUNC	O
+تریلر	N	O
+
+
+
+اولین	NUM	B-MISC
+تریلر	N	O
+از	P	O
+بسته‌ی	Ne	O
+الحاقی	AJe	O
+بازی	Ne	O
+Marvel’s	RES	O
+Spider-Man	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+تیتراژ	Ne	O
+ابتدایی	AJ	O
+بازی	Ne	O
+God	RES	O
+Eater	RES	O
+۳	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+باز‌ه‌ی	Ne	O
+زمانی	N	O
+انتشار	Ne	O
+بازی	Ne	O
+Assassin’s	RES	O
+Creed	RES	O
+۳	NUM	B-MISC
+Remastered	RES	O
+مشخص	AJ	O
+شد	V	O
+
+
+
+psn	RES	O
+us	RES	O
+۶۰$	NUM	B-MISC
+۷۸۰	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	CL	O
+۱۰$	NUM	B-MISC
+۱۳۲	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	CL	O
+۲۰$	NUM	B-MISC
+۲۶۴	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	N	O
+
+
+
+به‌روزرسان	ADV	O
+۱٫۳۰	NUM	B-MISC
+بازی	N	O
+Overwatch	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+هیولا	N	O
+(	PUNC	O
+سایت	Ne	O
+قانونی	AJe	O
+عرضه	Ne	O
+دیجیتال	AJe	O
+بازی‌های	Ne	O
+رایانه‌ای	AJe	O
+hayoola	RES	O
+.	PUNC	O
+
+com	RES	O
+)	PUNC	O
+به	P	O
+قید	Ne	O
+قرعه	N	O
+به	P	O
+۲۰	NUM	B-MISC
+نفر	N	O
+کلید	Ne	O
+رایگان	AJ	O
+بازی	N	O
+هدیه	N	O
+خواهد‌داد	V	O
+.	PUNC	O
+
+دوستانی	N	O
+که	CONJ	O
+اهل	Ne	O
+کتاب	N	O
+و	CONJ	O
+بازی	N	O
+هستند	V	O
+رو	POSTP	O
+هم	CONJ	O
+تگ	N	O
+کنید	V	O
+.	PUNC	O
+
+#گیمرباش	N	O
+
+
+
+جزییات	Ne	O
+فروشگاه	Ne	O
+هسته‌ای	AJe	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+مشخص	AJ	O
+شد	V	O
+
+
+
+🔸شروع	Ne	O
+قیمت	Ne	O
+پلاس	Ne	O
+قانونی	AJ	O
+از	P	O
+تنها	ADV	O
+۱۰	NUM	B-MISC
+هزار	NUM	I-MISC
+تومان	CL	I-MISC
+➖➖➖➖➖➖➖➖➖➖➖➖➖	N	O
+🌹آیدی	V	O
+کانال	Ne	O
+تلگرامی	N	O
+@plusps	N	O
+
+
+
+واکنش	Ne	O
+شخصیت	Ne	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+آرام‌تر	AJ	O
+از	P	O
+دیگر	PRO	O
+بازی‌های	Ne	O
+رایانه‌ای	AJ	O
+است	V	O
+
+
+
+هایلایت	N	O
+:	PUNC	O
+
+نکاتی	N	O
+که	CONJ	O
+پیش	ADV	O
+از	P	O
+خرید	Ne	O
+بازی	Ne	O
+Darksiders	RES	O
+۳	NUM	B-MISC
+باید	V	O
+بدانید	V	O
+
+
+
+فروشگاه	Ne	O
+مای	PROe	O
+گیفت	V	O
+.	PUNC	O
+
+بهترین	AJ	O
+و	CONJ	O
+ارزان‌ترین	AJ	O
+گیفت‌کارت‌های	Ne	O
+ایران	N	B-LOC
+را	POSTP	O
+در	P	O
+فروشگاه	Ne	O
+مای	PROe	O
+گیفت	N	O
+@giftday	N	O
+تهیه	N	O
+کنید	V	O
+🌹🌹🌹	N	O
+
+
+
+بازی	Ne	O
+Rainbow	RES	O
+Six	RES	O
+:	PUNC	O
+
+Siege	RES	O
+برای	Pe	O
+مدت	Ne	O
+کوتاهی	AJ	O
+برروی	Pe	O
+کنسول	Ne	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+رایگان	AJ	O
+شد	V	O
+
+
+
+افزایش	Ne	O
+جذابیت	Ne	O
+بازی	N	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+روی	Pe	O
+رایانه‌های	Ne	O
+شخصی	AJ	O
+
+
+
+رسما	ADV	O
+تایید	N	O
+شد	V	O
+:	PUNC	O
+
+شرکت	Ne	B-ORG
+سونی	N	B-ORG
+در	P	O
+E۳	N	O
+۲۰۱۹	NUM	B-MISC
+حضور	N	O
+نخواهد‌داشت	V	O
+
+
+
+رسما	ADV	O
+تایید	N	O
+شد	V	O
+:	PUNC	O
+
+شرکت	Ne	B-ORG
+سونی	N	B-ORG
+در	P	O
+E۳	N	O
+۲۰۱۹	NUM	B-MISC
+حضور	N	O
+نخواهد‌داشت	V	O
+
+
+
+حراج	Ne	O
+جمعه	N	B-MISC
+ثبت	Ne	O
+نام	N	O
+کنید	V	O
+بلیت	Ne	O
+طلایی	AJ	O
+بگیرید	V	O
+https	RES	O
+:	PUNC	O
+
+//www	V	O
+.	PUNC	O
+
+bamilo	RES	O
+.	PUNC	O
+
+com/harajome/	N	O
+?	PUNC	O
+ID=۲۷۸۵۴	RES	O
+
+
+
+⚡️😈بهترین	AJ	O
+بازی	N	O
+ساخته	V	O
+شده	V	O
+برای	Pe	O
+PC	N	O
+در	P	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+از	P	O
+نظر	Ne	O
+شما	PRO	O
+چیست	V	O
+؟	PUNC	O
+
+نظر	Ne	O
+خود	PRO	O
+را	POSTP	O
+در	P	O
+اینستاگرام	N	O
+کامنت	N	O
+کنید	V	O
+و	CONJ	O
+به	P	O
+قید	Ne	O
+قرعه	N	O
+از	P	O
+ما	PRO	O
+جایزه	Ne	O
+بگیرید🎁🎁🎁	N	O
+🤓✌️💥	N	O
+
+
+
+⚡️😈بهترین	AJ	O
+بازی	N	O
+ساخته	V	O
+شده	V	O
+برای	Pe	O
+PC	N	O
+در	P	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+از	P	O
+نظر	Ne	O
+شما	PRO	O
+چیست	V	O
+؟	PUNC	O
+
+نظر	Ne	O
+خود	PRO	O
+را	POSTP	O
+در	P	O
+اینستاگرام	N	O
+کامنت	N	O
+کنید	V	O
+و	CONJ	O
+به	P	O
+قید	Ne	O
+قرعه	N	O
+از	P	O
+ما	PRO	O
+جایزه	Ne	O
+بگیرید🎁🎁🎁	N	O
+🤓✌️💥	N	O
+
+
+
+به	P	O
+مناسبت	Ne	O
+پنجمین	NUM	B-MISC
+سالگرد	Ne	O
+عرضه	Ne	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+،	PUNC	O
+آمار	Ne	O
+خیره‌کننده‌ای	AJ	O
+از	P	O
+این	DET	O
+کنسول	N	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+به	P	O
+مناسبت	Ne	O
+پنجمین	NUM	B-MISC
+سالگرد	Ne	O
+عرضه	Ne	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+،	PUNC	O
+آمار	Ne	O
+خیره‌کننده‌ای	AJ	O
+از	P	O
+این	DET	O
+کنسول	N	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+لیست	Ne	O
+تروفی‌های	Ne	O
+بازی	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+اسامی	Ne	O
+برندگان	Ne	O
+Golden	RES	O
+Joystick	RES	O
+۲۰۱۸	NUM	B-MISC
+اعلام	N	O
+شد	V	O
+|	PUNC	O
+Fortnite	RES	O
+بازی	Ne	O
+سال	N	O
+شد	V	O
+
+
+
+تاریخ	Ne	O
+انتشار	Ne	O
+فصل	Ne	O
+جدید	AJe	O
+بازی	Ne	O
+Destiny	RES	O
+۲	NUM	B-MISC
+اعلام	N	O
+شد	V	O
+
+
+
+تخفیف	Ne	O
+پلاس	Ne	O
+یک	NUM	B-MISC
+ساله	RES	O
+در	P	O
+playstaition	RES	O
+store	RES	O
+
+
+
+سونی	N	B-ORG
+بازی‌های	Ne	O
+آینده‌ی	Ne	O
+خود	PRO	O
+را	POSTP	O
+نقطه‌ی	Ne	O
+عطف	Ne	O
+بزرگی	AJ	O
+می‌داند	V	O
+
+
+
+🤓آموزش	N	O
+نصب	Ne	O
+کابل‌های	Ne	O
+پنل	N	O
+جلویی	AJ	O
+کیس	N	O
+بر	P	O
+روی	Ne	O
+مادربردهای	Ne	O
+MSI	RES	B-ORG
+.	PUNC	O
+
+🤓✌️💥💥💥	N	O
+@msifarsi	N	O
+
+
+
+مصاحبه	N	O
+با	P	O
+سازندگان	Ne	O
+The	RES	O
+Surge	RES	O
+۲	NUM	B-MISC
+|	PUNC	O
+صحبت	N	O
+در	P	O
+مورد	Ne	O
+مبارزات	N	O
+،	PUNC	O
+طراحی	Ne	O
+مراحل	N	O
+،	PUNC	O
+مقابله	N	O
+با	P	O
+باس‌ها	N	O
+و	CONJ	O
+بیشتر	AJ	O
+
+
+
+هایلایت	N	O
+:	PUNC	O
+
+نکاتی	N	O
+که	CONJ	O
+پیش	ADV	O
+از	P	O
+خرید	Ne	O
+بازی	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+باید	V	O
+بدانید	V	O
+تماشاکنید	N	O
+در	P	O
+یوتیوب	N	O
+گیمفا	N	O
+
+
+
+🕹	N	O
+تخفیفات	Ne	O
+وحشتناک	AJe	O
+جمعه	Ne	B-MISC
+سیاه	AJ	I-MISC
+شروع	N	O
+شد	V	O
+.	PUNC	O
+
+فقط	ADV	O
+به	P	O
+مدت	Ne	O
+یک	NUM	B-MISC
+هفته	N	I-MISC
+همین	DET	O
+حالا	ADV	O
+سفارش	N	O
+دهید	V	O
+👇	N	O
+http	RES	O
+:	PUNC	O
+
+//bit	V	O
+.	PUNC	O
+
+ly/۲Fog۱۰C	N	O
+☎️	N	O
+۷۷۴۵۹۵۹۲	NUM	O
+برای	Pe	O
+مشاهده	N	O
+باقی	N	O
+تخفیفات	Ne	O
+عضو	Ne	O
+کانال	Ne	O
+زیر	AJ	O
+شوید	V	O
+👇	N	O
+🎮	N	O
+@TooFunClub	RES	O
+🎮	RES	O
+@TooFunClub	RES	O
+
+
+
+Gears	RES	O
+۵	NUM	B-MISC
+چیزی	N	O
+است	V	O
+که	CONJ	O
+بازی‌بازان	N	O
+تا	P	O
+به	P	O
+امروز	ADV	O
+ندیده‌اند	V	O
+
+
+
+هایلایت	N	O
+:	PUNC	O
+
+نکاتی	N	O
+که	CONJ	O
+پیش	ADV	O
+از	P	O
+خرید	Ne	O
+بازی	Ne	O
+Hitman	RES	O
+۲	NUM	B-MISC
+باید	V	O
+بدانید	V	O
+
+
+
+مافیای	Ne	O
+سرخپوستی	AJe	O
+|	Ne	O
+کلیدی‌ترین	AJ	O
+نکاتی	N	O
+که	CONJ	O
+باید	V	O
+برای	Pe	O
+بازی	N	O
+کردن	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+بدانید	V	O
+
+
+
+انتشار	Ne	O
+اولین	NUM	B-MISC
+تریلر	Ne	O
+رسمی	AJ	O
+بازی	Ne	O
+ایرانی	AJ	O
+What	RES	O
+happened	RES	O
+کاری	N	O
+از	P	O
+استدیو	N	O
+Genius	RES	O
+Slackers	RES	O
+
+
+
+کنترلر	Ne	O
+جدیدی	AJ	O
+توسط	Pe	O
+شرکت	Ne	B-ORG
+مایکروسافت	N	I-ORG
+به	P	O
+ثبت	N	O
+رسید	V	O
+
+
+
+تیتراژ	Ne	O
+ابتدایی	AJ	O
+بازی	Ne	O
+Darksiders	RES	O
+۳	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+انفجار	Ne	O
+۳	NUM	B-MISC
+بمب	Ne	O
+اتم	N	O
+به	P	O
+صورت	Ne	O
+همزمان	AJ	O
+در	P	O
+بازی	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+منجر	AJ	O
+به	P	O
+قطع	Ne	O
+سرور	N	O
+شد	V	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+از	P	O
+تاریخ	Ne	O
+انتشار	Ne	O
+Death	RES	O
+Stranding	RES	O
+،	PUNC	O
+Ghost	RES	O
+of	RES	O
+Tsushima	RES	O
+و	RES	O
+Dreams	RES	O
+در	P	O
+مراسم	Ne	O
+TGA	N	O
+۲۰۱۸	NUM	B-MISC
+رونمایی	N	O
+خواهد‌شد	V	O
+
+
+
+-بر	N	O
+اساس	Ne	O
+تحقیقی	N	O
+که	CONJ	O
+بر	P	O
+روی	Ne	O
+کودکان	N	O
+بین	Pe	O
+۶	NUM	B-MISC
+تا	P	I-MISC
+۱۱	NUM	B-MISC
+سال	N	I-MISC
+در	P	O
+دانشگاه	Ne	B-ORG
+کلمبیا	N	I-ORG
+در	P	O
+نیویورک	N	B-LOC
+انجام	N	O
+شده‌است	V	O
+،	PUNC	O
+بازی‌های	Ne	O
+ویدیویی	AJ	O
+نه	ADV	O
+تنها	ADV	O
+مضر	AJ	O
+نیستند	V	O
+بلکه	CONJ	O
+باعث	AJe	O
+رشد	Ne	O
+مهارت‌های	Ne	O
+فکری	AJ	O
+و	CONJ	O
+اجتماعی	AJ	O
+در	P	O
+کودکان	N	O
+می‌شوند	V	O
+.	PUNC	O
+
+-این	N	O
+تحقیق	N	O
+نشان	N	O
+می‌دهد	V	O
+آن	DET	O
+دسته‌	N	O
+از	P	O
+کودکانی	N	O
+که	CONJ	O
+به	P	O
+صورت	Ne	O
+مرتب	AJ	O
+مدت	Ne	O
+زمانی	N	O
+را	POSTP	O
+در	P	O
+روز	N	O
+به	P	O
+انجام	Ne	O
+بازی‌های	Ne	O
+ویدویی	N	O
+مشغول	AJ	O
+هستند	V	O
+در	P	O
+فعالیت‌های	Ne	O
+مدرسه	N	O
+و	CONJ	O
+همچنین	CONJ	O
+ایجاد	Ne	O
+ارتباط	N	O
+با	P	O
+دوستان	Ne	O
+خود	PRO	O
+نیز	CONJ	O
+نسبت	N	O
+به	P	O
+دیگر	PRO	O
+همسالان	Ne	O
+خود	PRO	O
+موفق‌تر	AJ	O
+هستند	V	O
+.	PUNC	O
+
+#گیمرباش	N	O
+#روز_جهانی_کودک	N	O
+
+
+
+🕹	N	O
+تخفیفات	Ne	O
+وحشتناک	AJe	O
+جمعه	Ne	B-MISC
+سیاه	AJ	I-MISC
+شروع	N	O
+شد	V	O
+.	PUNC	O
+
+فقط	ADV	O
+به	P	O
+مدت	Ne	O
+یک	NUM	B-MISC
+هفته	N	I-MISC
+همین	DET	O
+حالا	ADV	O
+سفارش	N	O
+دهید	V	O
+👇	N	O
+https	RES	O
+:	PUNC	O
+
+//bit	V	O
+.	PUNC	O
+
+ly/۲KiqwkQ	N	O
+☎️	N	O
+۷۷۴۵۹۵۹۲	NUM	O
+برای	Pe	O
+مشاهده	N	O
+باقی	N	O
+تخفیفات	Ne	O
+عضو	Ne	O
+پیج	N	O
+زیر	AJ	O
+شوید	V	O
+👇	N	O
+🎮	N	O
+@TooFunClub	RES	O
+🎮	RES	O
+@TooFunClub	RES	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+پلی‌استیشن	Ne	O
+۵	NUM	B-MISC
+با	P	O
+پردازنده	Ne	O
+AMD	RES	B-ORG
+Ryzen	RES	I-ORG
+ساخته	V	O
+و	CONJ	O
+با	P	O
+قیمت	Ne	O
+۴۹۹	NUM	B-MISC
+دلار	N	I-MISC
+عرضه	N	O
+می‌شود	V	O
+
+
+
+حذف	Ne	O
+بخش	Ne	O
+تک	AJ	O
+نفره‌ی	RESe	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+آسیبی	N	O
+را	POSTP	O
+به	P	O
+فروش	Ne	O
+آن	PRO	O
+وارد	N	O
+نکرده	V	O
+است	V	O
+
+
+
+از	P	O
+اگزو	N	O
+خرید	N	O
+کن	V	O
+،	PUNC	O
+Red	RES	O
+dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+و	CONJ	O
+FIFA	RES	O
+۱۹	NUM	B-MISC
+و	CONJ	O
+بهترین	AJ	O
+هدست‌های	Ne	O
+گیمینگ	N	O
+رو	POSTP	O
+رایگان	AJ	O
+بگیر	V	O
+!	PUNC	O
+
+
+
+مهلت	N	O
+فقط	ADV	O
+تا	P	O
+یک‌شنبه	N	B-MISC
+
+
+
+💥🤓🎉جشنواره	Ne	O
+کارت	Ne	O
+گرافیک	Ne	O
+ام	N	B-ORG
+اس	N	I-ORG
+آی	N	I-ORG
+از	P	O
+اول	NUMe	B-MISC
+آذر	N	I-MISC
+الی	P	I-MISC
+پایان	Ne	B-MISC
+دیماه	N	I-MISC
+۹۷🎈🎈🎈🎈	NUM	O
+با	P	O
+خرید	Ne	O
+کارت	Ne	O
+گرافیک	Ne	O
+سری	AJ	O
+۱۰۶۰	NUM	B-MISC
+،	PUNC	O
+۱۰۷۰	NUM	B-MISC
+،	PUNC	O
+۱۰۸۰	NUM	B-MISC
+و	CONJ	O
+VEGA	RES	O
+MSI	RES	B-ORG
+🎊علاوه	RES	O
+بر	P	O
+بهره	Ne	O
+مندی	N	O
+از	P	O
+تخفیفات	Ne	O
+استثنایی	AJ	O
+،	PUNC	O
+در	P	O
+قرعه	Ne	O
+کشی	V	O
+برای	Pe	O
+جوایز	Ne	O
+ارزنده	AJe	O
+آن	PRO	O
+شرکت	N	O
+کنید	V	O
+نحوه	Ne	O
+شرکت	N	O
+در	P	O
+قرعه	Ne	O
+کشی	Ne	O
+تکمیل	Ne	O
+فرم	Ne	O
+زیر	Pe	O
+https	RES	O
+:	PUNC	O
+
+//goo	V	O
+.	PUNC	O
+
+gl/tzkGyD	RES	O
+🎁🕓زمان	RES	O
+قرعه	Ne	O
+کشی	V	O
+:	PUNC	O
+
+هفته	Ne	B-MISC
+اول	NUMe	I-MISC
+بهمن	N	I-MISC
+ماه	Ne	I-MISC
+۱۳۹۷	NUM	I-MISC
+
+
+
+حذف	Ne	O
+بخش	Ne	O
+تک	AJ	O
+نفره‌ی	RESe	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+آسیبی	N	O
+را	POSTP	O
+به	P	O
+فروش	Ne	O
+آن	PRO	O
+وارد	N	O
+نکرده	V	O
+است	V	O
+
+
+
+به‌روزرسانی	Ne	O
+جدید	AJe	O
+The	RES	O
+Crew	RES	O
+۲	NUM	B-MISC
+حاوی	AJe	O
+دو	NUM	O
+وسیله	Ne	O
+نقلیه	AJe	O
+جدید	AJ	O
+است	V	O
+
+
+
+به‌روزرسانی	Ne	O
+جدید	AJe	O
+The	RES	O
+Crew	RES	O
+۲	NUM	B-MISC
+حاوی	AJe	O
+دو	NUM	O
+وسیله	Ne	O
+نقلیه	AJe	O
+جدید	AJ	O
+است	V	O
+
+
+
+کوری	Ne	B-PERS
+بارلوگ	N	I-PERS
+:	PUNC	O
+
+پروژه‌ی	Ne	O
+بعدی	AJ	O
+سانتامونیکا	N	B-ORG
+بزرگ‌تر	AJ	O
+از	P	O
+بازی	Ne	O
+God	RES	O
+of	RES	O
+War	RES	O
+خواهد‌بود	V	O
+
+
+
+سی‌دی‌پراجکت‌رد	N	O
+انتظار	Ne	O
+فروش	Ne	O
+۱۹	NUM	B-MISC
+میلیون	NUM	I-MISC
+نسخه‌ای	N	O
+از	P	O
+بازی	Ne	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+در	P	O
+۳	NUM	B-MISC
+ماه	Ne	I-MISC
+اول	NUMe	I-MISC
+عرضه	N	O
+دارد	V	O
+
+
+
+نقشه‌ی	Ne	O
+جدید	AJe	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+مکان	Ne	O
+فعالیت‌های	Ne	O
+جانبی	AJe	O
+بازی	N	O
+را	POSTP	O
+مشخص	AJ	O
+می‌کند	V	O
+
+
+
+قابلیت	Ne	O
+دریافت	Ne	O
+امتیاز	Ne	O
+XP	N	O
+دوبرابر	AJ	O
+در	P	O
+بازی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+فعال	AJ	O
+شد	V	O
+
+
+
+قابلیت	Ne	O
+دریافت	Ne	O
+امتیاز	Ne	O
+XP	N	O
+دوبرابر	AJ	O
+در	P	O
+بازی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+فعال	AJ	O
+شد	V	O
+
+
+
+🤓در	N	O
+مادربرد	N	O
+MSI	RES	B-ORG
+MEG	RES	O
+Z۳۹۰	RES	O
+GODLIKE	RES	O
+به	P	O
+کمک	Ne	O
+قابلیت	Ne	O
+Killer	RES	O
+xTend	RES	O
+و	CONJ	O
+دو	NUM	O
+کنترل	Ne	O
+شبکه	Ne	O
+کابلی	AJe	O
+Killer	RES	O
+E۲۵۰۰	N	O
+در	P	O
+کنار	ADVe	O
+Killer	RES	O
+۱۵۵۰	NUM	B-MISC
+Wi-Fi	RES	O
+AC	RES	O
+،	PUNC	O
+می‌توان	V	O
+ترافیک	Ne	O
+اینترنت	N	O
+را	POSTP	O
+اولویت	N	O
+بندی	N	O
+کرد	V	O
+.	PUNC	O
+
+@MSIFARSI	N	O
+
+
+
+باگ	N	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+منجر	AJ	O
+به	P	O
+پرتاب	N	O
+شدن	Ne	O
+آرتور	N	O
+به	P	O
+آسمان	N	O
+می‌شود	V	O
+
+
+
+تریلر	N	O
+بازی	Ne	O
+Darksiders	RES	O
+۳	NUM	B-MISC
+به	P	O
+معرفی	Ne	O
+اسب	Ne	O
+فیوری	N	O
+می‌پردازد	V	O
+
+
+
+جشنواره	Ne	O
+پاییزی	AJ	O
+بزرگ	AJe	O
+فروشگاه	Ne	O
+💥GameCenter💥	N	O
+هر	DET	O
+١٠	NUM	B-MISC
+امتیاز	N	O
+١٠	NUM	B-MISC
+هزار	NUM	I-MISC
+تومان	CL	I-MISC
+🎮	N	O
+معتبر‌ترین	AJ	O
+فروشگاه	Ne	O
+اکانت	N	O
+قانونی	AJ	O
+🔴	N	O
+Black	RES	O
+Friday	RES	O
+Sale	RES	O
+⚫️	RES	O
+🌐	RES	O
+Website	RES	O
+Game-center	RES	O
+.	PUNC	O
+
+ir	RES	O
+💎	RES	O
+Channel	RES	O
+https	RES	O
+:	PUNC	O
+
+//t	RES	O
+.	PUNC	O
+
+me/joinchat/AAAAAFMhVaQFGYqzFtoPnw	N	O
+
+
+
+نینتندو	N	B-ORG
+از	P	O
+اضافه	AJ	O
+شدن	Ne	O
+سه	NUM	O
+شخصیت	Ne	O
+جدید	AJ	O
+به	P	O
+بازی	Ne	O
+Mario	RES	O
+Tennis	RES	O
+Aces	RES	O
+خبر	N	O
+داد	V	O
+
+
+
+قیمت	Ne	O
+بازی	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+دوباره	ADV	O
+کاهش	N	O
+یافت	V	O
+
+
+
+فهرست	Ne	O
+تروفی‌های	Ne	O
+بازی	Ne	O
+Just	RES	O
+Cause	RES	O
+۴	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+🤓⚡️نظر	N	O
+نویسنده	Ne	O
+مجله	Ne	B-ORG
+CHIP	N	I-ORG
+درباره	Pe	O
+MSI	RES	O
+MEG	RES	O
+Z۳۹۰	RES	O
+ACE	RES	O
+یک	NUM	O
+مادربورد	Ne	O
+قدرتمند	AJ	O
+با	P	O
+طراحی	Ne	O
+شیک	AJ	O
+و	CONJ	O
+دارای	AJe	O
+قابلیت‌های	Ne	O
+اختصاصی	AJe	O
+اورکلاکینگ	N	O
+که	CONJ	O
+با	P	O
+Game	RES	O
+Boost	RES	O
+به	P	O
+آسانی	Ne	O
+عملکرد	Ne	O
+سیستم	Ne	O
+گیمینگ	N	O
+افزایش	N	O
+پیدا	AJ	O
+می‌کند	V	O
+.	PUNC	O
+
+💥💥💥💥	N	O
+@msifarsi	N	O
+
+
+
+بازی	Ne	O
+Cyberpunk	RES	O
+۲۰۷۷	NUM	B-MISC
+شما	PRO	O
+را	POSTP	O
+مجبور	AJ	O
+به	P	O
+استفاده	N	O
+از	P	O
+روش	Ne	O
+خاصی	AJ	O
+برای	Pe	O
+پیشروی	N	O
+نمی‌کند	V	O
+
+
+
+دیوید	N	B-PERS
+جف	N	I-PERS
+:	PUNC	O
+
+بازی‌های	Ne	O
+AAA	RES	O
+در	P	O
+حال	Ne	O
+نابودی	N	O
+هستند	V	O
+
+
+
+معرفی	Ne	O
+بیش	AJ	O
+از	P	O
+۱۰	NUM	B-MISC
+بازی	Ne	O
+جدید	AJ	O
+در	P	O
+مراسم	Ne	O
+TGA	N	O
+۲۰۱۸	NUM	B-MISC
+
+
+
+تریلر	N	O
+بازی	Ne	O
+Battlefleet	N	O
+Gothic	N	O
+:	PUNC	O
+
+Armada	RES	O
+۲	NUM	B-MISC
+نگاه	Ne	O
+دقیق‌تری	AJ	O
+به	P	O
+گیم‌پلی	N	O
+این	DET	O
+عنوان	N	O
+می‌اندازد	V	O
+
+
+
+بازی	Ne	O
+This	RES	O
+War	RES	O
+of	RES	O
+Mine	RES	O
+:	PUNC	O
+
+Complete	RES	O
+Edition	RES	O
+برای	Pe	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+💥🤓🎉جشنواره	Ne	O
+کارت	Ne	O
+گرافیک	Ne	O
+ام	N	B-ORG
+اس	N	I-ORG
+آی	N	I-ORG
+از	P	O
+اول	NUMe	B-MISC
+آذر	N	I-MISC
+الی	P	I-MISC
+پایان	Ne	I-MISC
+دیماه	N	I-MISC
+۹۷🎈🎈🎈🎈	NUM	O
+با	P	O
+خرید	Ne	O
+کارت	Ne	O
+گرافیک	Ne	O
+سری	AJ	O
+۱۰۶۰	NUM	B-MISC
+،	PUNC	O
+۱۰۷۰	NUM	B-MISC
+،	PUNC	O
+۱۰۸۰	NUM	B-MISC
+و	CONJ	O
+VEGA	RES	O
+MSI	RES	B-ORG
+🎊علاوه	RES	O
+بر	P	O
+بهره	Ne	O
+مندی	N	O
+از	P	O
+تخفیفات	Ne	O
+استثنایی	AJ	O
+،	PUNC	O
+در	P	O
+قرعه	Ne	O
+کشی	V	O
+برای	Pe	O
+جوایز	Ne	O
+ارزنده	AJe	O
+آن	PRO	O
+شرکت	N	O
+کنید	V	O
+نحوه	Ne	O
+شرکت	N	O
+در	P	O
+قرعه	Ne	O
+کشی	Ne	O
+تکمیل	Ne	O
+فرم	Ne	O
+زیر	Pe	O
+https	RES	O
+:	PUNC	O
+
+//goo	V	O
+.	PUNC	O
+
+gl/tzkGyD	RES	O
+🎁🕓زمان	RES	O
+قرعه	Ne	O
+کشی	V	O
+:	PUNC	O
+
+هفته	Ne	B-MISC
+اول	NUMe	I-MISC
+بهمن	N	I-MISC
+ماه	Ne	I-MISC
+۱۳۹۷	NUM	I-MISC
+
+
+
+جدول	Ne	O
+فروش	Ne	O
+هفتگی	AJe	O
+بریتانیا	N	B-LOC
+|	PUNC	O
+کام‌بک	N	O
+ستاره‌های	Ne	O
+فوتبال	N	O
+
+
+
+تریلر	Ne	O
+زمان	N	O
+عرضه	Ne	O
+Darksiders	RES	O
+۳	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+اولین	NUM	B-MISC
+بسته‌ی	Ne	O
+الحاقی	AJe	O
+بازی	Ne	O
+Assassin’s	RES	O
+Creed	RES	O
+Odyssey	RES	O
+به	RES	O
+زودی	N	O
+منتشر	AJ	O
+خواهد‌شد	V	O
+
+
+
+هایلایت	N	O
+:	PUNC	O
+
+نکاتی	N	O
+که	CONJ	O
+پیش	ADV	O
+از	P	O
+خرید	Ne	O
+بازی	Ne	O
+Just	RES	O
+Cause	RES	O
+۴	NUM	B-MISC
+باید	V	O
+بدانید	V	O
+
+
+
+💥⚡️چوک‌های	Ne	O
+Red	RES	O
+Dragon	RES	O
+استفاده	N	O
+شده	V	O
+در	P	O
+کارت	Ne	O
+MSI	RES	O
+Geforce	RES	O
+RTX	RES	O
+۲۰۸۰	NUM	B-MISC
+به	P	O
+دلیل	Ne	O
+طراحی	Ne	O
+خاص	AJ	O
+و	CONJ	O
+کیفیت	Ne	O
+ساخت	Ne	O
+بسیار	ADV	O
+بالا	AJ	O
+در	P	O
+مقایسه	N	O
+با	P	O
+چوک‌های	Ne	O
+معمولی	AJ	O
+۱۰٪	NUM	B-MISC
+بازدهی	Ne	O
+بیشتر	AJ	O
+دارد	V	O
+و	CONJ	O
+تا	P	O
+۳۰٪	NUM	B-MISC
+نیز	CONJ	O
+خنک‌تر	AJ	O
+عمل	N	O
+می‌کند	V	O
+.	PUNC	O
+
+این	DET	O
+امر	N	O
+در	P	O
+نهایت	N	O
+افزایش	Ne	O
+پایداری	N	O
+و	CONJ	O
+پتانسیل	Ne	O
+اورکلاک	N	O
+را	POSTP	O
+در	P	O
+پی	N	O
+دارد	V	O
+.	PUNC	O
+
+@msifarsi	N	O
+
+
+
+سازندگان	Ne	O
+Witcher	RES	O
+۳	NUM	B-MISC
+معتقدند	V	O
+که	CONJ	O
+استقبال	N	O
+از	P	O
+بازی‌ها	N	O
+ربطی	N	O
+به	P	O
+کشور	Ne	O
+سازنده‌ی	AJe	O
+آن‌ها	PRO	O
+ندارد	V	O
+
+
+
+تحلیل	Ne	O
+فنی	AJe	O
+۲۶#	NUM	B-MISC
+|	PUNC	O
+تحلیل	Ne	O
+فنی	AJ	O
+و	CONJ	O
+بررسی	Ne	O
+عملکرد	Ne	O
+بازی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+
+
+
+Anthem	RES	B-ORG
+در	P	O
+زمان	Ne	O
+عرضه	N	O
+از	P	O
+قابلیت	Ne	O
+کراس	N	O
+پلی	N	O
+پشتیبانی	N	O
+نخواهد‌کرد	V	O
+
+
+
+بایوور	N	B-ORG
+:	PUNC	O
+
+ماه	Ne	O
+آینده	AJ	O
+اخبار	Ne	O
+جدیدی	AJ	O
+از	P	O
+سری	Ne	O
+Dragon	RES	O
+Age	RES	O
+منتشر	AJ	O
+می‌شود	V	O
+
+
+
+تریلر	Ne	O
+اول	NUMe	B-MISC
+بازی	Ne	O
+DARK	RES	O
+REDEMPTION	RES	O
+:	PUNC	O
+
+THE	RES	O
+LOST	RES	O
+FRONT	RES	O
+ساخت	Ne	O
+استودیو	N	O
+TORENA	RES	O
+برای	Pe	O
+دیدن	Ne	O
+ویدیو	N	O
+با	P	O
+کیفیت	Ne	O
+بالاتر	AJ	O
+به	P	O
+لینک	Ne	O
+زیر	AJ	O
+مراجعه	N	O
+کنید	V	O
+:	PUNC	O
+
+https	RES	O
+:	PUNC	O
+
+//youtu	N	O
+.	PUNC	O
+
+be/ydYRpn۰۷۴۲۴	N	O
+
+
+
+تریلر	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+Anthem	RES	O
+در	P	O
+مراسم	Ne	O
+TGA	N	O
+۲۰۱۸	NUM	B-MISC
+نمایش	N	O
+داده‌می‌شود	V	O
+
+
+
+عناوین	Ne	O
+ماه	Ne	B-MISC
+دسامبر	N	I-MISC
+سرویس	Ne	O
+Xbox	RES	O
+Game	RES	O
+Pass	RES	O
+مشخص	AJ	O
+شدند	V	O
+
+
+
+استودیوی	Ne	O
+بلیزارد	N	B-ORG
+در	P	O
+حال	Ne	O
+کار	N	O
+برروی	Pe	O
+چندین	DET	O
+نسخه	N	O
+از	P	O
+سری	Ne	O
+Diablo	RES	O
+است	V	O
+
+
+
+مایکروسافت	N	B-ORG
+به	P	O
+تشریح	Ne	O
+اهداف	Ne	O
+خود	PRO	O
+از	P	O
+پروژه	Ne	O
+xCould	RES	O
+پرداخت	N	O
+
+
+
+تاریخ	Ne	O
+عرضه‌ی	Ne	O
+عنوان	Ne	O
+Firewatch	RES	O
+برای	Pe	O
+نینتندو	N	B-ORG
+سوئیچ	N	O
+مشخص	AJ	O
+شد	V	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+Mortal	RES	O
+Kombat	RES	O
+۱۱	NUM	B-MISC
+در	P	O
+مراسم	Ne	O
+TGA	N	O
+معرفی	N	O
+خواهد‌شد	V	O
+
+
+
+ویدئوی	Ne	O
+جدید	AJe	O
+مراسم	Ne	O
+TGA	N	O
+به	P	O
+بازی	Ne	O
+The	RES	O
+Last	RES	O
+of	RES	O
+Us	RES	O
+Part	RES	O
+۲	NUM	B-MISC
+اشاره	N	O
+دارد	V	O
+
+
+
+در	P	O
+حقیقت	N	O
+،	PUNC	O
+هنوز	ADV	O
+دقیقا	ADV	O
+معلوم	AJ	O
+نیست	V	O
+که	CONJ	O
+همکاری	Ne	O
+این	DET	O
+دو	NUM	B-MISC
+تیم	N	O
+به	P	O
+چه	DET	O
+دلیل	N	O
+و	CONJ	O
+برای	Pe	O
+ساخت	Ne	O
+چه	DET	O
+عنوانی	N	O
+خواهد‌بود	V	O
+.	PUNC	O
+
+احتمال	N	O
+می‌رود	V	O
+یک	NUM	B-MISC
+نسخه	N	O
+از	P	O
+بازی	Ne	O
+PubG	RES	O
+با	P	O
+حالت	Ne	O
+کاملا	ADV	O
+زامبی	AJ	O
+منتشر	AJ	O
+شود	V	O
+.	PUNC	O
+
+هیچ	DET	O
+چیزی	N	O
+هنوز	ADV	O
+مشخص	AJ	O
+نیست	V	O
+.	PUNC	O
+
+
+
+در	P	O
+حقیقت	N	O
+،	PUNC	O
+هنوز	ADV	O
+دقیقا	ADV	O
+معلوم	AJ	O
+نیست	V	O
+که	CONJ	O
+همکاری	Ne	O
+این	DET	O
+دو	NUM	B-MISC
+تیم	N	O
+به	P	O
+چه	DET	O
+دلیل	N	O
+و	CONJ	O
+برای	Pe	O
+ساخت	Ne	O
+چه	DET	O
+عنوانی	N	O
+خواهد‌بود	V	O
+.	PUNC	O
+
+احتمال	N	O
+می‌رود	V	O
+یک	NUM	B-MISC
+نسخه	N	O
+از	P	O
+بازی	Ne	O
+PubG	RES	O
+با	P	O
+حالت	Ne	O
+کاملا	ADV	O
+زامبی	AJ	O
+منتشر	AJ	O
+شود	V	O
+.	PUNC	O
+
+هیچ	DET	O
+چیزی	N	O
+هنوز	ADV	O
+مشخص	AJ	O
+نیست	V	O
+.	PUNC	O
+
+
+
+امروز	ADV	O
+تصاویر	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+مورد	Ne	O
+انتظار	Ne	O
+استودیو	N	O
+بایوویر	N	B-ORG
+منتشر	AJ	O
+شدند	V	O
+که	CONJ	O
+با	P	O
+بررسی	Ne	O
+آنان	PRO	O
+می‌توان	V	O
+متوجه	AJ	O
+شد	V	O
+که	CONJ	O
+گرافیک	N	O
+بازی	N	O
+نسبت	N	O
+به	P	O
+نمایشی	N	O
+که	CONJ	O
+در	P	O
+مراسم	Ne	O
+E۳	NUMe	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+دیدیم	V	O
+،	PUNC	O
+پیشرفت	N	O
+داشته‌است	V	O
+.	PUNC	O
+
+
+
+امروز	ADV	O
+تصاویر	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+مورد	Ne	O
+انتظار	Ne	O
+استودیو	N	O
+بایوویر	N	B-ORG
+منتشر	AJ	O
+شدند	V	O
+که	CONJ	O
+با	P	O
+بررسی	Ne	O
+آنان	PRO	O
+می‌توان	V	O
+متوجه	AJ	O
+شد	V	O
+که	CONJ	O
+گرافیک	N	O
+بازی	N	O
+نسبت	N	O
+به	P	O
+نمایشی	N	O
+که	CONJ	O
+در	P	O
+مراسم	Ne	O
+E۳	NUMe	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+دیدیم	V	O
+،	PUNC	O
+پیشرفت	N	O
+داشته‌است	V	O
+.	PUNC	O
+
+
+
+شرکت	Ne	B-ORG
+یوبی‌سافت	N	I-ORG
+در	P	O
+حال	Ne	O
+کار	N	O
+برروی	Pe	O
+چندین	DET	O
+پروژه‌ی	Ne	O
+معرفی	N	O
+نشده	V	O
+است	V	O
+
+
+
+انتشار	Ne	O
+ویدئویی	AJe	O
+جدید	AJ	O
+از	P	O
+گیم‌پلی	N	O
+نسخه‌ی	Ne	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+بازی	Ne	O
+Onimusha	RES	O
+Warlord	RES	O
+
+
+
+تریلر	N	O
+هنگام	Ne	O
+انتشار	Ne	O
+Just	RES	O
+Cause	RES	O
+۴	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+به	P	O
+نظر	N	O
+می‌رسد	V	O
+استودیوی	Ne	B-ORG
+مونترال	N	I-ORG
+برادران	Ne	I-ORG
+وارنر	N	I-ORG
+در	P	O
+حال	Ne	O
+توسعه	Ne	O
+Batman	RES	O
+:	PUNC	O
+
+Court	RES	O
+of	RES	O
+Owls	RES	O
+است	V	O
+
+
+
+نمایش	Ne	O
+گیم‌پلی	N	O
+بازی	Ne	O
+Ancestors	RES	O
+:	PUNC	O
+
+The	RES	O
+Humankind	RES	O
+Odyssey	RES	O
+در	P	O
+TGA	N	O
+۲۰۱۸	NUM	B-MISC
+
+
+
+بالاخره	ADV	O
+امروز	ADV	O
+عنوان	Ne	O
+Legacy	RES	O
+of	RES	O
+the	RES	O
+First	RES	O
+Blade	RES	O
+برای	Pe	O
+بازی	Ne	O
+Assassin’s	RES	O
+Creed	RES	O
+Odyssey	RES	O
+منتشر	AJ	O
+شد	V	O
+.	PUNC	O
+
+این	PRO	O
+اولین	NUM	O
+محتوای	Ne	O
+اضافه‌ای	AJ	O
+است	V	O
+که	CONJ	O
+برای	Pe	O
+دارندگان	Ne	O
+سیزن	N	O
+پس	P	O
+بازی	N	O
+در	P	O
+دسترس	N	O
+قرار	N	O
+گرفته‌است	V	O
+.	PUNC	O
+
+بر	P	O
+خلاف	Ne	O
+بسته‌ی	Ne	O
+الحاقی	AJe	O
+قبلی	AJ	O
+،	PUNC	O
+این	DET	O
+عنوان	N	O
+به	P	O
+قسمت‌های	Ne	O
+مختلفی	AJ	O
+تقسیم‌بندی	N	O
+شده‌است	V	O
+که	CONJ	O
+اولین	NUM	B-MISC
+قسمت	Ne	O
+آن	PRO	O
+با	P	O
+نام	Ne	O
+Hunted	RES	O
+شناخته‌می‌شود	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+Rage	RES	O
+۲	NUM	B-MISC
+در	P	O
+شب	Ne	O
+اول	NUMe	O
+مراسم	Ne	O
+TGA	N	O
+۲۰۱۸	NUM	B-MISC
+نمایش	N	O
+داده‌می‌شود	V	O
+
+
+
+اکنون	ADV	O
+بازی	Ne	O
+Rage	RES	O
+۲	NUM	B-MISC
+به	P	O
+یک	NUM	O
+عنوان	Ne	O
+برجسته	AJ	O
+تبدیل	N	O
+شده	V	O
+که	CONJ	O
+می‌دانیم	V	O
+در	P	O
+مراسم	Ne	O
+TGA	N	O
+۲۰۱۸	NUM	B-MISC
+نمایش	N	O
+خیره	AJe	O
+کننده‌ای	N	O
+خواهد‌داشت	V	O
+.	PUNC	O
+
+صفحه	Ne	O
+رسمی	AJe	O
+Rage	RES	O
+۲	NUM	B-PERS
+در	P	O
+توییتر	N	O
+،	PUNC	O
+تریلر	Ne	O
+جدیدی	AJ	O
+را	POSTP	O
+از	P	O
+این	DET	O
+بازی	N	O
+منتشر	AJ	O
+کرد	V	O
+که	CONJ	O
+در	P	O
+انتهای	Ne	O
+تریلر	N	O
+به	P	O
+بهترین	AJ	O
+بازی	Ne	O
+آخرالزمانی	AJe	O
+غرب	Ne	B-LOC
+وحشی	AJ	O
+اشاره	N	O
+شده‌است	V	O
+.	PUNC	O
+
+
+
+میازاکی	N	B-PERS
+از	P	O
+احتمال	Ne	O
+ساخت	Ne	O
+Bloodborne	RES	O
+۲	NUM	B-MISC
+می‌گوید	V	O
+
+
+
+بتسدا	N	B-ORG
+در	P	O
+پی	Ne	O
+جبران	Ne	O
+اشتباه	Ne	O
+کیف	Ne	O
+پلاستیکی	AJ	O
+
+
+
+معرفی	Ne	O
+شخصیت‌های	Ne	O
+جدید	AJ	O
+بازی	Ne	O
+Tekken	RES	O
+۷	NUM	B-MISC
+
+
+
+اولین	NUM	O
+تصویر	N	O
+از	P	O
+فصل	Ne	O
+هفتم	NUMe	B-MISC
+بازی	Ne	O
+Fortnite	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+فروشگاه	Ne	B-ORG
+اپیک	AJe	I-ORG
+گیمز	N	I-ORG
+معرفی	N	O
+شد	V	O
+|	PUNC	O
+چالشی	N	O
+جدید	AJ	O
+برای	Pe	O
+استیم	N	O
+
+
+
+تایید	N	O
+شد	V	O
+:	PUNC	O
+
+The	RES	O
+Last	RES	O
+Of	RES	O
+Us	RES	O
+Part	RES	O
+۲	NUM	B-MISC
+در	P	O
+مراسم	Ne	O
+TGA	N	O
+۲۰۱۸	NUM	B-MISC
+حضور	N	O
+نخواهد‌داشت	V	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+احتمال	Ne	O
+نمایش	Ne	O
+Dragon	RES	O
+Age	RES	O
+۴	NUM	B-MISC
+در	P	O
+TGA	N	O
+۲۰۱۸	NUM	B-MISC
+وجود	N	O
+دارد	V	O
+.	PUNC	O
+
+به	P	O
+این	DET	O
+زودی	N	O
+منتظر	AJe	O
+عرضه‌ی	Ne	O
+بازی	N	O
+نباشید	V	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+Anthem	RES	O
+در	P	O
+TGA	N	O
+۲۰۱۸	NUM	B-MISC
+به	P	O
+داستان	N	O
+و	CONJ	O
+شخصیت‌های	Ne	O
+بازی	N	O
+اختصاص	N	O
+خواهد‌داشت	V	O
+
+
+
+هایلایت	N	O
+:	PUNC	O
+
+نکاتی	N	O
+که	CONJ	O
+پیش	ADV	O
+از	P	O
+خرید	Ne	O
+بازی	Ne	O
+Mega	RES	O
+Man	RES	O
+۱۱	NUM	B-MISC
+باید	V	O
+بدانید	V	O
+
+
+
+تریلر	Ne	O
+جدیدی	AJ	O
+از	P	O
+گیم‌پلی	N	O
+Resident	RES	O
+Evil	RES	O
+۲	NUM	B-MISC
+Remake	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+سونی	Ne	B-ORG
+ویدئویی	AJ	O
+در	P	O
+رابطه	N	O
+با	P	O
+استودیوهای	Ne	O
+فرست‌پارتی	AJe	O
+خود	PRO	O
+و	CONJ	O
+کارکنان	Ne	O
+آن‌ها	PRO	O
+منتشر	AJ	O
+کرد	V	O
+
+
+
+ویدئوی	Ne	O
+جدیدی	AJ	O
+نسخه‌ی	Ne	O
+۳	NUM	B-MISC
+و	CONJ	O
+۴	NUM	B-MISC
+بازی	Ne	O
+Just	RES	O
+Cause	RES	O
+را	POSTP	O
+مقایسه	N	O
+می‌کند	V	O
+
+
+
+این	DET	O
+رویداد	N	O
+به‌گونه‌ای	AJ	O
+است	V	O
+که	CONJ	O
+با	P	O
+عرضه‌ی	Ne	O
+فصل	Ne	O
+هفتم	NUMe	B-MISC
+این	DET	O
+بازی	N	O
+همزمان	AJ	O
+شده‌است	V	O
+.	PUNC	O
+
+همان‌طور	N	O
+که	CONJ	O
+می‌دانید	V	O
+فصل	Ne	O
+هفتم	NUM	B-MISC
+عنوان	Ne	O
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۵۱۹۵۶۴	NUM	O
+
+
+
+هواپیمای	Ne	O
+جدیدی	AJ	O
+برای	Pe	O
+بازی	Ne	O
+Ace	RES	O
+Combat	RES	O
+۷	NUM	B-MISC
+:	PUNC	O
+
+Skies	RES	O
+Unknown	RES	O
+معرفی	N	O
+شد	V	O
+
+
+
+‌برای	N	O
+بردن	Ne	O
+یه	NUM	O
+کارت	Ne	O
+RTX	N	O
+۲۰۸۰	NUM	B-MISC
+آماده	AJe	O
+اید	N	O
+؟	PUNC	O
+
+گیگابایت	N	B-ORG
+یه	NUM	O
+مسابقه	Ne	O
+جهانی	AJ	O
+برای	Pe	O
+نشون	N	O
+دادن	Ne	O
+قدرت	N	O
+و	CONJ	O
+کیفیت	Ne	O
+مدار	Ne	O
+تغذیه	Ne	O
+مادربردهاش	N	O
+ترتیب	N	O
+داده	V	O
+که	CONJ	O
+ما	PRO	O
+هم	CONJ	O
+تصمیم	N	O
+گرفتیم	V	O
+کاربران	Ne	O
+ایرانی	AJ	O
+خودمون	PRO	O
+رو	POSTP	O
+از	P	O
+این	DET	O
+رویداد	N	O
+با	P	O
+خبر	N	O
+کنیم	V	O
+تا	CONJ	O
+شانس	N	O
+بردن	Ne	O
+رو	N	O
+داشته‌باشید	V	O
+.	PUNC	O
+
+این	PRO	O
+یه	NUM	O
+فرصت	Ne	O
+خوب	AJ	O
+برای	Pe	O
+کسایی	N	O
+که	CONJ	O
+مادربردشون	N	O
+گیگابایت	N	B-ORG
+هست	V	O
+برای	Pe	O
+شرکت	N	O
+در	P	O
+مسابقه	N	O
+به	P	O
+لینک	Ne	O
+زیر	AJ	O
+مراجعه	N	O
+کنید	V	O
+
+
+
+پوشش	Ne	O
+زنده	AJe	O
+مراسم	Ne	O
+The	RES	O
+Game	RES	O
+Awards	RES	O
+۲۰۱۸	NUM	B-MISC
+
+
+
+بازی	Ne	O
+Marvel	RES	B-ORG
+Ultimate	RES	O
+Alliance	RES	O
+۳	NUM	B-MISC
+رسما	ADV	O
+معرفی	N	O
+شد	V	O
+
+
+
+بهترین	AJ	O
+روایت	Ne	O
+داستان	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+
+
+
+اعلام	Ne	O
+God	RES	O
+of	RES	O
+War	RES	O
+به	P	O
+عنوان	Ne	O
+بازی	Ne	O
+سال	N	O
+و	CONJ	O
+جاودانه	AJ	O
+شدن	Ne	O
+این	DET	O
+شاهکار	N	O
+بی	P	O
+تکرار	N	O
+در	P	O
+دنیای	Ne	O
+بازی‌ها	N	O
+و	CONJ	O
+حک	N	O
+شدن	Ne	O
+نامش	N	O
+بر	P	O
+سردر	Ne	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+🆔@Gametal	RES	O
+#تریلر	N	O
+
+
+
+تریلر	N	O
+گیم‌پلی	N	O
+بازی	Ne	O
+RAGE	N	O
+۲	NUM	B-MISC
+تاریخ	Ne	O
+انتشار	Ne	O
+آن	PRO	O
+را	POSTP	O
+مشخص	AJ	O
+می‌کند	V	O
+
+
+
+دانلود	N	O
+مراسم	Ne	O
+The	RES	O
+Game	RES	O
+Awards	RES	O
+۲۰۱۸	NUM	B-MISC
+
+
+
+دانلود	N	O
+با	P	O
+کیفیت	Ne	O
+۱۰۸۰p	NUM	O
+|	PUNC	O
+حجم	N	O
+:	PUNC	O
+
+۴	NUM	B-MISC
+گیگ	N	O
+و	CONJ	O
+۷۷۰	NUM	B-MISC
+مگابایت	CL	O
+
+
+
+دانلود	N	O
+با	P	O
+کیفیت	Ne	O
+۳۶۰p	NUM	O
+|	PUNC	O
+حجم	N	O
+:	PUNC	O
+
+۹۵۰	NUM	B-MISC
+مگابایت	CL	O
+
+
+
+بیش	AJ	O
+از	P	O
+یک	NUM	B-MISC
+میلیون	NUM	I-MISC
+نفر	N	O
+بازی	Ne	O
+Warframe	RES	O
+را	POSTP	O
+برروی	Pe	O
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+تجربه	N	O
+کرده‌اند	V	O
+
+
+
+تریلر	N	O
+۱۵	NUM	B-MISC
+دقیقه‌ای	RES	I-MISC
+از	P	O
+گیم‌پلی	N	O
+بازی	Ne	O
+The	RES	O
+Outer	RES	O
+Worlds	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+ویدئویی	AJ	O
+از	P	O
+هواپیمای	Ne	O
+جدید	AJe	O
+بازی	Ne	O
+Ace	RES	O
+Combat	RES	O
+۷	NUM	B-MISC
+:	PUNC	O
+
+Skies	RES	O
+Unknown	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+تریلرهای	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+Resident	RES	O
+Evil	RES	O
+۲	NUM	B-MISC
+remake	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+اینستاگرام	N	B-ORG
+:	PUNC	O
+
+
+
+بازی	Ne	O
+Rage	RES	O
+۲	NUM	B-MISC
+برروی	Pe	O
+استیم	N	O
+منتشر	AJ	O
+نمی‌شود	V	O
+
+
+
+شرکت	N	B-ORG
+ولو	CONJ	I-ORG
+یک	NUM	B-MISC
+بازی‌باز	Ne	O
+حرفه‌ای	AJ	O
+را	POSTP	O
+از	P	O
+شرکت	N	O
+در	P	O
+مسابقات	Ne	O
+پیش	Pe	O
+رو	N	O
+محروم	AJ	O
+کرد	V	O
+
+
+
+اگرچه	CONJ	O
+بازی	Ne	O
+Borderlands	RES	O
+۳	NUM	B-MISC
+در	P	O
+جریان	Ne	O
+مراسم	Ne	O
+The	RES	O
+Game	RES	O
+Awards	RES	O
+۲۰۱۸	NUM	B-MISC
+رونمایی	N	O
+نشد	V	O
+.	PUNC	O
+
+مدتی	N	O
+پیش	ADV	O
+شاهد	Ne	O
+انتشار	Ne	O
+اطلاعاتی	N	O
+درباره	Pe	O
+کلاس‌های	Ne	O
+مختلف	AJe	O
+شخصیت‌های	Ne	O
+آن	PRO	O
+بودیم	V	O
+.	PUNC	O
+
+با	P	O
+این	DET	O
+حال	N	O
+،	PUNC	O
+به	P	O
+تازگی	Ne	O
+تصویر	Ne	O
+هنری	AJe	O
+جدیدی	AJ	O
+از	P	O
+شخصیت‌های	Ne	O
+این	DET	O
+بازی	N	O
+منتشر	AJ	O
+شده	V	O
+که	CONJ	O
+با	P	O
+کلاس‌های	Ne	O
+فاش	AJ	O
+شده‌ی	AJe	O
+آن	PRO	O
+نیز	CONJ	O
+مطابقت	N	O
+دارد	V	O
+.	PUNC	O
+
+
+
+این	DET	O
+نسخه‌ی	Ne	O
+رایگان	AJ	O
+که	CONJ	O
+با	P	O
+نام	Ne	O
+PES	N	O
+۲۰۱۹	NUM	B-MISC
+LITE	RES	O
+شناخته‌می‌شود	V	O
+،	PUNC	O
+ضمن	Pe	O
+اجازه	Ne	O
+دسترسی	Ne	O
+کامل	AJ	O
+به	P	O
+حالت	Ne	O
+myClub	RES	O
+،	PUNC	O
+به	P	O
+بازی‌بازان	N	O
+اجازه	N	O
+می‌دهد	V	O
+تا	CONJ	O
+به	P	O
+تعداد	Ne	O
+بسیار	ADV	O
+زیادی	AJ	O
+از	P	O
+فوتبالیست‌های	Ne	O
+حال	Ne	O
+حاضر	AJ	O
+جهان	N	O
+و	CONJ	O
+ستارگان	Ne	O
+پیشین	AJe	O
+این	DET	O
+ورزش	N	O
+نظیر	ADVe	O
+بکام	N	B-PERS
+و	CONJ	O
+مارادونا	N	B-PERS
+دسترسی	N	O
+داشته‌باشند	V	O
+.	PUNC	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+نسخه‌ی	Ne	O
+دوم	NUM	B-MISC
+سری	CL	O
+Ryse	RES	O
+در	P	O
+دست	Ne	O
+ساخت	N	O
+است	V	O
+
+
+
+ام‌اس‌آی	N	B-ORG
+برای	Pe	O
+علاقه‌مندان	Ne	O
+ماینینگ	N	O
+مادربرد	N	O
+B۳۶۰-F	N	O
+Pro	RES	O
+به	P	O
+شکل	Ne	O
+ویژه‌ای	AJ	O
+برای	Pe	O
+ماینینگ	N	O
+ساخته	V	O
+و	CONJ	O
+با	P	O
+قابلیت‌های	Ne	O
+اختصاصی	AJ	O
+و	CONJ	O
+ویژه	AJe	O
+ماینینگ	N	O
+تجهیز	N	O
+کرده‌است	V	O
+این	DET	O
+مادربرد	N	O
+از	P	O
+۱۸	NUM	B-MISC
+کارت	Ne	O
+پشتیبانی	N	O
+می‌کند	V	O
+و	CONJ	O
+هم	CONJ	O
+اکنون	ADV	O
+در	P	O
+بازار	Ne	O
+ایران	N	B-LOC
+با	P	O
+گارانتی	Ne	O
+گرین	N	O
+عرضه	N	O
+می‌شود	V	O
+.	PUNC	O
+
+💥💥💥💥	N	O
+@msifarsi	Ne	O
+@greenplanet	N	O
+
+
+
+نینتندو	N	B-ORG
+:	PUNC	O
+
+نمایشگاه	Ne	O
+E۳	N	O
+هنوز	ADV	O
+هم	CONJ	O
+برای	Pe	O
+ما	PRO	O
+اهمیت	N	O
+دارد	V	O
+
+
+
+اولین	NUM	O
+تصویر	N	O
+از	P	O
+شخصیت	Ne	O
+Shao	RES	O
+Kahn	RES	O
+بازی	Ne	O
+Mortal	RES	O
+Komabt	RES	O
+۱۱	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+به‌روزرسانی	Ne	O
+جدید	AJe	O
+Battlefield	RES	O
+۵	NUM	B-MISC
+برخی	DET	O
+از	P	O
+مشکلات	Ne	O
+بازی	N	O
+را	POSTP	O
+برطرف	AJ	O
+خواهد‌کرد	V	O
+
+
+
+ساخت	Ne	O
+بازی	Ne	O
+Project	RES	O
+CARS	RES	O
+۳	NUM	B-MISC
+رسما	ADV	O
+تایید	N	O
+شد	V	O
+
+
+
+سیزن	N	O
+پس	P	O
+سال	Ne	O
+چهارم	NUMe	B-MISC
+بازی	Ne	O
+Rainbow	RES	O
+Six	RES	O
+Siege	RES	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+کارگردان	N	O
+بازی	Ne	O
+Mortal	RES	O
+Kombat	RES	O
+۱۱	NUM	B-MISC
+به	P	O
+دریافت	Ne	O
+درجه‌ی	Ne	O
+سنی	AJe	O
+E	RES	O
+امیدوار	AJ	O
+است	V	O
+
+
+
+تاریخ	Ne	O
+انتشار	Ne	O
+دومین‌	NUM	B-MISC
+بسته	CONJ	O
+الحاقی	AJe	O
+بازی	Ne	O
+Shadow	RES	O
+of	RES	O
+the	RES	O
+Tomb	RES	O
+Raider	RES	O
+مشخص	AJ	O
+شد	V	O
+
+
+
+دومین	NUM	B-MISC
+سیزن‌‌پس	Ne	O
+بازی	Ne	O
+Rocket	N	O
+League	N	O
+هم‌اکنون	ADV	O
+در	P	O
+دسترس	N	O
+است	V	O
+
+
+
+همه	DETe	O
+خوبان	N	O
+جمعند	V	O
+!	PUNC	O
+
+|	PUNC	O
+برترین‌های	Ne	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+از	P	O
+دید	Ne	O
+تیم	Ne	O
+گیمفا	N	O
+
+
+
+تعداد	Ne	O
+بینندگان	Ne	O
+مراسم	Ne	O
+The	RES	O
+Game	RES	O
+Awards	RES	O
+دو	NUM	B-MISC
+برابر	Ne	O
+سال	Ne	O
+پیش	ADV	O
+بوده‌است	V	O
+
+
+
+بازی	Ne	O
+Detroit	RES	O
+:	PUNC	O
+
+Become	RES	O
+Human	RES	O
+تاکنون	ADV	O
+بیش	AJ	O
+از	P	O
+۲	NUM	B-MISC
+میلیون	NUM	I-MISC
+نسخه	N	O
+فروخته‌است	V	O
+
+
+
+نیمی	NUM	O
+از	P	O
+دارندگان	Ne	O
+نینتندو	N	B-ORG
+سوئیچ	N	O
+،	PUNC	O
+بازی	Ne	O
+Legend	RES	O
+of	RES	O
+Zelda	RES	O
+:	PUNC	O
+
+Breath	RES	O
+of	RES	O
+the	RES	O
+Wild	RES	O
+را	POSTP	O
+خریداری	N	O
+کرده‌اند	V	O
+
+
+
+جزئیات	Ne	O
+بهینه‌ساز	AJ	O
+جدید	AJ	O
+بازی	Ne	O
+Destiny	RES	O
+۲	NUM	B-MISC
+اعلام	N	O
+شد	V	O
+
+
+
+بازی	Ne	O
+The	RES	O
+Ace	RES	O
+Combat	RES	O
+۷	NUM	B-MISC
+:	PUNC	O
+
+Skies	RES	O
+Unknown	RES	O
+به	P	O
+۵۰	NUM	B-MISC
+ساعت	Ne	I-MISC
+زمان	N	O
+برای	Pe	O
+اتمام	Ne	O
+نیاز	N	O
+دارد	V	O
+
+
+
+فروش	Ne	O
+۱۲۰	NUM	B-MISC
+هزار	NUM	I-MISC
+دستگاه	N	O
+از	P	O
+کنسول	Ne	O
+پلی‌استیشن	Ne	O
+کلاسیک	AJ	O
+در	P	O
+هفته‌ی	Ne	O
+اول	NUM	O
+انتشار	N	O
+در	P	O
+ژاپن	N	B-LOC
+
+
+
+دانلود	N	O
+مراسم	Ne	O
+The	RES	O
+Game	RES	O
+Awards	RES	O
+۲۰۱۸	NUM	B-MISC
+|	PUNC	O
+زیرنویس	Ne	O
+فارسی	N	O
+قرار	N	O
+گرفت	V	O
+
+
+
+۶۰$	NUM	B-MISC
+۶۳۰	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان❌	RES	O
+۵۰$	NUM	B-MISC
+۵۲۵	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	CL	O
+❌	PUNC	O
+۱۰$	NUM	B-MISC
+۱۰۵	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	CL	O
+❌	PUNC	O
+۲۰$	NUM	B-MISC
+۲۱۰	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	CL	O
+۲۵$	NUM	B-MISC
+۲۶۲	NUM	O
+.	PUNC	O
+
+۵۰۰	NUM	O
+تومان	N	O
+
+
+
+همه	DETe	O
+خوبان	N	O
+جمعند	V	O
+!	PUNC	O
+
+|	PUNC	O
+برترین‌های	Ne	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+از	P	O
+دید	Ne	O
+تیم	Ne	O
+گیمفا	N	O
+
+
+
+نقد	Ne	O
+فصل	Ne	O
+اول	NUMe	B-MISC
+سریال	Ne	O
+Altered	RES	O
+Carbon	RES	O
+
+
+
+دانلود	N	O
+۴	NUM	B-MISC
+پلیر	Ne	O
+قدرتمند	AJ	O
+برای	Pe	O
+اجرا	N	O
+فیلم	N	O
+و	CONJ	O
+سریال	N	O
+با	P	O
+زیرنویس	Ne	O
+فارسی	N	O
+
+
+
+🤓سفر	N	O
+به	P	O
+خط	Ne	O
+تولید	Ne	O
+ام	N	B-ORG
+اس	N	I-ORG
+آی	N	I-ORG
+و	CONJ	O
+مشاهده	Ne	O
+چگونگی	Ne	O
+ساخت	Ne	O
+کارتهای	Ne	O
+گرافیک	Ne	O
+MSI	RES	B-ORG
+Geforce	RES	O
+RTX	RES	O
+@msifarsi	RES	O
+
+
+
+عضو	Ne	O
+سابق	AJe	O
+تیم	Ne	O
+توسعه‌دهنده‌ی	AJe	O
+Silent	RES	O
+Hill	RES	O
+به	P	O
+کوجیما	N	B-ORG
+پروداکشنز	N	I-ORG
+پیوست	V	O
+
+
+
+آقای	Ne	O
+تاباتا	N	B-PERS
+اطلاعات	Ne	O
+جدیدی	AJ	O
+از	P	O
+وضعیت	Ne	O
+استودیوی	Ne	O
+جدید	AJe	O
+خود	PRO	O
+را	POSTP	O
+منتشر	AJ	O
+کرد	V	O
+
+
+
+گیمفا	N	B-ORG
+:	PUNC	O
+
+My	RES	O
+PS۴	RES	O
+Life	RES	O
+کار	N	O
+دست	Ne	O
+سونی	N	B-ORG
+داد	V	O
+|	PUNC	O
+افشای	Ne	O
+اطلاعاتی	AJ	O
+از	P	O
+تعداد	Ne	O
+کاربران	Ne	O
+بازی‌های	Ne	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+
+
+
+نینتندو	N	B-ORG
+سوییچ	Ne	O
+سریع‌ترین	AJ	O
+فروش	N	O
+را	POSTP	O
+از	P	O
+میان	Ne	O
+کنسول‌های	Ne	O
+نسل	Ne	O
+هشتم	NUM	B-MISC
+در	P	O
+آمریکا	N	B-LOC
+داشته‌است	V	O
+
+
+
+✅	N	O
+با	P	O
+بیش	AJ	O
+از	P	O
+سه	NUM	B-MISC
+سال	N	I-MISC
+سابقه	Ne	O
+کاری	N	O
+
+
+
+تریلر	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+💚	N	O
+به	P	O
+ازای	Ne	O
+هر	DET	O
+خرید	N	O
+یک	NUM	B-MISC
+نقشه	Ne	O
+رایگان	AJ	O
+از	P	O
+بازی	Ne	O
+مورد	Ne	O
+علاقه‌تون	N	O
+هم	CONJ	O
+دریافت	N	O
+می‌کنید	V	O
+💚	N	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+بازی	Ne	O
+Devil	RES	O
+May	RES	O
+Cry	RES	O
+۵	NUM	B-MISC
+قابلیت‌های	Ne	O
+شخصیت	Ne	O
+V	RES	O
+را	POSTP	O
+نشان	N	O
+می‌دهد	V	O
+
+
+
+اکانت	N	O
+FIFA	RES	O
+۱۹	NUM	B-MISC
+فقط	ADV	O
+۲۹۹۰۰	NUM	B-MISC
+تومان	CL	I-MISC
+😍😍	N	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+تاریخ	Ne	O
+انتشار	Ne	O
+بازی	Ne	O
+The	RES	O
+Last	RES	O
+of	RES	O
+Us	RES	O
+۲	NUM	B-MISC
+توسط	Pe	O
+فروشگاه	Ne	B-ORG
+آمازون	N	I-ORG
+اعلام	N	O
+شد	V	O
+
+
+
+ویدئویی	AJ	O
+از	P	O
+نسخه‌ی	Ne	O
+رایانه‌های	Ne	O
+شخصی	AJ	O
+بازی	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+فاش	AJ	O
+شد	V	O
+
+
+
+🍉	RES	O
+#جشنواره_یلدای_توفان	RES	O
+🍉	RES	O
+#دیسک_آکبند	RES	O
+‌‎📀	RES	O
+FIFA	RES	O
+۱۹	NUM	B-MISC
+فقط	ADV	O
+۳۹۹	NUM	B-MISC
+هزار	NUM	I-MISC
+تومان	CL	I-MISC
+‌‎	N	O
+‎✅	N	O
+ریجن	N	O
+:	PUNC	O
+
+ALL	RES	O
+جهت	Pe	O
+خرید👇	Ne	O
+http	RES	O
+:	PUNC	O
+
+//bit	V	O
+.	PUNC	O
+
+ly/۲rLRoBj	N	O
+برای	Pe	O
+مشاهده	Ne	O
+تخفیفا	N	O
+ت	N	O
+بیشتر	AJ	O
+عضو	Ne	O
+کانالمون	N	O
+شوید	V	O
+👇	N	O
+👤	N	O
+@ToofunClub	RES	O
+
+
+
+به‌روزرسانی	Ne	O
+۱	NUM	O
+.	PUNC	O
+
+۱۰	NUM	B-MISC
+بازی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+پرفروش‌ترین	AJ	O
+بازی‌های	Ne	O
+ماه	Ne	B-MISC
+نوامبر	N	I-MISC
+کنسول	Ne	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+اعلام	N	O
+شد	V	O
+|	PUNC	O
+سلطنت	Ne	O
+وسترن‌ها	N	O
+
+
+
+به‌روزرسانی	Ne	O
+۱٫۰۷	NUM	O
+بازی	Ne	O
+FIFA	RES	O
+۱۹	NUM	B-MISC
+با	P	O
+محوریت	Ne	O
+قسمت	Ne	O
+آنلاین	N	O
+این	DET	O
+عنوان	N	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+این	DET	O
+سفینه‌ی	Ne	O
+فضایی	AJ	O
+در	P	O
+آخرین	NUM	O
+ماموریت	Ne	O
+خود	PRO	O
+به	P	O
+فاصله‌ی	Ne	O
+بسیار	ADV	O
+نزدیکی	AJ	O
+به	P	O
+خورشید	N	O
+رسید	V	O
+،	PUNC	O
+این	DET	O
+فاصله	N	O
+طبق	Ne	O
+اندازه‌گیری‌ها	N	O
+معادل	AJe	O
+۱۵	NUM	B-MISC
+میلیون	NUM	I-MISC
+مایل	N	O
+می‌باشد	V	O
+،	PUNC	O
+اگر	CONJ	O
+درک	Ne	O
+درستی	AJ	O
+از	P	O
+این	DET	O
+فاصله	N	O
+ندارید	V	O
+بگذارید	V	O
+به	P	O
+شما	PRO	O
+بگوییم	V	O
+که	CONJ	O
+این	DET	O
+فاصله	N	O
+حتی	ADV	O
+از	P	O
+فاصله‌ی	Ne	O
+سیاره‌ی	Ne	O
+عطارد	N	B-LOC
+با	P	O
+خورشید	N	O
+نیز	CONJ	O
+کمتر	AJ	O
+است	V	O
+.	PUNC	O
+
+این	DET	O
+سفینه‌ی	Ne	O
+فضایی	AJ	O
+در	P	O
+حال	Ne	O
+حاضر	AJ	O
+در	P	O
+فضا	N	O
+با	P	O
+سرعتی	N	O
+معادل	AJe	O
+۲۱۳	NUM	B-MISC
+،	PUNC	O
+۲۰۰	NUM	B-MISC
+مایل	N	O
+بر	P	O
+ساعت	N	O
+در	P	O
+حال	Ne	O
+حرکت	N	O
+است	V	O
+
+
+
+این	DET	O
+سفینه‌ی	Ne	O
+فضایی	AJ	O
+در	P	O
+آخرین	NUM	O
+ماموریت	Ne	O
+خود	PRO	O
+به	P	O
+فاصله‌ی	Ne	O
+بسیار	ADV	O
+نزدیکی	AJ	O
+به	P	O
+خورشید	N	O
+رسید	V	O
+،	PUNC	O
+این	DET	O
+فاصله	N	O
+طبق	Ne	O
+اندازه‌گیری‌ها	N	O
+معادل	AJe	O
+۱۵	NUM	B-MISC
+میلیون	NUM	I-MISC
+مایل	N	O
+می‌باشد	V	O
+،	PUNC	O
+اگر	CONJ	O
+درک	Ne	O
+درستی	AJ	O
+از	P	O
+این	DET	O
+فاصله	N	O
+ندارید	V	O
+بگذارید	V	O
+به	P	O
+شما	PRO	O
+بگوییم	V	O
+که	CONJ	O
+این	DET	O
+فاصله	N	O
+حتی	ADV	O
+از	P	O
+فاصله‌ی	Ne	O
+سیاره‌ی	Ne	O
+عطارد	N	B-LOC
+با	P	O
+خورشید	N	B-LOC
+نیز	CONJ	O
+کمتر	AJ	O
+است	V	O
+.	PUNC	O
+
+این	DET	O
+سفینه‌ی	Ne	O
+فضایی	AJ	O
+در	P	O
+حال	Ne	O
+حاضر	AJ	O
+در	P	O
+فضا	N	O
+با	P	O
+سرعتی	N	O
+معادل	AJe	O
+۲۱۳	NUM	B-MISC
+،	PUNC	O
+۲۰۰	NUM	B-MISC
+مایل	N	O
+بر	P	O
+ساعت	N	O
+در	P	O
+حال	Ne	O
+حرکت	N	O
+است	V	O
+
+
+
+لباس	Ne	O
+مرد	Ne	O
+عنکبوتی	AJ	O
+از	P	O
+فیلم‌های	Ne	O
+سم	Ne	B-PERS
+ریمی	N	I-PERS
+به	P	O
+بازی	Ne	O
+Spider-Man	RES	O
+اضافه	AJ	O
+شد	V	O
+
+
+
+۶۰$	NUM	B-MISC
+۵۴۰	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان❌	RES	O
+۵۰$	NUM	B-MISC
+۴۵۰	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	CL	O
+۱۰$	NUM	B-MISC
+۹۸	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	CL	O
+❌	PUNC	O
+۲۰$	NUM	B-MISC
+۱۹۶	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	CL	O
+۲۵$	NUM	B-MISC
+۲۴۵	NUM	O
+.	PUNC	O
+
+۰۰۰	NUM	O
+تومان	N	O
+
+
+
+احتمالا	ADV	O
+بازی	Ne	O
+Titanfall	RES	O
+۳	NUM	B-MISC
+در	P	O
+دست	Ne	O
+ساخت	N	O
+است	V	O
+
+
+
+تریلر	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+DiRT	RES	O
+Rally	RES	O
+۲	NUM	B-MISC
+.	PUNC	O
+
+۰	NUM	O
+منتشر	AJ	O
+شد	V	O
+
+
+
+تریلر	Ne	O
+جدیدی	AJ	O
+از	P	O
+گیم‌پلی	N	O
+بخش	Ne	O
+داستانی	AJe	O
+بازی	Ne	O
+Crackdown	RES	O
+۳	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+بازی	Ne	O
+The	RES	O
+Wolf	RES	O
+Among	RES	O
+Us	RES	O
+۲	NUM	B-MISC
+قرار	N	O
+بود	V	O
+با	P	O
+بودجه‌ی	Ne	O
+بسیار	ADV	O
+محدودی	AJ	O
+ساخته‌شود	V	O
+
+
+
+ضبط	Ne	O
+یکی	NUM	O
+از	P	O
+غم‌انگیزترین	AJ	O
+صحنه‌های	Ne	O
+The	RES	O
+Last	RES	O
+of	RES	O
+Us	RES	O
+part	RES	O
+۲	NUM	B-MISC
+به	P	O
+پایان	N	O
+رسیده‌است	V	O
+
+
+
+✅✅برای	Ne	O
+احتساب	Ne	O
+قیمت	Ne	O
+کد	N	O
+،	PUNC	O
+قیمت	Ne	O
+آن	PRO	O
+با	P	O
+گلد	N	O
+را	POSTP	O
+در	P	O
+۹۵۰۰	NUM	B-MISC
+ضرب	N	O
+کنید	V	O
+
+
+
+سلاخی	N	O
+|	PUNC	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+بازی	Ne	O
+Warhammer	RES	O
+Vermintide	RES	O
+۲	NUM	B-MISC
+
+
+
+بازخورد	Ne	O
+بسیار	ADV	O
+مثبت	AJe	O
+بازی‌بازان	N	O
+نسبت	N	O
+به	P	O
+نسخه	Ne	O
+آلفای	Ne	O
+فنی	AJe	O
+The	RES	O
+Division	RES	O
+۲	NUM	B-MISC
+
+
+
+پربازدیدترین	AJ	O
+تریلرهای	Ne	O
+بازی	Ne	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+مشخص	AJ	O
+شدند	V	O
+
+
+
+به‌روزرسانی	Ne	O
+۱٫۰۵	NUM	O
+بازی	Ne	O
+Darksiders	RES	O
+۳	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+برید	V	O
+حالشو	N	O
+ببرید	V	O
+با	P	O
+این	DET	O
+ویدیو	N	O
+😱😍	N	O
+بازی	Ne	O
+Euro	RES	O
+Truck	RES	O
+Simulator	RES	O
+۲	NUM	B-PERS
+فقط	ADV	O
+داشبورت	N	O
+۲۰۶	NUM	O
+رو	POSTP	O
+عشقه	RES	O
+☺️	RES	O
+افزونه‌های	RES	O
+بازی	N	O
+در	P	O
+سایت	Ne	O
+برترگیم	N	O
+لینک	Ne	O
+زیر	AJ	O
+:	PUNC	O
+
+http	RES	O
+:	PUNC	O
+
+//bit	V	O
+.	PUNC	O
+
+ly/۲BxXsSo	N	O
+دیدن	Ne	O
+کلیپ‌های	Ne	O
+باحال	AJ	O
+گیمیگ	N	O
+در	P	O
+کانال	Ne	O
+زیر	Pe	O
+👇	N	O
+https	RES	O
+:	PUNC	O
+
+//t	RES	O
+.	PUNC	O
+
+me/joinchat/AAAAAEtjAEPIsp۶b-eMEOQ	N	O
+
+
+
+بر	P	O
+اساس	Ne	O
+گفته‌های	Ne	O
+اپل	N	B-ORG
+،	PUNC	O
+آیپدهای	Ne	O
+خم	AJ	O
+شده	V	O
+هم	CONJ	O
+با	P	O
+استانداردهای	Ne	O
+شرکت	N	O
+همخوانی	N	O
+دارند	V	O
+
+
+
+همین	DET	O
+چند	DET	O
+روز	Ne	O
+پیش	ADV	O
+بود	V	O
+که	CONJ	O
+متوجه	AJ	O
+شدیم	V	O
+بعضی	DET	O
+از	P	O
+آیپد	N	O
+پروهای	Ne	O
+۲۰۱۸	NUM	B-MISC
+اپل	N	O
+با	P	O
+یک	NUM	O
+خمیدگی	Ne	O
+کوچک	AJ	O
+در	P	O
+بدنه	Ne	O
+آلومینیومی	AJ	O
+عرضه	Ne	O
+شده‌‌اند	V	O
+.	PUNC	O
+
+اپل	N	B-ORG
+به	P	O
+سرعت	Ne	O
+این	DET	O
+حقیقت	N	O
+را	POSTP	O
+تصدیق	N	O
+کرد	V	O
+و	CONJ	O
+اعلام	N	O
+کرد	V	O
+که	CONJ	O
+این	DET	O
+خمیدگی	N	O
+یکی	NUM	O
+از	P	O
+عوارض	Ne	O
+جانبی	AJe	O
+فرایند	Ne	O
+ساخت	Ne	O
+این	DET	O
+دستگاه‌ها	N	O
+می‌باشد	V	O
+و	CONJ	O
+در	P	O
+طول	Ne	O
+زمان	N	O
+بدتر	AJ	O
+نخواهد‌شد	V	O
+.	PUNC	O
+
+همچنین	CONJ	O
+این	DET	O
+خمیدگی	N	O
+مشکلی	N	O
+برای	Pe	O
+کارایی	Ne	O
+دستگاه	N	O
+ایجاد	N	O
+نخواهد‌کرد	V	O
+.	PUNC	O
+
+https	RES	O
+:	PUNC	O
+
+//tech	RES	O
+.	PUNC	O
+
+gamefa	RES	O
+.	PUNC	O
+
+com/۸۶۶۳۳	NUM	O
+🆔@techfarscom	N	O
+
+
+
+تنها	ADV	O
+فروشگاه	Ne	O
+گارانتی	Ne	O
+کننده	AJe	O
+گیفت	N	O
+کارت	N	O
+در	P	O
+ایران✅	N	B-LOC
+
+
+
+بازی‌های	Ne	O
+رایگان	AJe	O
+سرویس	Ne	O
+گلد	N	O
+اکس	N	O
+باکس	Ne	O
+در	P	O
+ماه	Ne	B-MISC
+ژانویه	N	I-MISC
+اعلام	N	O
+شد	V	O
+
+
+
+در	P	O
+صبح	Ne	O
+روز	Ne	O
+یکشنبه	N	B-MISC
+پیش	Pe	O
+رو	N	O
+،	PUNC	O
+شرکت	Ne	B-ORG
+هوا	N	I-ORG
+فضایی	AJ	I-ORG
+SpaceX	N	I-ORG
+تلاش	N	O
+خواهد‌کرد	V	O
+ماهواره	Ne	O
+جدید	AJe	O
+موقعیت	Ne	O
+یاب	AJe	O
+خود	PRO	O
+را	POSTP	O
+به	P	O
+منظور	Ne	O
+کمک	N	O
+به	P	O
+نیروی	Ne	B-ORG
+هوایی	AJe	I-ORG
+ایالات	Ne	I-ORG
+متحده	AJ	I-ORG
+از	P	O
+سایت	Ne	O
+پرواز	Ne	O
+ایالت	Ne	B-LOC
+فلوریدا	N	I-LOC
+به	P	O
+آسمان	N	O
+پرتاب	N	O
+کند	V	O
+.	PUNC	O
+
+همانطور	N	O
+که	CONJ	O
+در	P	O
+تیتر	Ne	O
+این	DET	O
+خبر	N	O
+نیز	CONJ	O
+ذکر	N	O
+شد	V	O
+،	PUNC	O
+فرستادن	Ne	O
+Falcone	RES	O
+۹	NUM	B-MISC
+،	PUNC	O
+آخرین	NUM	O
+ماموریت	Ne	O
+این	DET	O
+شرکت	N	O
+در	P	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+میلادی	AJ	I-MISC
+خواهد‌بود	V	O
+.	PUNC	O
+
+در	P	O
+صورتی	N	O
+که	CONJ	O
+این	DET	O
+ماموریت	N	O
+در	P	O
+طی	Ne	O
+هفته‌ی	Ne	O
+آینده	N	O
+با	P	O
+موفقیت	N	O
+به	P	O
+پایان	N	O
+برسد	V	O
+.	PUNC	O
+
+شرکت	Ne	O
+Space	RES	O
+X	RES	O
+در	P	O
+این	DET	O
+سال	N	O
+با	P	O
+رقم	Ne	O
+خیره‌	AJ	O
+کننده‌ی	Ne	O
+۲۱	NUM	B-MISC
+پرتاب	Ne	O
+ماهواره‌ی	Ne	O
+موفقیت	Ne	O
+آمیز	N	O
+پرونده‌ی	Ne	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+را	POSTP	O
+خواهد‌بست	V	O
+و	CONJ	O
+رکورد	Ne	O
+جدیدی	AJ	O
+را	POSTP	O
+به	P	O
+ثبت	N	O
+خواهد‌رساند	V	O
+.	PUNC	O
+
+جالب	AJ	O
+است	V	O
+بدانید	V	O
+که	CONJ	O
+این	DET	O
+شرکت	N	O
+در	P	O
+سال	Ne	O
+گذشته	ADV	O
+نیز	CONJ	O
+رکورد	Ne	O
+خیره	AJe	O
+کننده‌ای	AJ	O
+داشت	V	O
+،	PUNC	O
+به	P	O
+طوری	N	O
+که	CONJ	O
+آن‌ها	PRO	O
+در	P	O
+سال	Ne	B-MISC
+۲۰۱۷	NUM	I-MISC
+موفق	AJ	O
+به	P	O
+انجام	Ne	O
+۱۸	NUM	B-MISC
+ماموریت	Ne	O
+فضایی	AJ	O
+شدند	V	O
+.	PUNC	O
+
+https	RES	O
+:	PUNC	O
+
+//tech	RES	O
+.	PUNC	O
+
+gamefa	RES	O
+.	PUNC	O
+
+com/۸۶۷۵۵	NUM	O
+🆔@techfarscom	N	O
+
+
+
+در	P	O
+نظرسنجی	Ne	O
+بزرگ	AJe	O
+تکفارس	N	O
+شرکت	N	O
+کنید	V	O
+|	PUNC	O
+بهترین	AJ	O
+گوشی‌های	Ne	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+
+
+
+مسال	N	O
+سال	Ne	O
+مهمی	AJ	O
+برای	Pe	O
+شرکت‌های	Ne	O
+سازنده	AJe	O
+موبایل	N	O
+به	P	O
+حساب	N	O
+می‌آمد	V	O
+زیرا	CONJ	O
+گوشی‌های	Ne	O
+زیادی	AJ	O
+برای	Pe	O
+رقابت	N	O
+با	P	O
+یکدیگر	PRO	O
+وارد	Pe	O
+بازار	N	O
+شدند	V	O
+و	CONJ	O
+همچنین	CONJ	O
+کمپانی‌های	Ne	O
+بزرگ	AJ	O
+و	CONJ	O
+مطرح	AJ	O
+اپل	N	B-ORG
+،	PUNC	O
+سامسونگ	N	B-ORG
+و	CONJ	O
+هواوی	N	B-ORG
+،	PUNC	O
+همانند	ADVe	O
+سال	Ne	O
+گذشته	ADV	O
+با	P	O
+یکدیگر	PRO	O
+رقابت	Ne	O
+شدید	AJ	O
+و	CONJ	O
+تنگاتنگی	AJ	O
+داشتند	V	O
+.	PUNC	O
+
+در	P	O
+این	DET	O
+بین	N	O
+برندهایی	N	O
+نظیر	ADVe	O
+شیائومی	N	B-ORG
+هم	CONJ	O
+برای	Pe	O
+رقابت	N	O
+با	P	O
+این	DET	O
+شرکت‌ها	N	O
+وارد	Pe	O
+میدان	N	O
+شدند	V	O
+و	CONJ	O
+توانستند	V	O
+بزرگان	Ne	O
+این	DET	O
+عرصه	N	O
+را	POSTP	O
+کنار	ADV	O
+بزنند	V	O
+.	PUNC	O
+
+امسال	ADV	O
+نماینده‌هایی	N	O
+از	P	O
+برندهای	Ne	O
+مختلف	AJ	O
+در	P	O
+لیست	Ne	O
+گوشی‌های	Ne	O
+هوشمند	AJe	O
+برتر	AJ	O
+وجود	N	O
+داشتند	V	O
+.	PUNC	O
+
+از	P	O
+جمله	CL	O
+مواردی	N	O
+که	CONJ	O
+از	P	O
+حضور	Ne	O
+آنها	PRO	O
+اطمینان	N	O
+داشتیم	V	O
+،	PUNC	O
+https	RES	O
+:	PUNC	O
+
+//tech	RES	O
+.	PUNC	O
+
+gamefa	RES	O
+.	PUNC	O
+
+com/۸۶۵۳۱	NUM	O
+🆔@techfarscom	N	O
+
+
+
+بر	P	O
+خلاف	Ne	O
+نام	Ne	O
+بازی	N	O
+که	CONJ	O
+به	P	O
+جنگ	N	O
+اشاره	N	O
+داره	V	O
+،	PUNC	O
+قرار	N	O
+نیست	V	O
+اسلحه	N	O
+به	P	O
+دست	N	O
+بگیرید	V	O
+و	CONJ	O
+دشمن	N	O
+رو	POSTP	O
+بکشید	V	O
+.	PUNC	O
+
+در	P	O
+این	DET	O
+بازی	N	O
+باید	V	O
+زنده	AJ	O
+بمونید	V	O
+.	PUNC	O
+
+در	P	O
+قالب	Ne	O
+یک	NUM	B-MISC
+فرد	Ne	O
+عادی	AJ	O
+که	CONJ	O
+از	P	O
+تکنیک‌های	Ne	O
+جنگی	AJ	O
+هیچ	DET	O
+اطلاعی	N	O
+نداره	V	O
+.	PUNC	O
+
+با	P	O
+تصمیم‌های	Ne	O
+کلیدی	AJ	O
+و	CONJ	O
+حساس	AJ	O
+و	CONJ	O
+گاه	ADV	O
+بسیار	ADV	O
+سخت	AJ	O
+که	CONJ	O
+در	P	O
+طول	Ne	O
+مسیر	N	O
+باید	V	O
+بگیرید	V	O
+،	PUNC	O
+ابعاد	Ne	O
+پنهان	AJe	O
+جنگ	N	O
+برای	Pe	O
+شما	PRO	O
+آشکار	AJ	O
+می‌شود	V	O
+.	PUNC	O
+
+گرافیک	Ne	O
+تیره	AJ	O
+و	CONJ	O
+تار	AJ	O
+بازی	N	O
+حس	Ne	O
+وحشت	N	O
+و	CONJ	O
+ترس	N	O
+از	P	O
+مرگ	N	O
+را	POSTP	O
+به	P	O
+گیمر	N	O
+القا	N	O
+می‌کنه	V	O
+.	PUNC	O
+
+قابلیت	Ne	O
+ارتقاء	Ne	O
+ابزار	N	O
+و	CONJ	O
+تولید	Ne	O
+ابزارهای	Ne	O
+جدید	AJ	O
+برای	Pe	O
+ساخت	Ne	O
+سلاح	N	O
+،	PUNC	O
+اجاق‌‌گاز	N	O
+یا	CONJ	O
+حتی	ADV	O
+وسیله‌ای	N	O
+برای	Pe	O
+جمع‌آوری	Ne	O
+قطرات	Ne	O
+آب	N	O
+،	PUNC	O
+باعث	AJ	O
+شده	V	O
+گیم	Ne	O
+پلی	N	O
+بازی	N	O
+از	P	O
+تنوع	Ne	O
+بالایی	AJ	O
+برخوردار	AJ	O
+باشه	V	O
+.	PUNC	O
+
+
+
+قیمت	Ne	O
+سرویس	Ne	O
+سیبمو	N	O
+حتی	ADV	O
+کمتر	AJ	O
+از	P	O
+نصف	NUMe	O
+سرویس	Ne	O
+دهنده‌های	Ne	O
+دیگه	PRO	O
+هستش	V	O
+!	PUNC	O
+
+اشتراک	Ne	O
+یک	NUM	B-MISC
+ماهه	N	I-MISC
+فقط	ADV	O
+۷	NUM	B-MISC
+هزار	NUM	I-MISC
+تومن	N	I-MISC
+و	CONJ	O
+دو	NUM	B-MISC
+ماهه	Ne	I-MISC
+۱۳	NUM	B-MISC
+هزار	NUM	I-MISC
+تومان	N	I-MISC
+و	CONJ	O
+سه	NUM	B-MISC
+ماهه	Ne	I-MISC
+۱۹	NUM	B-MISC
+!	PUNC	O
+
+
+
+اگر	CONJ	O
+فکر	N	O
+می‌کنید	V	O
+دوربین‌های	Ne	O
+دیجیتال	AJ	O
+و	CONJ	O
+زنگ‌های	Ne	O
+دربی	N	O
+که	CONJ	O
+به	P	O
+اینترنت	N	O
+متصل	AJ	O
+شده‌اند	V	O
+جزو	Ne	O
+هزینه‌های	Ne	O
+اضافی	AJ	O
+هستند	V	O
+،	PUNC	O
+فقط	ADV	O
+منتظر	AJ	O
+بمانید	V	O
+تا	CONJ	O
+ببینید	V	O
+افراد	Ne	O
+ثروتمند	AJe	O
+خانه‌های	Ne	O
+خود	PRO	O
+را	POSTP	O
+به	P	O
+چه	DET	O
+چیزهای	Ne	O
+فوق	AJ	O
+العاده‌ای	N	O
+مجهز	AJ	O
+کرده‌اند	V	O
+.	PUNC	O
+
+ابزارهای	Ne	O
+استاندارد	Ne	O
+امنیتی	AJe	O
+هوشمند	AJe	O
+خود	PRO	O
+را	POSTP	O
+فراموش	AJ	O
+کنید	V	O
+،	PUNC	O
+ما	PRO	O
+در	P	O
+حال	Ne	O
+صحبت	N	O
+کردن	N	O
+از	P	O
+قلعه‌های	Ne	O
+مستحکم	AJe	O
+شخصی	AJ	O
+،	PUNC	O
+پنجره‌ها	N	O
+و	CONJ	O
+کرکره‌های	Ne	O
+ضد	Ne	O
+گلوله	N	O
+و	CONJ	O
+حتی	ADV	O
+پرده‌های	Ne	O
+لیزری	AJ	O
+هستیم	V	O
+.	PUNC	O
+
+طبق	Ne	O
+گفته	Ne	O
+فوربس	N	B-ORG
+،	PUNC	O
+هیچ	DET	O
+سناریویی	N	O
+وجود	N	O
+ندارد	V	O
+که	CONJ	O
+در	P	O
+آن	PRO	O
+نیاز	Ne	O
+برخی	DET	O
+افراد	N	O
+در	P	O
+نظر	N	O
+گرفته	V	O
+نشده	V	O
+باشد	V	O
+و	CONJ	O
+در	P	O
+این	DET	O
+زمینه	N	O
+هیچ	DET	O
+هزینه‌ای	N	O
+بیش	AJ	O
+از	P	O
+حد	N	O
+نیست	V	O
+.	PUNC	O
+
+https	RES	O
+:	PUNC	O
+
+//tech	RES	O
+.	PUNC	O
+
+gamefa	RES	O
+.	PUNC	O
+
+com/۸۶۸۳۱	NUM	O
+🆔@techfarscom	N	O
+
+
+
+ارسال	Ne	O
+تصاویر	N	O
+از	P	O
+دهانه‌ی	Ne	O
+یخ	N	O
+زده	V	O
+در	P	O
+مریخ	N	B-LOC
+توسط	Pe	O
+Mars	RES	O
+Express	RES	O
+
+
+
+نصب	Ne	O
+موفقیت‌آمیز	AJe	O
+لرزه	Ne	O
+سنج	N	O
+کاوشگر	Ne	O
+InSight	RES	O
+روی	Pe	O
+سطح	Ne	O
+مریخ	N	B-LOC
+
+
+
+انر	RES	O
+ویو	RES	O
+۲۰	NUM	B-MISC
+اولین	NUM	O
+گوشی	N	O
+خواهد‌بود	V	O
+که	CONJ	O
+در	P	O
+ساخت	Ne	O
+آن	PRO	O
+از	P	O
+نانولیتوگرافی	N	O
+استفاده	N	O
+می‌شود	V	O
+
+
+
+آنر	N	B-ORG
+وعده	N	O
+معرفی	Ne	O
+یک	NUM	O
+تلفن	Ne	O
+هوشمند	AJe	O
+جدید	AJ	O
+با	P	O
+صفحه	Ne	O
+نمایش	Ne	O
+حرفه	N	O
+دار	N	O
+را	POSTP	O
+برای	Pe	O
+اواسط	Ne	O
+ژانویه	N	B-MISC
+داده‌بود	V	O
+.	PUNC	O
+
+انگار	ADV	O
+این	DET	O
+کمپانی	Ne	O
+چینی	AJ	O
+نمی‌توانست	V	O
+صبر	N	O
+کند	V	O
+،	PUNC	O
+چرا	ADV	O
+که	CONJ	O
+آنر	N	O
+ویو	N	O
+۲۰	NUM	B-MISC
+به	P	O
+طور	Ne	O
+رسمی	AJ	O
+در	P	O
+چین	N	B-LOC
+معرفی	N	O
+شده	V	O
+و	CONJ	O
+قرار	N	O
+است	V	O
+به	P	O
+صورت	Ne	O
+جهانی	AJ	O
+نیز	CONJ	O
+در	P	O
+تاریخ	Ne	O
+۲۲	NUMe	B-MISC
+ژانویه	N	I-MISC
+در	P	O
+فرانسه	N	B-LOC
+معرفی	N	O
+شود	V	O
+.	PUNC	O
+
+https	RES	O
+:	PUNC	O
+
+//tech	RES	O
+.	PUNC	O
+
+gamefa	RES	O
+.	PUNC	O
+
+com/۸۶۸۴۷	NUM	O
+🆔@techfarscom	N	O
+
+
+
+۵	NUM	B-MISC
+لوت	N	O
+باکس	Ne	O
+زمستانی	AJ	O
+،	PUNC	O
+هدیه‌ی	Ne	O
+بلیزارد	N	O
+به	P	O
+کاربران	Ne	O
+Overwatch	RES	O
+
+
+
+بازی‌های	Ne	O
+رایگان	AJe	O
+سرویس	Ne	O
+پلاس	N	O
+پلی‌استیشن	N	O
+در	P	O
+ماه	Ne	B-MISC
+ژانویه	N	I-MISC
+اعلام	N	O
+شد	V	O
+
+
+
+شرکت	Ne	B-ORG
+سونی	N	B-ORG
+هم	CONJ	O
+این	DET	O
+ماه	N	O
+برای	Pe	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+و	CONJ	O
+پلی‌استیشن	Ne	O
+۳	NUM	B-MISC
+عناوین	N	O
+به	P	O
+خصوصی	AJ	O
+را	POSTP	O
+رایگان	AJ	O
+کرده	V	O
+.	PUNC	O
+
+به	P	O
+نظر	N	O
+می‌رسد	V	O
+که	CONJ	O
+سونی	N	B-ORG
+در	P	O
+این	DET	O
+حیطه	N	O
+و	CONJ	O
+در	P	O
+ماه	Ne	B-MISC
+ژانویه	N	I-MISC
+به	P	O
+قدرتمندی	Ne	O
+مایکروسافت	N	O
+ظاهر	N	O
+نشده	V	O
+است	V	O
+.	PUNC	O
+
+برای	Pe	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+،	PUNC	O
+بازی‌های	Ne	O
+Steep	RES	O
+و	CONJ	O
+Portal	RES	O
+Knights	RES	O
+رایگان	AJ	O
+شده‌اند	V	O
+
+
+
+"	PUNC	O
+پروتوتایپ	N	O
+دموی	AJ	O
+تکنیکی	AJ	O
+و	CONJ	O
+گرافیکی	AJe	O
+جدید	AJ	O
+و	CONJ	O
+شاهکار	Ne	O
+اسکوئر	N	B-ORG
+انیکس	N	I-ORG
+که	CONJ	O
+به	P	O
+معنای	Ne	O
+واقعی	AJe	O
+شگفت	AJe	O
+انگیز	AJ	O
+و	CONJ	O
+زیباست	V	O
+و	CONJ	O
+پیشنهاد	Ne	O
+میکنم	N	O
+اصلا	ADV	O
+از	P	O
+دست	Ne	O
+ندین	V	O
+.	PUNC	O
+
+
+
+ام	N	B-ORG
+اس	N	I-ORG
+آی	N	I-ORG
+بهترین	AJ	O
+تولید	Ne	O
+کننده	AJe	O
+محصولات	Ne	O
+گیمینگ	N	O
+با	P	O
+استفاده	N	O
+از	P	O
+قطعات	Ne	O
+گیمینگ	N	O
+بدون	Pe	O
+نقص	Ne	O
+MSI	RES	O
+شکست	Ne	O
+ناپذیر	AJ	O
+باشید	V	O
+.	PUNC	O
+
+@msifarsi	N	O
+
+
+
+آخرین	NUM	O
+هفته‌ی	Ne	O
+کاری	AJe	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+نیز	CONJ	O
+رو	N	O
+به	P	O
+پایان	N	O
+است	V	O
+و	CONJ	O
+باید	V	O
+منتظر	AJe	O
+بسته	V	O
+شدن	Ne	O
+کتاب	Ne	O
+این	DET	O
+سال	N	O
+.	PUNC	O
+
+باز	AJ	O
+شدن	Ne	O
+طومار	Ne	O
+سال	Ne	B-MISC
+۲۰۱۹	NUM	I-MISC
+باشیم	V	O
+.	PUNC	O
+
+امروز	ADV	O
+اعداد	N	O
+و	CONJ	O
+ارقامی	N	O
+از	P	O
+حیطه‌های	Ne	O
+مختلف	AJe	O
+صنعت	Ne	O
+بازی‌های	Ne	O
+رایانه‌ای	AJ	O
+برای	Pe	O
+شما	PRO	O
+کاربران	Ne	O
+عزیز	AJ	O
+گیمفا	N	B-ORG
+مهیا	AJ	O
+شده	V	O
+که	CONJ	O
+در	P	O
+ادامه‌ی	Ne	O
+مطلب	N	O
+می‌توانید	V	O
+آن‌ها	PRO	O
+را	POSTP	O
+مشاهده	N	O
+کنید	V	O
+.	PUNC	O
+
+https	RES	O
+:	PUNC	O
+
+//gamefa	N	O
+.	PUNC	O
+
+com/۵۲۴۲۴۱	NUM	O
+🆔	N	O
+@Gamefa_official	RES	O
+
+
+
+ویژگی‌های	Ne	O
+جدیدی	AJ	O
+به	P	O
+فروشگاه	Ne	O
+بازی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	B-MISC
+اضافه	AJ	O
+شد	V	O
+
+
+
+ممکن	AJ	O
+است	V	O
+اپل	N	B-ORG
+از	P	O
+حسگرهای	Ne	O
+سه	NUM	B-MISC
+بعدی	N	O
+سونی	N	B-ORG
+در	P	O
+آیفون‌های	Ne	O
+۲۰۱۹	NUM	B-MISC
+استفاده	N	O
+کند	V	O
+
+
+
+بهترین	AJ	O
+فروشگاه	Ne	O
+اینترنتی	AJ	O
+در	P	O
+خاورمیانه	N	B-LOC
+،	PUNC	O
+فروش	Ne	O
+انواع	Ne	O
+اکانت‌های	Ne	O
+قانونی	AJ	O
+و	CONJ	O
+ترکیبی	AJe	O
+✌🏻👾	N	O
+👨🏻‍💻❤️	N	O
+گیفت	V	O
+کارت‌ها	N	O
+و	CONJ	O
+پلاس‌های	Ne	O
+معتبر	AJ	O
+و	CONJ	O
+تضمینی	AJe	O
+🤠💫	Ne	O
+👨🏻‍💻❤️	N	O
+دارای	AJe	O
+نماد	Ne	O
+اعتماد	N	O
+و	CONJ	O
+درگاه	Ne	O
+بانکی	AJe	O
+معتبر	AJe	O
+😇🤖	N	O
+👨🏻‍💻❤️	N	O
+با	P	O
+ما	PRO	O
+تفاوت	N	O
+را	POSTP	O
+احساس	N	O
+کنید	V	O
+👽☠️	N	O
+👨🏻‍💻❤️	N	O
+با	P	O
+خرید	N	O
+از	P	O
+BM	RES	O
+SHOP	RES	O
+تجربه‌ای	N	O
+باور	Ne	O
+نکردنی	AJ	O
+از	P	O
+خرید	Ne	O
+اینترنتی	AJ	O
+داشته‌باشید🎮	Ne	O
+@BM_GAME_SHOP	N	O
+
+
+
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+مایکروسافت	N	B-ORG
+سرفیس	N	O
+بوک	N	O
+۲	NUM	B-MISC
+۱۵	NUM	B-MISC
+اینچی	RES	O
+|	PUNC	O
+بخش	Ne	O
+اول	NUM	B-MISC
+
+
+
+توجه	N	O
+:	PUNC	O
+
+به	P	O
+علت	Ne	O
+طولانی	AJ	O
+بودن	Ne	O
+این	DET	O
+مقاله	N	O
+در	P	O
+دو	NUM	B-MISC
+بخش	N	O
+برای	Pe	O
+مطالعه	Ne	O
+شما	PRO	O
+قرار	N	O
+خواهد‌گرفت	V	O
+.	PUNC	O
+
+در	P	O
+برنامه	Ne	O
+اصلی	AJe	O
+طراحی	N	O
+و	CONJ	O
+مهندسی	Ne	O
+سرفیس	N	O
+بوک	N	O
+۲	NUM	B-MISC
+قرار	N	O
+بود	V	O
+که	CONJ	O
+این	DET	O
+لپ‌تاپ	N	O
+یک	NUM	O
+مدل	Ne	O
+مفهومی	AJ	O
+و	CONJ	O
+کاربردی‌تر	AJ	O
+نسبت	N	O
+به	P	O
+مدل	Ne	O
+سرفیس	N	O
+بوک	N	O
+پرو	N	O
+باشد	V	O
+.	PUNC	O
+
+https	RES	O
+:	PUNC	O
+
+//tech	RES	O
+.	PUNC	O
+
+gamefa	RES	O
+.	PUNC	O
+
+com/۸۶۱۵۷	NUM	O
+🆔@techfarscom	N	O
+
+
+
+ممکن	AJ	O
+است	V	O
+اپل	N	B-ORG
+از	P	O
+حسگرهای	Ne	O
+سه	NUM	B-MISC
+بعدی	N	O
+سونی	N	B-ORG
+در	P	O
+آیفون‌های	Ne	O
+۲۰۱۹	NUM	B-MISC
+استفاده	N	O
+کند	V	O
+
+
+
+فردی	N	O
+در	P	O
+حال	Ne	O
+کار	N	O
+برروی	Pe	O
+نخستین	AJ	O
+شبیه‌ساز	N	O
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+برای	Pe	O
+رایانه‌های	Ne	O
+شخصی	AJ	O
+است	V	O
+
+
+
+فرام‌سافت‌ور	N	B-ORG
+در	P	O
+حال	Ne	O
+توسعه‌ی	Ne	O
+دو	NUM	O
+بازی	N	O
+معرفی	N	O
+نشده	V	O
+است	V	O
+
+
+
+فرام‌سافت‌ور	N	B-ORG
+در	P	O
+حال	Ne	O
+توسعه‌ی	Ne	O
+دو	NUM	O
+بازی	N	O
+معرفی	N	O
+نشده	V	O
+است	V	O
+
+
+
+سامسونگ	Ne	B-ORG
+امروز	ADV	O
+یک	NUM	O
+گزارش	Ne	O
+جدید	AJ	O
+درمورد	Pe	O
+گلکسی	N	O
+A۵۰	RES	O
+منتشر	AJ	O
+کرد	V	O
+.	PUNC	O
+
+این	DET	O
+گوشی	N	O
+دارای	AJe	O
+یک	NUM	O
+باتری	N	O
+با	P	O
+ظرفیت	Ne	O
+۴۰۰۰	NUM	B-MISC
+میلی‌آمپر	N	O
+ساعتی	N	O
+استو	N	O
+همچنین	CONJ	O
+دوربین	Ne	O
+اصلی	AJe	O
+آن	PRO	O
+۲۴	NUM	B-MISC
+مگاپیکسل	N	O
+می‌باشد	V	O
+هرچند	CONJ	O
+که	CONJ	O
+این	PRO	O
+تنها	ADV	O
+لنز	Ne	O
+موجود	AJ	O
+در	P	O
+قسمت	Ne	O
+پشتی	AJe	O
+این	DET	O
+گوشی	N	O
+نیست	V	O
+.	PUNC	O
+
+ظرفیت	Ne	O
+باتری	Ne	O
+این	DET	O
+گوشی	N	O
+تقریبا	ADV	O
+کافی	AJ	O
+است	V	O
+.	PUNC	O
+
+https	RES	O
+:	PUNC	O
+
+//tech	RES	O
+.	PUNC	O
+
+gamefa	RES	O
+.	PUNC	O
+
+com/۸۶۹۶۶	NUM	O
+🆔@techfarscom	N	O
+
+
+
+سامسونگ	Ne	O
+گلکسی	N	O
+A۵۰	RES	O
+دارای	AJe	O
+باتری	N	O
+۴۰۰۰	NUM	B-MISC
+میلی‌آمپرساعتی	N	O
+و	CONJ	O
+دوربین	Ne	O
+اصلی	AJe	O
+۲۴	NUM	B-MISC
+مگاپیکسلی	N	O
+است	V	O
+
+
+
+تخفیف	Ne	O
+۵۰	NUM	B-MISC
+درصدی	RESe	I-MISC
+فروشگاه	Ne	O
+بازی	Ne	O
+Call	RES	O
+of	RES	O
+Duty	RES	O
+:	PUNC	O
+
+Black	RES	O
+Ops	RES	O
+۴	NUM	O
+
+
+
+تابستان	Ne	B-MISC
+امسال	ADV	O
+عنوان	Ne	O
+جذاب	AJ	O
+Streets	RES	O
+of	RES	O
+Rage	RES	O
+۴	NUM	B-MISC
+توسط	Pe	O
+سازندگان	N	O
+معرفی	N	O
+شد	V	O
+و	CONJ	O
+تریلری	N	O
+از	P	O
+آن	PRO	O
+در	P	O
+دسترس	N	O
+قرار	N	O
+گرفت	V	O
+.	PUNC	O
+
+نسخه‌های	Ne	O
+متعددی	AJ	O
+از	P	O
+Streets	RES	O
+of	RES	O
+Rage	RES	O
+در	P	O
+گذشته	N	O
+برای	Pe	O
+کنسول‌های	Ne	O
+مختلف	AJ	O
+منتشر	AJ	O
+شده‌بود	V	O
+.	PUNC	O
+
+چهارمین	NUM	O
+عنوان	Ne	O
+این	DET	O
+سری	CL	O
+بازی	N	O
+با	P	O
+گرافیکی	AJe	O
+جذاب	AJ	O
+و	CONJ	O
+گیم‌پلی	AJ	O
+هیجان‌انگیزتر	AJ	O
+در	P	O
+سال	Ne	B-MISC
+۲۰۱۹	NUM	I-MISC
+عرضه	N	O
+خواهد‌شد	V	O
+که	CONJ	O
+خبر	Ne	O
+بسیار	ADV	O
+خوبی	AJ	O
+برای	Pe	O
+طرفداران	N	O
+است	V	O
+.	PUNC	O
+
+
+
+پرفروش‌ترین	AJ	O
+بازی‌های	Ne	O
+استیم	N	O
+در	P	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+مشخص	AJ	O
+شدند	V	O
+
+
+
+گزارش	N	O
+:	PUNC	O
+
+کنسول‌های	Ne	O
+نسل	Ne	O
+بعدی	AJ	O
+بین	Pe	O
+۸	NUM	B-MISC
+تا	P	I-MISC
+۱۲	NUM	I-MISC
+گیگابایت	N	O
+RAM	RES	O
+خواهند‌داشت	V	O
+
+
+
+در	P	O
+اوایل	Ne	O
+سال	Ne	B-MISC
+۲۰۱۹	NUM	I-MISC
+اطلاعات	Ne	O
+جدیدی	AJ	O
+از	P	O
+بازی	Ne	O
+Nioh	RES	O
+۲	NUM	O
+منتشر	AJ	O
+خواهد‌شد	V	O
+
+
+
+بازی	Ne	O
+Super	RES	O
+Meat	RES	O
+Boy	RES	O
+برای	Pe	O
+مدتی	N	O
+محدود	AJ	O
+در	P	O
+فروشگاه	Ne	B-ORG
+اپیک	AJe	I-ORG
+گیمز	N	I-ORG
+رایگان	AJ	O
+خواهد‌بود	V	O
+
+
+
+اسنشال	N	O
+فون	N	O
+یا	CONJ	O
+PH-۱	N	O
+از	P	O
+سال	Ne	B-MISC
+۲۰۱۷	NUM	I-MISC
+و	CONJ	O
+توسط	Pe	O
+موسس	Ne	O
+مشترک	AJe	O
+اندروید	N	O
+،	PUNC	O
+اندی	N	B-PERS
+روبین	N	I-PERS
+تولید	N	O
+شد	V	O
+.	PUNC	O
+
+با	P	O
+سخت‌افزاری	N	O
+ایده‌آل	AJ	O
+،	PUNC	O
+وعده	Ne	O
+به‌روزرسانی‌های	Ne	O
+ماهانه	AJ	O
+و	CONJ	O
+همچنین	CONJ	O
+ایجاد	Ne	O
+یک	NUM	O
+شکاف	Ne	O
+بزرگ	AJ	O
+بین	Pe	O
+تکنولوژی‌های	Ne	O
+گوشی‌های	Ne	O
+هوشمند	AJ	O
+معرفی	N	O
+گردید	V	O
+.	PUNC	O
+
+این	DET	O
+گوشی	N	O
+در	P	O
+مدت	Ne	O
+فعالیت	N	O
+و	CONJ	O
+تولید	Ne	O
+خود	PRO	O
+حواشی	Ne	O
+زیادی	AJ	O
+را	POSTP	O
+پشت‌سر	N	O
+گذاشت	V	O
+.	PUNC	O
+
+هر	DET	O
+روزه	N	O
+خبرهای	Ne	O
+بدی	AJ	O
+از	P	O
+این	DET	O
+گوشی	N	O
+منتشر	AJ	O
+می‌شد	V	O
+که	CONJ	O
+همین	DET	O
+موضوع	N	O
+می‌تواند	V	O
+یکی	NUM	O
+از	P	O
+دلایل	Ne	O
+موفق	AJ	O
+نشدن	Ne	O
+این	DET	O
+گوشی	N	O
+باشد	V	O
+.	PUNC	O
+
+نکته‌ای	N	O
+که	CONJ	O
+باید	V	O
+به	P	O
+آن	PRO	O
+اهمیت	N	O
+داده‌شود	V	O
+این	PRO	O
+است	V	O
+که	CONJ	O
+این	DET	O
+شرکت	N	O
+به	P	O
+فکر	Ne	O
+حمایت	N	O
+از	P	O
+کاربران	N	O
+و	CONJ	O
+مشتریان	Ne	O
+خود	PRO	O
+می‌باشد	V	O
+و	CONJ	O
+این	DET	O
+اطمینان	N	O
+را	POSTP	O
+به	P	O
+کاربران	Ne	O
+خود	PRO	O
+می‌دهد	V	O
+تا	CONJ	O
+با	P	O
+خاطری	N	O
+آسوده	AJ	O
+گوشی‌های	Ne	O
+این	DET	O
+شرکت	N	O
+را	POSTP	O
+تهیه	N	O
+کنند	V	O
+.	PUNC	O
+
+https	RES	O
+:	PUNC	O
+
+//tech	RES	O
+.	PUNC	O
+
+gamefa	RES	O
+.	PUNC	O
+
+com/۸۷۰۸۷	NUM	O
+🆔@techfarscom	N	O
+
+
+
+سونی	N	B-ORG
+در	P	O
+حال	Ne	O
+جذب	Ne	O
+نیرو	N	O
+برای	Pe	O
+ساخت	Ne	O
+دنباله‌ای	N	O
+بر	P	O
+یک	NUM	O
+بازی	Ne	O
+داستانی	AJ	O
+است	V	O
+
+
+
+کارگردان	Ne	O
+هنری	AJe	O
+ناتی‌داگ	N	O
+:	PUNC	O
+
+استودیوهای	Ne	O
+سونی	N	B-ORG
+همکاری	Ne	O
+بی‌نظیری	AJ	O
+با	P	O
+یکدیگر	PRO	O
+دارند	V	O
+
+
+
+کات	N	O
+سین	N	O
+مربوط	AJ	O
+به	P	O
+خنثی‌سازی	Ne	O
+بمب‌های	Ne	O
+اتم	N	O
+بازی	N	O
+Metal	RES	O
+Gear	RES	O
+Solid	RES	O
+۵	NUM	B-MISC
+:	PUNC	O
+
+The	RES	O
+Phantom	RES	O
+Pain	RES	O
+فاش	AJ	O
+شد	V	O
+
+
+
+تصویر	Ne	O
+زمینه	Ne	O
+ویندوز	Ne	O
+XP	N	O
+به	P	O
+وسیله‌ی	Ne	O
+عکاسی	Ne	O
+بنام	AJe	O
+"	PUNC	O
+چارلز	N	B-PERS
+اوریر	N	I-PERS
+"	PUNC	O
+عکاس	Ne	O
+نشنال	N	O
+جئوگرافیک	N	O
+در	P	O
+سال	Ne	B-MISC
+۱۹۹۶	NUM	I-MISC
+هنگامی	N	O
+که	CONJ	O
+در	P	O
+کالیفرنیا	N	B-LOC
+زندگی	Ne	O
+میکرد	N	O
+گرفته‌شد	V	O
+.	PUNC	O
+
+این	DET	O
+عکس	N	O
+به	P	O
+عنوان	Ne	O
+پر	AJ	O
+بیننده‌ترین	AJ	O
+عکس	Ne	O
+تاریخ	Ne	O
+مشهور	AJ	O
+شده‌است	V	O
+.	PUNC	O
+
+هیچ	DET	O
+گاه	N	O
+مبلغ	Ne	O
+خرید	Ne	O
+این	DET	O
+عکس	N	O
+رسما	ADV	O
+اعلام	N	O
+نشد	V	O
+.	PUNC	O
+
+باور	N	O
+بر	P	O
+این	PRO	O
+است	V	O
+که	CONJ	O
+مایکرو	N	B-ORG
+سافت	N	I-ORG
+بین	Pe	O
+۱۰۰	NUM	B-MISC
+الی	P	I-MISC
+۳۳۰	NUM	I-MISC
+هزار	NUM	I-MISC
+دلار	N	I-MISC
+برای	Pe	O
+آن	PRO	O
+پرداخته‌باشد	V	O
+.	PUNC	O
+
+
+
+اپلیکیشن	N	O
+AC	RES	O
+Fans	RES	O
+،	PUNC	O
+دومین	NUM	B-MISC
+اپلیکیشن	Ne	O
+شرکت	Ne	B-ORG
+پرشین	AJe	I-ORG
+پلی	N	I-ORG
+در	P	O
+این	DET	O
+سبک	N	O
+است	V	O
+و	CONJ	O
+آن‌ها	PRO	O
+قبل	P	O
+از	P	O
+این	DET	O
+اپلیکیشن	N	O
+،	PUNC	O
+اپلیکیشن	Ne	O
+دیگری	PRO	O
+راجع	N	O
+به	P	O
+بازی	Ne	O
+بتمن	N	B-PERS
+و	CONJ	O
+با	P	O
+نام	Ne	O
+Batcave	RES	O
+منتشر	AJ	O
+کرده‌بودند	V	O
+که	CONJ	O
+نقد	N	O
+و	CONJ	O
+بررسی	Ne	O
+آن	PRO	O
+اپلیکیشن	N	O
+را	POSTP	O
+از	P	O
+همین	DET	O
+سایت	N	O
+می‌توانید	V	O
+مطالعه	N	O
+بفرمایید	V	O
+.	PUNC	O
+
+
+
+فروشگاه	Ne	B-ORG
+اینترنتی	AJe	I-ORG
+کاکتوس	N	I-ORG
+:	PUNC	O
+
+با	P	O
+۴	NUM	B-MISC
+سال	N	I-MISC
+سابقه	N	O
+در	P	O
+زمینه‌ی	Ne	O
+شیرینگ	Ne	O
+اکانت‌های	Ne	O
+پلی	N	O
+استیشن	N	O
+۴	NUM	B-MISC
+در	P	O
+خدمت	Ne	O
+شما	PRO	O
+گیمر‌های	Ne	O
+عزیز	AJ	O
+هستش	V	O
+.	PUNC	O
+
+✅تمامی	N	O
+اکانت‌ها	N	O
+با	P	O
+روش	Ne	O
+قانونی	AJ	O
+تهیه	Ne	O
+میشوند	V	O
+و	CONJ	O
+دارای	AJe	O
+ضمانت	N	O
+و	CONJ	O
+قابل	AJe	O
+فروش	Ne	O
+مجدد	AJ	O
+هستند	V	O
+از	P	O
+طریق	Ne	O
+کانال	N	O
+.	PUNC	O
+
+
+
+شعبه‌ی	Ne	O
+مونترال	Ne	O
+برادران	Ne	B-ORG
+وارنر	N	I-ORG
+بار	N	O
+دیگر	PRO	O
+به	P	O
+Batman	RES	O
+بعدی	AJ	O
+اشاره	N	O
+کردند	V	O
+
+
+
+برترین	AJ	O
+بازی‌های	Ne	O
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+از	P	O
+نگاه	Ne	O
+منتقدین	N	O
+
+
+
+سونی	Ne	B-ORG
+سال	Ne	B-MISC
+۲۰۱۸	NUM	I-MISC
+را	POSTP	O
+با	P	O
+انتشار	Ne	O
+ویدئویی	AJe	O
+جشن	N	O
+می‌گیرد	V	O
+
+
+
+"	PUNC	O
+آیا	ADV	O
+سیستم	Ne	O
+گیمینگ	Ne	O
+شما	PRO	O
+برای	Pe	O
+سال	Ne	B-MISC
+۲۰۱۹	NUM	I-MISC
+آماده	AJ	O
+است	V	O
+؟	PUNC	O
+
+زمان	Ne	O
+آن	PRO	O
+رسیده	V	O
+کارت	Ne	O
+گرافیک	Ne	O
+سیستم	Ne	O
+خود	PRO	O
+را	POSTP	O
+از	P	O
+GeForce	RES	O
+GTX	RES	O
+۱۰	NUM	B-MISC
+series	RES	O
+به	P	O
+GeForce	RES	O
+RTX	RES	O
+۲۰	NUM	B-MISC
+series	RES	O
+ارتقا	N	O
+دهید	V	O
+.	PUNC	O
+
+@msifarsi	N	O
+
+
+
+FIFA	RES	O
+۱۹	NUM	B-MISC
+=	RES	O
+۹۰	NUM	B-MISC
+toman	RES	O
+
+
+
+٣	NUM	B-MISC
+سال	N	I-MISC
+سابقه	Ne	O
+فعالیت	N	O
+در	P	O
+فروش	Ne	O
+اکانت‌های	Ne	O
+ترکیبی	AJe	O
+ps۴	NUM	O
+
+
+
+فرارسیدن	Ne	O
+سال	Ne	B-MISC
+۲۰۱۹	NUM	I-MISC
+میلادی	AJ	I-MISC
+مبارک	AJ	O
+|	PUNC	O
+سالی	N	O
+پر	AJ	O
+از	P	O
+گیم…	N	O
+
+
+
+عنوان	Ne	O
+Sekiro	RES	O
+:	PUNC	O
+
+Shadows	RES	O
+Die	RES	O
+Twice	RES	O
+توسط	Pe	O
+استودیوی	Ne	O
+فرام	N	B-ORG
+سافتور	N	I-ORG
+،	PUNC	O
+سازنده‌ی	AJe	O
+سری	N	O
+Dark	RES	O
+Souls	RES	O
+،	PUNC	O
+توسعه	N	O
+یافته	V	O
+و	CONJ	O
+در	P	O
+دوران	Ne	O
+سنگوکو	N	O
+جریان	N	O
+دارد	V	O
+.	PUNC	O
+
+دوره‌ای	N	O
+که	CONJ	O
+در	P	O
+آن	PRO	O
+،	PUNC	O
+کشور	Ne	O
+ژاپن	N	B-LOC
+با	P	O
+درگیری‌های	Ne	O
+سیاسی	AJ	O
+و	CONJ	O
+نظامی	AJe	O
+زیادی	AJ	O
+مواجه	AJ	O
+بود	V	O
+.	PUNC	O
+
+داستان	Ne	O
+بازی	Ne	O
+بر‌روی	AJe	O
+شخصتی	N	O
+به	P	O
+نام	Ne	O
+شینوبی	N	B-PERS
+متمرکز	AJ	O
+است	V	O
+که	CONJ	O
+در	P	O
+حین	Ne	O
+محافظت	N	O
+از	P	O
+شاهزاده	N	O
+،	PUNC	O
+یک	NUM	O
+دست	Ne	O
+خود	PRO	O
+را	POSTP	O
+از	P	O
+دست	N	O
+می‌دهد	V	O
+و	CONJ	O
+حال	Ne	O
+وی	PRO	O
+به	P	O
+دنبال	Ne	O
+انتقام	N	O
+و	CONJ	O
+البته	ADV	O
+نجات	Ne	O
+جان	Ne	O
+شاهزاده	N	O
+است	V	O
+.	PUNC	O
+
+
+
+گزارش	N	O
+:	PUNC	O
+
+پلی‌استیشن	Ne	O
+۴	NUM	B-MISC
+بیش	AJ	O
+از	P	O
+۹۰	NUM	B-MISC
+میلیون	NUM	I-MISC
+نسخه	Ne	O
+فروش	N	O
+داشته‌است	V	O
+
+
+
+اپیزود	Ne	O
+اول	NUMe	B-MISC
+بازی	Ne	O
+Life	RES	O
+is	RES	O
+Strange	RES	O
+۲	NUM	B-MISC
+به	P	O
+سرویس	Ne	O
+Xbox	RES	O
+Games	RES	O
+Pass	RES	O
+اضافه	AJ	O
+شد	V	O
+
+
+
+مصاحبه	N	O
+با	P	O
+صداگذار	Ne	O
+Red	RES	O
+Dead	RES	O
+Redemption	RES	O
+۲	NUM	B-MISC
+|	PUNC	O
+صحبت	N	O
+در	P	O
+رابطه	N	O
+با	P	O
+روند	Ne	O
+ساخت	N	O
+،	PUNC	O
+ضبط	N	O
+میان	Pe	O
+پرده‌ها	N	O
+و	CONJ	O
+بیشتر	AJ	O
+
+
+
+✨با	N	O
+حمایت	Ne	O
+ایسوس	N	B-ORG
+
+
+
+📆از	N	O
+۱۸	NUM	B-MISC
+تا	P	I-MISC
+۲۱	NUMe	B-MISC
+دی	N	I-MISC
+ماه	N	I-MISC
+
+
+
+تحلیلگر	Ne	O
+NPD	RES	O
+:	PUNC	O
+
+نسل	Ne	O
+بعدی	AJe	O
+کنسول‌ها	N	O
+در	P	O
+سال	Ne	B-MISC
+۲۰۱۹	NUM	I-MISC
+میلادی	AJ	I-MISC
+معرفی	N	O
+خواهند‌شد	V	O
+
+
+
+قابلیت	Ne	O
+ساخت	Ne	O
+فروشگاه	N	O
+به	P	O
+بازی	Ne	O
+Fallout	RES	O
+۷۶	NUM	B-MISC
+اضافه	AJ	O
+خواهد‌شد	V	O
+
+
+
+مایکل	N	B-PERS
+پکتر	N	I-PERS
+:	PUNC	O
+
+The	RES	O
+Elder	RES	O
+Scrolls	RES	O
+۶	NUM	B-MISC
+در	P	O
+سال	Ne	B-MISC
+۲۰۱۹	NUM	I-MISC
+عرضه	N	O
+خواهد‌شد	V	O
+
+
+
+تریلر	Ne	O
+جدیدی	AJ	O
+از	P	O
+گیم‌پلی	N	O
+بازی	Ne	O
+Rage	RES	O
+۲	NUM	B-MISC
+منتشر	AJ	O
+شد	V	O
+
+
+
+آنباکسینگ	N	O
+کارت	Ne	O
+گرافیک	Ne	O
+Geforce	RES	O
+RTX	N	O
+۲۰۸۰	NUM	B-MISC
+Aorus	RES	O
+Extreme	RES	O
+گیگابایت	N	O
+
+
+
+سونی	N	B-ORG
+با	P	O
+ویدئویی	AJe	O
+جدید	AJ	O
+،	PUNC	O
+نوید	Ne	O
+سالی	N	O
+پربار	AJ	O
+را	POSTP	O
+به	P	O
+همه	PRO	O
+می‌دهد	V	O
+
+
+
+شایعه	N	O
+:	PUNC	O
+
+بازی	Ne	O
+Ghost	RES	O
+Of	RES	O
+Tsushima	RES	O
+در	P	O
+سال	Ne	B-MISC
+۲۰۱۹	NUM	I-MISC
+عرضه	N	O
+می‌شود	V	O
+
+
+
+⚽️	N	O
+مسابقه	Ne	O
+ویژه	AJe	O
+جام	Ne	O
+ملت‌های	Ne	O
+آسیا	N	B-LOC
+⚽️	N	O
+
+
+
+بازی‌های	Ne	O
+جام	Ne	O
+ملت‌‌های	Ne	O
+آسیا	N	B-LOC
+رو	POSTP	O
+پیش‌بینی	N	O
+کنید	V	O
+و	CONJ	O
+شانستون	N	O
+رو	POSTP	O
+برای	Pe	O
+دریافت	Ne	O
+جایزه	Ne	O
+ویژه	AJe	O
+مسابقه	Ne	O
+فروشگاه	Ne	O
+بازی	Ne	O
+رنتر	AJ	O
+افزایش	Ne	O
+بدید	V	O
+.	PUNC	O
+
+هر	DET	O
+۱۰	NUM	O
+امتیاز	N	O
+،	PUNC	O
+۱	NUM	O
+شانس	N	O
+در	P	O
+قرعه	Ne	B-LOC
+کشی😍	N	I-LOC
+
+
+
+شرکت	Ne	B-ORG
+MSI	RES	I-ORG
+برای	Pe	O
+رضایت	Ne	O
+کاربران	N	O
+هم	CONJ	O
+در	P	O
+بخش	Ne	O
+طراحی	Ne	O
+ظاهری	AJ	O
+و	CONJ	O
+هم	CONJ	O
+عملکرد	Ne	O
+تلاش	N	O
+کرده	V	O
+بهترین	AJ	O
+محصولات	N	O
+را	POSTP	O
+برای	Pe	O
+سری	Ne	O
+GEFORCE	RES	O
+RTX	RES	O
+۲۰	NUM	B-MISC
+SERIES	RES	O
+را	POSTP	O
+ارائه	N	O
+کند	V	O
+.	PUNC	O
+
+@msifarsi	N	O
+
+
+
+حدس	N	O
+بزن	V	O
+چی	ADV	O
+شده	V	O
+؟	PUNC	O
+
+⠀قوی‌ترین	AJ	O
+کارت	Ne	O
+گرافیک	N	O
+با	P	O
+استفاده	N	O
+از	P	O
+فیبر	Ne	O
+کربن	Ne	O
+ماندگار	AJ	O
+و	CONJ	O
+قدرتمند	AJe	O
+منتظر	AJe	O
+اطلاعات	Ne	O
+بیشتر	AJ	O
+در	P	O
+مورد	Ne	O
+این	DET	O
+شاهکار	N	O
+MSI	N	B-ORG
+باشید	V	O
+@msifarsi	N	O
+
+
+
+🏢	N	O
+مکان	Ne	O
+شهر	Ne	B-LOC
+آفتاب	N	I-LOC
+همزمان	AJ	O
+با	P	O
+سومین	NUM	B-MISC
+نمایشگاه	Ne	O
+خودرو	N	O
+
+
+
+تریلر	Ne	O
+جدید	AJe	O
+Anthem	RES	O
+به	P	O
+نمایش	Ne	O
+پانزده	NUM	B-MISC
+دقیقه	N	I-MISC
+از	P	O
+گیم‌پلی	N	O
+بازی	N	O
+اختصاص	N	O
+دارد	V	O
+
+
+
+
+
+
