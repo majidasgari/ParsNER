@@ -772,6 +772,14 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     }
   }
 
+  protected void replaceWord(CoreLabel label) {
+    if(label == null) return;
+    if(label.containsKey(CoreAnnotations.OriginalTextAnnotation.class)) return;
+    String word = label.getString(CoreAnnotations.TextAnnotation.class);
+    if(word.length() == 0) return;
+    label.set(CoreAnnotations.OriginalTextAnnotation.class, word);
+    label.set(CoreAnnotations.TextAnnotation.class, SocialDataCleaner.INSTANCE.cleanWord(word));
+  }
 
   protected Collection<String> featuresC(PaddedList<IN> cInfo, int loc) {
     CoreLabel p3 = cInfo.get(loc - 3);
@@ -781,15 +789,18 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
     CoreLabel n = cInfo.get(loc + 1);
     CoreLabel n2 = cInfo.get(loc + 2);
 
+    if(flags.cleanSocialData) {
+      replaceWord(p3);
+      replaceWord(p2);
+      replaceWord(p);
+      replaceWord(c);
+      replaceWord(n);
+      replaceWord(n2);
+    }
+
     String cWord = getWord(c);
     String pWord = getWord(p);
     String nWord = getWord(n);
-
-    if(flags.cleanSocialData) {
-      cWord = SocialDataCleaner.INSTANCE.cleanWord(cWord);
-      pWord = SocialDataCleaner.INSTANCE.cleanWord(pWord);
-      nWord = SocialDataCleaner.INSTANCE.cleanWord(nWord);
-    }
 
     String cShape = c.getString(CoreAnnotations.ShapeAnnotation.class);
     String pShape = p.getString(CoreAnnotations.ShapeAnnotation.class);

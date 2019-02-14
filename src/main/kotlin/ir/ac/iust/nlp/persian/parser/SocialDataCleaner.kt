@@ -3,7 +3,7 @@ package ir.ac.iust.nlp.persian.parser
 import com.vdurmont.emoji.EmojiParser
 
 object SocialDataCleaner {
-  private val spaceRemoveRegex: Regex = Regex("[ \\t\\x0B\\f]+")
+  private val spaceRemoveRegex: Regex = Regex("[ \\t\\x0B\\ufeff\\u200c\\f]+")
   private val zeroWidthJoinerRemoveRegex: Regex = Regex("[\\u200c]+")
   private val enterRemoveRegex: Regex = Regex("[\r\n]+")
 
@@ -29,6 +29,8 @@ object SocialDataCleaner {
   fun cleanWord(str: String?): String? {
     if (str == null) return null
     var result = removeEmojis(str) ?: return null
+    result = result.replace(spaceRemoveRegex, "")
+    if(result.trim().isEmpty()) return str
     if(result.startsWith('#') || result.startsWith('@')) result = result.substring(1)
     return result.replace('_', ' ')
   }
