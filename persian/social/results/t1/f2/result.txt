@@ -1,0 +1,12 @@
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL
+Total time spent in optimization: 15584.39s
+CRFClassifier training done [15620.2 sec].
+Serializing classifier to ner-model.ser.gz...done.
+
+CRFClassifier tagged 68104 words in 6799 documents at 1906.77 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0.7170	0.6129	0.6609	760	300	480
+           MISC	0.5319	0.6221	0.5735	1360	1197	826
+            ORG	0.6007	0.6394	0.6195	1300	864	733
+           PERS	0.7375	0.5958	0.6591	927	330	629
+         Totals	0.6176	0.6197	0.6187	4347	2691	2668

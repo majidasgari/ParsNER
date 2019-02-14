@@ -1,0 +1,13 @@
+Iter 661 evals 778 <D> [1M 4.423E-1] 4.391E3 11761.10s
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL
+Total time spent in optimization: 11761.17s
+CRFClassifier training done [11801.8 sec].
+Serializing classifier to ner-model.ser.gz...done.
+
+CRFClassifier tagged 68574 words in 6588 documents at 1761.24 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0.7502	0.7058	0.7273	967	322	403
+           MISC	0.7351	0.6533	0.6918	1643	592	872
+            ORG	0.7417	0.5777	0.6495	1335	465	976
+           PERS	0.7165	0.7204	0.7184	1064	421	413
+         Totals	0.7356	0.6528	0.6918	5009	1800	2664

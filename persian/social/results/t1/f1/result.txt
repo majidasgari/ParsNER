@@ -1,0 +1,13 @@
+Iter 527 evals 615 <D> [M 1.000E0] 4.258E3 8149.97s
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL
+Total time spent in optimization: 8150.03s
+CRFClassifier training done [8189.1 sec].
+Serializing classifier to ner-model.ser.gz...done.
+
+CRFClassifier tagged 68715 words in 6638 documents at 1925.71 words per second.
+         Entity	P	R	F1	TP	FP	FN
+            LOC	0.6581	0.6059	0.6309	741	385	482
+           MISC	0.6920	0.5789	0.6304	1746	777	1270
+            ORG	0.8225	0.5434	0.6544	1409	304	1184
+           PERS	0.6967	0.6130	0.6522	944	411	596
+         Totals	0.7206	0.5781	0.6415	4840	1877	3532
