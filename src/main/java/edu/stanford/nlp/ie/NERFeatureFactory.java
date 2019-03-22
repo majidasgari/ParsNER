@@ -1736,50 +1736,61 @@ public class NERFeatureFactory<IN extends CoreLabel> extends FeatureFactory<IN> 
       featuresC.add(locationPrefixes.contains(p.word()) + "-LOC-PREFIX");
     }
 
-    if (!currencies.isEmpty() && loc > 0) {
+    //noinspection ConstantConditions
+    if (currencies != null && !currencies.isEmpty() && loc > 0) {
       featuresC.add(currencies.contains(p.word()) + "-CURRENCIES");
     }
 
-    if (!eventKeywords.isEmpty() && loc > 0) {
+    //noinspection ConstantConditions
+    if (eventKeywords != null && !eventKeywords.isEmpty() && loc > 0) {
       featuresC.add(eventKeywords.contains(p.word()) + "-EVENT-KEYWORDS");
     }
 
-    if (!productKeywords.isEmpty() && loc > 0) {
+    //noinspection ConstantConditions
+    if (productKeywords != null && !productKeywords.isEmpty() && loc > 0) {
       featuresC.add(productKeywords.contains(p.word()) + "-PRODUCT-KEYWORDS");
     }
 
-    if (!appliances.isEmpty() && loc > 0) {
+    //noinspection ConstantConditions
+    if (appliances != null && !appliances.isEmpty() && loc > 0) {
       if (isInGazetteer(loc, cInfo, appliances))
         featuresC.add("APPLIANCE-LOC-NAMES");
     }
 
-    if (!facilityLocNames.isEmpty() && loc > 0) {
+    //noinspection ConstantConditions
+    if (facilityLocNames != null && !facilityLocNames.isEmpty() && loc > 0) {
       if (isInGazetteer(loc, cInfo, facilityLocNames))
         featuresC.add("FACILITY-LOC-NAMES");
     }
 
-    if (!facilityOrgNames.isEmpty() && loc > 0) {
+    //noinspection ConstantConditions
+    if (facilityOrgNames != null && !facilityOrgNames.isEmpty() && loc > 0) {
       if (isInGazetteer(loc, cInfo, facilityOrgNames))
         featuresC.add("FACILITY-ORG-NAMES");
     }
 
-    if (!facilityPrefixes.isEmpty() && loc > 0) {
+    //noinspection ConstantConditions
+    if (facilityPrefixes != null && !facilityPrefixes.isEmpty() && loc > 0) {
       featuresC.add(facilityPrefixes.contains(p.word()) + "-FACILITY-PREFIXES");
     }
 
-    if (!foods.isEmpty() && loc > 0) {
+    //noinspection ConstantConditions
+    if (foods != null && !foods.isEmpty() && loc > 0) {
       featuresC.add(foods.contains(p.word()) + "-FOODS");
     }
 
-    if (!sports.isEmpty() && loc > 0) {
+    //noinspection ConstantConditions
+    if (sports != null && !sports.isEmpty() && loc > 0) {
       featuresC.add(sports.contains(p.word()) + "-SPORTS");
     }
 
-    if (!ordinals.isEmpty() && loc > 0) {
+    //noinspection ConstantConditions
+    if (ordinals != null && !ordinals.isEmpty() && loc > 0) {
       featuresC.add(ordinals.contains(p.word()) + "-ORDINALS");
     }
 
-    if (!timeRanges.isEmpty() && loc > 0) {
+    //noinspection ConstantConditions
+    if (timeRanges != null && !timeRanges.isEmpty() && loc > 0) {
       featuresC.add(timeRanges.contains(p.word()) + "-TIME-RANGES");
     }
 
