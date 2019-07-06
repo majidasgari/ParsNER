@@ -13,12 +13,28 @@ fun main() {
   pathes.forEach { path ->
     val lines = Files.readAllLines(path, charset("UTF-8"))
     if (lines.isNotEmpty()) {
-      lines.forEach { line ->
+      lines.forEach { line2 ->
+        val line = line2.trim()
         if (line.startsWith(".")) {
           results.add(line)
           results.add("")
-        } else
-          results.add(line)
+        } else {
+          val splits = line.split(Regex("\t"))
+          if (line.isNotBlank() && splits.size != 2) {
+            if (splits.size == 1 && line.endsWith("O")) {
+              if (line == "O")
+                results.add("-\tO")
+              else
+                results.add(line.substringBeforeLast("O") + "\tO")
+              println(results.last())
+            } else {
+              results.add("$line\tO")
+              println(results.last())
+            }
+          } else {
+            results.add(line)
+          }
+        }
       }
       results.add("")
     }
