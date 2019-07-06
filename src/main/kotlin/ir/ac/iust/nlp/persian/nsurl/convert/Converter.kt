@@ -15,7 +15,7 @@ fun main() {
     if (lines.isNotEmpty()) {
       lines.forEach { line2 ->
         val line = line2.trim()
-        if (line.startsWith(".")) {
+        if (line == "." || line == ".\tO") {
           if (line == ".")
             results.add(".\tO")
           else
