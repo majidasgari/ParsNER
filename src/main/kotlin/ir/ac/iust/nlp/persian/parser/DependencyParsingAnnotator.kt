@@ -3,7 +3,6 @@ package ir.ac.iust.nlp.persian.parser
 import edu.stanford.nlp.ling.TaggedWord
 import ir.ac.iust.nlp.jhazm.DependencyParser
 import ir.ac.iust.nlp.jhazm.POSTagger
-import java.lang.StringBuilder
 import java.nio.file.Files
 import java.nio.file.Paths
 
@@ -15,7 +14,7 @@ fun main(args: Array<String>) {
 
   val fileContent = Files.readAllLines(Paths.get(args[0]))
   val lastSentence = mutableListOf<NerTaggedWord>()
-  val splittingRegex = Regex("\\s+")
+  val splittingRegex = Regex("\t+")
   val buffer = StringBuilder()
   fileContent.forEachIndexed { index, line ->
     println("processing line number $index")
