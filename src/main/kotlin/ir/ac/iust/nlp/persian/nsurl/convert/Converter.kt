@@ -16,7 +16,10 @@ fun main() {
       lines.forEach { line2 ->
         val line = line2.trim()
         if (line.startsWith(".")) {
-          results.add(line)
+          if (line == ".")
+            results.add(".\tO")
+          else
+            results.add(line)
           results.add("")
         } else {
           val splits = line.split(Regex("\t"))
