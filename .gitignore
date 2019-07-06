@@ -1,4 +1,3 @@
-
 /target
 /persian/*.ser.gz
 #/persian/train.pos
@@ -20,3 +19,22 @@
 /persian/word-embeddings/wor2vec_skipgram300d.txt.vector
 /persian/word-embeddings/wor2vec_skipgram300d.txt.index
 /persian/word-embeddings/wor2vec_skipgram300d.txt
+persian/nsurl/300K/
+persian/nsurl/600K/
+persian/social/results/t0/
+persian/social/results/t1/f1/ner-model.ser.gz
+persian/social/results/t1/f2/ner-model.ser.gz
+persian/social/results/t1/f3/ner-model.ser.gz
+persian/social/social.zip
+persian/social/social_folds.rar
+persian/test/fold3/
+persian/test/test_fold1.txt.dep
+persian/test/test_fold2.txt.dep
+persian/test/test_fold3.txt.dep
+persian/train/fold3/
+persian/train/train_all.txt.dep
+persian/train/train_all.txt.dep.zip
+persian/train/train_fold1.txt.dep
+persian/train/train_fold2.txt.dep
+persian/train/train_fold3.txt.dep
+persian/word-embeddings/wor2vec_skipgram300d.zip
