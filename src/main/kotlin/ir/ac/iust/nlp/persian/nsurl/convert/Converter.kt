@@ -14,7 +14,9 @@ fun main() {
     val lines = Files.readAllLines(path, charset("UTF-8"))
     if (lines.isNotEmpty()) {
       lines.forEach { line2 ->
-        val line = line2.trim().replace(' ', '_')
+        var line = line2.trim().replace(' ', '_')
+                .replace("B_", "B-")
+                .replace("I_", "I-")
         if (line == "." || line == ".\tO") {
           if (line == ".")
             results.add(".\tO")
