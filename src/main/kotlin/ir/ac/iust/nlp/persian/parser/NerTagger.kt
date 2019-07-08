@@ -37,7 +37,7 @@ fun tag(classifier: AbstractSequenceClassifier<CoreLabel>, path: Path) {
       if(sentence.isNotEmpty()) {
         val classified = classifier.classify(sentence)
         classified.forEach { coreLabel ->
-          result.add(coreLabel.get(CoreAnnotations.TextAnnotation::class.java))
+          result.add(coreLabel.get(CoreAnnotations.AnswerAnnotation::class.java))
         }
         sentence.clear()
         position = 0
@@ -47,6 +47,7 @@ fun tag(classifier: AbstractSequenceClassifier<CoreLabel>, path: Path) {
       sentence.add(coreLabel(line.split(regex), position++))
     }
   }
+
   result.removeAt(result.size - 1)
   Files.write(Paths.get(path.toAbsolutePath().fileName.toString().substringBeforeLast('.')), result, charset("UTF-8"))
 }
