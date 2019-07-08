@@ -37,7 +37,7 @@ fun tag(classifier: AbstractSequenceClassifier<CoreLabel>, path: Path) {
       if(sentence.isNotEmpty()) {
         val classified = classifier.classify(sentence)
         classified.forEach { coreLabel ->
-          result.add("${coreLabel.get(CoreAnnotations.TextAnnotation::class.java)}\t${coreLabel.get(CoreAnnotations.AnswerAnnotation::class.java)}")
+          result.add(coreLabel.get(CoreAnnotations.TextAnnotation::class.java))
         }
         sentence.clear()
         position = 0
