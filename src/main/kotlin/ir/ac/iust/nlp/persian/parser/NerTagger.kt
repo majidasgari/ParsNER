@@ -47,7 +47,7 @@ fun tag(classifier: AbstractSequenceClassifier<CoreLabel>, path: Path) {
       sentence.add(coreLabel(line.split(regex), position++))
     }
   }
-
+  result.removeAt(result.size - 1)
   Files.write(Paths.get(path.toAbsolutePath().fileName.toString().substringBeforeLast('.')), result, charset("UTF-8"))
 }
 
