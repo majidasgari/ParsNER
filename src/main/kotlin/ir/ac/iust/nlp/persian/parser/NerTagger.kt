@@ -49,7 +49,7 @@ fun tag(classifier: AbstractSequenceClassifier<CoreLabel>, path: Path) {
   }
 
   result.removeAt(result.size - 1)
-  Files.write(Paths.get(path.toAbsolutePath().fileName.toString().substringBeforeLast('.')), result, charset("UTF-8"))
+  Files.write(Paths.get(path.toAbsolutePath().fileName.toString().substringBefore('.') + ".predict"), result, charset("UTF-8"))
 }
 
 fun coreLabel(splits: List<String>, position: Int): CoreLabel {
