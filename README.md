@@ -16,6 +16,13 @@ ParsNER uses following features:
 ## Precedence feature
 We added a new post-tagging phase to Stanford software which does not exist in any previous NER systems. In many types of texts, especially in news texts, the writer mentions a person as an introduction and mentions to that name many times in continue of the text. For example, a writer named Barack Obama on the first line with its job title, and uses Obama in the rest of the text. For a sequence tagger, detection of a full name like “Barack Obama” as is very easier than a single word mention like “Obama”; Because we have a sequence of first name and surnames in full names. We invented the “precedent” option to handle such cases. To apply this intuition, we added the post-tag phase to the Stanford NER software, in this phase, algorithm stores all words of last N person names in a list (precedent-list) and when it encountered with an O tag in next words, replace O with PERS if the word existed in current precedent-list. 
 
+## Social Data
+In recent years, emojis have become very popular in social media. Also, hashtags and mentions have become standard in many social networks. An option has been added to ParsNER to handle these cases. These options are applied in these conditions:
+
+* If an emoji has been placed in the beginning, ending of the middle of another word, will be replaced to empty characters.
+* hash and at sign characters are removed from all hashtags and mentions.
+* underline character is replaced with a space character in all mentions or hashtags.
+
 # How to Build/RUN
 
 for training in IDE:
