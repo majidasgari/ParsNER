@@ -13,6 +13,9 @@ ParsNER uses following features:
 1. Dependency Parsing: Parsing trees can add useful information to im-150prove the quality of NER. In many types of research, base phrasechunking  has  been  used  as  a  feature  for  NER.  We  have  added  four  fol-lowing  features  to  our  NER  system:   dependency  relation,  head  index,headword, and head POS tag.
 1. Wikipedia Infoboxes: We have used a list of the titles of Wikipedia articles which have infoboxes.
 
+## Precedence feature
+We added a new post-tagging phase to Stanford software which does not exist in any previous NER systems. In many types of texts, especially in news texts, the writer mentions a person as an introduction and mentions to that name many times in continue of the text. For example, a writer named Barack Obama on the first line with its job title, and uses Obama in the rest of the text. For a sequence tagger, detection of a full name like “Barack Obama” as is very easier than a single word mention like “Obama”; Because we have a sequence of first name and surnames in full names. We invented the “precedent” option to handle such cases. To apply this intuition, we added the post-tag phase to the Stanford NER software, in this phase, algorithm stores all words of last N person names in a list (precedent-list) and when it encountered with an O tag in next words, replace O with PERS if the word existed in current precedent-list. 
+
 # How to Build/RUN
 
 for training in IDE:
